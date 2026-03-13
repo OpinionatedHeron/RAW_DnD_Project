@@ -1,4 +1,5 @@
 # Script to convert PDF to Markdown
+# Converted PDF to Markdown, but the formatting is not great. This is a simple extraction of text from the PDF using fitz (PyMuPDF).
 
 import pathlib
 from pathlib import Path

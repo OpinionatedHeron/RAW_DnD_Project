@@ -1,13 +1,16 @@
+# Another script to convert PDF to Markdown, using the pymupdf4llm library which is designed for better formatting and structure in the output Markdown.
+# Doesn't have a GPU requirement, but should give better results than the fitz-based approach, as it is specifically built for converting PDFs to structured Markdown.
+# Source: https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html
+
 import pathlib
 from pathlib import Path
 import pymupdf4llm
 
 pdf_path = "D&D_5e_OGL.pdf"
-md_path = "data/D&D_5e_OGL.md"
+md_path = "data/D&D_5e_OGL_1.md"
 
-doc = fitz.open(pdf_path)
-text = "\n\n".join(page.get_text() for page in doc)
+markdown = pymupdf4llm.to_markdown(pdf_path)
 
 pathlib.Path("data").mkdir(exist_ok=True)
-pathlib.Path(md_path).write_text(text, encoding="utf-8")
-print(f"Extracted {len(doc)} pages from {pdf_path} and saved to {md_path}")
+pathlib.Path(md_path).write_text(markdown, encoding="utf-8")
+print(f"Converted {pdf_path} to Markdown and saved to {md_path}")
