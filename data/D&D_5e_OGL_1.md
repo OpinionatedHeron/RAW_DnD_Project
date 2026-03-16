@@ -1193,107 +1193,115 @@ You start with the following equipment, in addition to the equipment granted by 
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-## **Archery** 
+#### **Archery**
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-## **Defense** 
+#### **Defense**
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
-## **Dueling** 
+#### **Dueling**
 
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
-## **Great Weapon Fighting** 
+#### **Great Weapon Fighting**
 
 When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-­‐‑handed or versatile property for you to gain this benefit.
 
-## **Protection** 
+#### **Protection**
 
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-## **Two-Weapon Fighting** 
+#### **Two-Weapon Fighting**
 
-When you engage in two-­‐‑weapon fighting, you can add your ability modifier to the damage of the second attack.
+When you engage in two-­weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-## **Second Wind** 
+### **Second Wind**
 
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.
 
-## **Action Surge** 
+### **Action Surge**
 
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
-## **Martial Archetype** 
+### **Martial Archetype**
 
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **Extra Attack** 
+### **Extra Attack**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
-## **Indomitable** 
-
-## **Champion** 
-
-The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
-
-## **Improved Critical** 
-
-Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
-
-## **Remarkable Athlete** 
-
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus. In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
-
-## **Additional Fighting Style** 
-
-At 10th level, you can choose a second option from the Fighting Style class feature.
-
-## **Superior Critical** 
-
-Starting at 15th level, your weapon attacks score a critical hit on a roll of 18–20.
-
-## **Survivor** 
-
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
+### **Indomitable**
 
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
-## **Martial Archetypes** 
+## **Martial Archetypes**
 
 Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
 
-## **Monk** 
+## **Champion**
 
-## **Class Features** 
+The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
+
+### **Improved Critical**
+
+Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
+
+### **Remarkable Athlete**
+
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus. In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+
+### **Additional Fighting Style**
+
+At 10th level, you can choose a second option from the Fighting Style class feature.
+
+### **Superior Critical**
+
+Starting at 15th level, your weapon attacks score a critical hit on a roll of 18–20.
+
+### **Survivor**
+
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
+
+## **Monk**
+
+### **Class Features** 
 
 As a monk, you gain the following class features.
 
-## **Hit Points** 
+#### **Hit Points** 
 
-**Hit Dice:** 1d8 per monk level **Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per monk level 
+
+**Hit Points at 1st Level:** 8 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
+
+#### **Proficiencies**
+
+**Armor:** None
 
 **Weapons:** Simple weapons, shortswords
 
 **Tools:** Choose one type of artisan’s tools or one musical instrument
 
-- **Saving Throws:** Strength, Dexterity **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+**Saving Throws:** Strength, Dexterity 
 
-## **Equipment** 
+**Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+
+## **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -1303,23 +1311,38 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - 10 darts
 
-## **Proficiencies** 
+### **The Monk**
 
-**Armor:** None 
+| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features |
+| ----- | :-------: | :------: | :------: | :------: | --------- |
+| 1st | +2 | 1d4 | — | — | Unarmored Defense, Martial Arts |
+| 2nd | +2 | 1d4 | 2 | +10 ft. | Ki, Unarmored Movement |
+| 3rd | +2 | 1d4 | 3 | +10 ft. | Monastic Tradition, Deflect Missiles |
+| 4th | +2 | 1d4 | 4 | +10 ft. | Ability Score Improvement, Slow Fall |
+| 5th | +3 | 1d6 | 5 | +10 ft. | Extra Attack, Stunning Strike |
+| 6th | +3 | 1d6 | 6 | +15 ft. | Ki-Empowered Strikes, Monastic Tradition feature |
+| 7th | +3 | 1d6 | 7 | +15 ft. | Evasion, Stillness of Mind |
+| 8th | +3 | 1d6 | 8 | +15 ft. | Ability Score Improvement |
+| 9th | +4 | 1d6 | 9 | +15 ft. | Unarmored Movement improvement |
+| 10th | +4 | 1d6 | 10 | +20 ft. | Purity of Body |
+| 11th | +4 | 1d8 | 11 | +20 ft. | Monastic Tradition feature |
+| 12th | +4 | 1d8 | 12 | +20 ft. | Ability Score Improvement |
+| 13th | +5 | 1d8 | 13 | +20 ft. | Tongue of the Sun and Moon |
+| 14th | +5 | 1d8 | 14 | +25 ft. | Diamond Soul |
+| 15th | +5 | 1d8 | 15 | +25 ft. | Timeless Body |
+| 16th | +5 | 1d8 | 16 | +25 ft. | Ability Score Improvement |
+| 17th | +6 | 1d10 | 17 | +25 ft. | Monastic Tradition feature |
+| 18th | +6 | 1d10 | 18 | +30 ft. | Empty Body |
+| 19th | +6 | 1d10 | 19 | +30 ft. | Ability Score Improvement |
+| 20th | +6 | 1d10 | 20 | +30 ft. | Perfect Self |
 
-## **The Monk**
-
-|**Level**|**Proficiency    Bonus**|**Martial    Arts**|**Ki    Points**|**Unarmored    Movement**|**Features**| |---|---|---|---|---|---| |1st|+2|1d4|—|—|Unarmored    Defense,    Martial    Arts| |2nd|+2|1d4|2|+10    ft.|Ki,    Unarmored    Movement| |3rd<br>4th|+2<br>+2|1d4<br>1d4|3<br>4|+10    ft.<br>+10    ft.|Monastic    Tradition,    Deflect    Missiles<br>Ability    Score    Improvement,    Slow    Fall| |5th|+3|1d6|5|+10    ft.|Extra    Attack,    Stunning    Strike| |6th|+3|1d6|6|+15    ft.|Ki-Empowered    Strikes,    Monastic    Tradition    feature| |7th|+3|1d6|7|+15    ft.|Evasion,    Stillness    of    Mind| |8th<br>9th|+3<br>+4|1d6<br>1d6|8<br>9|+15    ft.<br>+15    ft.|Ability    Score    Improvement<br>Unarmored    Movement    improvement| |10th|+4|1d6|10|+20    ft.|Purity    of    Body| |11th|+4|1d8|11|+20    ft.|Monastic    Tradition    feature| |12th<br>13th|+4<br>+5|1d8<br>1d8|12<br>13|+20    ft.<br>+20    ft.|Ability    Score    Improvement<br>Tongue    of    the    Sun    and    Moon| |14th|+5|1d8|14|+25    ft.|Diamond    Soul| |15th|+5|1d8|15|+25    ft.|Timeless    Body| |16th|+5|1d8|16|+25    ft.|Ability    Score    Improvement| |17th<br>18th|+6<br>+6|1d10<br>1d10|17<br>18|+25    ft.<br>+30    ft.|Monastic    Tradition    feature<br>Empty    Body| |19th|+6|1d10|19|+30    ft.|Ability    Score    Improvement| |20th|+6|1d10|20|+30    ft.|Perfect    Self|
-
-
-
-## **Unarmored Defense** 
+### **Unarmored Defense**
 
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
 
-## **Martial Arts** 
+### **Martial Arts**
 
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-­‐‑ handed or heavy property.
+At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-­handed or heavy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
 
@@ -1331,7 +1354,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
-## **Ki** 
+### **Ki**
 
 Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.
 
@@ -1343,95 +1366,95 @@ Some of your ki features require your target to make a saving throw to resist th
 
 **Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
-## **Flurry of Blows** 
+#### **Flurry of Blows**
 
 Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 
-## **Patient Defense** 
+#### **Patient Defense**
 
 You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
 
-## **Step of the Wind** 
+#### **Step of the Wind**
 
 You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
-## **Unarmored Movement** 
+### **Unarmored Movement**
 
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table. At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
-## **Monastic Tradition** 
+### **Monastic Tradition**
 
 When you reach 3rd level, you commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
-## **Deflect Missiles** 
+### **Deflect Missiles**
 
 Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **Slow Fall** 
+### **Slow Fall**
 
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
-## **Extra Attack** 
+### **Extra Attack**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## **Stunnin Strike g** 
+### **Stunning Strike**
 
 Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
-## **Ki-Em owered Strikes p** 
+### **Ki-Empowered Strikes**
 
 Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-## **Evasion** 
+### **Evasion**
 
 At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a _fireball_ spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-## **Stillness of Mind** 
+### **Stillness of Mind**
 
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
-## **Purit of Bod y y** 
+### **Purity of Body**
 
 At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
 
-## **Ton ue of the Sun and Moon g** 
+### **Tongue of the Sun and Moon**
 
 Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
 
-## **Diamond Soul** 
+### **Diamond Soul**
 
 Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws. Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
 
-## **Timeless Bod y** 
+### **Timeless Body**
 
 At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
-## **Em t Bod p y y** 
+### **Empty Body**
 
 Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
 
 Additionally, you can spend 8 ki points to cast the _astral projection_ spell, without needing material components. When you do so, you can’t take any other creatures with you.
 
-## **Perfect Self** 
+### **Perfect Self**
 
 At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
 
-## **Monastic Traditions** 
+## **Monastic Traditions**
 
 Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
 
-## **Wa of the O en Hand y p** 
+## **Way of the Open Hand**
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 
-## **Open Hand Technique** 
+### **Open Hand Technique**
 
 Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
 
@@ -1441,45 +1464,51 @@ Starting when you choose this tradition at 3rd level, you can manipulate your en
 
 - It can’t take reactions until the end of your next turn.
 
-## **Wholeness of Body** 
+### **Wholeness of Body**
 
 At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
 
-## **Tranquility** 
+### **Tranquility**
 
 Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a _sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 
-## **Quivering Palm** 
+### **Quivering Palm**
 
 At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
-## **Paladin** 
+## **Paladin**
 
-## **Class Features** 
+### **Class Features**
 
 As a paladin, you gain the following class features.
 
-## **Hit Points** 
+#### **Hit Points**
 
-**Hit Dice:** 1d10 per paladin level **Hit Points at 1st Level:** 10 + your Constitution modifier
+**Hit Dice:** 1d10 per paladin level 
+
+**Hit Points at 1st Level:** 10 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
-## **Proficiencies** 
+#### **Proficiencies**
 
-**Weapons:** Simple weapons, martial weapons **Tools:** None
+**Armor:** All armor, shields
 
-**Saving Throws:** Wisdom, Charisma **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+**Weapons:** Simple weapons, martial weapons
 
-## **Equipment** 
+**Tools:** None
+
+**Saving Throws:** Wisdom, Charisma
+
+**Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+
+#### **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- ( _a_ ) a martial weapon and a shield or ( _b_ ) two
-
-- martial weapons
+- ( _a_ ) a martial weapon and a shield or ( _b_ ) two martial weapons
 
 - ( _a_ ) five javelins or ( _b_ ) any simple melee weapon
 
@@ -1487,23 +1516,38 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - Chain mail and a holy symbol
 
-**Armor:** All armor, shields
+### **The Paladin**
 
-## **The Paladin**
+| Level | Proficiency Bonus | Features | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | :-------: | --------- | :--: | :--: | :--: | :--: | :--: |
+| 1st | +2 | Divine Sense, Lay on Hands | — | — | — | — | — |
+| 2nd | +2 | Fighting Style, Spellcasting, Divine Smite | 2 | — | — | — | — |
+| 3rd | +2 | Divine Health, Sacred Oath | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 3 | — | — | — | — |
+| 5th | +3 | Extra Attack | 4 | 2 | — | — | — |
+| 6th | +3 | Aura of Protection | 4 | 2 | — | — | — |
+| 7th | +3 | Sacred Oath feature | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement | 4 | 3 | — | — | — |
+| 9th | +4 | — | 4 | 3 | 2 | — | — |
+| 10th | +4 | Aura of Courage | 4 | 3 | 2 | — | — |
+| 11th | +4 | Improved Divine Smite | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement | 4 | 3 | 3 | — | — |
+| 13th | +5 | — | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Cleansing Touch | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Sacred Oath feature | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | — | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Aura improvements | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Sacred Oath feature | 4 | 3 | 3 | 3 | 2 |
 
-||**Proficiency**|||̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶| |---|---|---|---|---|---|---|---|---| |**Level**|**Bonus**|**Features**||**1st**|**2nd**|**3rd**|**4th**|**5th**| |1st<br>2nd<br>3rd|+2<br>+2<br>+2|Divine    Sense,    Lay    on    Hands<br>Fighting    Style,    Spellcasting,    Divine    Smite<br>Divine    Health,    Sacred    Oath||̶ <br>2<br>3|̶ <br>̶ <br>̶|̶ <br>̶ <br>̶|̶ <br>̶ <br>̶|̶ <br>̶ <br>̶| |4th|+2|Ability    Score    Improvement||3|̶|̶|̶|̶| |5th<br>6th<br>7th|+3<br>+3<br>+3|Extra    Attack<br>Aura    of    Protection<br>Sacred    Oath    feature||4<br>4<br>4|2<br>2<br>3|̶ <br>̶ <br>̶|̶ <br>̶ <br>̶|̶ <br>̶ <br>̶| |8th|+3|Ability    Score    Improvement||4|3|̶|̶|̶| |9th|+4|̶||4|3|2|̶|̶| |10th<br>11th|+4<br>+4|Aura    of    Courage<br>Improved    Divine    Smite||4<br>4|3<br>3|2<br>3|̶ <br>̶|̶ <br>̶| |12th|+4|Ability    Score    Improvement||4|3|3|̶|̶| |13th|+5|̶||4|3|3|1|̶| |14th<br>15th|+5<br>+5|Cleansing    Touch<br>Sacred    Oath    feature||4<br>4|3<br>3|3<br>3|1<br>2|̶ <br>̶| |16th|+5|Ability    Score    Improvement||4|3|3|2|̶| |17th|+6|̶||4|3|3|3|1| |18th<br>19th|+6<br>+6|Aura    improvements<br>Ability    Score    Improvement||4<br>4|3<br>3|3<br>3|3<br>3|1<br>2| |20th<br>|+6|Sacred    Oath    feature||4|3|3|3|2|
+### **Divine Sense**
 
-
-
-## **Divine Sense** 
-
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire
-
-Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-## **La on Hands y** 
+### **Lay on Hands**
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
 
@@ -1511,33 +1555,41 @@ As an action, you can touch a creature and draw power from the pool to restore a
 
 Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one. This feature has no effect on undead and constructs.
 
-## **Fi htin St le g g y** 
+### **Fighting Style**
 
 At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-## **Preparing and Casting Spells** 
+#### **Defense**
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+#### **Dueling**
+
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+#### **Great Weapon Fighting**
+
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-­handed or versatile property for you to gain this benefit.
+
+#### **Protection**
+
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+### **Spellcasting**
+
+By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
+
+#### **Preparing and Casting Spells**
 
 The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-­‐‑level paladin, you have four 1st-­‐‑level and two 2nd-­‐‑level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-­‐‑level spell _cure wounds,_ you can cast it using a 1st-­‐‑level or a 2nd-­‐‑ level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you are a 5th-­level paladin, you have four 1st-­‐‑level and two 2nd-­level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-­level spell _cure wounds,_ you can cast it using a 1st-­level or a 2nd-­level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-## **Defense** 
-
-While you are wearing armor, you gain a +1 bonus to AC.
-
-## **Dueling** 
-
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-## **Great Weapon Fighting** 
-
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-­‐‑handed or versatile property for you to gain this benefit.
-
-## **Spellcasting Ability** 
+#### **Spellcasting Ability**
 
 Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
 
@@ -1545,107 +1597,105 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 
 = **Spell attack modifier** your proficiency bonus + your Charisma modifier
 
-## **Spellcasting Focus** 
-
-## **Protection** 
-
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-## **S ellcastin p g** 
-
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
+#### **Spellcasting Focus**
 
 You can use a holy symbol as a spellcasting focus for your paladin spells.
 
-## **Divine Smite** 
+### **Divine Smite**
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-­‐‑level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-­level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 
-## **Divine Health** 
+### **Divine Health**
 
 By 3rd level, the divine magic flowing through you makes you immune to disease.
 
-## **Sacred Oath** 
+### **Sacred Oath**
 
 When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.
 
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
-## **Oath Spells** 
+#### **Oath Spells**
 
 Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day.
 
 If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
-## **Channel Divinity** 
+#### **Channel Divinity**
 
 Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **Extra Attack** 
+### **Extra Attack**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## **Aura of Protection** 
+### **Aura of Protection**
 
 Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 
 At 18th level, the range of this aura increases to 30 feet.
 
-## **Aura of Courage** 
+### **Aura of Courage**
 
 Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
-## **Im roved Divine Smite p** 
+### **Improved Divine Smite**
 
 By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your Divine Smite.
 
-## **Cleansin Touch g** 
+### **Cleansing Touch**
 
 Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
-## **Sacred Oaths** 
+## **Sacred Oaths**
 
 Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
 
-## **Oath of Devotion** 
+## **Oath of Devotion**
 
 The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
-## **Tenets of Devotion** 
+### **Tenets of Devotion**
 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
 _**Honesty.**_ Don’t lie or cheat. Let your word be your promise.
 
-_**Courage.**_ Never fear to act, though caution is wise. _**Compassion.**_ Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+_**Courage.**_ Never fear to act, though caution is wise. _
+
+**Compassion.**_ Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
 
 _**Honor.**_ Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 
 _**Duty.**_ Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
-## **Oath Spells** 
+### **Oath Spells** 
 
 You gain oath spells at the paladin levels listed.
 
-## **Oath of Devotion Spells**
+#### **Oath of Devotion Spells**
 
-|**Paladin**<br>**Level**|**Spells**|| |---|---|---| |3rd|_protection    from    evil    and    good,    sanctuary_|| |5th|_lesser    restoration,    zone    of    truth_|| |9th<br>13th|_beacon    of    hope,    dispel    magic_<br>_freedom    of    movement,    guardian    of    faith_|| |17th|_commune,    flame    strike_||
+| Paladin Level | Spells |
+| :---: | -------- |
+| 3rd | _protection from evil and good_, _sanctuary_ |
+| 5th | _lesser restoration_, _zone of truth_ |
+| 9th | _beacon of hope_, _dispel magic_ |
+| 13th | _freedom of movement_, _guardian of faith_ |
+| 17th | _commune_, _flame strike_ |
 
-
-
-## **Channel Divinity** 
+### **Channel Divinity**
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-_**Sacred Weapon.**_ As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-­‐‑foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
+_**Sacred Weapon.**_ As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-­foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
@@ -1653,49 +1703,55 @@ _**Turn the Unholy.**_ As an action, you present your holy symbol and speak a pr
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
-## **Aura of Devotion** 
+### **Aura of Devotion**
 
 Starting at 7th level, you and friendly creatures within 10 feet of you can’t be charmed while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
-## **Purity of Spirit** 
+### **Purity of Spirit**
 
 Beginning at 15th level, you are always under the effects of a _protection from evil and good_ spell.
 
-## **Holy Nimbus** 
+### **Holy Nimbus**
 
-At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-­‐‑foot radius, and dim light shines 30 feet beyond that.
+At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-­foot radius, and dim light shines 30 feet beyond that.
 
 Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage. In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
-## **Breaking Your Oath** 
+#### **Breaking Your Oath**
 
 A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath. A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-­‐ night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-­‐denial. After a rite of confession and forgiveness, the paladin starts fresh. If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
 
-## **Ranger** 
+## **Ranger**
 
-## **Class Features** 
+### **Class Features**
 
 As a ranger, you gain the following class features.
 
-## **Hit Points** 
+#### **Hit Points**
 
-**Hit Dice:** 1d10 per ranger level **Hit Points at 1st Level:** 10 + your Constitution modifier
+**Hit Dice:** 1d10 per ranger level 
+
+**Hit Points at 1st Level:** 10 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
-## **Proficiencies** 
+#### **Proficiencies**
 
-## **Tools:** None 
+**Armor:** Light armor, medium armor, shields
+
+**Weapons:** Simple weapons, martial weapons
+
+**Tools:** None
 
 **Saving Throws:** Strength, Dexterity
 
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-## **Equipment** 
+#### **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -1707,25 +1763,40 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - A longbow and a quiver of 20 arrows
 
-**Armor:** Light armor, medium armor, shields **Weapons:** Simple weapons, martial weapons
+### **The Ranger**
 
-## **The Ranger**
+| Level | Proficiency Bonus | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | :-------: | --------- | :------: | :--: | :--: | :--: | :--: | :--: |
+| 1st | +2 | Favored Enemy, Natural Explorer | — | — | — | — | — | — |
+| 2nd | +2 | Fighting Style, Spellcasting | 2 | 2 | — | — | — | — |
+| 3rd | +2 | Ranger Archetype, Primeval Awareness | 3 | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 3 | 3 | — | — | — | — |
+| 5th | +3 | Extra Attack | 4 | 4 | 2 | — | — | — |
+| 6th | +3 | Favored Enemy and Natural Explorer improvements | 4 | 4 | 2 | — | — | — |
+| 7th | +3 | Ranger Archetype feature | 5 | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement, Land’s Stride | 5 | 4 | 3 | — | — | — |
+| 9th | +4 | — | 6 | 4 | 3 | 2 | — | — |
+| 10th | +4 | Natural Explorer improvement, Hide in Plain Sight | 6 | 4 | 3 | 2 | — | — |
+| 11th | +4 | Ranger Archetype feature | 7 | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | — | — |
+| 13th | +5 | — | 8 | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Favored Enemy improvement, Vanish | 8 | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Ranger Archetype feature | 9 | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Feral Senses | 10 | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
 
-||**Proficiency**||||̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶|̶**Spell    Slots    per    Spell    Level**̶| |---|---|---|---|---|---|---|---|---|---| |**Level**|**Bonus**|**Features**||**Spells    Known**|**1st**|**2nd**|**3rd**|**4th**|**5th**| |1st<br>2nd|+2<br>+2|Favored    Enemy,    Natural    Explorer<br>Fighting    Style,    Spellcasting||̶ <br>2|̶ <br>2|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶| |3rd<br>|+2<br>|Ranger    Archetype,    Primeval    Awareness<br>||3<br>|3<br>|̶|̶|̶|̶| |4th|+2|Ability    Score    Improvement||3|3|̶|̶|̶|̶| |5th<br>6th|+3<br>+3|Extra    Attack<br>Favored    Enemy    and    Natural    Explorer    improvements||4<br>4|4<br>4|2<br>2|̶ <br>̶|̶ <br>̶|̶ <br>̶| |7th<br>|+3<br>|Ranger    Archetype    feature||5<br>|4<br>|3<br>|̶|̶|̶| |8th|+3|Ability    Score    Improvement,    Land’s    Stride||5|4|3|̶|̶|̶| |9th<br>10th|+4<br>+4|̶ <br>Natural    Explorer    improvement,    Hide    in    Plain    Sight||6<br>6|4<br>4|3<br>3|2<br>2|̶ <br>̶|̶ <br>̶| |11th<br>|+4<br>|Ranger    Archetype    feature<br>||7<br>|4<br>|3<br>|3<br>|̶|̶| |12th|+4|Ability    Score    Improvement||7|4|3|3|̶|̶| |13th<br>14th|+5<br>+5|̶ <br>Favored    Enemy    improvement,    Vanish||8<br>8|4<br>4|3<br>3|3<br>3|1<br>1|̶ <br>̶| |15th<br>|+5<br>|Ranger    Archetype    feature<br>||9<br>|4<br>|3<br>|3<br>|2<br>|̶| |16th|+5|Ability    Score    Improvement||9|4|3|3|2|̶| |17th<br>18th|+6<br>+6|̶ <br>Feral    Senses||10<br>10|4<br>4|3<br>3|3<br>3|3<br>3|1<br>1| |19th|+6|Ability    Score    Improvement||11|4|3|3|3|2| |20th|+6|Foe    Slayer||11|4|3|3|3|2|
-
-
-
-## **Favored Enem y** 
+### **Favored Enemy**
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of
-
-humanoid (such as gnolls and orcs) as favored enemies.
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.
 
 You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them. When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all. You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
 
-## **Natural Ex lorer p** 
+### **Natural Explorer**
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in. While traveling for an hour or more in your favored terrain, you gain the following benefits:
 
@@ -1735,57 +1806,53 @@ You are particularly familiar with one type of natural environment and are adept
 
 - Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
 
-- If you are traveling alone, you can move stealthily
+- If you are traveling alone, you can move stealthily at a normal pace.
 
-- at a normal pace.
-
-- When you forage, you find twice as much food as
-
-- you normally would.
+- When you forage, you find twice as much food as you normally would.
 
 - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
 You choose additional favored terrain types at 6th and 10th level.
 
-## **Fi htin St le g g y** 
+### **Fighting Style**
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-## **Archery** 
+#### **Archery**
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-## **Defense** 
+#### **Defense**
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
-## **Dueling** 
+#### **Dueling**
 
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
-## **Two-Weapon Fighting** 
+#### **Two-Weapon Fighting**
 
-When you engage in two-­‐‑weapon fighting, you can add your ability modifier to the damage of the second attack.
+When you engage in two-­weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-## **S ellcastin p g** 
+### **Spellcasting**
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.
 
-## **Spell Slots** 
+#### **Spell Slots**
 
 The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-­‐‑level spell _animal friendship_ and have a 1st-­‐‑level and a 2nd-­‐‑level spell slot available, you can cast _animal friendship_ using either slot.
+For example, if you know the 1st-­level spell _animal friendship_ and have a 1st-­level and a 2nd-­level spell slot available, you can cast _animal friendship_ using either slot.
 
-## **Spells Known of 1st Level and Higher** 
+#### **Spells Known of 1st Level and Higher**
 
-You know two 1st-­‐‑level spells of your choice from the ranger spell list.
+You know two 1st-­level spells of your choice from the ranger spell list.
 
 The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
 
-## **Spellcasting Ability** 
+#### **Spellcasting Ability**
 
 Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
@@ -1793,55 +1860,55 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 
 = **Spell attack modifier** your proficiency bonus + your Wisdom modifier
 
-## **Ranger Archetype** 
+### **Ranger Archetype**
 
 At 3rd level, you choose an archetype that you strive to emulate, such as the Hunter. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
-## **Primeval Awareness** 
+### **Primeval Awareness**
 
 Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **Extra Attack** 
+### **Extra Attack**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## **Land’s Stride** 
+### **Land’s Stride**
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the _entangle_ spell.
 
-## **Hide in Plain Si ht g** 
+### **Hide in Plain Sight**
 
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
 Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
-## **Vanish** 
+### **Vanish**
 
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
 
-## **Feral Senses** 
+### **Feral Senses**
 
 At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn’t hidden from you and you aren’t blinded or deafened.
 
-## **Foe Slayer** 
+### **Foe Slayer**
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-## **Ranger Archetypes** 
+## **Ranger Archetypes**
 
 A classic expression of the ranger ideal is the Hunter.
 
-## **Hunter** 
+## **Hunter**
 
 Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
 
-## **Hunter’s Prey** 
+### **Hunter’s Prey**
 
 At 3rd level, you gain one of the following features of your choice.
 
@@ -1849,13 +1916,9 @@ _**Colossus Slayer.**_ Your tenacity can wear down the most potent foes. When yo
 
 _**Giant Killer.**_ When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
 
-attack against another creature (other than itself) of your choice.
-
-_**Uncanny Dodge.**_ When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
-
 _**Horde Breaker.**_ Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
-## **Defensive Tactics** 
+### **Defensive Tactics**
 
 At 7th level, you gain one of the following features of your choice.
 
@@ -1865,33 +1928,39 @@ _**Multiattack Defense.**_ When a creature hits you with an attack, you gain a +
 
 _**Steel Will.**_ You have advantage on saving throws against being frightened.
 
-## **Multiattack** 
+### **Multiattack**
 
-At 11th level, you gain one of the following features of your choice. _**Volley.**_ You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+At 11th level, you gain one of the following features of your choice. 
+
+_**Volley.**_ You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
 _**Whirlwind Attack.**_ You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
-## **Superior Hunter’s Defense** 
+### **Superior Hunter’s Defense**
 
 At 15th level, you gain one of the following features of your choice.
 
 _**Evasion.**_ When you are subjected to an effect, such as a red dragon’s fiery breath or a _lightning bolt_ spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-_**Stand Against the Tide.**_ When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same
+_**Stand Against the Tide.**_ When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 
-## **Rogue** 
+_**Uncanny Dodge.**_ When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 
-## **Class Features** 
+## **Rogue**
+
+### **Class Features**
 
 As a rogue, you have the following class features.
 
-## **Hit Points** 
+#### **Hit Points**
 
-**Hit Dice:** 1d8 per rogue level **Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per rogue level 
+
+**Hit Points at 1st Level:** 8 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
-## **Proficiencies** 
+#### **Proficiencies**
 
 **Armor:** Light armor
 
@@ -1903,39 +1972,50 @@ As a rogue, you have the following class features.
 
 **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
-## **Equipment** 
+#### **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - ( _a_ ) a rapier or ( _b_ ) a shortsword
 
-- ( _a_ ) a shortbow and quiver of 20 arrows or ( _b_ ) a
+- ( _a_ ) a shortbow and quiver of 20 arrows or ( _b_ ) a shortsword
 
-- shortsword 
-
-- ( _a_ ) a burglar’s pack, ( _b_ ) a dungeoneer’s pack, or
-
-- ( _c_ ) an explorer’s pack
+- ( _a_ ) a burglar’s pack, ( _b_ ) a dungeoneer’s pack, or ( _c_ ) an explorer’s pack
 
 - ( _a_ ) Leather armor, two daggers, and thieves’ tools
 
-## **The Rogue**
+### **The Rogue**
 
-|**Level**|**Proficiency**<br>**Bonus**|**Sneak**<br>**Attack**|**Features**| |---|---|---|---| |1st|+2|1d6|Expertise,    Sneak    Attack,| ||||Thieves’Cant| |2nd|+2|1d6|Cunning    Action| |3rd<br>4th|+2<br>+2|2d6<br>2d6|Roguish    Archetype<br>Ability    Score| ||||Improvement| |5th|+3|3d6|Uncanny    Dodge| |6th<br>7th|+3<br>+3|3d6<br>4d6|Expertise<br>Evasion| |8th|+3|4d6|Ability    Score| ||||Improvement| |9th|+4|5d6|Roguish    Archetype| |10th|+4|5d6|feature<br>Ability    Score|
+| Level | Proficiency Bonus | Sneak Attack | Features |
+| ----- | :-------: | :------: | --------- |
+| 1st | +2 | 1d6 | Expertise, Sneak Attack, Thieves’ Cant |
+| 2nd | +2 | 1d6 | Cunning Action |
+| 3rd | +2 | 2d6 | Roguish Archetype |
+| 4th | +2 | 2d6 | Ability Score Improvement |
+| 5th | +3 | 3d6 | Uncanny Dodge |
+| 6th | +3 | 3d6 | Expertise |
+| 7th | +3 | 4d6 | Evasion |
+| 8th | +3 | 4d6 | Ability Score Improvement |
+| 9th | +4 | 5d6 | Roguish Archetype feature |
+| 10th | +4 | 5d6 | Ability Score Improvement |
+| 11th | +4 | 6d6 | Reliable Talent |
+| 12th | +4 | 6d6 | Ability Score Improvement |
+| 13th | +5 | 7d6 | Roguish Archetype feature |
+| 14th | +5 | 7d6 | Blindsense |
+| 15th | +5 | 8d6 | Slippery Mind |
+| 16th | +5 | 8d6 | Ability Score Improvement |
+| 17th | +6 | 9d6 | Roguish Archetype feature |
+| 18th | +6 | 9d6 | Elusive |
+| 19th | +6 | 10d6 | Ability Score Improvement |
+| 20th | +6 | 10d6 | Stroke of Luck |
 
-
-
-|||||Improvement| |---|---|---|---|---| |11th|+4||6d6|Reliable    Talent| |12th|+4||6d6|Ability    Score<br>Improvement| |13th|+5||7d6|Roguish    Archetype| |||||feature| |14th<br>|+5<br>|<br>|7d6<br>|Blindsense<br>| |15th|+5||8d6|Slippery    Mind| |16th|+5||8d6|Ability    Score| |||||Improvement| |17th|+6||9d6|Roguish    Archetype| |18th|+6||9d6|feature<br>Elusive| |19th|+6||10d6|Ability    Score| |||||Improvement| |20th<br>|+6||10d6|Stroke    of    Luck|
-
-
-
-## **Expertise** 
+### **Expertise**
 
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
 
-## **Sneak Attack** 
+### **Sneak Attack**
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
@@ -1943,105 +2023,109 @@ You don’t need advantage on the attack roll if another enemy of the target is 
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
-## **Thieves’ Cant** 
+### **Thieves’ Cant**
 
 During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
-## **Cunnin Action g** 
+### **Cunning Action**
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
-## **Roguish Archetype** 
+### **Roguish Archetype**
 
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities, such as Thief. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **Uncanny Dodge** 
+### **Uncanny Dodge**
 
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 
-## **Evasion** 
+### **Evasion**
 
 Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an _ice storm_ spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-## **Reliable Talent** 
+### **Reliable Talent**
 
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
-## **Blindsense** 
+### **Blindsense**
 
 Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
-## **Slippery Mind** 
+### **Slippery Mind**
 
 By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
 
-## **Elusive** 
+### **Elusive**
 
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren’t incapacitated.
 
-## **Stroke of Luck** 
+### **Stroke of Luck**
 
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-## **Roguish Archetypes** 
+## **Roguish Archetypes**
 
 Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
 
-## **Thief** 
+## **Thief**
 
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
 
-## **Fast Hands** 
+### **Fast Hands**
 
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
 
-## **Second-Story Work** 
+### **Second-Story Work**
 
 When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
 
-## **Supreme Sneak** 
+### **Supreme Sneak**
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
 
-## **Use Magic Device** 
+### **Use Magic Device**
 
 By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
 
-## **Thief’s Reflexes** 
+### **Thief’s Reflexes**
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
-## **Sorcerer** 
+## **Sorcerer**
 
-## **Class Features** 
+### **Class Features**
 
 As a sorcerer, you gain the following class features.
 
-## **Hit Points** 
+#### **Hit Points**
 
-**Hit Dice:** 1d6 per sorcerer level **Hit Points at 1st Level:** 6 + your Constitution modifier
+**Hit Dice:** 1d6 per sorcerer level 
+
+**Hit Points at 1st Level:** 6 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
-## **Proficiencies** 
+#### **Proficiencies**
 
-**Armor:** None 
+**Armor:** None
 
-- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-- **Tools:** None 
+**Tools:** None
 
-- **Saving Throws:** Constitution, Charisma **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+**Saving Throws:** Constitution, Charisma 
 
-## **Equipment** 
+**Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+
+#### **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -2053,31 +2137,52 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - Two daggers
 
-## **The Sorcerer**
+### **The Sorcerer**
 
-||**Proficiency**|**Sorcery**||**Cantrips**|**Spells**|||**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**||| |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| |**Level**|**Bonus**|**Points**|**Features**|**Known**|**Known**|**1st**|**2nd**|**3rd**|**4th**|**5th**|**6th**|**7th**|**8th**|**9th**| |1st<br>2nd|+2<br>+2|̶ <br>2|Spellcasting,    Sorcerous<br>Origin<br>Font    of    Magic|4<br>4|2<br>3|2<br>3|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶| |3rd|+2|3|Metamagic|4|4|4|2|̶|̶|̶|̶|̶|̶|̶| |4th<br>5th|+2<br>+3|4<br>5|Ability    Score<br>Improvement<br>̶|5<br>5|5<br>6|4<br>4|3<br>3|̶ <br>2|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶| |6th|+3|6|Sorcerous    Origin<br>feature|5|7|4|3|3|̶|̶|̶|̶|̶|̶| |7th|+3|7|̶|5|8|4|3|3|1|̶|̶|̶|̶|̶| |8th|+3|8|Ability    Score<br>Improvement|5|9|4|3|3|2|̶|̶|̶|̶|̶| |9th|+4|9|̶|5|10|4|3|3|3|1|̶|̶|̶|̶| |10th|+4|10|Metamagic|6|11|4|3|3|3|2|̶|̶|̶|̶| |11th<br>12th|+4<br>+4|11<br>12|̶ <br>Ability    Score<br>Improvement|6<br>6|12<br>12|4<br>4|3<br>3|3<br>3|3<br>3|2<br>2|1<br>1|̶ <br>̶|̶ <br>̶|̶ <br>̶| |13th|+5|13|̶|6|13|4|3|3|3|2|1|1|̶|̶| |14th|+5|14|Sorcerous    Origin<br>feature|6|13|4|3|3|3|2|1|1|̶|̶| |15th|+5|15|̶|6|14|4|3|3|3|2|1|1|1|̶| |16th<br>17th|+5<br>+6|16<br>17|Ability    Score<br>Improvement<br>Metamagic|6<br>6|14<br>15|4<br>4|3<br>3|3<br>3|3<br>3|2<br>2|1<br>1|1<br>1|1<br>1|̶ <br>1| |18th|+6|18|Sorcerous    Origin|6|15|4|3|3|3|3|1|1|1|1| ||||feature|||||||||||| |19th|+6|19|Ability    Score|6|15|4|3|3|3|3|2|1|1|1| |20th<br>|+6|20|Improvement<br>Sorcerous    Restoration|6|15|4|3|3|3|3|2|2|1|1|
+| Level | Proficiency Bonus | Sorcery Points | Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | :-------: | :------: | --------- | :------: | :------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1st | +2 | — | Spellcasting, Sorcerous Origin | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | 2 | Font of Magic | 4 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | 3 | Metamagic | 4 | 4 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | 4 | Ability Score Improvement | 5 | 5 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | 5 | — | 5 | 6 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | 6 | Sorcerous Origin feature | 5 | 7 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | 7 | — | 5 | 8 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | 8 | Ability Score Improvement | 5 | 9 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | 9 | — | 5 | 10 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | 10 | Metamagic | 6 | 11 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | 11 | — | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | 12 | Ability Score Improvement | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | 13 | — | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | 14 | Sorcerous Origin feature | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | 15 | — | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | 16 | Ability Score Improvement | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | 17 | Metamagic | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | 18 | Sorcerous Origin feature | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | 19 | Ability Score Improvement | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | 20 | Sorcerous Restoration | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-## **S ellcastin p g**
+### **Spellcasting**
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
 
-## **Cantrips** 
+#### **Cantrips**
 
 At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
 
-## **Spell Slots** 
+#### **Spell Slots**
 
-The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-­‐‑level spell _burning hands_ and have a 1st-­‐‑level and a 2nd-­‐‑level spell slot available, you can cast _burning hands_ using either slot.
+The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-­level spell _burning hands_ and have a 1st-­level and a 2nd-­level spell slot available, you can cast _burning hands_ using either slot.
 
-## **Spells Known of 1st Level and Higher** 
+#### **Spells Known of 1st Level and Higher**
 
-You know two 1st-­‐‑level spells of your choice from the sorcerer spell list.
+You know two 1st-­level spells of your choice from the sorcerer spell list.
 
 The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
 
-## **Spellcasting Ability** 
+#### **Spellcasting Ability**
 
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
@@ -2085,25 +2190,25 @@ Charisma is your spellcasting ability for your sorcerer spells, since the power 
 
 = **Spell attack modifier** your proficiency bonus + your Charisma modifier
 
-## **Spellcasting Focus** 
+#### **Spellcasting Focus**
 
 You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
-## **Sorcerous Ori in g** 
+### **Sorcerous Origin**
 
 Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline.
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-## **Font of Magic** 
+### **Font of Magic**
 
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
-## **Sorcery Points** 
+#### **Sorcery Points**
 
 You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
 
-## **Flexible Casting** 
+#### **Flexible Casting**
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
 
@@ -2111,105 +2216,116 @@ _**Creating Spell Slots.**_ You can transform unexpended sorcery points into one
 
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
-## **Creating Spell Slots**
+#### **Creating Spell Slots**
 
-|**Spell    Slot**|**Sorcery**| |---|---| |**Level**|**Point    Cost**| |1st|2| |2nd<br>3rd|3<br>5| |4th|6| |5th<br>|7|
-
-
+| Spell Slot Level | Sorcery Point Cost |
+| :--------: | :--------: |
+| 1st | 2 |
+| 2nd | 3 |
+| 3rd | 5 |
+| 4th | 6 |
+| 5th | 7 |
 
 _**Converting a Spell Slot to Sorcery Points.**_ As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot’s level.
 
-## **Metamagic** 
+### **Metamagic**
 
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-## **Careful Spell** 
+#### **Careful Spell**
 
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
-## **Distant Spell** 
+#### **Distant Spell**
 
 When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
 
 When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
 
-## **Empowered Spell** 
+#### **Empowered Spell**
 
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
 
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
-## **Extended Spell** 
+#### **Extended Spell**
 
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
 
-## **Heightened Spell** 
+#### **Heightened Spell**
 
 When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
 
-## **Quickened Spell** 
+#### **Quickened Spell**
 
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
-## **Subtle Spell** 
+#### **Subtle Spell**
 
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
-## **Twinned Spell** 
+#### **Twinned Spell**
 
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **Sorcerous Restoration** 
+### **Sorcerous Restoration**
 
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
 
-## **Sorcerous Origins** 
+## **Sorcerous Origins**
 
 Different sorcerers claim different origins for their innate magic, such as a draconic bloodline.
 
-## **Draconic Bloodline** 
+## **Draconic Bloodline**
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
-## **Dragon Ancestor** 
+### **Dragon Ancestor**
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-## **Draconic Ancestry**
+#### **Draconic Ancestry**
 
-**Dragon Damage Type** Black Acid
-
-Blue Lightning Brass Fire Bronze Lightning Copper Acid Gold Fire Green Poison Red Fire Silver Cold White Cold 
-
-its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+| Dragon | Damage Type |
+| ----- | ---------- |
+| Black | Acid |
+| Blue | Lightning |
+| Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
+| Gold | Fire |
+| Green | Poison |
+| Red | Fire |
+| Silver | Cold |
+| White | Cold |
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
-## **Draconic Resilience** 
+### **Draconic Resilience**
 
 As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
-Additionally, parts of your skin are covered by a thin sheen of dragon-­‐‑like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
+Additionally, parts of your skin are covered by a thin sheen of dragon-­like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
 
-## **Elemental Affinity** 
+### **Elemental Affinity**
 
 Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
 
-## **Dragon Wings** 
+### **Dragon Wings**
 
 At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
-## **Draconic Presence** 
+### **Draconic Presence**
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
-## **Warlock** 
+## **Warlock**
 
 ## **Class Features** 
 
