@@ -2327,27 +2327,31 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 
 ## **Warlock**
 
-## **Class Features** 
+### **Class Features**
 
 As a warlock, you gain the following class features.
 
-## **Hit Points** 
+#### **Hit Points**
 
-**Hit Dice:** 1d8 per warlock level **Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per warlock level 
+
+**Hit Points at 1st Level:** 8 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
-## **Proficiencies** 
+#### **Proficiencies**
 
 **Armor:** Light armor
 
 **Weapons:** Simple weapons
 
-**Tools:** None **Saving Throws:** Wisdom, Charisma
+**Tools:** None 
+
+**Saving Throws:** Wisdom, Charisma
 
 **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
-## **Equipment** 
+#### **Equipment** 
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -2359,61 +2363,80 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - Leather armor, any simple weapon, and two daggers
 
-## **The Warlock**
+### **The Warlock**
 
-|**Level**|**Proficiency**<br>**Bonus**|**Features**|**Cantrips**<br>**Known**|**Spells**<br>**Known**|**Spell**<br>**Slots**|**Slot**<br>**Level**|**Invocations**<br>**Known**| |---|---|---|---|---|---|---|---| |1st|+2|Otherworldly    Patron,    Pact<br>Magic|2|2|1|1st|̶| |2nd|+2|Eldritch    Invocations|2|3|2|1st|2| |3rd<br>4th|+2<br>+2|Pact    Boon<br>Ability    Score    Improvement|2<br>3|4<br>5|2<br>2|2nd<br>2nd|2<br>2| |5th|+3|̶|3|6|2|3rd|3| |6th|+3|Otherworldly    Patron    feature|3|7|2|3rd|3| |7th<br>8th|+3<br>+3|̶ <br>Ability    Score    Improvement|3<br>3|8<br>9|2<br>2|4th<br>4th|4<br>4| |9th|+4|̶|3|10|2|5th|5| |10th|+4|Otherworldly    Patron    feature|4|10|2|5th|5| |11th<br>12th|+4<br>+4|Mystic    Arcanum    (6th    level)<br>Ability    Score    Improvement|4<br>4|11<br>11|3<br>3|5th<br>5th|5<br>6| |13th|+5|Mystic    Arcanum    (7th    level)|4|12|3|5th|6| |14th|+5|Otherworldly    Patron    feature|4|12|3|5th|6| |15th|+5|Mystic    Arcanum    (8th    level)|4|13|3|5th|7| |16th<br>17th|+5<br>+6|Ability    Score    Improvement<br>Mystic    Arcanum    (9th    level)|4<br>4|13<br>14|3<br>4|5th<br>5th|7<br>7| |18th|+6|̶|4|14|4|5th|8| |19th|+6|Ability    Score    Improvement|4|15|4|5th|8| |20th<br>|+6|Eldritch    Master|4|15|4|5th|8|
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
+| ----- | :-------: | --------- | :------: | :------: | :--: | :--: | :--: |
+| 1st | +2 | Otherworldly Patron, Pact Magic | 2 | 2 | 1 | 1st | — |
+| 2nd | +2 | Eldritch Invocations | 2 | 3 | 2 | 1st | 2 |
+| 3rd | +2 | Pact Boon | 2 | 4 | 2 | 2nd | 2 |
+| 4th | +2 | Ability Score Improvement | 3 | 5 | 2 | 2nd | 2 |
+| 5th | +3 | — | 3 | 6 | 2 | 3rd | 3 |
+| 6th | +3 | Otherworldly Patron feature | 3 | 7 | 2 | 3rd | 3 |
+| 7th | +3 | — | 3 | 8 | 2 | 4th | 4 |
+| 8th | +3 | Ability Score Improvement | 3 | 9 | 2 | 4th | 4 |
+| 9th | +4 | — | 3 | 10 | 2 | 5th | 5 |
+| 10th | +4 | Otherworldly Patron feature | 4 | 10 | 2 | 5th | 5 |
+| 11th | +4 | Mystic Arcanum (6th level) | 4 | 11 | 3 | 5th | 5 |
+| 12th | +4 | Ability Score Improvement | 4 | 11 | 3 | 5th | 6 |
+| 13th | +5 | Mystic Arcanum (7th level) | 4 | 12 | 3 | 5th | 6 |
+| 14th | +5 | Otherworldly Patron feature | 4 | 12 | 3 | 5th | 6 |
+| 15th | +5 | Mystic Arcanum (8th level) | 4 | 13 | 3 | 5th | 7 |
+| 16th | +5 | Ability Score Improvement | 4 | 13 | 3 | 5th | 7 |
+| 17th | +6 | Mystic Arcanum (9th level) | 4 | 14 | 4 | 5th | 7 |
+| 18th | +6 | — | 4 | 14 | 4 | 5th | 8 |
+| 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 5th | 8 |
+| 20th | +6 | Eldritch Master | 4 | 15 | 4 | 5th | 8 |
 
-
-
-## **Otherworldl Patron y** 
+### **Otherworldly Patron**
 
 At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
 
-## **Pact Magic** 
+### **Pact Magic**
 
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
 
-## **Cantrips** 
+#### **Cantrips**
 
 You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
-## **Spell Slots** 
+#### **Spell Slots**
 
 The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-­‐‑level spell slots. To cast the 1st-­‐‑level spell _thunderwave_ , you must spend one of those slots, and you cast it as a 3rd-­‐‑level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-­level spell _thunderwave_ , you must spend one of those slots, and you cast it as a 3rd-­level spell.
 
-## **Spells Known of 1st Level and Higher** 
+#### **Spells Known of 1st Level and Higher**
 
-At 1st level, you know two 1st-­‐‑level spells of your choice from the warlock spell list.
+At 1st level, you know two 1st-­level spells of your choice from the warlock spell list.
 
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
 
-## **Spellcasting Ability** 
+#### **Spellcasting Ability**
 
 Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-= **Spell save DC** 8 + your proficiency bonus + your Charisma modifier = **Spell attack modifier** your proficiency bonus + your Charisma modifier
+= **Spell save DC** 8 + your proficiency bonus + your Charisma modifier 
 
-## **Spellcasting Focus** 
+= **Spell attack modifier** your proficiency bonus + your Charisma modifier
+
+#### **Spellcasting Focus**
 
 You can use an arcane focus as a spellcasting focus for your warlock spells.
 
-## **Eldritch Invocations** 
+### **Eldritch Invocations**
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden
-
-knowledge that imbue you with an abiding magical ability.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
 At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
-## **Pact Boon** 
+### **Pact Boon**
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
-## **Pact of the Chain** 
+#### **Pact of the Chain**
 
 You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
 
@@ -2421,275 +2444,287 @@ When you cast the spell, you can choose one of the normal forms for your familia
 
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
 
-## **Pact of the Blade** 
+#### **Pact of the Blade**
 
 You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-­‐‑hour ritual on a different weapon, or if you use a 1-­‐‑hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-­hour ritual on a different weapon, or if you use a 1‑hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
-## **Eldritch Invocations** 
-
-If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
-
-## **Pact of the Tome** 
+#### **Pact of the Tome**
 
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nonetheless warlock spells for you.
 
-If you lose your Book of Shadows, you can perform a 1-­‐‑hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+If you lose your Book of Shadows, you can perform a 1-­hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **M stic Arcanum y** 
+### **Mystic Arcanum**
 
-At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-­‐‑ level spell from the warlock spell list as this arcanum. You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
+At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-­level spell from the warlock spell list as this arcanum. You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
 
-At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-­‐‑ level spell at 13th level, one 8th-­‐‑level spell at 15th level, and one 9th-­‐‑level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-­level spell at 13th level, one 8th-­level spell at 15th level, and one 9th-­level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
-## **Eldritch Master** 
+### **Eldritch Master**
 
 At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
 
-## **Agonizing Blast** 
+### **Eldritch Invocations**
+
+If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+
+#### **Agonizing Blast**
 
 _Prerequisite:_ eldritch blast _cantrip_
 
 When you cast _eldritch blast_ , add your Charisma modifier to the damage it deals on a hit.
 
-## **Armor of Shadows** 
+#### **Armor of Shadows**
 
 You can cast _mage armor_ on yourself at will, without expending a spell slot or material components.
 
-## **Ascendant Step** 
+#### **Ascendant Step**
 
 _Prerequisite: 9th level_
 
 You can cast _levitate_ on yourself at will, without expending a spell slot or material components.
 
-## **Beast Speech** 
+#### **Beast Speech**
 
 You can cast _speak with animals_ at will, without expending a spell slot.
 
-## **Beguiling Influence** 
+#### **Beguiling Influence**
 
 You gain proficiency in the Deception and Persuasion skills.
 
-## **Bewitching Whispers** 
+##### **Bewitching Whispers**
 
 _Prerequisite: 7th level_
 
 You can cast _compulsion_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
-## **Book of Ancient Secrets** 
+#### **Book of Ancient Secrets**
 
 _Prerequisite: Pact of the Tome feature_
 
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-­‐‑level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag. On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-­level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag. On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
-## **Chains of Carceri** 
+#### **Chains of Carceri**
 
 _Prerequisite: 15th level, Pact of the Chain feature_
 
 You can cast _hold monster_ at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
-## **Devil’s Sight** 
+#### **Devil’s Sight**
 
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
-## **Dreadful Word** 
+#### **Dreadful Word**
 
 _Prerequisite: 7th level_
 
 You can cast _confusion_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
-## **Eldritch Sight** 
+#### **Eldritch Sight**
 
 You can cast _detect magic_ at will, without expending a spell slot.
 
-## **Eldritch Spear** 
+#### **Eldritch Spear**
 
 _Prerequisite:_ eldritch blast _cantrip_
 
 When you cast _eldritch blast_ , its range is 300 feet.
 
-## **Eyes of the Rune Keeper** 
+#### **Eyes of the Rune Keeper**
 
 You can read all writing.
 
-## **Fiendish Vigor** 
+#### **Fiendish Vigor**
 
-You can cast _false life_ on yourself at will as a 1st-­‐‑level spell, without expending a spell slot or material components.
+You can cast _false life_ on yourself at will as a 1st-­‐level spell, without expending a spell slot or material components.
 
-## **Gaze of Two Minds** 
+#### **Gaze of Two Minds**
 
 You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
-## **Lifedrinker** 
+#### **Lifedrinker**
 
 _Prerequisite: 12th level, Pact of the Blade feature_
 
 When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
 
-## **Mask of Many Faces** 
+#### **Mask of Many Faces**
 
 You can cast _disguise self_ at will, without expending a spell slot.
 
-## **Master of Myriad Forms** 
+#### **Master of Myriad Forms**
 
 _Prerequisite: 15th level_
 
 You can cast _alter self_ at will, without expending a spell slot.
 
-## **Minions of Chaos** 
+#### **Minions of Chaos**
 
 _Prerequisite: 9th level_
 
 You can cast _conjure elemental_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
-## **Mire the Mind** 
+#### **Mire the Mind**
 
 _Prerequisite: 5th level_
 
 You can cast _slow_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
-## **Misty Visions** 
+#### **Misty Visions**
 
 You can cast _silent image_ at will, without expending a spell slot or material components.
 
-## **One with Shadows** 
+#### **One with Shadows**
 
 _Prerequisite: 5th level_
 
 When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
 
-## **Otherworldly Leap** 
+#### **Otherworldly Leap**
 
 _Prerequisite: 9th level_
 
 You can cast _jump_ on yourself at will, without expending a spell slot or material components.
 
-## **Repelling Blast** 
+#### **Repelling Blast**
 
-_Prerequisite:_ eldritch blas _t cantrip_
+_Prerequisite:_ eldritch blast _cantrip_
 
 When you hit a creature with _eldritch blast_ , you can push the creature up to 10 feet away from you in a straight line.
 
-## **Sculptor of Flesh** 
+#### **Sculptor of Flesh**
 
 _Prerequisite: 7th level_
 
 You can cast _polymorph_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
-## **Sign of Ill Omen** 
+#### **Sign of Ill Omen**
 
 _Prerequisite: 5th level_
 
 You can cast _bestow curse_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
-## **Thief of Five Fates** 
+#### **Thief of Five Fates**
 
 You can cast _bane_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
-## **Thirsting Blade** 
+#### **Thirsting Blade**
 
 _Prerequisite: 5th level, Pact of the Blade feature_
 
 You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 
-## **Visions of Distant Realms** 
+#### **Visions of Distant Realms**
 
 _Prerequisite: 15th level_
 
 You can cast _arcane eye_ at will, without expending a spell slot.
 
-## **Voice of the Chain Master** 
+#### **Voice of the Chain Master**
 
 _Prerequisite: Pact of the Chain feature_
 
 You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
-## **Whispers of the Grave** 
+#### **Whispers of the Grave**
 
 _Prerequisite: 9th level_
 
 You can cast _speak with dead_ at will, without expending a spell slot.
 
-## **Witch Sight** 
+#### **Witch Sight**
 
 _Prerequisite: 15th level_
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
 
-## **Otherworldly Patrons** 
+## **Otherworldly Patrons**
 
 The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.
 
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
-## **The Fiend** 
+## **The Fiend**
 
-You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-­‐‑luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-­luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
 
-## **Expanded Spell List** 
+### **Expanded Spell List**
 
 The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-## **Fiend Expanded Spells**
+#### **Fiend Expanded Spells**
 
-|**Spell    Level**<br>1st|**Spells**<br>_burning    hands,    command_| |---|---| |2nd|_blindness/deafness,    scorching    ray_| |3rd|_fireball,    stinking    cloud_| |4th<br>5th|_fire    shield,    wall    of    fire_<br>_flame    strike,    hallow_|
+| Spell Level | Spells |
+| :-----: | ---------- |
+| 1st | _burning hands, command_ |
+| 2nd | _blindness/deafness, scorching ray_ |
+| 3rd | _fireball, stinking cloud_ |
+| 4th | _fire shield, wall of fire_ |
+| 5th | _flame strike, hallow_ |
 
-
-
-## **Dark One’s Blessing** 
+### **Dark One’s Blessing**
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
 
-## **Dark One’s Own Luck** 
+### **Dark One’s Own Luck**
 
 Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll’s effects occur. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-## **Fiendish Resilience** 
+### **Fiendish Resilience**
 
 Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
 
-## **Hurl Through Hell** 
+### **Hurl Through Hell**
 
 Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
 
 At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience. Once you use this feature, you can’t use it again until you finish a long rest.
 
-## **Your Pact Boon** 
+#### **Your Pact Boon**
 
-Each Pact Boon option produces a special creature or an object that reflects your patron’s nature. _**Pact of the Chain.**_ Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with imps and quasits tied to the Fiend.
+Each Pact Boon option produces a special creature or an object that reflects your patron’s nature. 
+
+_**Pact of the Chain.**_ Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with imps and quasits tied to the Fiend.
 
 _**Pact of the Blade.**_ If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames.
 
 _**Pact of the Tome.**_ Your Book of Shadows could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend.
 
-## **Wizard** 
+## **Wizard**
 
-## **Class Features** 
+### **Class Features**
 
 As a wizard, you gain the following class features.
 
-## **Hit Points** 
+#### **Hit Points**
 
-**Hit Dice:** 1d6 per wizard level **Hit Points at 1st Level:** 6 + your Constitution modifier
+**Hit Dice:** 1d6 per wizard level 
+
+**Hit Points at 1st Level:** 6 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 
-## **Proficiencies** 
+#### **Proficiencies**
 
-- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+**Armor:** None
 
-**Tools:** None 
+**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-- **Saving Throws:** Intelligence, Wisdom **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+**Tools:** None
 
-## **Equipment** 
+**Saving Throws:** Intelligence, Wisdom 
+
+**Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+
+#### **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -2701,39 +2736,56 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - A spellbook
 
-**Armor:** None 
-
 ## **The Wizard**
 
-||**Proficiency**||**Cantrips**|||**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**|**—Spell    Slots    per    Spell    Level—**||| |---|---|---|---|---|---|---|---|---|---|---|---|---| |**Level**|**Bonus**|**Features**|**Known**|**1st**|**2nd**|**3rd**|**4th**|**5th**|**6th**|**7th**|**8th**|**9th**| |1st|+2|Spellcasting,    Arcane    Recovery|3|2|̶|̶|̶|̶|̶|̶|̶|̶| |2nd<br>3rd|+2<br>+2|Arcane    Tradition<br>̶|3<br>3|3<br>4|̶ <br>2|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶| |4th|+2|Ability    Score    Improvement|4|4|3|̶|̶|̶|̶|̶|̶|̶| |5th|+3|̶|4|4|3|2|̶|̶|̶|̶|̶|̶| |6th<br>7th|+3<br>+3|Arcane    Tradition    feature<br>̶|4<br>4|4<br>4|3<br>3|3<br>3|̶ <br>1|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶|̶ <br>̶| |8th|+3|Ability    Score    Improvement|4|4|3|3|2|̶|̶|̶|̶|̶| |9th|+4|̶|4|4|3|3|3|1|̶|̶|̶|̶| |10th<br>11th|+4<br>+4|Arcane    Tradition    feature<br>̶|5<br>5|4<br>4|3<br>3|3<br>3|3<br>3|2<br>2|̶ <br>1|̶ <br>̶|̶ <br>̶|̶ <br>̶| |12th|+4|Ability    Score    Improvement|5|4|3|3|3|2|1|̶|̶|̶| |13th|+5|̶|5|4|3|3|3|2|1|1|̶|̶| |14th<br>15th|+5<br>+5|Arcane    Tradition    feature<br>̶|5<br>5|4<br>4|3<br>3|3<br>3|3<br>3|2<br>2|1<br>1|1<br>1|̶ <br>1|̶ <br>̶| |16th|+5|Ability    Score    Improvement|5|4|3|3|3|2|1|1|1|̶| |17th|+6|̶|5|4|3|3|3|2|1|1|1|1| |18th<br>19th|+6<br>+6|Spell    Mastery<br>Ability    Score    Improvement|5<br>5|4<br>4|3<br>3|3<br>3|3<br>3|3<br>3|1<br>2|1<br>1|1<br>1|1<br>1| |20th<br>|+6|Signature    Spell|5|4|3|3|3|3|2|2|1|1|
+| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | :-------: | --------- | :------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1st | +2 | Spellcasting, Arcane Recovery | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Arcane Tradition | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | — | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | — | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Arcane Tradition feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Spell Mastery | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Signature Spell | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-
-
-## **S ellcastin p g** 
+### **Spellcasting**
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
-## **Cantrips** 
+#### **Cantrips**
 
 At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as
 
 shown in the Cantrips Known column of the Wizard table.
 
-## **Spellbook** 
+#### **Spellbook**
 
-At 1st level, you have a spellbook containing six 1st-­‐‑ level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+At 1st level, you have a spellbook containing six 1st-­level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
-## **Preparing and Casting Spells** 
+#### **Preparing and Casting Spells**
 
 The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you’re a 3rd-­‐‑level wizard, you have four 1st-­‐‑level and two 2nd-­‐‑level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-­‐‑level spell _magic missile,_ you can cast it using a 1st-­‐‑level or a 2nd-­‐‑level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you’re a 3rd-­‐‑level wizard, you have four 1st-­level and two 2nd-­level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-­level spell _magic missile,_ you can cast it using a 1st-­level or a 2nd-­level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
-## **Spellcasting Ability** 
+#### **Spellcasting Ability**
 
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
@@ -2741,77 +2793,75 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 = **Spell attack modifier** your proficiency bonus + your Intelligence modifier
 
-## **Ritual Casting** 
+#### **Ritual Casting**
 
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don’t need to have the spell prepared.
 
-## **Spellcasting Focus** 
+#### **Spellcasting Focus**
 
 You can use an arcane focus as a spellcasting focus for your wizard spells.
 
-## **Learning Spells of 1st Level and Higher** 
+#### **Learning Spells of 1st Level and Higher**
 
 Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
-## **Arcane Recover y** 
+### **Arcane Recovery**
 
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
-For example, if you’re a 4th-­‐‑level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­‐‑level spell slot or two 1st-­‐‑level spell slots.
+For example, if you’re a 4th-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-­level spell slots.
 
-## **Arcane Tradition** 
+### **Arcane Tradition**
 
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-## **Ability Score Improvement** 
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## **S ell Master p y** 
+### **Spell Mastery**
 
-At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-­‐‑level wizard spell and a 2nd-­‐‑level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-­level wizard spell and a 2nd-­level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
-## **Si nature S ells g p** 
+### **Signature Spells**
 
-When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-­‐‑level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-­level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-## **Arcane Traditions** 
+## **Arcane Traditions**
 
 The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
 
 The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
 
-number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+## **School of Evocation**
 
-## **Potent Cantrip** 
+You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+
+### **Evocation Savant**
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.
+
+### **Sculpt Spells**
+
+Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+
+### **Potent Cantrip**
 
 Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip’s damage (if any) but suffers no additional effect from the cantrip.
 
-## **Empowered Evocation** 
+### **Empowered Evocation**
 
 Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.
 
-## **Overchannel** 
+### **Overchannel**
 
 Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.
 
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
 
-## **School of Evocation** 
-
-You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
-
-## **Evocation Savant** 
-
-Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.
-
-## **Sculpt Spells** 
-
-Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a
-
-## **Your Spellbook** 
+#### **Your Spellbook**
 
 The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
 
@@ -2827,7 +2877,7 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 
 _**The Book’s Appearance.**_ Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-­‐edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
-## **Beyond 1st Level** 
+## **Beyond 1st Level**
 
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level** .
 
@@ -2839,37 +2889,65 @@ When your Constitution modifier increases by 1, your hit point maximum increases
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character’s class description to see what other improvements you gain at each level.
 
-## **Character Advancement**
+#### **Character Advancement**
 
-|**Experience    Points**<br>0|**Level**<br>1|**Proficiency    Bonus**<br>+2| |---|---|---| |300|2|+2| |900|3|+2| |2,700<br>6,500|4<br>5|+2<br>+3| |14,000|6|+3| |23,000|7|+3| |34,000|8|+3| |48,000<br>64,000|9<br>10|+4<br>+4| |85,000|11|+4| |100,000|12|+4| |120,000<br>140,000|13<br>14|+5<br>+5| |165,000|15|+5|
+| Experience Points | Level | Proficiency Bonus |
+| :-------: | :--: | :-------: |
+| 0 | 1 | +2 |
+| 300 | 2 | +2 |
+| 900 | 3 | +2 |
+| 2,700 | 4 | +2 |
+| 6,500 | 5 | +3 |
+| 14,000 | 6 | +3 |
+| 23,000 | 7 | +3 |
+| 34,000 | 8 | +3 |
+| 48,000 | 9 | +4 |
+| 64,000 | 10 | +4 |
+| 85,000 | 11 | +4 |
+| 100,000 | 12 | +4 |
+| 120,000 | 13 | +5 |
+| 140,000 | 14 | +5 |
+| 165,000 | 15 | +5 |
+| 195,000 | 16 | +5 |
+| 225,000 | 17 | +6 |
+| 265,000 | 18 | +6 |
+| 305,000 | 19 | +6 |
+| 355,000 | 20 | +6 |
 
+## **Multiclassing**
 
+Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options. With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you’re a 5th-­level character.
 
-|195,000||16||+5|| |---|---|---|---|---|---| |225,000||17||+6|| |265,000<br>305,000|<br>|18<br>19|<br>|+6<br>+6|<br>| |355,000||20||+6||
+As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-­class character of the same level, you’ll sacrifice some focus in exchange for versatility.
 
+### **Prerequisites**
 
+To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-­than-­average ability scores.
 
-## **Multiclassing** 
+#### **Multiclassing Prerequisites**
 
-Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options. With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you’re a 5th-­‐‑level character.
+| Class | Ability Score Minimum |
+| ----- | --------------------- |
+| Barbarian | Strength 13 |
+| Bard | Charisma 13 |
+| Cleric | Wisdom 13 |
+| Druid | Wisdom 13 |
+| Fighter | Strength 13 or Dexterity 13 |
+| Monk | Dexterity 13 and Wisdom 13 |
+| Paladin | Strength 13 and Charisma 13 |
+| Ranger | Dexterity 13 and Wisdom 13 |
+| Rogue | Dexterity 13 |
+| Sorcerer | Charisma 13 |
+| Warlock | Charisma 13 |
+| Wizard | Intelligence 13 |
 
-As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-­‐‑class character of the same level, you’ll sacrifice some focus in exchange for versatility.
-
-## **Prerequisites** 
-
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-­‐‑ than-­‐‑average ability scores.
-
-## **Multiclassing Prerequisites**
-
-|**Class**|**Ability    Score    Minimum**| |---|---| |Barbarian|Strength    13| |Bard<br>Cleric|Charisma    13<br>Wisdom    13| |Druid|Wisdom    13| |Fighter|Strength    13    or    Dexterity    13| |Monk<br>Paladin|Dexterity    13    and    Wisdom    13<br>Strength    13    and    Charisma    13| |Ranger|Dexterity    13    and    Wisdom    13| |Rogue|Dexterity    13| |Sorcerer|Charisma    13| |Warlock<br>Wizard|Charisma    13<br>Intelligence    13|
-
-## **Ex erience Points p**
+### **Experience Points**
 
 The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.
 
-## **Hit Points and Hit Dice** 
+### **Hit Points and Hit Dice**
 
-You gain the hit points from your new class as described for levels after 1st. You gain the 1st-­‐‑level hit points for a class only when you are a 1st-­‐‑level character.
+You gain the hit points from your new class as described for levels after 1st. You gain the 1st-­level hit points for a class only when you are a 1st-­level character.
 
 You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
