@@ -15926,43 +15926,49 @@ _Wondrous item, very rare_
 
 This book contains guidelines for influencing and charming others, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book’s contents and practicing its guidelines, your Charisma score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-## **Tome of Understanding** 
+#### **Tome of Understanding** 
 
 _Wondrous item, very rare_
 
 This book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book’s contents and practicing its guidelines, your Wisdom score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-## **Trident of Fish Command** 
+#### **Trident of Fish Command** 
 
-## _Weapon (trident), uncommon (requires attunement)_
+_Weapon (trident), uncommon (requires attunement)_
 
 This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast _dominate beast_ (save DC 15) from it on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.
 
-## **Universal Solvent** 
+#### **Universal Solvent** 
 
 _Wondrous item, legendary_
 
 This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including _sovereign glue._
 
-## **Vicious Weapon** 
+#### **Vicious Weapon** 
 
 _Weapon (any), rare_
 
 When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon’s type.
 
-## **Vorpal Sword** 
+#### **Vorpal Sword** 
 
 _Weapon (any sword that deals slashing damage), legendary (requires attunement)_
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage. When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn’t have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
 
-## **Wand of Binding** 
+When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn’t have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.
+
+#### **Wand of Binding** 
 
 _Wand, rare (requires attunement by a spellcaster)_
 
-This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed. _**Spells.**_ While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): _hold monster_ (5 charges) or _hold person_ (2 charges). _**Assisted Escape.**_ While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being paralyzed or restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
+This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-## **Wand of Enemy Detection** 
+_**Spells.**_ While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): _hold monster_ (5 charges) or _hold person_ (2 charges).
+
+_**Assisted Escape.**_ While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being paralyzed or restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
+
+#### **Wand of Enemy Detection** 
 
 _Wand, rare (requires attunement)_
 
@@ -15970,7 +15976,7 @@ This wand has 7 charges. While holding it, you can use an action and expend 1 ch
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-## **Wand of Fear** 
+#### **Wand of Fear**
 
 _Wand, rare (requires attunement)_
 
@@ -15978,39 +15984,39 @@ This wand has 7 charges for the following properties. It regains 1d6 + 1 expende
 
 _**Command.**_ While holding the wand, you can use an action to expend 1 charge and command another creature to flee or grovel, as with the _command_ spell (save DC 15).
 
-_**Cone of Fear.**_ While holding the wand, you can use an action to expend 2 charges, causing the wand’s tip to emit a 60-­‐‑foot cone of amber light. Each creature in the cone must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
+_**Cone of Fear.**_ While holding the wand, you can use an action to expend 2 charges, causing the wand’s tip to emit a 60-­foot cone of amber light. Each creature in the cone must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
 
-## **Wand of Fireballs** 
-
-_Wand, rare (requires attunement by a spellcaster)_
-
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _fireball_ spell (save DC 15) from it. For 1 charge, you cast the 3rd-­‐‑level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
-
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
-
-## **Wand of Lightning Bolts** 
+#### **Wand of Fireballs** 
 
 _Wand, rare (requires attunement by a spellcaster)_
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _lightning bolt_ spell (save DC 15) from it. For 1 charge, you cast the 3rd-­‐‑level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _fireball_ spell (save DC 15) from it. For 1 charge, you cast the 3rd-­level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-## **Wand of Magic Detection** 
+#### **Wand of Lightning Bolts** 
+
+_Wand, rare (requires attunement by a spellcaster)_
+
+This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _lightning bolt_ spell (save DC 15) from it. For 1 charge, you cast the 3rd-­level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+
+#### **Wand of Magic Detection** 
 
 _Wand, uncommon_
 
 This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the _detect magic_ spell from it. The wand regains 1d3 expended charges daily at dawn.
 
-## **Wand of Magic Missiles** 
+#### **Wand of Magic Missiles** 
 
 _Wand, uncommon_
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _magic missile_ spell from it. For 1 charge, you cast the 1st-­‐‑level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _magic missile_ spell from it. For 1 charge, you cast the 1st-­level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-## **Wand of Paralysis** 
+#### **Wand of Paralysis** 
 
 _Wand, rare (requires attunement by a spellcaster)_
 
@@ -16018,25 +16024,27 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-## **Wand of Polymorph** 
+#### **Wand of Polymorph** 
 
 _Wand, very rare (requires attunement by a spellcaster)_
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the _polymorph_ spell (save DC 15) from it. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the _polymorph_ spell (save DC 15) from it.
 
-## **Wand of Secrets** 
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+
+#### **Wand of Secrets** 
 
 _Wand, uncommon_
 
 The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains 1d3 expended charges daily at dawn.
 
-## **Wand of the War Mage, +1, +2, or +3** 
+#### **Wand of the War Mage, +1, +2, or +3** 
 
 _Wand, uncommon (+1), rare (+2), or very rare (+3) (requires attunement by a spellcaster)_
 
 While holding this wand, you gain a bonus to spell attack rolls determined by the wand’s rarity. In addition, you ignore half cover when making a spell attack.
 
-## **Wand of Web** 
+#### **Wand of Web** 
 
 _Wand, uncommon (requires attunement by a spellcaster)_
 
@@ -16044,35 +16052,50 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-## **Wand of Wonder** 
+#### **Wand of Wonder** 
 
 _Wand, rare (requires attunement by a spellcaster)_
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll d100 and consult the following table to discover what happens. If the effect causes you to cast a spell from the wand, the spell’s save DC is 15. If the spell normally has a range expressed in feet, its range becomes 120 feet if it isn’t already.
+This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll d100 and consult the following table to discover what happens.
+
+If the effect causes you to cast a spell from the wand, the spell’s save DC is 15. If the spell normally has a range expressed in feet, its range becomes 120 feet if it isn’t already.
 
 If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
-|**d100**|**Effect**|| |---|---|---| |01–05|You    cast    slow.|| |06–10<br>11–15|You    cast    faerie    fire.<br>You    are    stunned    until    the    start    of    your    next    turn,<br>|| ||believing    something    awesome    just    happened.|| |16–20|You    cast    gust    of    wind.|| |21–25|You    cast    detect    thoughts    on    the    target    you<br>|| ||chose.    If    you    didn’t    target    a    creature,    you<br>|| ||instead    take    1d6    psychic    damage.|| |26–30|You    cast    stinking    cloud.|| |31–33|Heavy    rain    falls    in    a    60-foot    radius    centered    on<br>|| ||the    target.    The    area    becomes    lightly    obscured.<br>|| ||The    rain    falls    until    the    start    of    your    next    turn.|| |34–36|An    animal    appears    in    the    unoccupied    space|| ||nearest    the    target.    The    animal    isn’t    under    your|| ||control    and    acts    as    it    normally    would.    Roll    a    d100|| ||to    determine    which    animal    appears.    On    a    01–25,<br>a    rhinoceros    appears;    on    a    26–50,    an    elephant|| ||appears;    and    on    a    51–100,    a    rat    appears.|| |37–46|You    cast    lightning    bolt.|| |47–49|A    cloud    of    600    oversized    butterflies    fills    a    30-foot<br>radius    centered    on    the    target.    The    area    becomes|| ||heavily    obscured.    The|butterflies    remain    for    10| ||minutes.|| |50–53|You    enlarge    the    target    as    if    you    had    cast<br>|| ||enlarge/reduce.    If    the<br>|target    can’t    be    affected    by<br>| ||that    spell,    or    if    you    didn’t    target    a    creature,    you<br>|| ||become    the    target.|| |54–58|You    cast    darkness.|| |59–62|Grass    grows    on    the    ground    in    a    60-foot    radius<br>|| ||centered    on    the    target.    If    grass    is    already    there,<br>|| ||it    grows    to    ten    times    its    normal    size    and    remains|| ||overgrown    for    1    minute.|| |63–65|An    object    of    the    GM’s    choice    disappears    into    the<br>Ethereal    Plane.    The    object    must    be    neither    worn|| ||nor    carried,    within    120    feet    of    the    target,    and    no|| ||larger    than    10    feet    in    any    dimension.|| |66–69|You    shrink    yourself    as    if    you    had    cast<br>|| |70–79|enlarge/reduce    on    yourself.<br>You    cast    fireball.|| |80–84|You    cast    invisibility    on|yourself.| |85–87|Leaves    grow    from    the    target.    If    you    chose    a    point|| ||in    space    as    the    target,    leaves    sprout    from    the<br>creature    nearest    to    that    point.    Unless    they    are|| ||picked    off,    the    leaves    turn    brown    and    fall    off|| ||after    24    hours.|| |88–90|A    stream    of    1d4    ×    10    gems,    each    worth    1    gp,<br>|| ||shoots    from    the    wand’s    tip    in    a    line    30    feet    long<br>|| ||and    5    feet    wide.    Each    gem    deals    1    bludgeoning<br>|| ||damage,    and    the    total|damage    of    the    gems    is|
+| d100 | Effect |
+|---|---|
+| 01-05 | You cast _slow_. |
+| 06-10 | You cast _faerie fire_. |
+| 11-15 | You are stunned until the start of your next turn, believing something awesome just happened. |
+| 16-20 | You cast _gust of wind_. |
+| 21-25 | You cast _detect thoughts_ on the target you chose. If you didn’t target a creature, you instead take 1d6 psychic damage. |
+| 26-30 | You cast _stinking cloud_. |
+| 31-33 | Heavy rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn. |
+| 34-36 | An animal appears in the unoccupied space nearest the target. The animal isn’t under your control and acts as it normally would. Roll a d100 to determine which animal appears: on a 01-25, a rhinoceros appears; on a 26-50, an elephant appears; and on a 51-100, a rat appears. |
+| 37-46 | You cast _lightning bolt_. |
+| 47-49 | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes. |
+| 50-53 | You enlarge the target as if you had cast _enlarge/reduce_. If the target can’t be affected by that spell, or if you didn’t target a creature, you become the target. |
+| 54-58 | You cast _darkness_. |
+| 59-62 | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute. |
+| 63-65 | An object of the GM’s choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension. |
+| 66-69 | You shrink yourself as if you had cast _enlarge/reduce_ on yourself. |
+| 70-79 | You cast _fireball_. |
+| 80-84 | You cast _invisibility_ on yourself. |
+| 85-87 | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours. |
+| 88-90 | A stream of 1d4 x 10 gems, each worth 1 gp, shoots from the wand’s tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the line. |
+| 91-95 | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
+| 96-97 | The target’s skin turns bright blue for 1d10 days. If you chose a point in space, the creature nearest to that point is affected. |
+| 98-00 | If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn’t target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic. |
 
-
-
-- divided equally among all creatures in the line.
-
-- 91–95 A burst of colorful shimmering light extends from you in a 30-­‐foot radius. You and each creature in the area that can see must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-- 96–97 The target’s skin turns bright blue for 1d10 days. If you chose a point in space, the creature nearest to that point is affected.
-
-- 98–00 If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn’t target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic.
-
-## **Weapon, +1, +2, or +3** 
+#### **Weapon, +1, +2, or +3** 
 
 _Weapon (any), uncommon (+1), rare (+2), or very rare (+3)_
 
 You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon’s rarity.
 
-## **Well of Many Worlds** 
+#### **Well of Many Worlds** 
 
 _Wondrous item, legendary_
 
@@ -16080,13 +16103,13 @@ This fine black cloth, soft as silk, is folded up to the dimensions of a handker
 
 You can use an action to unfold and place the _well of many worlds_ on a solid surface, whereupon it creates a two-­‐‑way portal to another world or plane of existence. Each time the item opens a portal, the GM decides where it leads. You can use an action to close an open portal by taking hold of the edges of the cloth and folding it up. Once _well of many worlds_ has opened a portal, it can’t do so again for 1d8 hours.
 
-## **Wind Fan** 
+#### **Wind Fan** 
 
 _Wondrous item, uncommon_
 
 While holding this fan, you can use an action to cast the _gust of wind_ spell (save DC 13) from it. Once used, the fan shouldn’t be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
 
-## **Winged Boots** 
+#### **Winged Boots** 
 
 _Wondrous item, uncommon (requires attunement)_
 
@@ -16094,7 +16117,7 @@ While you wear these boots, you have a flying speed equal to your walking speed.
 
 The boots regain 2 hours of flying capability for every 12 hours they aren’t in use.
 
-## **Wings of Flying** 
+#### **Wings of Flying** 
 
 _Wondrous item, rare (requires attunement)_
 
@@ -16102,53 +16125,75 @@ While wearing this cloak, you can use an action to speak its command word. This 
 
 ## **Sentient Magic Items** 
 
-Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-­‐‑aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
+Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-­aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
 
-Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and scrolls are never sentient. Sentient magic items function as NPCs under the GM’s control. Any activated property of the item is under the item’s control, not its wielder’s. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
+Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and scrolls are never sentient.
 
-## **Creatin Sentient Ma ic Items g g** 
+Sentient magic items function as NPCs under the GM’s control. Any activated property of the item is under the item’s control, not its wielder’s. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
+
+### **Creating Sentient Magic Items** 
 
 When you decide to make a magic item sentient, you create the item’s persona in the same way you would create an NPC, with a few exceptions described here.
 
-## **Abilities** 
+#### **Abilities** 
 
 A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item’s abilities or determine them randomly. To determine them randomly, roll 4d6 for each one, dropping the lowest roll and totaling the rest.
 
-## **Communication** 
+#### **Communication** 
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
-- **d100 Communication** 
+| d100 | Communication |
+|---|---|
+| 01-60 | The item communicates by transmitting emotion to the creature carrying or wielding it. |
+| 61-90 | The item can speak, read, and understand one or more languages. |
+| 91-00 | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
 
-- 01–60 The item communicates by transmitting emotion to the creature carrying or wielding it.
-
-- 61–90 The item can speak, read, and understand one or more languages.
-
-- 91–00 The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it.
-
-## **Senses** 
+#### **Senses** 
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
-- **d4 Senses** 1 Hearing and normal vision out to 30 feet. 2 Hearing and normal vision out to 60 feet 3 Hearing and normal vision out to 120 feet. 4 Hearing and darkvision out to 120 feet.
+| d4 | Senses |
+|---|---|
+| 1 | Hearing and normal vision out to 30 feet. |
+| 2 | Hearing and normal vision out to 60 feet. |
+| 3 | Hearing and normal vision out to 120 feet. |
+| 4 | Hearing and darkvision out to 120 feet. |
 
-## **Alignment** 
+#### **Alignment** 
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-|**d100**|**Alignment**||**d100**|**Alignment**| |---|---|---|---|---| |01–15|Lawful    good||74–85|Chaotic    neutral| |16–35|Neutral    good||86–89|Lawful    evil| |36–50<br>51–63|Chaotic    good<br>Lawful    neutral|<br>|90–96<br>97–00|Neutral    evil<br>Chaotic    evil| |64–73|Neutral||||
+| d100 | Alignment |
+|---|---|
+| 01-15 | Lawful good |
+| 16-35 | Neutral good |
+| 36-50 | Chaotic good |
+| 51-63 | Lawful neutral |
+| 64-73 | Neutral |
+| 74-85 | Chaotic neutral |
+| 86-89 | Lawful evil |
+| 90-96 | Neutral evil |
+| 97-00 | Chaotic evil |
 
-
-
-## **Special Purpose** 
+#### **Special Purpose** 
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder’s use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
-|**d10**<br>1|**Purpose**<br>_Aligned:_The    item    seeks    to    defeat    or    destroy    those    of    a|**Purpose**<br>_Aligned:_The    item    seeks    to    defeat    or    destroy    those    of    a| |---|---|---| ||diametrically    opposed    alignment.    (Such    an    item    is<br>|| ||never    neutral.)|| |2|_Bane:_The    item    seeks    to    defeat    or    destroy    creatures    of|| ||a    particular    kind,    such    as    fiends,    shapechangers,    trolls,<br>or    wizards.|| |3|_Protector:_The    item    seeks    to    defend    a    particular    race<br>|| ||or    kind    of    creature,    such    as    elves    or    druids.|| |4|_Crusader:_The    item    seeks    to    defeat,    weaken,    or<br>destroy    the    servants    of    a    particular    deity.|| |5|Templar:    The    item    seeks    to    defend    the    servants    and<br>|| ||interests    of    a    particular    deity.|| |6|_Destroyer:_The    item    craves    destruction    and    goads    its|| |7|user    to    fight    arbitrarily.<br>_Glory    Seeker:_The    item    seeks    renown    as    the    greatest<br>|| ||magic    item    in    the    world,    by    establishing    its    user    as    a<br>|| ||famous    or    notorious    figure.|| |8|_Lore    Seeker:_The    item    craves    knowledge    or    is<br>determined    to    solve    a    mystery,    learn    a    secret,    or|| ||unravel    a    cryptic    prophecy.|| |9|_Destiny    Seeker:_The    item    is    convinced    that    it    and    its<br>|| ||wielder    have    key    roles    to    play    in    future    events.|| |10<br>|_Creator    Seeker:_The    item    seeks    its    creator    and    wants<br>to    understand    why    it    was    created.||
+| d10 | Purpose |
+|---|---|
+| 1 | _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.) |
+| 2 | _Bane:_ The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards. |
+| 3 | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or druids. |
+| 4 | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity. |
+| 5 | _Templar:_ The item seeks to defend the servants and interests of a particular deity. |
+| 6 | _Destroyer:_ The item craves destruction and goads its user to fight arbitrarily. |
+| 7 | _Glory Seeker:_ The item seeks renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure. |
+| 8 | _Lore Seeker:_ The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy. |
+| 9 | _Destiny Seeker:_ The item is convinced that it and its wielder have key roles to play in future events. |
+| 10 | _Creator Seeker:_ The item seeks its creator and wants to understand why it was created. |
 
-
-
-## **Conflict** 
+### **Conflict** 
 
 A sentient item has a will of its own, shaped by its personality and alignment. If its wielder acts in a manner opposed to the item’s alignment or purpose, conflict can arise. When such a conflict occurs, the item makes a Charisma check contested by the wielder’s Charisma check. If the item wins the contest, it makes one or more of the following demands:
 
@@ -16160,7 +16205,7 @@ A sentient item has a will of its own, shaped by its personality and alignment. 
 
 - The item demands to be given to someone else.
 
-- If its wielder refuses to comply with the item’s wishes, the item can do any or all of the following:
+If its wielder refuses to comply with the item’s wishes, the item can do any or all of the following:
 
 - Make it impossible for its wielder to attune to it.
 
@@ -16168,13 +16213,11 @@ A sentient item has a will of its own, shaped by its personality and alignment. 
 
 - Attempt to take control of its wielder.
 
-- If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving
-
-throw, with a DC equal to 12 + the item’s Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item’s commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can’t use this power again until the next dawn.
+If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item’s Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item’s commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can’t use this power again until the next dawn.
 
 ## **Artifacts** 
 
-## **Orb of Dragonkind** 
+#### **Orb of Dragonkind** 
 
 _Wondrous item, artifact (requires attunement)_
 
@@ -16188,7 +16231,9 @@ An orb is an etched crystal globe about 10 inches in diameter. When used, it gro
 
 While attuned to an orb, you can use an action to peer into the orb’s depths and speak its command word. You must then make a DC 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become charmed by the orb for as long as you remain attuned to it.
 
-While you are charmed by the orb, you can’t voluntarily end your attunement to it, and the orb casts _suggestion_ on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Tiamat, or something else the GM decides. _**Random Properties.**_ An _Orb of Dragonkind_ has the following random properties:
+While you are charmed by the orb, you can’t voluntarily end your attunement to it, and the orb casts _suggestion_ on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Tiamat, or something else the GM decides.
+
+_**Random Properties.**_ An _Orb of Dragonkind_ has the following random properties:
 
 - 2 minor beneficial properties
 
@@ -16196,35 +16241,49 @@ While you are charmed by the orb, you can’t voluntarily end your attunement to
 
 - 1 major detrimental property
 
-_**Spells.**_ The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: _cure wounds_ (5th-­‐‑level version, 3 charges), _daylight_ (1 charge), _death ward_ (2 charges), or _scrying_ (3 charges). You can also use an action to cast the _detect magic_ spell from the orb without using any charges. _**Call Dragons.**_ While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can’t be used again for 1 hour. _**Destroying an Orb.**_ An _Orb of Dragonkind_ appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A _disintegrate_ spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
+_**Spells.**_ The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: _cure wounds_ (5th-­‐‑level version, 3 charges), _daylight_ (1 charge), _death ward_ (2 charges), or _scrying_ (3 charges). You can also use an action to cast the _detect magic_ spell from the orb without using any charges.
+
+_**Call Dragons.**_ While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can’t be used again for 1 hour.
+
+
+_**Destroying an Orb.**_ An _Orb of Dragonkind_ appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A _disintegrate_ spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
 
 ## **Monsters** 
 
 A monster’s statistics, sometimes referred to as its **stat block** , provide the essential information that you need to run the monster.
 
-## **Size** 
+### **Size** 
 
 A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the _Player’s Handbook_ for more information on creature size and space.
 
-## **Size Categories**
+#### **Size Categories**
 
-|**Size**|**Space**|**Examples**| |---|---|---| |Tiny|2½    by    2½    ft.|Imp,    sprite| |Small|5    by    5    ft.|Giant    rat,    goblin| |Medium|5    by    5    ft.|Orc,    werewolf| |Large|10    by    10    ft.|Hippogriff,    ogre| |Huge|15    by    15    ft.|Fire    giant,    treant| |Gargantuan<br>|20    by    20    ft.    or    larger|Kraken,    purple    worm|
+| Size | Space | Examples |
+|---|---|---|
+| Tiny | 2½ by 2½ ft. | Imp, sprite |
+| Small | 5 by 5 ft. | Giant rat, goblin |
+| Medium | 5 by 5 ft. | Orc, werewolf |
+| Large | 10 by 10 ft. | Hippogriff, ogre |
+| Huge | 15 by 15 ft. | Fire giant, treant |
+| Gargantuan | 20 by 20 ft. or larger | Kraken, purple worm |
 
-
-
-## **Modifying Creatures** 
+#### **Modifying Creatures** 
 
 Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template** , such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
 
-## **Type** 
+### **Type** 
 
 A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an _arrow of dragon slaying_ deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
 
-**Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi. **Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them
+**Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
 
-have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals. **Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi. **Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
+**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of themb have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
+
+**Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
+
+**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
 
 **Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.
 
@@ -16238,7 +16297,7 @@ have magical powers, but most are unintelligent and lack any society or language
 
 **Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
 
-**Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-­‐‑ti). They defy categorization, and in some sense serve as a catch-­‐‑all category for creatures that don’t fit into any other type.
+**Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-­ti). They defy categorization, and in some sense serve as a catch-­all category for creatures that don’t fit into any other type.
 
 **Oozes** are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. Black puddings and gelatinous cubes are among the most recognizable oozes.
 
@@ -16246,25 +16305,25 @@ have magical powers, but most are unintelligent and lack any society or language
 
 **Undead** are once-­‐‑living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
-## **Tags** 
+#### **Tags**
 
-A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the _humanoid (orc)_ type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the _humanoid (orc)_ type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
-game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
-
-## **Alignment** 
+#### **Alignment**
 
 A monster’s alignment provides a clue to its disposition and how it behaves in a roleplaying or combat situation. For example, a chaotic evil monster might be difficult to reason with and might attack characters on sight, whereas a neutral monster might be willing to negotiate. See the _Player’s Handbook_ for descriptions of the different alignments.
 
-The alignment specified in a monster’s stat block is the default. Feel free to depart from it and change a monster’s alignment to suit the needs of your campaign. If you want a good-­‐‑aligned green dragon or an evil storm giant, there’s nothing stopping you. Some creatures can have **any alignment** . In other words, you choose the monster’s alignment. Some monster’s alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.
+The alignment specified in a monster’s stat block is the default. Feel free to depart from it and change a monster’s alignment to suit the needs of your campaign. If you want a good-­aligned green dragon or an evil storm giant, there’s nothing stopping you. 
+
+Some creatures can have **any alignment** . In other words, you choose the monster’s alignment. Some monster’s alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.
 
 Many creatures of low intelligence have no comprehension of law or chaos, good or evil. They don’t make moral or ethical choices, but rather act on instinct. These creatures are **unaligned** , which means they don’t have an alignment.
 
-## **Armor Class** 
+### **Armor Class** 
 
 A monster that wears armor or carries a shield has an Armor Class (AC) that takes its armor, shield, and Dexterity into account. Otherwise, a monster’s AC is based on its Dexterity modifier and natural armor, if any. If a monster has natural armor, wears armor, or carries a shield, this is noted in parentheses after its AC value.
 
-## **Hit Points** 
+### **Hit Points** 
 
 A monster usually dies or is destroyed when it drops to 0 hit points. For more on hit points, see the _Player’s Handbook._
 
@@ -16272,15 +16331,20 @@ A monster’s hit points are presented both as a die expression and as an averag
 
 A monster’s size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-## **Hit Dice by Size**
+#### **Hit Dice by Size**
 
-|**Monster    Size**<br>Tiny|**Hit    Die**<br>d4|**Average    HP    per    Die**<br>2½| |---|---|---| |Small|d6|3½| |Medium<br>Large|d8<br>d10|4½<br>5½| |Huge|d12|6½| |Gargantuan|d20|10½|
-
-
+| Monster Size | Hit Die | Average HP per Die |
+|---|---|---|
+| Tiny | d4 | 2½ |
+| Small | d6 | 3½ |
+| Medium | d8 | 4½ |
+| Large | d10 | 5½ |
+| Huge | d12 | 6½ |
+| Gargantuan | d20 | 10½ |
 
 A monster’s Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 hit points (average 11).
 
-## **S eed p** 
+### **Speed** 
 
 A monster’s speed tells you how far it can move on its turn. For more information on speed, see the _Player’s Handbook._
 
@@ -16288,49 +16352,71 @@ All creatures have a walking speed, simply called the monster’s speed. Creatur
 
 Some creatures have one or more of the following additional movement modes.
 
-## **Burrow** 
+#### **Burrow** 
 
 A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can’t burrow through solid rock unless it has a special trait that allows it to do so.
 
-## **Climb** 
+#### **Climb** 
 
 A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn’t need to spend extra movement to climb.
 
-## **Fly** 
+#### **Fly** 
 
 A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to **hover** , which makes them hard to knock out of the air (as explained in the rules on flying in the _Player’s Handbook_ ). Such a monster stops hovering when it dies.
 
-## **Swim** 
+#### **Swim**
 
 A monster that has a swimming speed doesn’t need to spend extra movement to swim.
 
-## **Abilit Scores y** 
+### **Ability Scores** 
 
 Every monster has six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corresponding modifiers. For more information on ability scores and how they’re used in play, see the _Player’s Handbook._
 
-## **Savin Throws g** 
+### **Saving Throws** 
 
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn’t easily charmed or frightened might gain a bonus on its Wisdom saving throws. Most creatures don’t have special saving throw bonuses, in which case this section is absent. A saving throw bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn’t easily charmed or frightened might gain a bonus on its Wisdom saving throws. Most creatures don’t have special saving throw bonuses, in which case this section is absent.
 
-## **Proficiency Bonus by Challenge Rating**
+A saving throw bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-||**Proficiency**|||**Proficiency**| |---|---|---|---|---| |**Challenge**|**Bonus**||**Challenge**|**Bonus**| |0<br>1/8|+2<br>+2|<br>|14<br>15|+5<br>+5| |1/4|+2||16|+5| |1/2|+2||17|+6| |1|+2||18|+6| |2<br>3|+2<br>+2|<br>|19<br>20|+6<br>+6| |4|+2||21|+7| |5|+3||22|+7| |6<br>7|+3<br>+3|<br>|23<br>24|+7<br>+7| |8|+3||25|+8| |9|+4||26|+8| |10|+4||27|+8| |11<br>12|+4<br>+4|<br>|28<br>29|+8<br>+9| |13|+5||30|+9| ||||||
+#### **Proficiency Bonus by Challenge Rating**
+
+| Challenge | Bonus |   | Challenge | Bonus |
+|---|---| ---- |---|---|
+| 0 | +2 |   |14 | +5 |
+| 1/8 | +2 | | 15 | +5 |
+| 1/4 | +2 | | 16 | +5 |
+| 1/2 | +2 | | 17 | +6 |
+| 1 | +2 |   | 18 | +6 |
+| 2 | +2 |   | 19 | +6 |
+| 3 | +2 |   | 20 | +6 |
+| 4 | +2 |   | 21 | +7 |
+| 5 | +3 |   | 22 | +7 |
+| 6 | +3 |   | 23 | +7 |
+| 7 | +3 |   | 24 | +7 |
+| 8 | +3 |   | 25 | +8 |
+| 9 | +4 |   | 26 | +8 |
+| 10 | +4 |  | 27 | +8 |
+| 11 | +4 |  | 28 | +8 |
+| 12 | +4 |  | 29 | +9 |
+| 13 | +5 |  | 30 | +9 |
 
 
 
-## **Skills** 
+### **Skills** 
 
-The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks. A skill bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-­‐‑than-­‐‑expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks.
 
-## **Vulnerabilities, Resistances, and Immunities** 
+A skill bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-­than-­expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+
+### **Vulnerabilities, Resistances, and Immunities** 
 
 Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
 
-## **Senses** 
+### **Senses** 
 
 The Senses entry notes a monster’s passive Wisdom (Perception) score, as well as any special senses the monster might have. Special senses are described below.
 
-## **Blindsight** 
+#### **Blindsight** 
 
 A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.
 
@@ -16338,53 +16424,79 @@ Creatures without eyes, such as grimlocks and gray oozes, typically have this sp
 
 If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its blindsight defines the maximum range of its perception.
 
-## **Darkvision** 
+#### **Darkvision** 
 
 A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
 
-## **Armor, Weapon, and Tool Proficiencies** 
+#### **Armor, Weapon, and Tool Proficiencies** 
 
 Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
 
-For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither. See the _Player’s Handbook_ for rules on using armor or weapons without proficiency.
+For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
 
-## **Tremorsense** 
+See the _Player’s Handbook_ for rules on using armor or weapons without proficiency.
+
+#### **Tremorsense** 
 
 A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can’t be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
 
-## **Truesight** 
+#### **Truesight** 
 
 A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
-## **Languages** 
+### **Languages** 
 
 The languages that a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but can’t speak it, and this is noted in its entry. A “—” indicates that a creature neither speaks nor understands any language.
 
-## **Telepathy** 
+#### **Telepathy** 
 
 Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn’t need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can’t initiate or terminate a telepathic conversation.
 
-A telepathic monster doesn’t need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can’t initiate telepathic contact, and any current contact is terminated. A creature within the area of an _antimagic field_ or in any other location where magic doesn’t function can’t send or receive telepathic messages.
+A telepathic monster doesn’t need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can’t initiate telepathic contact, and any current contact is terminated.
 
-## **Challenge** 
+A creature within the area of an _antimagic field_ or in any other location where magic doesn’t function can’t send or receive telepathic messages.
 
-A monster’s **challenge rating** tells you how great a threat the monster is. An appropriately equipped and well-­‐‑rested party of four adventurers should be able to defeat a monster that has a challenge rating equal to its level without suffering any deaths. For example, a party of four 3rd-­‐‑level characters should find a monster with a challenge rating of 3 to be a worthy challenge, but not a deadly one. Monsters that are significantly weaker than 1st-­‐‑ level characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each. Some monsters present a greater challenge than even a typical 20th-­‐‑level party can handle. These monsters have a challenge rating of 21 or higher and are specifically designed to test player skill.
+### **Challenge** 
 
-## **Experience Points** 
+A monster’s **challenge rating** tells you how great a threat the monster is. An appropriately equipped and well-­rested party of four adventurers should be able to defeat a monster that has a challenge rating equal to its level without suffering any deaths. For example, a party of four 3rd-­level characters should find a monster with a challenge rating of 3 to be a worthy challenge, but not a deadly one.
 
-The number of experience points (XP) a monster is worth is based on its challenge rating. Typically, XP is awarded for defeating the monster, although the GM may also award XP for neutralizing the threat posed by the monster in some other manner. Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
+Monsters that are significantly weaker than 1st-­level characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each.
 
-## **Experience Points by Challenge Rating**
+Some monsters present a greater challenge than even a typical 20th-­level party can handle. These monsters have a challenge rating of 21 or higher and are specifically designed to test player skill.
 
-|**Challenge**|**XP**||**Challenge**|**XP**| |---|---|---|---|---| |0|0    or    10||14|11,500| |1/8|25||15|13,000| |1/4<br>1/2|50<br>100|<br>|16<br>17|15,000<br>18,000| |1|200||18|20,000| |2|450||19|22,000| |3<br>4|700<br>1,100|<br>|20<br>21|25,000<br>33,000| |5|1,800||22|41,000| |6|2,300||23|50,000| |7|2,900||24|62,000| |8<br>9|3,900<br>5,000|<br>|25<br>26|75,000<br>90,000| |10|5,900||27|105,000| |11|7,200||28|120,000| |12<br>13|8,400<br>10,000|<br>|29<br>30|135,000<br>155,000| ||||||
+#### **Experience Points** 
 
+The number of experience points (XP) a monster is worth is based on its challenge rating. Typically, XP is awarded for defeating the monster, although the GM may also award XP for neutralizing the threat posed by the monster in some other manner.
 
+Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
 
-## **S ecial Traits p** 
+#### **Experience Points by Challenge Rating**
+
+| Challenge | XP |  | Challenge | XP |
+| :---: | --- | --- | :---: | --- |
+| 0 | 0 or 10 |  | 14 | 11,500 |
+| 1/8 | 25 |  | 15 | 13,000 |
+| 1/4 | 50 |  | 16 | 15,000 |
+| 1/2 | 100 |  | 17 | 18,000 |
+| 1 | 200 |  | 18 | 20,000 |
+| 2 | 450 |  | 19 | 22,000 |
+| 3 | 700 |  | 20 | 25,000 |
+| 4 | 1,100 |  | 21 | 33,000 |
+| 5 | 1,800 |  | 22 | 41,000 |
+| 6 | 2,300 |  | 23 | 50,000 |
+| 7 | 2,900 |  | 24 | 62,000 |
+| 8 | 3,900 |  | 25 | 75,000 |
+| 9 | 5,000 |  | 26 | 90,000 |
+| 10 | 5,900 |  | 27 | 105,000 |
+| 11 | 7,200 |  | 28 | 120,000 |
+| 12 | 8,400 |  | 29 | 135,000 |
+| 13 | 10,000 |  | 30 | 155,000 |
+
+### **Special Traits** 
 
 Special traits (which appear after a monster’s challenge rating but before any actions or reactions) are characteristics that are likely to be relevant in a combat encounter and that require some explanation.
 
-## **Innate Spellcasting** 
+#### **Innate Spellcasting** 
 
 A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can’t be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster’s challenge rating.
 
@@ -16392,45 +16504,47 @@ An innate spell can have special rules or restrictions. For example, a drow mage
 
 A monster’s innate spells can’t be swapped out with other spells. If a monster’s innate spells don’t require attack rolls, no attack bonus is given for them.
 
-## **Spellcasting** 
+#### **Spellcasting** 
 
 A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the _Player’s Handbook_ ). The spellcaster level is also used for any cantrips included in the feature.
 
 The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-­‐‑level _lightning bolt_ spell can cast it as a 5th-­‐‑level spell by using one of its 5th-­‐‑level spell slots.
+A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-­level _lightning bolt_ spell can cast it as a 5th-­level spell by using one of its 5th-­level spell slots.
 
 You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its challenge rating.
 
-## **Psionics** 
+#### **Psionics** 
 
 A monster that casts spells using only the power of its mind has the psionics tag added to its Spellcasting or Innate Spellcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn’t require any components to cast its spells.
 
-## **Actions** 
+### **Actions** 
 
 When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the Dash or Hide action, as described in the _Player’s Handbook_ .
 
-## **Melee and Ranged Attacks** 
+#### **Melee and Ranged Attacks** 
 
-The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the “weapon” might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see the _Player’s Handbook_ . _**Creature vs. Target.**_ The target of a melee or ranged attack is usually either one creature or one target, the difference being that a “target” can be a creature or an object.
+The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the “weapon” might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see the _Player’s Handbook_ .
+
+_**Creature vs. Target.**_ The target of a melee or ranged attack is usually either one creature or one target, the difference being that a “target” can be a creature or an object.
 
 _**Hit.**_ Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the “ _Hit_ ” notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
 
 _**Miss.**_ If an attack has an effect that occurs on a miss, that information is presented after the “ _Miss:_ ” notation.
 
-## **Multiattack** 
+#### **Multiattack** 
 
 A creature that can make multiple attacks on its turn has the Multiattack action. A creature can’t use Multiattack when making an opportunity attack, which must be a single melee attack.
 
-## **Ammunition** 
+#### **Ammunition** 
 
 A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has 2d4 pieces of ammunition for a thrown weapon attack, and 2d10 pieces of ammunition for a projectile weapon such as a bow or crossbow.
 
-## **Reactions** 
+### **Reactions** 
 
 If a monster can do something special with its reaction, that information is contained here. If a creature has no special reaction, this section is absent.
 
-## **Limited Usage** 
+### **Limited Usage** 
 
 Some special abilities have restrictions on the number of times they can be used.
 
@@ -16442,57 +16556,67 @@ For example, “Recharge 5–6” means a monster can use the special ability on
 
 _**Recharge after a Short or Long Rest.**_ This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
 
-## **Grapple Rules for Monsters** 
+#### **Grapple Rules for Monsters** 
 
 Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 
 A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster’s stat block. If no escape DC is given, assume the DC is 10 + the monster’s Strength (Athletics) modifier.
 
-## **Equipment** 
+### **Equipment** 
 
 A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as a humanoid, is assumed to be dressed appropriately.
 
 You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster’s equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
 
-noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
-
 If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
 
-## **Legendary Creatures** 
+## **Legendary Creatures**
 
 A legendary creature can do things that ordinary creatures can’t. It can take special actions outside its turn, and it might exert magical influence for miles around.
 
 If a creature assumes the form of a legendary creature, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
 
-## **Le endar Actions g y** 
+### **Legendary Action** 
 
 A legendary creature can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
 
-## **A Le endar Creature’s Lair g y** 
+### **A Legendary Creature’s Lair** 
 
 A legendary creature might have a section describing its lair and the special effects it can create while there, either by act of will or simply by being present. Such a section applies only to a legendary creature that spends a great deal of time in its lair.
 
-## **Lair Actions** 
+#### **Lair Actions** 
 
 If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
 
-## **Regional Effects** 
+#### **Regional Effects** 
 
-The mere presence of a legendary creature can have strange and wondrous effects on its environment, as
+The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
 ## **Monsters (A)** 
 
-## **Aboleth** 
+#### **Aboleth** 
 
 _Large aberration, lawful evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 135 (18d10 + 36) **Speed** 10 ft., swim 40 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||21    (+5)    9    (−1)    15    (+2)    18    (+4)    15    (+2)    18    (+4)|
+**Hit Points** 135 (18d10 + 36)
 
+**Speed** 10 ft., swim 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 9 (−1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Saving Throws** Con +6, Int +8, Wis +6 **Skills** History +12, Perception +10 **Senses** darkvision 120 ft., passive Perception 20 **Languages** Deep Speech, telepathy 120 ft. **Challenge** 10 (5,900 XP)
+**Saving Throws** Con +6, Int +8, Wis +6
+
+**Skills** History +12, Perception +10
+
+**Senses** darkvision 120 ft., passive Perception 20
+
+**Languages** Deep Speech, telepathy 120 ft.
+
+**Challenge** 10 (5,900 XP)
 
 _**Amphibious.**_ The aboleth can breathe air and water.
 
@@ -16500,11 +16624,12 @@ _**Mucous Cloud.**_ While underwater, the aboleth is surrounded by transformativ
 
 _**Probing Telepathy.**_ If a creature communicates telepathically with the aboleth, the aboleth learns the creature’s greatest desires if the aboleth can see the creature.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The aboleth makes three tentacle attacks.
 
-_**Tentacle.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature’s skin becomes translucent and slimy, the creature can’t regain hit points unless it is underwater, and the disease can be removed only by _heal_ or another disease-­‐curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+_**Tentacle.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature’s skin becomes translucent and slimy, the creature can’t regain hit points unless it is underwater, and the disease can be removed only by _heal_ or another disease-­curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
 
 _**Tail.** Melee Weapon Attack:_ +9 to hit, reach 10 ft. one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage.
 
@@ -16512,7 +16637,8 @@ _**Enslave (3/Day).**_ The aboleth targets one creature it can see within 30 fee
 
 Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
-## **Legendary Actions**
+#### **Legendary Actions**
+
 
 The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The aboleth regains spent legendary actions at the start of its turn.
 
@@ -16522,23 +16648,35 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 - **Psychic Drain (Costs 2 Actions).** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
 
-## **An els g** 
+### **Angels** 
 
-## **Deva** 
+#### **Deva** 
 
 _Medium celestial, lawful good_
 
-**Armor Class** 17 (natural armor) **Hit Points** 136 (16d8 + 64) **Speed** 30 ft., fly 90 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 18 (+4) 18 (+4) 17 (+3) 20 (+5) 20 (+5)
+**Hit Points** 136 (16d8 + 64)
 
-**Saving Throws** Wis +9, Cha +9 **Skills** Insight +9, Perception +9
+**Speed** 30 ft., fly 90 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
+
+**Saving Throws** Wis +9, Cha +9 
+
+**Skills** Insight +9, Perception +9
 
 **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** charmed, exhaustion, frightened **Senses** darkvision 120 ft., passive Perception 19
+**Condition Immunities** charmed, exhaustion, frightened 
 
-**Languages** all, telepathy 120 ft. **Challenge** 10 (5,900 XP)
+**Senses** darkvision 120 ft., passive Perception 19
+
+**Languages** all, telepathy 120 ft. 
+
+**Challenge** 10 (5,900 XP)
 
 _**Angelic Weapons.**_ The deva’s weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 
@@ -16550,7 +16688,8 @@ At will: _detect evil and good_
 
 _**Magic Resistance.**_ The deva has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The deva makes two melee attacks.
 
@@ -16562,19 +16701,29 @@ _**Change Shape.**_ The deva magically polymorphs into a humanoid or beast that 
 
 In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
 
-## **Planetar** 
+#### **Planetar** 
 
 _Large celestial, lawful good_
 
-**Armor Class** 19 (natural armor) **Hit Points** 200 (16d10 + 112) **Speed** 40 ft., fly 120 ft.
+**Armor Class** 19 (natural armor)
 
-**STR DEX CON INT WIS CHA** 24 (+7) 20 (+5) 24 (+7) 19 (+4) 22 (+6) 25 (+7)
+**Hit Points** 200 (16d10 + 112)
 
-**Saving Throws** Con +12, Wis +11, Cha +12 **Skills** Perception +11
+**Speed** 40 ft., fly 120 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7) |
+
+**Saving Throws** Con +12, Wis +11, Cha +12
+
+**Skills** Perception +11
 
 **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** charmed, exhaustion, frightened **Senses** truesight 120 ft., passive Perception 21
+**Condition Immunities** charmed, exhaustion, frightened
+
+**Senses** truesight 120 ft., passive Perception 21
 
 **Languages** all, telepathy 120 ft.
 
@@ -16588,11 +16737,14 @@ _**Innate Spellcasting.**_ The planetar’s spellcasting ability is Charisma (sp
 
 At will: _detect evil and good_ , _invisibility_ (self only)
 
-- 3/day each: _blade barrier_ , _dispel evil and good_ , _flame strike_ , _raise dead_
+3/day each: _blade barrier_ , _dispel evil and good_ , _flame strike_ , _raise dead_
 
-1/day each: _commune_ , _control weather_ , _insect plague_ _**Magic Resistance.**_ The planetar has advantage on saving throws against spells and other magical effects.
+1/day each: _commune_ , _control weather_ , _insect plague_ _
 
-## **Actions** 
+_**Magic Resistance.**_ The planetar has advantage on saving throws against spells and other magical effects.
+
+#### **Actions** 
+
 
 _**Multiattack.**_ The planetar makes two melee attacks.
 
@@ -16600,13 +16752,19 @@ _**Greatsword.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit
 
 _**Healing Touch (4/Day).**_ The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-## **Solar** 
+#### **Solar** 
 
 _Large celestial, lawful good_
 
-**Armor Class** 21 (natural armor) **Hit Points** 243 (18d10 + 144) **Speed** 50 ft., fly 150 ft.
+**Armor Class** 21 (natural armor)
 
-**STR DEX CON INT WIS CHA** 26 (+8) 22 (+6) 26 (+8) 25 (+7) 25 (+7) 30 (+10)
+**Hit Points** 243 (18d10 + 144)
+
+**Speed** 50 ft., fly 150 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
 
 **Saving Throws** Int +14, Wis +14, Cha +17
 
@@ -16618,11 +16776,17 @@ _Large celestial, lawful good_
 
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
 
-**Senses** truesight 120 ft., passive Perception 24 **Languages** all, telepathy 120 ft. **Challenge** 21 (33,000 XP)
+**Senses** truesight 120 ft., passive Perception 24
+
+**Languages** all, telepathy 120 ft.
+
+**Challenge** 21 (33,000 XP)
 
 _**Angelic Weapons.**_ The solar’s weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).
 
-_**Divine Awareness.**_ The solar knows if it hears a lie. _**Innate Spellcasting.**_ The solar’s spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
+_**Divine Awareness.**_ The solar knows if it hears a lie.
+
+_**Innate Spellcasting.**_ The solar’s spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
 At will: _detect evil and good_ , _invisibility_ (self only)
 
@@ -16632,7 +16796,8 @@ At will: _detect evil and good_ , _invisibility_ (self only)
 
 _**Magic Resistance.**_ The solar has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The solar makes two greatsword attacks.
 
@@ -16642,11 +16807,10 @@ _**Slaying Longbow.** Ranged Weapon Attack:_ +13 to hit, range 150/600 ft., one 
 
 _**Flying Sword.**_ The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar’s hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
-_**Healing Touch (4/Day).**_ The solar touches another creature. The target magically regains 40 (8d8 + 4) hit
+_**Healing Touch (4/Day).**_ The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-points and is freed from any curse, disease, poison, blindness, or deafness.
+#### **Legendary Actions** 
 
-## **Legendary Actions**
 
 The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The solar regains spent legendary actions at the start of its turn.
 
@@ -16656,9 +16820,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 - **Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the _lesser restoration_ spell removes the blindness.
 
-## **Animated Objects** 
+### **Animated Objects** 
 
-## **Animated Armor**
+#### **Animated Armor**
 
 _Medium construct, unaligned_
 
@@ -16668,9 +16832,9 @@ _Medium construct, unaligned_
 
 **Speed** 25 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||14    (+2)    11    (+0)    13    (+1)    1    (−5)|3    (−4)|1    (−5)|
-
-
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 11 (+0) | 13 (+1) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Damage Immunities** poison, psychic
 
@@ -16678,7 +16842,7 @@ _Medium construct, unaligned_
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
 
-## **Languages** — 
+**Languages** — 
 
 **Challenge** 1 (200 XP)
 
@@ -16686,13 +16850,14 @@ _**Antimagic Susceptibility.**_ The armor is incapacitated while in the area of 
 
 _**False Appearance.**_ While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The armor makes two melee attacks.
 
 _**Slam.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
 
-## **Flying Sword**
+#### **Flying Sword**
 
 _Small construct, unaligned_
 
@@ -16702,13 +16867,17 @@ _Small construct, unaligned_
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||12    (+1)    15    (+2)    11    (+0)    1    (−5)|5    (−3)|1    (−5)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 5 (−3) | 1 (−5) |
 
+**Saving Throws** Dex +4
 
+**Damage Immunities** poison, psychic
 
-**Saving Throws** Dex +4 **Damage Immunities** poison, psychic
+**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
 
 **Languages** — 
 
@@ -16718,27 +16887,32 @@ _**Antimagic Susceptibility.**_ The sword is incapacitated while in the area of 
 
 _**False Appearance.**_ While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Longsword.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage.
 
-## **Rug of Smothering**
+#### **Rug of Smothering**
 
 _Large construct, unaligned_
 
 **Armor Class** 12
 
-**Hit Points** 33 (6d10) **Speed** 10 ft.
+**Hit Points** 33 (6d10)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||17    (+3)    14    (+2)    10    (+0)    1    (−5)|3    (−4)|1    (−5)|
+**Speed** 10 ft.
 
-
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 14 (+2) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Damage Immunities** poison, psychic
 
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
+**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned 
 
-## **Languages** — 
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
+
+**Languages** — 
 
 **Challenge** 2 (450 XP)
 
@@ -16748,37 +16922,63 @@ _**Damage Transfer.**_ While it is grappling a creature, the rug takes only half
 
 _**False Appearance.**_ While the rug remains motionless, it is indistinguishable from a normal rug.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Smother.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one Medium or smaller creature. _Hit:_ The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can’t smother another target. In addition, at the start of each of the target’s turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
-## **Ankheg** 
+#### **Ankheg** 
 
 _Large monstrosity, unaligned_
 
-**Armor Class** 14 (natural armor), 11 while prone **Hit Points** 39 (6d10 + 6)
+**Armor Class** 14 (natural armor), 11 while prone
+
+**Hit Points** 39 (6d10 + 6)
 
 **Speed** 30 ft., burrow 10 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |17    (+3)    11    (+0)    13    (+1)    1    (−5)    13    (+1)    6    (−2)| |**Senses**darkvision    60    ft.,    tremorsense    60    ft.,    passive<br>Perception    11| |**Languages**—| |**Challenge**2    (450    XP)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 11 (+0) | 13 (+1) | 1 (−5) | 13 (+1) | 6 (−2) |
 
-## **Actions** 
+**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
+
+#### **Actions** 
+
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.
 
 _**Acid Spray (Recharge 6).**_ The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
 
-## **Azer** 
+#### **Azer** 
 
 _Medium elemental, lawful neutral_
 
-**Armor Class** 17 (natural armor, shield) **Hit Points** 39 (6d8 + 12) **Speed** 30 ft.
+**Armor Class** 17 (natural armor, shield)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    12    (+1)    15    (+2)    12    (+1)    13    (+1)    10    (+0)|
+**Hit Points** 39 (6d8 + 12)
 
+**Speed** 30 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
-**Saving Throws** Con +4 **Damage Immunities** fire, poison **Condition Immunities** poisoned **Senses** passive Perception 11 **Languages** Ignan **Challenge** 2 (450 XP)
+**Saving Throws** Con +4 
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** passive Perception 11
+
+**Languages** Ignan
+
+**Challenge** 2 (450 XP)
 
 _**Heated Body.**_ A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.
 
@@ -16786,25 +16986,30 @@ _**Heated Weapons.**_ When the azer hits with a metal melee weapon, it deals an 
 
 _**Illumination.**_ The azer sheds bright light in a 10-­‐foot radius and dim light for an additional 10 feet.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Warhammer.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
 ## **Monsters (B)** 
 
-## **Basilisk** 
+#### **Basilisk** 
 
 _Medium monstrosity, unaligned_
 
 **Armor Class** 15 (natural armor)
 
-**Hit Points** 52 (8d8 + 16) **Speed** 20 ft.
+**Hit Points** 52 (8d8 + 16)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||16    (+3)    8    (−1)    15    (+2)    2    (−4)|8    (−1)|7    (−2)|
+**Speed** 20 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 8 (−1) | 15 (+2) | 2 (−4) | 8 (−1) | 7 (−2) |
 
+**Senses** darkvision 60 ft., passive Perception 9
 
-**Senses** darkvision 60 ft., passive Perception 9 **Languages** —
+**Languages** —
 
 **Challenge** 3 (700 XP)
 
@@ -16814,27 +17019,37 @@ A creature that isn’t surprised can avert its eyes to avoid the saving throw a
 
 If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. H _it:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
-## **Behir** 
+#### **Behir** 
 
 _Huge monstrosity, neutral evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 168 (16d12 + 64) **Speed** 50 ft., climb 40 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||23    (+6)    16    (+3)    18    (+4)    7    (−2)    14    (+2)    12    (+1)|
+**Hit Points** 168 (16d12 + 64)
 
+**Speed** 50 ft., climb 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 16 (+3) | 18 (+4) | 7 (−2) | 14 (+2) | 12 (+1) |
 
 **Skills** Perception +6, Stealth +7
 
-## **Damage Immunities** lightning
+**Damage Immunities** lightning
 
-**Senses** darkvision 90 ft., passive Perception 16 **Languages** Draconic **Challenge** 11 (7,200 XP)
+**Senses** darkvision 90 ft., passive Perception 16
 
-## **Actions** 
+**Languages** Draconic
+
+**Challenge** 11 (7,200 XP)
+
+#### **Actions** 
+
 
 _**Multiattack.**_ The behir makes two attacks: one with its bite and one to constrict.
 
@@ -16846,27 +17061,39 @@ _**Lightning Breath (Recharge 5–6).**_ The behir exhales a line of lightning t
 
 _**Swallow.**_ The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time. If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
 
-## **Bugbear** 
+#### **Bugbear** 
 
 _Medium humanoid (goblinoid), chaotic evil_
 
-**Armor Class** 16 (hide armor, shield) **Hit Points** 27 (5d8 + 5) **Speed** 30 ft.
+**Armor Class** 16 (hide armor, shield) 
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    14    (+2)    13    (+1)    8    (−1)    11    (+0)    9    (−1)|
+**Hit Points** 27 (5d8 + 5) 
 
+**Speed** 30 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 14 (+2) | 13 (+1) | 8 (−1) | 11 (+0) | 9 (−1) |
 
-**Skills** Stealth +6, Survival +2 **Senses** darkvision 60 ft., passive Perception 10 **Languages** Common, Goblin **Challenge** 1 (200 XP)
+**Skills** Stealth +6, Survival +2 
+
+**Senses** darkvision 60 ft., passive Perception 10 
+
+**Languages** Common, Goblin 
+
+**Challenge** 1 (200 XP)
 
 _**Brute.**_ A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
 
 _**Surprise Attack.**_ If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-## **Actions** 
+#### **Actions** 
 
-_**Morningstar.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 11 (2d8 + 2) piercing damage. _**Javelin.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+_**Morningstar.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 11 (2d8 + 2) piercing damage.
 
-## **Bulette** 
+_**Javelin.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+
+#### **Bulette** 
 
 _Large monstrosity, unaligned_
 
@@ -16876,9 +17103,13 @@ _Large monstrosity, unaligned_
 
 **Speed** 40 ft., burrow 40 ft.
 
-|**Speed**40    ft.,    burrow|40    ft.| |---|---| |<br>**STR**<br>**DEX**|**CON**<br>**INT**<br>**WIS**<br>**CHA**| |19    (+4)    11    (+0)    21    (+5)    2    (−4)    10    (+0)    5    (−3)|| |**Skills**Perception    +6|| |**Senses**darkvision    60<br>Perception    16|ft.,    tremorsense    60    ft.,    passive|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 11 (+0) | 21 (+5) | 2 (−4) | 10 (+0) | 5 (−3) |
 
+**Skills** Perception +6
 
+**Senses** darkvision 60 ft., tremorsense 60 ft., passive  Perception 16
 
 **Languages** — 
 
@@ -16886,7 +17117,8 @@ _Large monstrosity, unaligned_
 
 _**Standing Leap.**_ The bulette’s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 30 (4d12 + 4) piercing damage.
 
@@ -16894,23 +17126,32 @@ _**Deadly Leap.**_ If the bulette jumps at least 15 feet as part of its movement
 
 ## **Monsters (C)** 
 
-## **Centaur** 
+#### **Centaur** 
 
 _Large monstrosity, neutral good_
 
-## **Armor Class** 12
+**Armor Class** 12
 
-**Hit Points** 45 (6d10 + 12) **Speed** 50 ft.
+**Hit Points** 45 (6d10 + 12)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    14    (+2)    14    (+2)    9    (−1)    13    (+1)    11    (+0)|
+**Speed** 50 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 14 (+2) | 14 (+2) | 9 (−1) | 13 (+1) | 11 (+0) |
 
+**Skills** Athletics +6, Perception +3, Survival +3
 
-**Skills** Athletics +6, Perception +3, Survival +3 **Senses** passive Perception 13 **Languages** Elvish, Sylvan **Challenge** 2 (450 XP)
+**Senses** passive Perception 13
+
+**Languages** Elvish, Sylvan
+
+**Challenge** 2 (450 XP)
 
 _**Charge.**_ If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
@@ -16920,19 +17161,30 @@ _**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11
 
 _**Longbow.** Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
-## **Chimera** 
+#### **Chimera** 
 
 _Large monstrosity, chaotic evil_
 
-**Armor Class** 14 (natural armor) **Hit Points** 114 (12d10 + 48) **Speed** 30 ft., fly 60 ft.
+**Armor Class** 14 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    11    (+0)    19    (+4)    3    (−4)    14    (+2)    10    (+0)|
+**Hit Points** 114 (12d10 + 48)
 
+**Speed** 30 ft., fly 60 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 11 (+0) | 19 (+4) | 3 (−4) | 14 (+2) | 10 (+0) |
 
-**Skills** Perception +8 **Senses** darkvision 60 ft., passive Perception 18 **Languages** understands Draconic but can’t speak **Challenge** 6 (2,300 XP)
+**Skills** Perception +8
 
-## **Actions** 
+**Senses** darkvision 60 ft., passive Perception 18
+
+**Languages** understands Draconic but can’t speak
+
+**Challenge** 6 (2,300 XP)
+
+#### **Actions** 
+
 
 _**Multiattack.**_ The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 
@@ -16942,35 +17194,40 @@ _**Horns.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 
 
 _**Claws.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 
-_**Fire Breath (Recharge 5–6).**_ The dragon head exhales fire in a 15-­‐foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+_**Fire Breath (Recharge 5–6).**_ The dragon head exhales fire in a 15-­foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Chuul** 
+#### **Chuul** 
 
 _Large aberration, chaotic evil_
 
-**Armor Class** 16 (natural armor) **Hit Points** 93 (11d10 + 33) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 16 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    10    (+0)    16    (+3)    5    (−3)    11    (+0)    5    (−3)|
+**Hit Points** 93 (11d10 + 33)
 
+**Speed** 30 ft., swim 30 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 11 (+0) | 5 (−3) |
 
 **Skills** Perception +4
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** darkvision 60 ft., passive Perception 14 **Languages** understands Deep Speech but can’t speak
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** understands Deep Speech but can’t speak
 
 **Challenge** 4 (1,100 XP)
-
-## **Actions** 
 
 _**Amphibious.**_ The chuul can breathe air and water.
 
 _**Sense Magic.**_ The chuul senses magic within 120 feet of it at will. This trait otherwise works like the _detect magic_ spell but isn’t itself magical.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
 
@@ -16978,23 +17235,36 @@ _**Pincer.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 1
 
 _**Tentacles.**_ One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Cloaker** 
+#### **Cloaker** 
 
 _Large aberration, chaotic neutral_
 
-**Armor Class** 14 (natural armor) **Hit Points** 78 (12d10 + 12) **Speed** 10 ft., fly 40 ft.
+**Armor Class** 14 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    15    (+2)    12    (+1)    13    (+1)    12    (+1)    14    (+2)|
+**Hit Points** 78 (12d10 + 12)
 
+**Speed** 10 ft., fly 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 12 (+1) | 14 (+2) |
 
 **Skills** Stealth +5
 
-**Senses** darkvision 60 ft., passive Perception 11 **Languages** Deep Speech, Undercommon **Challenge** 8 (3,900 XP)
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** Deep Speech, Undercommon
+
+**Challenge** 8 (3,900 XP)
 
 _**Damage Transfer.**_ While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.
 
-_**False Appearance.**_ While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak. _**Light Sensitivity.**_ While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
+_**False Appearance.**_ While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.
+
+_**Light Sensitivity.**_ While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
+
+#### Actions
+
 
 _**Multiattack.**_ The cloaker makes two attacks: one with its bite and one with its tail.
 
@@ -17010,35 +17280,56 @@ Whenever any creature targets the cloaker with an attack or a harmful spell whil
 
 A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
 
-## **Cockatrice** 
+#### **Cockatrice** 
 
 _Small monstrosity, unaligned_
 
 **Armor Class** 11
 
-**Hit Points** 27 (6d6 + 6) **Speed** 20 ft., fly 40 ft.
+**Hit Points** 27 (6d6 + 6)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>6    (−2)    12    (+1)    12    (+1)    2    (−4)    13    (+1)    5    (−3)|
+**Speed** 20 ft., fly 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 12 (+1) | 12 (+1) | 2 (−4) | 13 (+1) | 5 (−3) |
 
+**Senses** darkvision 60 ft., passive Perception 11
 
-**Senses** darkvision 60 ft., passive Perception 11 **Languages** — **Challenge** 1/2 (100 XP)
+**Languages** —
 
-## **Actions** 
+**Challenge** 1/2 (100 XP)
+
+#### **Actions** 
+
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
-## **Couatl** 
+#### **Couatl** 
 
 _Medium celestial, lawful good_
 
-**Armor Class** 19 (natural armor) **Hit Points** 97 (13d8 + 39) **Speed** 30 ft., fly 90 ft.
+**Armor Class** 19 (natural armor)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 20 (+5) 17 (+3) 18 (+4) 20 (+5) 18 (+4)
+**Hit Points** 97 (13d8 + 39)
 
-**Saving Throws** Con +5, Wis +7, Cha +6 **Damage Resistances** radiant
+**Speed** 30 ft., fly 90 ft.
 
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks **Senses** truesight 120 ft., passive Perception 15 **Languages** all, telepathy 120 ft. **Challenge** 4 (1,100 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
+
+**Saving Throws** Con +5, Wis +7, Cha +6
+
+**Damage Resistances** radiant
+
+**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** truesight 120 ft., passive Perception 15
+
+**Languages** all, telepathy 120 ft.
+
+**Challenge** 4 (1,100 XP)
 
 _**Innate Spellcasting.**_ The couatl’s spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
@@ -17052,7 +17343,8 @@ _**Magic Weapons.**_ The couatl’s weapon attacks are magical.
 
 _**Shielded Mind.**_ The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one creature. _Hit:_ 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 
@@ -17064,45 +17356,69 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ## **Monsters (D)** 
 
-## **Darkmantle** 
+#### **Darkmantle** 
 
 _Small monstrosity, unaligned_
 
-**Armor Class** 11 **Hit Points** 22 (5d6 + 5) **Speed** 10 ft., fly 30 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 16 (+3) 12 (+1) 13 (+1) 2 (−4) 10 (+0) 5 (−3) **Skills** Stealth +3 **Senses** blindsight 60 ft., passive Perception 10 **Languages** —
+**Hit Points** 22 (5d6 + 5)
+
+**Speed** 10 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 12 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
+
+**Skills** Stealth +3
+
+**Senses** blindsight 60 ft., passive Perception 10
+
+**Languages** —
 
 **Challenge** 1/2 (100 XP)
-
-**Damage Immunities** fire, poison
-
-## **Condition Immunities** poisoned
 
 _**Echolocation.**_ The darkmantle can’t use its blindsight while deafened.
 
 _**False Appearance.**_ While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
 
-## **Actions** 
+#### **Actions** 
 
 _**Crush.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target’s head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way. While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle’s speed also becomes 0, it can’t benefit from any bonus to its speed, and it moves with the target.
 
 A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
 
-_**Darkness Aura (1/Day).**_ A 15-­‐foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+_**Darkness Aura (1/Day).**_ A 15-­foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
-## **Demons** 
+### **Demons** 
 
-## **Balor** 
+#### **Balor** 
 
 _Huge fiend (demon), chaotic evil_
 
-**Armor Class** 19 (natural armor) **Hit Points** 262 (21d12 + 126) **Speed** 40 ft., fly 80 ft.
+**Armor Class** 19 (natural armor)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |26    (+8)    15    (+2)    22    (+6)    20    (+5)    16    (+3)    22    (+6)| |**Saving    Throws**Str    +14,    Con    +12,    Wis    +9,    Cha    +12| |**Damage    Resistances**cold,    lightning;    bludgeoning,<br>piercing,    and    slashing    from    nonmagical    attacks|
+**Hit Points** 262 (21d12 + 126)
 
+**Speed** 40 ft., fly 80 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
 
-**Senses** truesight 120 ft., passive Perception 13 **Languages** Abyssal, telepathy 120 ft. **Challenge** 19 (22,000 XP)
+**Saving Throws** Str +14, Con +12, Wis +9, Cha +12
+
+**Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 13
+
+**Languages** Abyssal, telepathy 120 ft.
+
+**Challenge** 19 (22,000 XP)
 
 _**Death Throes.**_ When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren’t being worn or carried, and it destroys the balor’s weapons.
 
@@ -17112,7 +17428,8 @@ _**Magic Resistance.**_ The balor has advantage on saving throws against spells 
 
 _**Magic Weapons.**_ The balor’s weapon attacks are magical.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The balor makes two attacks: one with its longsword and one with its whip.
 
@@ -17122,21 +17439,34 @@ _**Whip.** Melee Weapon Attack:_ +14 to hit, reach 30 ft., one target. _Hit:_ 15
 
 _**Teleport.**_ The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-## **Dretch** 
+#### **Dretch** 
 
 _Small fiend (demon), chaotic evil_
 
-**Armor Class** 11 (natural armor) **Hit Points** 18 (4d6 + 4) **Speed** 20 ft.
+**Armor Class** 11 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||11    (+0)    11    (+0)    12    (+1)    5    (−3)|8    (−1)|3    (−4)|
+**Hit Points** 18 (4d6 + 4)
 
+**Speed** 20 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 11 (+0) | 12 (+1) | 5 (−3) | 8 (−1) | 3 (−4) |
 
-**Damage Resistances** cold, fire, lightning **Damage Immunities** poison **Condition Immunities** poisoned **Senses** darkvision 60 ft., passive Perception 9
+**Damage Resistances** cold, fire, lightning
 
-**Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal) **Challenge** 1/4 (50 XP)
+**Damage Immunities** poison
 
-## **Actions** 
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 9
+
+**Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
+
 
 _**Multiattack.**_ The dretch makes two attacks: one with its bite and one with its claws.
 
@@ -17146,19 +17476,33 @@ _**Claws.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 5 (
 
 _**Fetid Cloud (1/Day).**_ A 10-­‐foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can’t take reactions.
 
-## **Glabrezu** 
+#### **Glabrezu** 
 
 _Large fiend (demon), chaotic evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 157 (15d10 + 75) **Speed** 40 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||20    (+5)    15    (+2)    21    (+5)    19    (+4)    17    (+3)    16    (+3)|
+**Hit Points** 157 (15d10 + 75)
 
+**Speed** 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |
 
 **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
 
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks **Damage Immunities** poison **Condition Immunities** poisoned **Senses** truesight 120 ft., passive Perception 13 **Languages** Abyssal, telepathy 120 ft. **Challenge** 9 (5,000 XP)
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 13
+
+**Languages** Abyssal, telepathy 120 ft.
+
+**Challenge** 9 (5,000 XP)
 
 _**Innate Spellcasting.**_ The glabrezu’s spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
@@ -17168,7 +17512,8 @@ At will: _darkness_ , _detect magic_ , _dispel magic_
 
 _**Magic Resistance.**_ The glabrezu has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
@@ -17176,27 +17521,40 @@ _**Pincer.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 1
 
 _**Fist.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) bludgeoning damage.
 
-## **Hezrou** 
+#### **Hezrou** 
 
 _Large fiend (demon), chaotic evil_
 
-**Armor Class** 16 (natural armor) **Hit Points** 136 (13d10 + 65)
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 136 (13d10 + 65)
 
 **Speed** 30 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    17    (+3)    20    (+5)    5    (−3)    12    (+1)    13    (+1)|
-
-
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 17 (+3) | 20 (+5) | 5 (−3) | 12 (+1) | 13 (+1) |
 
 **Saving Throws** Str +7, Con +8, Wis +4
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison **Condition Immunities** poisoned **Senses** darkvision 120 ft., passive Perception 11 **Languages** Abyssal, telepathy 120 ft. **Challenge** 8 (3,900 XP)
+**Damage Immunities** poison
 
-_**Magic Resistance.**_ The hezrou has advantage on saving throws against spells and other magical effects. _**Stench.**_ Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou’s stench for 24 hours.
+**Condition Immunities** poisoned
 
-## **Actions** 
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Abyssal, telepathy 120 ft.
+
+**Challenge** 8 (3,900 XP)
+
+_**Magic Resistance.**_ The hezrou has advantage on saving throws against spells and other magical effects.
+
+_**Stench.**_ Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou’s stench for 24 hours.
+
+#### **Actions**
+
 
 _**Multiattack.**_ The hezrou makes three attacks: one with its bite and two with its claws.
 
@@ -17204,25 +17562,42 @@ _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 15 (
 
 _**Claw.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 
-## **Marilith** 
+#### **Marilith** 
 
 _Large fiend (demon), chaotic evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 189 (18d10 + 90) **Speed** 40 ft.
+**Armor Class** 18 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 20 (+5) 20 (+5) 18 (+4) 16 (+3) 20 (+5)
+**Hit Points** 189 (18d10 + 90)
 
-**Saving Throws** Str +9, Con +10, Wis +8, Cha +10 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 20 (+5) | 20 (+5) | 18 (+4) | 16 (+3) | 20 (+5) |
+
+**Saving Throws** Str +9, Con +10, Wis +8, Cha +10
+
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Damage Immunities** poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** truesight 120 ft., passive Perception 13 **Languages** Abyssal, telepathy 120 ft. **Challenge** 16 (15,000 XP)
+**Senses** truesight 120 ft., passive Perception 13
 
-_**Magic Resistance.**_ The marilith has advantage on saving throws against spells and other magical effects. _**Magic Weapons.**_ The marilith’s weapon attacks are magical. _**Reactive.**_ The marilith can take one reaction on every turn in a combat.
+**Languages** Abyssal, telepathy 120 ft.
 
-## **Actions** 
+**Challenge** 16 (15,000 XP)
+
+_**Magic Resistance.**_ The marilith has advantage on saving throws against spells and other magical effects.
+
+_**Magic Weapons.**_ The marilith’s weapon attacks are magical.
+
+_**Reactive.**_ The marilith can take one reaction on every turn in a combat.
+
+#### **Actions** 
+
 
 _**Multiattack.**_ The marilith makes seven attacks: six with its longswords and one with its tail.
 
@@ -17232,17 +17607,24 @@ _**Tail.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one creature. _Hit:_ 1
 
 _**Teleport.**_ The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-## **Reactions** 
+#### **Reactions** 
+
 
 _**Parry.**_ The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 
-## **Nalfeshnee** 
+#### **Nalfeshnee** 
 
 _Large fiend (demon), chaotic evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 184 (16d10 + 96) **Speed** 20 ft., fly 30 ft.
+**Armor Class** 18 (natural armor)
 
-**STR DEX CON INT WIS CHA** 21 (+5) 10 (+0) 22 (+6) 19 (+4) 12 (+1) 15 (+2)
+**Hit Points** 184 (16d10 + 96)
+
+**Speed** 20 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 10 (+0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
 
@@ -17250,13 +17632,17 @@ _Large fiend (demon), chaotic evil_
 
 **Damage Immunities** poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** truesight 120 ft., passive Perception 11 **Languages** Abyssal, telepathy 120 ft. **Challenge** 13 (10,000 XP)
+**Senses** truesight 120 ft., passive Perception 11
+
+**Languages** Abyssal, telepathy 120 ft.
+
+**Challenge** 13 (10,000 XP)
 
 _**Magic Resistance.**_ The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
 
@@ -17268,113 +17654,120 @@ _**Horror Nimbus (Recharge 5–6).**_ The nalfeshnee magically emits scintillati
 
 _**Teleport.**_ The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-## **Quasit** 
+#### **Quasit** 
 
 _Tiny fiend (demon, shapechanger), chaotic evil_
 
-## **Armor Class** 13
+**Armor Class** 13
 
-**Hit Points** 7 (3d4) **Speed** 40 ft.
+**Hit Points** 7 (3d4)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>5    (−3)    17    (+3)    10    (+0)    7    (−2)    10    (+0)    10    (+0)|
+**Speed** 40 ft.
 
-
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 5 (−3) | 17 (+3) | 10 (+0) | 7 (−2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +5
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** darkvision 120 ft., passive Perception 10 **Languages** Abyssal, Common **Challenge** 1 (200 XP)
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** Abyssal, Common
+
+**Challenge** 1 (200 XP)
 
 _**Shapechanger.**_ The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 _**Magic Resistance.**_ The quasit has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws (Bite in Beast Form).** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-_**Scare (1/Day).**_ One creature of the quasit’s choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its
-
-turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
+_**Scare (1/Day).**_ One creature of the quasit’s choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
 
 _**Invisibility.**_ The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
 
-## **Vrock** 
+#### **Vrock** 
 
 _Large fiend (demon), chaotic evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 104 (11d10 + 44) **Speed** 40 ft., fly 60 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    15    (+2)    18    (+4)    8    (−1)    13    (+1)    8    (−1)|
+**Hit Points** 104 (11d10 + 44)
 
+**Speed** 40 ft., fly 60 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 15 (+2) | 18 (+4) | 8 (−1) | 13 (+1) | 8 (−1) |
 
 **Saving Throws** Dex +5, Wis +4, Cha +2
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** darkvision 120 ft., passive Perception 11 **Languages** Abyssal, telepathy 120 ft. **Challenge** 6 (2,300 XP)
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Abyssal, telepathy 120 ft.
+
+**Challenge** 6 (2,300 XP)
 
 _**Magic Resistance.**_ The vrock has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The vrock makes two attacks: one with its beak and one with its talons.
 
 _**Beak.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.
 
-_**Talons.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage. _**Spores (Recharge 6).**_ A 15-­‐foot-­‐radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
+_**Talons.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage.
+
+_**Spores (Recharge 6).**_ A 15-­‐foot-­‐radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
 
 _**Stunning Screech (1/Day).**_ The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn’t a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock’s next turn.
 
-## **Devils** 
+### **Devils** 
 
-## **Barbed Devil**
+#### **Barbed Devil** 
 
 _Medium fiend (devil), lawful evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 110 (13d8 + 52) **Speed** 30 ft.
+**Armor Class** 15 (natural armor)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 17 (+3) 18 (+4) 12 (+1) 14 (+2) 14 (+2)
+**Hit Points** 110 (13d8 + 52)
 
-**Saving Throws** Str +6, Con +7, Wis +5, Cha +5 **Skills** Deception +5, Insight +5, Perception +8
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
+
+**Saving Throws** Str +6, Con +7, Wis +5, Cha +5
+
+**Skills** Deception +5, Insight +5, Perception +8
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 
-a flammable object that isn’t being worn or carried, it also catches fire.
-
-## **Bearded Devil**
-
-_Medium fiend (devil), lawful evil_
-
-**Armor Class** 13 (natural armor) **Hit Points** 52 (8d8 + 16) **Speed** 30 ft.
-
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    15    (+2)    15    (+2)    9    (−1)    11    (+0)    11    (+0)|
-
-
-
-**Saving Throws** Str +5, Con +4, Wis +2
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered **Damage Immunities** fire, poison
-
-## **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft., passive Perception 10 **Languages** Infernal, telepathy 120 ft. **Challenge** 3 (700 XP)
-
 **Damage Immunities** fire, poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** darkvision 120 ft., passive Perception 18 **Languages** Infernal, telepathy 120 ft. **Challenge** 5 (1,800 XP)
+**Senses** darkvision 120 ft., passive Perception 18
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 5 (1,800 XP)
 
 _**Barbed Hide.**_ At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
 
@@ -17382,7 +17775,8 @@ _**Devil’s Sight.**_ Magical darkness doesn’t impede the devil’s darkvisio
 
 _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions**
+
 
 _**Multiattack.**_ The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
@@ -17390,7 +17784,35 @@ _**Claw.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1
 
 _**Tail.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.
 
-_**Hurl Flame.** Ranged Spell Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is
+_**Hurl Flame.** Ranged Spell Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
+
+#### **Bearded Devil** 
+
+_Medium fiend (devil), lawful evil_
+
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 52 (8d8 + 16)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 15 (+2) | 15 (+2) | 9 (−1) | 11 (+0) | 11 (+0) |
+
+**Saving Throws** Str +5, Con +4, Wis +2
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 3 (700 XP)
 
 _**Devil’s Sight.**_ Magical darkness doesn’t impede the devil’s darkvision.
 
@@ -17398,7 +17820,8 @@ _**Magic Resistance.**_ The devil has advantage on saving throws against spells 
 
 _**Steadfast.**_ The devil can’t be frightened while it can see an allied creature within 30 feet of it.
 
-## **Actions** 
+#### **Actions**
+
 
 _**Multiattack.**_ The devil makes two attacks: one with its beard and one with its glaive.
 
@@ -17406,29 +17829,42 @@ _**Beard.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6
 
 _**Glaive.** Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 
-## **Bone Devil**
+#### **Bone Devil** 
 
 _Large fiend (devil), lawful evil_
 
-**Armor Class** 19 (natural armor) **Hit Points** 142 (15d10 + 60) **Speed** 40 ft., fly 40 ft.
+**Armor Class** 19 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    16    (+3)    18    (+4)    13    (+1)    14    (+2)    16    (+3)|
+**Hit Points** 142 (15d10 + 60)
 
+**Speed** 40 ft., fly 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
 
-**Saving Throws** Int +5, Wis +6, Cha +7 **Skills** Deception +7, Insight +6
+**Saving Throws** Int +5, Wis +6, Cha +7
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered **Damage Immunities** fire, poison
+**Skills** Deception +7, Insight +6
 
-## **Condition Immunities** poisoned
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 
-**Senses** darkvision 120 ft., passive Perception 12 **Languages** Infernal, telepathy 120 ft. **Challenge** 9 (5,000 XP)
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 9 (5,000 XP)
 
 _**Devil’s Sight.**_ Magical darkness doesn’t impede the devil’s darkvision.
 
 _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
+
 
 _**Multiattack.**_ The devil makes three attacks: two with its claws and one with its sting.
 
@@ -17436,29 +17872,41 @@ _**Claw.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 8 (
 
 _**Sting.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Chain Devil**
+#### **Chain Devil** 
 
 _Medium fiend (devil), lawful evil_
 
-**Armor Class** 16 (natural armor) **Hit Points** 85 (10d8 + 40) **Speed** 30 ft.
+**Armor Class** 16 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    15    (+2)    18    (+4)    11    (+0)    12    (+1)    14    (+2)|
+**Hit Points** 85 (10d8 + 40)
 
+**Speed** 30 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Saving Throws** Con +7, Wis +4, Cha +5
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered **Damage Immunities** fire, poison
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 
-## **Condition Immunities** poisoned
+**Damage Immunities** fire, poison
 
-**Senses** darkvision 120 ft., passive Perception 11 **Languages** Infernal, telepathy 120 ft. **Challenge** 8 (3,900 XP)
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 8 (3,900 XP)
 
 _**Devil’s Sight.**_ Magical darkness doesn’t impede the devil’s darkvision.
 
 _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
+
+
 
 _**Multiattack.**_ The devil makes two attacks with its chains.
 
@@ -17468,19 +17916,25 @@ _**Animate Chains (Recharges after a Short or Long Rest).**_ Up to four chains t
 
 Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can’t make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
 
-## **Reactions** 
+#### **Reactions** 
+
+
 
 _**Unnerving Mask.**_ When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature’s departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 
-## **Erinyes** 
+#### **Erinyes** 
 
 _Medium fiend (devil), lawful evil_
 
-**Armor Class** 18 (plate) **Hit Points** 153 (18d8 + 72) **Speed** 30 ft., fly 60 ft.
+**Armor Class** 18 (plate)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    16    (+3)    18    (+4)    14    (+2)    14    (+2)    18    (+4)|
+**Hit Points** 153 (18d8 + 72)
 
+**Speed** 30 ft., fly 60 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
 
 **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
 
@@ -17488,15 +17942,21 @@ _Medium fiend (devil), lawful evil_
 
 **Damage Immunities** fire, poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** truesight 120 ft., passive Perception 12 **Languages** Infernal, telepathy 120 ft. **Challenge** 12 (8,400 XP)
+**Senses** truesight 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 12 (8,400 XP)
 
 _**Hellish Weapons.**_ The erinyes’s weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
 
 _**Magic Resistance.**_ The erinyes has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions**
+
+
 
 _**Multiattack.**_ The erinyes makes three attacks.
 
@@ -17504,19 +17964,23 @@ _**Longsword.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_
 
 _**Longbow.** Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _lesser restoration_ spell or similar magic.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Parry.**_ The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
-## **Horned Devil**
+#### **Horned Devil** 
 
 _Large fiend (devil), lawful evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 178 (17d10 + 85) **Speed** 20 ft., fly 60 ft.
+**Armor Class** 18 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||22    (+6)    17    (+3)    21    (+5)    12    (+1)    16    (+3)    17    (+3)|
+**Hit Points** 178 (17d10 + 85)
 
+**Speed** 20 ft., fly 60 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
 
 **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
 
@@ -17524,15 +17988,19 @@ _Large fiend (devil), lawful evil_
 
 **Damage Immunities** fire, poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** darkvision 120 ft., passive Perception 13 **Languages** Infernal, telepathy 120 ft. **Challenge** 11 (7,200 XP)
+**Senses** darkvision 120 ft., passive Perception 13
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 11 (7,200 XP)
 
 _**Devil’s Sight.**_ Magical darkness doesn’t impede the devil’s darkvision.
 
 _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
 
@@ -17542,29 +18010,39 @@ _**Tail.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 10
 
 _**Hurl Flame.** Ranged Spell Attack:_ +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
-## **Ice Devil**
+#### **Ice Devil** 
 
 _Large fiend (devil), lawful evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 180 (19d10 + 76) **Speed** 40 ft.
+**Armor Class** 18 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||21    (+5)    14    (+2)    18    (+4)    18    (+4)    15    (+2)    18    (+4)|
+**Hit Points** 180 (19d10 + 76)
 
+**Speed** 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Saving Throws** Dex +7, Con +9, Wis +7, Cha +9 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered **Damage Immunities** cold, fire, poison
+**Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
 
-## **Condition Immunities** poisoned
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+
+**Damage Immunities** cold, fire, poison
+
+**Condition Immunities** poisoned
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
 
-**Languages** Infernal, telepathy 120 ft. **Challenge** 14 (11,500 XP)
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 14 (11,500 XP)
 
 _**Devil’s Sight.**_ Magical darkness doesn’t impede the devil’s darkvision.
 
 _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 
@@ -17576,27 +18054,37 @@ _**Tail.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 12
 
 _**Wall of Ice (Recharge 6).**_ The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it’s a hemispherical dome up to 20 feet in diameter.
 
-When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a
-
-successful one.
+When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
 
 The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-­‐foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 
-## **Imp** 
+#### **Imp** 
 
 _Tiny fiend (devil, shapechanger), lawful evil_
 
 **Armor Class** 13
 
-**Hit Points** 10 (3d4 + 3) **Speed** 20 ft., fly 40 ft.
+**Hit Points** 10 (3d4 + 3)
 
-|**Speed**20    ft.,    fly    40    ft.|| |---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**<br>**WIS**<br>**CHA**| |<br>6    (−2)    17    (+3)    13    (+1)|11    (+0)    12    (+1)    14    (+2)| |**Skills**Deception    +4,    Insight<br>+5|+3,    Persuasion    +4,    Stealth|
+**Speed** 20 ft., fly 40 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
 
+**Skills** Deception +4, Insight +5 +3, Persuasion +4, Stealth
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered **Damage Immunities** fire, poison
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 
-**Condition Immunities** poisoned **Senses** darkvision 120 ft., passive Perception 11 **Languages** Infernal, Common **Challenge** 1 (200 XP)
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Infernal, Common
+
+**Challenge** 1 (200 XP)
 
 _**Shapechanger.**_ The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
@@ -17604,59 +18092,79 @@ _**Devil’s Sight.**_ Magical darkness doesn’t impede the imp’s darkvision.
 
 _**Magic Resistance.**_ The imp has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
 
 _**Sting (Bite in Beast Form).** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 _**Invisibility.**_ The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
 
-## **Lemure** 
+#### **Lemure** 
 
 _Medium fiend (devil), lawful evil_
 
-## **Armor Class** 7
+**Armor Class** 7
 
-**Hit Points** 13 (3d8) **Speed** 15 ft.
+**Hit Points** 13 (3d8)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    5    (−3)    11    (+0)    1    (−5)    11    (+0)    3    (−4)|
+**Speed** 15 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 5 (−3) | 11 (+0) | 1 (−5) | 11 (+0) | 3 (−4) |
 
-
-## **Damage Resistances** cold
+**Damage Resistances** cold
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** charmed, frightened, poisoned **Senses** darkvision 120 ft., passive Perception 10 **Languages** understands Infernal but can’t speak **Challenge** 0 (10 XP)
+**Condition Immunities** charmed, frightened, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands Infernal but can’t speak
+
+**Challenge** 0 (10 XP)
 
 _**Devil’s Sight.**_ Magical darkness doesn’t impede the lemure’s darkvision.
 
 _**Hellish Rejuvenation.**_ A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-­‐aligned creature with a _bless_ spell cast on that creature or its remains are sprinkled with holy water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Fist.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
-## **Pit Fiend**
+#### **Pit Fiend** 
 
 _Large fiend (devil), lawful evil_
 
-**Armor Class** 19 (natural armor) **Hit Points** 300 (24d10 + 168) **Speed** 30 ft., fly 60 ft.
+**Armor Class** 19 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||26    (+8)    14    (+2)    24    (+7)    22    (+6)    18    (+4)    24    (+7)|
+**Hit Points** 300 (24d10 + 168)
 
+**Speed** 30 ft., fly 60 ft.
 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
 
 **Saving Throws** Dex +8, Con +13, Wis +10
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered **Damage Immunities** fire, poison
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 
-## **Condition Immunities** poisoned
+**Damage Immunities** fire, poison
 
-**Senses** truesight 120 ft., passive Perception 14 **Languages** Infernal, telepathy 120 ft. **Challenge** 20 (25,000 XP)
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 14
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 20 (25,000 XP)
 
 _**Fear Aura.**_ Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature’s saving throw is successful, the creature is immune to the pit fiend’s Fear Aura for the next 24 hours.
 
-_**Magic Resistance.**_ The pit fiend has advantage on saving throws against spells and other magical effects. _**Magic Weapons.**_ The pit fiend’s weapon attacks are magical.
+_**Magic Resistance.**_ The pit fiend has advantage on saving throws against spells and other magical effects.
+
+_**Magic Weapons.**_ The pit fiend’s weapon attacks are magical.
 
 _**Innate Spellcasting.**_ The pit fiend’s spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
 
@@ -17664,7 +18172,7 @@ At will: _detect magic_ , _fireball_
 
 3/day each: _hold monster_ , _wall of fire_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
@@ -17676,53 +18184,89 @@ _**Mace.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15
 
 _**Tail.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 24 (3d10 + 8) bludgeoning damage.
 
-## **Dinosaurs** 
+### **Dinosaurs** 
 
-## **Plesiosaurus** 
+#### **Plesiosaurus** 
 
-_Large beast, unaligned_ **Armor Class** 13 (natural armor) **Hit Points** 68 (8d10 + 24) **Speed** 20 ft., swim 40 ft.
+_Large beast, unaligned_
 
-**STR DEX CON INT WIS CHA** 18 (+4) 15 (+2) 16 (+3) 2 (−4) 12 (+1) 5 (−3)
+**Armor Class** 13 (natural armor)
 
-**Skills** Perception +3, Stealth +4 **Senses** passive Perception 13 **Languages** — **Challenge** 2 (450 XP)
+**Hit Points** 68 (8d10 + 24)
+
+**Speed** 20 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 12 (+1) | 5 (−3) |
+
+**Skills** Perception +3, Stealth +4
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Hold Breath.**_ The plesiosaurus can hold its breath for 1 hour.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) piercing damage.
 
-## **Triceratops** 
+#### **Triceratops** 
 
 _Huge beast, unaligned_
 
-**Armor Class** 13 (natural armor) **Hit Points** 95 (10d12 + 30) **Speed** 50 ft.
+**Armor Class** 13 (natural armor)
 
-**STR DEX CON INT WIS CHA** 22 (+6) 9 (−1) 17 (+3) 2 (−4) 11 (+0) 5 (−3)
+**Hit Points** 95 (10d12 + 30)
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 5 (1,800 XP)
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 22 (+6) | 9 (−1) | 17 (+3) | 2 (−4) | 11 (+0) | 5 (−3) |
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 5 (1,800 XP)
 
 _**Trampling Charge.**_ If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Gore.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 24 (4d8 + 6) piercing damage.
 
 _**Stomp.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
 
-## **Tyrannosaurus Rex**
+#### **Tyrannosaurus Rex** 
 
 _Huge beast, unaligned_
 
-**Armor Class** 13 (natural armor) **Hit Points** 136 (13d12 + 52) **Speed** 50 ft.
+**Armor Class** 13 (natural armor)
 
-**STR DEX CON INT WIS CHA** 25 (+7) 10 (+0) 19 (+4) 2 (−4) 12 (+1) 9 (−1)
+**Hit Points** 136 (13d12 + 52)
 
-**Skills** Perception +4 **Senses** passive Perception 14 **Languages** — **Challenge** 8 (3,900 XP)
+**Speed** 50 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 25 (+7) | 10 (+0) | 19 (+4) | 2 (−4) | 12 (+1) | 9 (−1) |
+
+**Skills** Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** —
+
+**Challenge** 8 (3,900 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can’t make both attacks against the same target.
 
@@ -17730,21 +18274,29 @@ _**Bite.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 33
 
 _**Tail.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.
 
-## **Doppelganger** 
+#### **Doppelganger** 
 
 _Medium monstrosity (shapechanger), neutral_
 
 **Armor Class** 14
 
-**Hit Points** 52 (8d8 + 16) **Speed** 30 ft.
+**Hit Points** 52 (8d8 + 16)
 
-**STR DEX CON INT WIS CHA** 11 (+0) 18 (+4) 14 (+2) 11 (+0) 12 (+1) 14 (+2)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Skills** Deception +6, Insight +3
 
-## **Condition Immunities** charmed
+**Condition Immunities** charmed
 
-**Senses** darkvision 60 ft., passive Perception 11 **Languages** Common **Challenge** 3 (700 XP)
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** Common
+
+**Challenge** 3 (700 XP)
 
 _**Shapechanger.**_ The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
@@ -17752,7 +18304,7 @@ _**Ambusher.**_ In the first round of a combat, the doppelganger has advantage o
 
 _**Surprise Attack.**_ If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The doppelganger makes two melee attacks.
 
@@ -17760,27 +18312,41 @@ _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1
 
 _**Read Thoughts.**_ The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger’s concentration isn’t broken (as if concentrating on a spell). While reading the target’s mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 
-## **Dragons, Chromatic** 
+### **Dragons, Chromatic** 
 
-## **Black Dragon** 
+### **Black Dragon** 
 
-## **Ancient Black Dragon**
+#### **Ancient Black Dragon** 
 
-_Gargantuan dragon, chaotic evil_ **Armor Class** 22 (natural armor) **Hit Points** 367 (21d20 + 147) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+_Gargantuan dragon, chaotic evil_
 
-**STR DEX CON INT WIS CHA** 27 (+8) 14 (+2) 25 (+7) 16 (+3) 15 (+2) 19 (+4)
+**Armor Class** 22 (natural armor)
 
-**Saving Throws** Dex +9, Con +14, Wis +9, Cha +11 **Skills** Perception +16, Stealth +9
+**Hit Points** 367 (21d20 + 147)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
+
+**Skills** Perception +16, Stealth +9
 
 **Damage Immunities** acid
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
 
-**Languages** Common, Draconic **Challenge** 21 (33,000 XP)
+**Languages** Common, Draconic
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+**Challenge** 21 (33,000 XP)
 
-## **Actions** 
+_**Amphibious.**_ The dragon can breathe air and water.
+
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -17792,9 +18358,9 @@ _**Tail.** Melee Weapon Attack:_ +15 to hit, reach 20 ft., one target. _Hit:_ 17
 
 _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
 
-_**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 90-­‐foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
+_**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 90-­foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -17804,29 +18370,37 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Black Dragon**
+#### **Adult Black Dragon** 
 
 _Huge dragon, chaotic evil_
 
-**Armor Class** 19 (natural armor) **Hit Points** 195 (17d12 + 85)
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 195 (17d12 + 85)
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||23    (+6)    14    (+2)    21    (+5)    14    (+2)    13    (+1)    17    (+3)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
+**Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
 
-
-**Saving Throws** Dex +7, Con +10, Wis +6, Cha +8 **Skills** Perception +11, Stealth +7
+**Skills** Perception +11, Stealth +7
 
 **Damage Immunities** acid
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 
-**Languages** Common, Draconic **Challenge** 14 (11,500 XP)
+**Languages** Common, Draconic
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+**Challenge** 14 (11,500 XP)
 
-## **Actions** 
+_**Amphibious.**_ The dragon can breathe air and water.
+
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -17836,13 +18410,11 @@ _**Claw.** Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 13 
 
 _**Tail.** Melee Weapon Attack:_ +11 to hit, reach 15 ft., one target. _Hit:_ 15 (2d8 + 6) bludgeoning damage.
 
-_**Frightful Presence.**_ Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat
+_**Frightful Presence.**_ Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
 
-the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
+_**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 60-­foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
-_**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 60-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
-
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -17852,29 +18424,35 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Black Dragon**
+#### **Young Black Dragon** 
 
 _Large dragon, chaotic evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 127 (15d10 + 45)
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 127 (15d10 + 45)
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    14    (+2)    17    (+3)    12    (+1)    11    (+0)    15    (+2)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
+**Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
 
-
-**Saving Throws** Dex +5, Con +6, Wis +3, Cha +5 **Skills** Perception +6, Stealth +5
+**Skills** Perception +6, Stealth +5
 
 **Damage Immunities** acid
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 
-**Languages** Common, Draconic **Challenge** 7 (2,900 XP)
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -17884,27 +18462,9 @@ _**Claw.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (
 
 _**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 30-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 
-## **Black Dragon Wyrmling**
+#### **Black Dragon Wyrmling** 
 
 _Medium dragon, chaotic evil_
-
-## **Ancient Blue Dragon**
-
-_Gargantuan dragon, lawful evil_
-
-**Armor Class** 22 (natural armor) **Hit Points** 481 (26d20 + 208) **Speed** 40 ft., burrow 40 ft., fly 80 ft.
-
-**STR DEX CON INT WIS CHA** 29 (+9) 10 (+0) 27 (+8) 18 (+4) 17 (+3) 21 (+5)
-
-**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12 **Skills** Perception +17, Stealth +7
-
-## **Damage Immunities** lightning
-
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-
-**Languages** Common, Draconic
-
-**Challenge** 23 (50,000 XP)
 
 **Armor Class** 17 (natural armor)
 
@@ -17912,29 +18472,61 @@ _Gargantuan dragon, lawful evil_
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-**STR DEX CON INT WIS CHA** 15 (+2) 14 (+2) 13 (+1) 10 (+0) 11 (+0) 13 (+1)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +4, Con +3, Wis +2, Cha +3 **Skills** Perception +4, Stealth +4
+**Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
 
-## **Damage Immunities** acid
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** acid
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
-**Languages** Draconic **Challenge** 2 (450 XP)
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
 _**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 15-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
-## **Blue Dragon** 
+### **Blue Dragon** 
+
+#### **Ancient Blue Dragon** 
+
+_Gargantuan dragon, lawful evil_
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 481 (26d20 + 208)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -17948,7 +18540,7 @@ _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 
 
 _**Lightning Breath (Recharge 5–6).**_ The dragon exhales lightning in a 120-­‐foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -17958,7 +18550,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Blue Dragon**
+#### **Adult Blue Dragon** 
 
 _Huge dragon, lawful evil_
 
@@ -17968,17 +18560,25 @@ _Huge dragon, lawful evil_
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-**STR DEX CON INT WIS CHA** 25 (+7) 10 (+0) 23 (+6) 16 (+3) 15 (+2) 19 (+4)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
-**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9 **Skills** Perception +12, Stealth +5
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Perception +12, Stealth +5
 
 **Damage Immunities** lightning
 
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22 **Languages** Common, Draconic **Challenge** 16 (15,000 XP)
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -17992,37 +18592,43 @@ _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 
 
 _**Lightning Breath (Recharge 5–6).**_ The dragon exhales lightning in a 90-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
 **Detect.** The dragon makes a Wisdom (Perception) check.
 
-- **Tail Attack.** The dragon makes a tail attack.
+**Tail Attack.** The dragon makes a tail attack.
 
-- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Blue Dragon**
+#### **Young Blue Dragon** 
 
 _Large dragon, lawful evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 152 (16d10 + 64)
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 152 (16d10 + 64)
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-**STR DEX CON INT WIS CHA** 21 (+5) 10 (+0) 19 (+4) 14 (+2) 13 (+1) 17 (+3)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
-**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7 **Skills** Perception +9, Stealth +4
+**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
+
+**Skills** Perception +9, Stealth +4
 
 **Damage Immunities** lightning
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 
-**Languages** Common, Draconic **Challenge** 9 (5,000 XP)
+**Languages** Common, Draconic
 
-## **Green Dragon** 
+**Challenge** 9 (5,000 XP)
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -18030,9 +18636,9 @@ _**Bite.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 
 
 _**Claw.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.
 
-_**Lightning Breath (Recharge 5–6).**_ The dragon exhales lightning in an 60-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+_**Lightning Breath (Recharge 5–6).**_ The dragon exhales lightning in an 60-­foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-## **Blue Dragon Wyrmling**
+#### **Blue Dragon Wyrmling** 
 
 _Medium dragon, lawful evil_
 
@@ -18042,43 +18648,65 @@ _Medium dragon, lawful evil_
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
-**STR DEX CON INT WIS CHA** 17 (+3) 10 (+0) 15 (+2) 12 (+1) 11 (+0) 15 (+2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4 **Skills** Perception +4, Stealth +2
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
 
 **Damage Immunities** lightning
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
-**Languages** Draconic **Challenge** 3 (700 XP)
+**Languages** Draconic
 
-## **Actions** 
+**Challenge** 3 (700 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
 _**Lightning Breath (Recharge 5–6).**_ The dragon exhales lightning in a 30-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-## **Ancient Green Dragon**
+### **Green Dragon** 
+
+#### **Ancient Green Dragon** 
 
 _Gargantuan dragon, lawful evil_
 
-**Armor Class** 21 (natural armor) **Hit Points** 385 (22d20 + 154) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+**Armor Class** 21 (natural armor)
 
-**STR DEX CON INT WIS CHA** 27 (+8) 12 (+1) 25 (+7) 20 (+5) 17 (+3) 19 (+4)
+**Hit Points** 385 (22d20 + 154)
 
-**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11 **Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-## **Damage Immunities** poison
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
 
-## **Condition Immunities** poisoned
+
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 
-**Languages** Common, Draconic **Challenge** 22 (41,000 XP)
+**Languages** Common, Draconic
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+**Challenge** 22 (41,000 XP)
 
-## **Actions** 
+_**Amphibious.**_ The dragon can breathe air and water.
+
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18092,7 +18720,7 @@ _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 
 
 _**Poison Breath (Recharge 5–6).**_ The dragon exhales poisonous gas in a 90-­‐foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18102,7 +18730,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Green Dragon**
+#### **Adult Green Dragon** 
 
 _Huge dragon, lawful evil_
 
@@ -18112,23 +18740,31 @@ _Huge dragon, lawful evil_
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-**STR DEX CON INT WIS CHA** 23 (+6) 12 (+1) 21 (+5) 18 (+4) 15 (+2) 17 (+3)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
 
 **Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
 
-**Languages** Common, Draconic **Challenge** 15 (13,000 XP)
+**Languages** Common, Draconic
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+**Challenge** 15 (13,000 XP)
 
-## **Actions** 
+_**Amphibious.**_ The dragon can breathe air and water.
+
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18142,7 +18778,7 @@ _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 
 
 _**Poison Breath (Recharge 5–6).**_ The dragon exhales poisonous gas in a 60-­‐foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18152,23 +18788,39 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Green Dragon**
+#### **Young Green Dragon** 
 
 _Large dragon, lawful evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 136 (16d10 + 48)
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10 + 48)
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-**STR DEX CON INT WIS CHA** 19 (+4) 12 (+1) 17 (+3) 16 (+3) 13 (+1) 15 (+2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
-**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5 **Skills** Deception +5, Perception +7, Stealth +4 **Damage Immunities** poison **Condition Immunities** poisoned **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 
-**Languages** Common, Draconic **Challenge** 8 (3,900 XP)
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -18178,7 +18830,7 @@ _**Claw.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (
 
 _**Poison Breath (Recharge 5–6).**_ The dragon exhales poisonous gas in a 30-­‐foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Green Dragon Wyrmling**
+#### **Green Dragon Wyrmling** 
 
 _Medium dragon, lawful evil_
 
@@ -18186,25 +18838,33 @@ _Medium dragon, lawful evil_
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 
 _**Poison Breath (Recharge 5–6).**_ The dragon exhales poisonous gas in a 15-­‐foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Red Dragon** 
+### **Red Dragon** 
 
-## **Ancient Red Dragon**
+#### **Ancient Red Dragon** 
 
 _Gargantuan dragon, chaotic evil_
 
 **Armor Class** 22 (natural armor)
 
-**Hit Points** 546 (28d20 + 252) **Speed** 40 ft., climb 40 ft., fly 80 ft.
+**Hit Points** 546 (28d20 + 252)
 
-**STR DEX CON INT WIS CHA** 30 (+10) 10 (+0) 29 (+9) 18 (+4) 15 (+2) 23 (+6)
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13 **Skills** Perception +16, Stealth +7
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
 
 **Damage Immunities** fire
 
@@ -18218,15 +18878,29 @@ _Gargantuan dragon, chaotic evil_
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-**STR DEX CON INT WIS CHA** 15 (+2) 12 (+1) 13 (+1) 14 (+2) 11 (+0) 13 (+1)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3 **Skills** Perception +4, Stealth +3 **Damage Immunities** poison **Condition Immunities** poisoned **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
-**Languages** Draconic **Challenge** 2 (450 XP)
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18240,7 +18914,7 @@ _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 
 
 _**Fire Breath (Recharge 5–6).**_ The dragon exhales fire in a 90-­‐foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18250,7 +18924,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Red Dragon**
+#### **Adult Red Dragon** 
 
 _Huge dragon, chaotic evil_
 
@@ -18260,21 +18934,27 @@ _Huge dragon, chaotic evil_
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||27    (+8)    10    (+0)    25    (+7)    16    (+3)    13    (+1)    21    (+5)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
 
 
-**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11 **Skills** Perception +13, Stealth +6
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
 
 **Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
 
-**Languages** Common, Draconic **Challenge** 17 (18,000 XP)
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18288,7 +18968,7 @@ _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 
 
 _**Fire Breath (Recharge 5–6).**_ The dragon exhales fire in a 60-­‐foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18298,7 +18978,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Red Dragon**
+#### **Young Red Dragon** 
 
 _Large dragon, chaotic evil_
 
@@ -18308,13 +18988,19 @@ _Large dragon, chaotic evil_
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-**STR DEX CON INT WIS CHA** 23 (+6) 10 (+0) 21 (+5) 14 (+2) 11 (+0) 19 (+4)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8 **Skills** Perception +8, Stealth +4
+
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
 
 **Challenge** 4 (1,100 XP)
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 
@@ -18324,9 +19010,11 @@ _**Fire Breath (Recharge 5–6).**_ The dragon exhales fire in a 15-­‐foot co
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 
-**Languages** Common, Draconic **Challenge** 10 (5,900 XP)
+**Languages** Common, Draconic
 
-## **Actions** 
+**Challenge** 10 (5,900 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -18336,25 +19024,35 @@ _**Claw.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 
 
 _**Fire Breath (Recharge 5–6).**_ The dragon exhales fire in a 30-­‐foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Red Dragon Wyrmling**
+#### **Red Dragon Wyrmling** 
 
 _Medium dragon, chaotic evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 75 (10d8 + 30)
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8 + 30)
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-**STR DEX CON INT WIS CHA** 19 (+4) 10 (+0) 17 (+3) 12 (+1) 11 (+0) 15 (+2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4 **Skills** Perception +4, Stealth +2
+
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
 
 **Damage Immunities** fire
 
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14 **Languages** Draconic
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
-## **White Dragon** 
+**Languages** Draconic
 
-## **Ancient White Dragon**
+### **White Dragon** 
+
+#### **Ancient White Dragon** 
 
 _Gargantuan dragon, chaotic evil_
 
@@ -18364,33 +19062,43 @@ _Gargantuan dragon, chaotic evil_
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
 
-**STR DEX CON INT WIS CHA** 26 (+8) 10 (+0) 26 (+8) 10 (+0) 13 (+1) 14 (+2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
 
-**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8 **Skills** Perception +13, Stealth +6
+
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
 
 **Damage Immunities** cold
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
 
-**Languages** Common, Draconic **Challenge** 20 (25,000 XP)
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
 
 _**Ice Walk.**_ The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra moment.
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 _**Bite.** Melee Weapon Attack:_ +14 to hit, reach 15 ft., one target. _Hit:_ 19 (2d10 + 8) piercing damage plus 9 (2d8) cold damage.
 
-_**Claw.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 8) slashing damage. _**Tail.** Melee Weapon Attack:_ +14 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
+_**Claw.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 8) slashing damage.
+
+_**Tail.** Melee Weapon Attack:_ +14 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
 
 _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
 
 _**Cold Breath (Recharge 5–6).**_ The dragon exhales an icy blast in a 90-­‐foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18400,27 +19108,39 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult White Dragon**
+#### **Adult White Dragon** 
 
 _Huge dragon, chaotic evil_
 
-**Armor Class** 18 (natural armor) **Hit Points** 200 (16d12 + 96)
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12 + 96)
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |22    (+6)    10    (+0)    22    (+6)    8    (−1)    12    (+1)    12    (+1)| |**Saving    Throws**Dex    +5,    Con    +11,    Wis    +6,    Cha    +6| |**Skills**Perception    +11,    Stealth    +5| |**Damage    Immunities**cold|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (−1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
 
 
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 
-**Languages** Common, Draconic **Challenge** 13 (10,000 XP)
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
 
 _**Ice Walk.**_ The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra moment.
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18434,7 +19154,7 @@ _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 
 
 _**Cold Breath (Recharge 5–6).**_ The dragon exhales an icy blast in a 60-­‐foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18444,7 +19164,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young White Dragon**
+#### **Young White Dragon** 
 
 _Large dragon, chaotic evil_
 
@@ -18454,19 +19174,27 @@ _Large dragon, chaotic evil_
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
 
-**STR DEX CON INT WIS CHA** 18 (+4) 10 (+0) 18 (+4) 6 (−2) 11 (+0) 12 (+1)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (−2) | 11 (+0) | 12 (+1) |
 
-**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4 **Skills** Perception +6, Stealth +3
+
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
 
 **Damage Immunities** cold
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 
-**Languages** Common, Draconic **Challenge** 6 (2,300 XP)
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
 
 _**Ice Walk.**_ The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra moment.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -18476,7 +19204,7 @@ _**Claw.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (
 
 _**Cold Breath (Recharge 5–6).**_ The dragon exhales an icy blast in a 30-­‐foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 
-## **White Dragon Wyrmling**
+#### **White Dragon Wyrmling** 
 
 _Medium dragon, chaotic evil_
 
@@ -18484,41 +19212,55 @@ _Medium dragon, chaotic evil_
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||14    (+2)    10    (+0)    14    (+2)    5    (−3)    10    (+0)    11    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (−3) | 10 (+0) | 11 (+0) |
 
 
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2 **Skills** Perception +4, Stealth +2
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
 
 **Damage Immunities** cold
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
-**Languages** Draconic **Challenge** 2 (450 XP)
+**Languages** Draconic
 
-## **Actions** 
+**Challenge** 2 (450 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
 _**Cold Breath (Recharge 5–6).**_ The dragon exhales an icy blast of hail in a 15-­‐foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
-## **Dragons, Metallic** 
+### **Dragons, Metallic** 
 
-## **Brass Dragon** 
+### **Brass Dragon** 
 
-## **Ancient Brass Dragon**
+#### **Ancient Brass Dragon** 
 
 _Gargantuan dragon, chaotic good_
 
-**Armor Class** 20 (natural armor) **Hit Points** 297 (17d20 + 119)
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 297 (17d20 + 119)
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-**STR DEX CON INT WIS CHA** 27 (+8) 10 (+0) 25 (+7) 16 (+3) 15 (+2) 19 (+4)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
-**Saving Throws** Dex +6, Con +13, Wis +8, Cha +10 **Skills** History +9, Perception +14, Persuasion +10, Stealth +6
 
-## **Damage Immunities** fire
+
+**Saving Throws** Dex +6, Con +13, Wis +8, Cha +10
+
+**Skills** History +9, Perception +14, Persuasion +10, Stealth +6
+
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 
@@ -18530,13 +19272,15 @@ _Gargantuan dragon, chaotic good_
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 _**Bite.** Melee Weapon Attack:_ +14 to hit, reach 15 ft., one target. _Hit:_ 19 (2d10 + 8) piercing damage.
 
-_**Claw.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 8) slashing damage. _**Tail.** Melee Weapon Attack:_ +14 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
+_**Claw.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 8) slashing damage.
+
+_**Tail.** Melee Weapon Attack:_ +14 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
 
 _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
 
@@ -18550,7 +19294,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18560,7 +19304,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Brass Dragon**
+#### **Adult Brass Dragon** 
 
 _Huge dragon, chaotic good_
 
@@ -18570,11 +19314,19 @@ _Huge dragon, chaotic good_
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |23    (+6)    10    (+0)    21    (+5)    14    (+2)    13    (+1)    17    (+3)| |**Saving    Throws**Dex    +5,    Con    +10,    Wis    +6,    Cha    +8| |**Skills**History    +7,    Perception    +11,    Persuasion    +8,    Stealth| |+5|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +5, Con +10, Wis +6, Cha +8
+
+**Skills** History +7, Perception +11, Persuasion +8, Stealth
+
++5
 
 
 
-## **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 
@@ -18584,7 +19336,7 @@ _Huge dragon, chaotic good_
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18602,7 +19354,7 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Sleep Breath.** The dragon exhales sleep gas in a 60-­‐foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18612,19 +19364,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Brass Dragon**
+#### **Young Brass Dragon** 
 
 _Large dragon, chaotic good_
 
-**Armor Class** 17 (natural armor) **Hit Points** 110 (13d10 + 39) **Speed** 40 ft., burrow 20 ft., fly 80 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    10    (+0)    17    (+3)    12    (+1)    11    (+0)    15    (+2)|
+**Hit Points** 110 (13d10 + 39)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 
 
-**Saving Throws** Dex +3, Con +6, Wis +3, Cha +5 **Skills** Perception +6, Persuasion +5, Stealth +3
+**Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
 
-## **Damage Immunities** fire
+**Skills** Perception +6, Persuasion +5, Stealth +3
+
+**Damage Immunities** fire
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 
@@ -18632,7 +19392,7 @@ _Large dragon, chaotic good_
 
 **Challenge** 6 (2,300 XP)
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -18646,15 +19406,23 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Sleep Breath.** The dragon exhales sleep gas in a 30-­‐foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-## **Brass Dragon Wyrmling**
+#### **Brass Dragon Wyrmling** 
 
 _Medium dragon, chaotic good_
 
-**Armor Class** 16 (natural armor) **Hit Points** 16 (3d8 + 3)
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 16 (3d8 + 3)
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
-|**Speed**30    ft.,    burrow    15    ft.,    fly    60    ft.|| |---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**|**CHA**| |15    (+2)    10    (+0)    13    (+1)    10    (+0)    11    (+0)    13    (+1)|| |**Saving    Throws**Dex    +2,    Con    +3,    Wis    +2,    Cha    +3|| |**Skills**Perception    +4,    Stealth    +2||
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +2
 
 
 
@@ -18662,11 +19430,13 @@ _Medium dragon, chaotic good_
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
-**Languages** Draconic **Challenge** 1 (200 XP)
+**Languages** Draconic
 
-## **Actions** 
+**Challenge** 1 (200 XP)
 
-## **Actions** 
+#### **Actions** 
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.
 
@@ -18676,9 +19446,9 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 **Sleep Breath.** The dragon exhales sleep gas in a 15-­‐foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-## **Bronze Dragon** 
+### **Bronze Dragon** 
 
-## **Ancient Bronze Dragon**
+#### **Ancient Bronze Dragon** 
 
 _Gargantuan dragon, lawful good_
 
@@ -18688,19 +19458,27 @@ _Gargantuan dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||29    (+9)    10    (+0)    27    (+8)    18    (+4)    17    (+3)    21    (+5)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
 
 
-**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12 **Skills** Insight +10, Perception +17, Stealth +7
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Insight +10, Perception +17, Stealth +7
 
 **Damage Immunities** lightning
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 
-**Languages** Common, Draconic **Challenge** 22 (41,000 XP)
+**Languages** Common, Draconic
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+**Challenge** 22 (41,000 XP)
+
+_**Amphibious.**_ The dragon can breathe air and water.
+
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18722,7 +19500,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18732,23 +19510,39 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Bronze Dragon**
+#### **Adult Bronze Dragon** 
 
 _Huge dragon, lawful good_
 
-**Armor Class** 19 (natural armor) **Hit Points** 212 (17d12 + 102) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+**Armor Class** 19 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||25    (+7)    10    (+0)    23    (+6)    16    (+3)    15    (+2)    19    (+4)|
+**Hit Points** 212 (17d12 + 102)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 
 
-**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9 **Skills** Insight +7, Perception +12, Stealth +5 **Damage Immunities** lightning
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
 
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22 **Languages** Common, Draconic **Challenge** 15 (13,000 XP)
+**Skills** Insight +7, Perception +12, Stealth +5
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+**Damage Immunities** lightning
 
-## **Actions** 
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+_**Amphibious.**_ The dragon can breathe air and water.
+
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18756,7 +19550,9 @@ _**Bite.** Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 18
 
 _**Claw.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 14 (2d6 + 7) slashing damage.
 
-_**Tail.** Melee Weapon Attack:_ +12 to hit, reach 15 ft., one target. _Hit:_ 16 (2d8 + 7) bludgeoning damage. _**Frightful Presence.**_ Each creature of the dragon’s choice that is within 120 feet of the dragon and aware
+_**Tail.** Melee Weapon Attack:_ +12 to hit, reach 15 ft., one target. _Hit:_ 16 (2d8 + 7) bludgeoning damage.
+
+_**Frightful Presence.**_ Each creature of the dragon’s choice that is within 120 feet of the dragon and aware
 
 of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
 
@@ -18770,7 +19566,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18780,21 +19576,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Bronze Dragon**
+#### **Young Bronze Dragon** 
 
 _Large dragon, lawful good_
 
 **Armor Class** 18 (natural armor)
 
-**Hit Points** 142 (15d10 + 60) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+**Hit Points** 142 (15d10 + 60)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||21    (+5)    10    (+0)    19    (+4)    14    (+2)    13    (+1)    17    (+3)|
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 
 
-**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6 **Skills** Insight +4, Perception +7, Stealth +3
+**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
 
-## **Damage Immunities** lightning
+**Skills** Insight +4, Perception +7, Stealth +3
+
+**Damage Immunities** lightning
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 
@@ -18804,7 +19606,7 @@ _Large dragon, lawful good_
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -18818,27 +19620,37 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 **Repulsion Breath.** The dragon exhales repulsion energy in a 30-­‐foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
 
-## **Bronze Dragon Wyrmling**
+#### **Bronze Dragon Wyrmling** 
 
 _Medium dragon, lawful good_
 
-**Armor Class** 17 (natural armor) **Hit Points** 32 (5d8 + 10) **Speed** 30 ft., fly 60 ft., swim 30 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    10    (+0)    15    (+2)    12    (+1)    11    (+0)    15    (+2)|
+**Hit Points** 32 (5d8 + 10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4 **Skills** Perception +4, Stealth +2
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
 
 **Damage Immunities** lightning
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
-**Languages** Draconic **Challenge** 2 (450 XP)
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.
 
@@ -18848,29 +19660,39 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-­‐foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
 
-## **Copper Dragon** 
+### **Copper Dragon** 
 
-## **Ancient Copper Dragon**
+#### **Ancient Copper Dragon** 
 
 _Gargantuan dragon, chaotic good_
 
-**Armor Class** 21 (natural armor) **Hit Points** 350 (20d20 + 140) **Speed** 40 ft., climb 40 ft., fly 80 ft.
+**Armor Class** 21 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||27    (+8)    12    (+1)    25    (+7)    20    (+5)    17    (+3)    19    (+4)|
+**Hit Points** 350 (20d20 + 140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
 
 
 
-**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11 **Skills** Deception +11, Perception +17, Stealth +8
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
 
 **Damage Immunities** acid
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 
-**Languages** Common, Draconic **Challenge** 21 (33,000 XP)
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18892,7 +19714,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -18902,27 +19724,37 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Copper Dragon**
+#### **Adult Copper Dragon** 
 
 _Huge dragon, chaotic good_
 
-**Armor Class** 18 (natural armor) **Hit Points** 184 (16d12 + 80)
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12 + 80)
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||23    (+6)    12    (+1)    21    (+5)    18    (+4)    15    (+2)    17    (+3)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
 
 
 
-**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8 **Skills** Deception +8, Perception +12, Stealth +6 **Damage Immunities** acid
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
 
-**Languages** Common, Draconic **Challenge** 14 (11,500 XP)
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -18940,13 +19772,13 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Slowing Breath.** The dragon exhales gas in a 60-­‐foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Copper Dragon**
+#### **Young Copper Dragon** 
 
 _Large dragon, chaotic good_
 
@@ -18956,9 +19788,15 @@ _Large dragon, chaotic good_
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-**STR DEX CON INT WIS CHA** 19 (+4) 12 (+1) 17 (+3) 16 (+3) 13 (+1) 15 (+2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
-**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5 **Skills** Deception +5, Perception +7, Stealth +4
+
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
 
 **Damage Immunities** acid
 
@@ -18968,7 +19806,7 @@ _Large dragon, chaotic good_
 
 **Challenge** 7 (2,900 XP)
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -18986,7 +19824,7 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 **Slowing Breath.** The dragon exhales gas in a 30-­‐foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-## **Copper Dragon Wyrmling**
+#### **Copper Dragon Wyrmling** 
 
 _Medium dragon, chaotic good_
 
@@ -18996,37 +19834,57 @@ _Medium dragon, chaotic good_
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    12    (+1)    13    (+1)    14    (+2)    11    (+0)    13    (+1)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
 
 
-**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3 **Skills** Perception +4, Stealth +3
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
 
-## **Gold Dragon** 
+**Skills** Perception +4, Stealth +3
 
-## **Ancient Gold Dragon**
+### **Gold Dragon** 
+
+#### **Ancient Gold Dragon** 
 
 _Gargantuan dragon, lawful good_
 
-**Armor Class** 22 (natural armor) **Hit Points** 546 (28d20 + 252) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+**Armor Class** 22 (natural armor)
 
-**STR DEX CON INT WIS CHA** 30 (+10) 14 (+2) 29 (+9) 18 (+4) 17 (+3) 28 (+9)
+**Hit Points** 546 (28d20 + 252)
 
-**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16 **Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-## **Damage Immunities** fire
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 
-**Languages** Common, Draconic **Challenge** 24 (62,000 XP)
+**Languages** Common, Draconic
 
-## **Damage Immunities** acid
+**Challenge** 24 (62,000 XP)
 
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+**Damage Immunities** acid
 
-**Languages** Draconic **Challenge** 1 (200 XP)
+-
 
-## **Actions** 
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.
 
@@ -19036,9 +19894,11 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Slowing Breath.** The dragon exhales gas in a 15-­‐foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+_**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -19060,7 +19920,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -19070,15 +19930,21 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Gold Dragon**
+### **Adult Gold Dragon** 
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |27    (+8)    14    (+2)    25    (+7)    16    (+3)    15    (+2)    24    (+7)| |**Saving    Throws**Dex    +8,    Con    +13,    Wis    +8,    Cha    +13| |**Skills**Insight    +8,    Perception    +14,    Persuasion    +13,<br>Stealth    +8|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
 
 
 
-## **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 
@@ -19086,9 +19952,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 17 (18,000 XP)
 
-_**Amphibious.**_ The dragon can breathe air and water. _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+_**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+_**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -19106,7 +19974,9 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 _Huge dragon, lawful good_
 
-**Armor Class** 19 (natural armor) **Hit Points** 256 (19d12 + 133)
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12 + 133)
 
 - **Weakening Breath.** The dragon exhales gas in a 60-­‐foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-­‐based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -19114,7 +19984,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -19124,23 +19994,29 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Gold Dragon**
+#### **Young Gold Dragon** 
 
 _Large dragon, lawful good_
 
 **Armor Class** 18 (natural armor)
 
-**Hit Points** 178 (17d10 + 85) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+**Hit Points** 178 (17d10 + 85)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||23    (+6)    14    (+2)    21    (+5)    16    (+3)    13    (+1)    20    (+5)|
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
 
 
 
 **Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
 
-- **Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+-
 
-## **Damage Immunities** fire
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 
@@ -19150,7 +20026,7 @@ _Large dragon, lawful good_
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -19164,7 +20040,7 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Weakening Breath.** The dragon exhales gas in a 30-­‐foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-­‐based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Gold Dragon Wyrmling**
+#### **Gold Dragon Wyrmling** 
 
 _Medium dragon, lawful good_
 
@@ -19174,19 +20050,27 @@ _Medium dragon, lawful good_
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    14    (+2)    17    (+3)    14    (+2)    11    (+0)    16    (+3)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
 
 
 
-**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5 **Skills** Perception +4, Stealth +4
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
 
 **Damage Immunities** fire
 
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14 **Languages** Draconic **Challenge** 3 (700 XP)
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
 
 _**Amphibious.**_ The dragon can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.
 
@@ -19196,25 +20080,39 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Weakening Breath.** The dragon exhales gas in a 15-­‐foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-­‐based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Silver Dragon** 
+### **Silver Dragon** 
 
-## **Ancient Silver Dragon**
+#### **Ancient Silver Dragon** 
 
 _Gargantuan dragon, lawful good_
 
-**Armor Class** 22 (natural armor) **Hit Points** 487 (25d20 + 225) **Speed** 40 ft., fly 80 ft.
+**Armor Class** 22 (natural armor)
 
-**STR DEX CON INT WIS CHA** 30 (+10) 10 (+0) 29 (+9) 18 (+4) 15 (+2) 23 (+6)
+**Hit Points** 487 (25d20 + 225)
 
-**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13 **Skills** Arcana +11, History +11, Perception +16, Stealth +7
+**Speed** 40 ft., fly 80 ft.
 
-## **Damage Immunities** cold
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26 **Languages** Common, Draconic **Challenge** 23 (50,000 XP)
+
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -19236,7 +20134,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -19246,25 +20144,37 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Adult Silver Dragon**
+#### **Adult Silver Dragon** 
 
 _Huge dragon, lawful good_
 
 **Armor Class** 19 (natural armor)
 
-**Hit Points** 243 (18d12 + 126) **Speed** 40 ft., fly 80 ft.
+**Hit Points** 243 (18d12 + 126)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||27    (+8)    10    (+0)    25    (+7)    16    (+3)    13    (+1)    21    (+5)|
+**Speed** 40 ft., fly 80 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
 
 
-**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10 **Skills** Arcana +8, History +8, Perception +11, Stealth +5 **Damage Immunities** cold
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
 
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21 **Languages** Common, Draconic **Challenge** 16 (15,000 XP)
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
 
 _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -19282,7 +20192,7 @@ _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast tha
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -19296,25 +20206,35 @@ _**Tail.** Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 17
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-## **Young Silver Dragon**
+#### **Young Silver Dragon** 
 
 _Large dragon, lawful good_
 
 **Armor Class** 18 (natural armor)
 
-**Hit Points** 168 (16d10 + 80) **Speed** 40 ft., fly 80 ft.
+**Hit Points** 168 (16d10 + 80)
 
-**STR DEX CON INT WIS CHA** 23 (+6) 10 (+0) 21 (+5) 14 (+2) 11 (+0) 19 (+4)
+**Speed** 40 ft., fly 80 ft.
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8 **Skills** Arcana +6, History +6, Perception +8, Stealth +4
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
 
 **Damage Immunities** cold
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 
-**Languages** Common, Draconic **Challenge** 9 (5,000 XP)
+**Languages** Common, Draconic
 
-## **Actions** 
+**Challenge** 9 (5,000 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -19328,25 +20248,37 @@ _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following brea
 
 - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-­‐foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Silver Dragon Wyrmling**
+#### **Silver Dragon Wyrmling** 
 
 _Medium dragon, lawful good_
 
-**Armor Class** 17 (natural armor) **Hit Points** 45 (6d8 + 18) **Speed** 30 ft., fly 60 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 19 (+4) 10 (+0) 17 (+3) 12 (+1) 11 (+0) 15 (+2)
+**Hit Points** 45 (6d8 + 18)
 
-**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4 **Skills** Perception +4, Stealth +2
+**Speed** 30 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
 
 **Damage Immunities** cold
 
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+-
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
 **Languages** Draconic 
 
 **Challenge** 2 (450 XP)
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.
 
@@ -19358,7 +20290,7 @@ of the following breath weapons.
 
 - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-­‐foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Dragon Turtle**
+#### **Dragon Turtle** 
 
 _Gargantuan dragon, neutral_
 
@@ -19368,13 +20300,21 @@ _Gargantuan dragon, neutral_
 
 **Speed** 20 ft., swim 40 ft.
 
-**STR DEX CON INT WIS CHA** 25 (+7) 10 (+0) 20 (+5) 10 (+0) 12 (+1) 12 (+1)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
 
-**Saving Throws** Dex +6, Con +11, Wis +7 **Damage Resistances** fire
+
+
+**Saving Throws** Dex +6, Con +11, Wis +7
+
+**Damage Resistances** fire
 
 **Senses** darkvision 120 ft., passive Perception 11
 
-## **Languages** Aquan, Draconic **Challenge** 17 (18,000 XP)
+**Languages** Aquan, Draconic
+
+**Challenge** 17 (18,000 XP)
 
 innately cast the following spells, requiring no material components:
 
@@ -19382,25 +20322,41 @@ At will: _dancing lights_
 
 _**Amphibious.**_ The dragon turtle can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 
-_**Bite.** Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 26 (3d12 + 7) piercing damage. _**Claw.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 16 (2d8 + 7) slashing damage.
+_**Bite.** Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 26 (3d12 + 7) piercing damage.
+
+_**Claw.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 16 (2d8 + 7) slashing damage.
 
 _**Tail.** Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
 
 _**Steam Breath (Recharge 5–6).**_ The dragon turtle exhales scalding steam in a 60-­‐foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn’t grant resistance against this damage.
 
-## **Drider** 
+#### **Drider** 
 
 _Large monstrosity, chaotic evil_
 
-**Armor Class** 19 (natural armor) **Hit Points** 123 (13d10 + 52) **Speed** 30 ft., climb 30 ft.
+**Armor Class** 19 (natural armor)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 16 (+3) 18 (+4) 13 (+1) 14 (+2) 12 (+1)
+**Hit Points** 123 (13d10 + 52)
 
-**Skills** Perception +5, Stealth +9 **Senses** darkvision 120 ft., passive Perception 15 **Languages** Elvish, Undercommon **Challenge** 6 (2,300 XP)
+**Speed** 30 ft., climb 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 12 (+1) |
+
+
+
+**Skills** Perception +5, Stealth +9
+
+**Senses** darkvision 120 ft., passive Perception 15
+
+**Languages** Elvish, Undercommon
+
+**Challenge** 6 (2,300 XP)
 
 _**Fey Ancestry.**_ The drider has advantage on saving throws against being charmed, and magic can’t put the drider to sleep.
 
@@ -19414,7 +20370,7 @@ _**Sunlight Sensitivity.**_ While in sunlight, the drider has disadvantage on at
 
 _**Web Walker.**_ The drider ignores movement restrictions caused by webbing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
@@ -19424,15 +20380,29 @@ _**Longsword.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_
 
 _**Longbow.** Ranged Weapon Attack:_ +6 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 
-## **Dryad** 
+#### **Dryad** 
 
 _Medium fey, neutral_
 
-**Armor Class** 11 (16 with _barkskin_ ) **Hit Points** 22 (5d8) **Speed** 30 ft.
+**Armor Class** 11 (16 with _barkskin_ )
 
-**STR DEX CON INT WIS CHA** 10 (+0) 12 (+1) 11 (+0) 14 (+2) 15 (+2) 18 (+4)
+**Hit Points** 22 (5d8)
 
-**Skills** Perception +4, Stealth +5 **Senses** darkvision 60 ft., passive Perception 14 **Languages** Elvish, Sylvan **Challenge** 1 (200 XP)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 12 (+1) | 11 (+0) | 14 (+2) | 15 (+2) | 18 (+4) |
+
+
+
+**Skills** Perception +4, Stealth +5
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Elvish, Sylvan
+
+**Challenge** 1 (200 XP)
 
 _**Innate Spellcasting.**_ The dryad’s innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
@@ -19448,7 +20418,7 @@ _**Speak with Beasts and Plants.**_ The dryad can communicate with beasts and pl
 
 _**Tree Stride.**_ Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-## **Actions** 
+#### **Actions** 
 
 _**Club.** Melee Weapon Attack:_ +2 to hit (+6 to hit with _shillelagh_ ), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _shillelagh_ .
 
@@ -19456,25 +20426,35 @@ _**Fey Charm.**_ The dryad targets one humanoid or beast that she can see within
 
 The dryad can have no more than one humanoid and up to three beasts charmed at a time.
 
-## **Duergar** 
+#### **Duergar** 
 
 _Medium humanoid (dwarf), lawful evil_
 
-**Armor Class** 16 (scale mail, shield) **Hit Points** 26 (4d8 + 8) **Speed** 25 ft.
+**Armor Class** 16 (scale mail, shield)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||14    (+2)    11    (+0)    14    (+2)    11    (+0)    10    (+0)    9    (−1)|
+**Hit Points** 26 (4d8 + 8)
+
+**Speed** 25 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (−1) |
 
 
 
-## **Damage Resistances** poison
+**Damage Resistances** poison
 
-**Senses** darkvision 120 ft., passive Perception 10 **Languages** Dwarvish, Undercommon **Challenge** 1 (200 XP)
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** Dwarvish, Undercommon
+
+**Challenge** 1 (200 XP)
 
 _**Duergar Resilience.**_ The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
 _**Sunlight Sensitivity.**_ While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Enlarge (Recharges after a Short or Long Rest).**_ For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-­‐based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
@@ -19486,41 +20466,61 @@ _**Invisibility (Recharges after a Short or Long Rest).**_ The duergar magically
 
 ## **Monsters (E)** 
 
-## **Elementals** 
+### **Elementals** 
 
-## **Air Elemental**
+#### **Air Elemental** 
 
 _Large elemental, neutral_
 
 **Armor Class** 15
 
-**Hit Points** 90 (12d10 + 24) **Speed** 0 ft., fly 90 ft. (hover)
+**Hit Points** 90 (12d10 + 24)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||14    (+2)    20    (+5)    14    (+2)    6    (−2)    10    (+0)    6    (−2)|
+**Speed** 0 ft., fly 90 ft. (hover)
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 20 (+5) | 14 (+2) | 6 (−2) | 10 (+0) | 6 (−2) |
 
 
 
-**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks **Damage Immunities** poison
+**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious **Senses** darkvision 60 ft., passive Perception 10 **Languages** Auran **Challenge** 5 (1,800 XP)
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Auran
+
+**Challenge** 5 (1,800 XP)
 
 _**Air Form.**_ The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The elemental makes two slam attacks.
 
-_**Slam.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage. _**Whirlwind (Recharge 4–6).**_ Each creature in the elemental’s space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
+_**Slam.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.
+
+_**Whirlwind (Recharge 4–6).**_ Each creature in the elemental’s space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
 
 If the saving throw is successful, the target takes half the bludgeoning damage and isn’t flung away or knocked prone.
 
-## **Earth Elemental**
+#### **Earth Elemental** 
 
 _Large elemental, neutral_
 
-**Armor Class** 17 (natural armor) **Hit Points** 126 (12d10 + 60) **Speed** 30 ft., burrow 30 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||20    (+5)    8    (−1)    20    (+5)    5    (−3)    10    (+0)    5    (−3)|
+**Hit Points** 126 (12d10 + 60)
+
+**Speed** 30 ft., burrow 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 20 (+5) | 8 (−1) | 20 (+5) | 5 (−3) | 10 (+0) | 5 (−3) |
 
 
 
@@ -19528,9 +20528,11 @@ _Large elemental, neutral_
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
+
+**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 
 **Languages** Terran 
 
@@ -19540,61 +20542,85 @@ _**Earth Glide.**_ The elemental can burrow through nonmagical, unworked earth a
 
 _**Siege Monster.**_ The elemental deals double damage to objects and structures.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The elemental makes two slam attacks.
 
 _**Slam.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.
 
-## **Fire Elemental**
+#### **Fire Elemental** 
 
 _Large elemental, neutral_
 
-## **Armor Class** 13
+**Armor Class** 13
 
-**Hit Points** 102 (12d10 + 36) **Speed** 50 ft.
+**Hit Points** 102 (12d10 + 36)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    17    (+3)    16    (+3)    6    (−2)    10    (+0)    7    (−2)|
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 17 (+3) | 16 (+3) | 6 (−2) | 10 (+0) | 7 (−2) |
 
 
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks **Damage Immunities** fire, poison
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious **Senses** darkvision 60 ft., passive Perception 10 **Languages** Ignan **Challenge** 5 (1,800 XP)
+**Damage Immunities** fire, poison
 
-_**Fire Form.**_ The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns. _**Illumination.**_ The elemental sheds bright light in a 30-­‐ foot radius and dim light in an additional 30 feet.
+**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Ignan
+
+**Challenge** 5 (1,800 XP)
+
+_**Fire Form.**_ The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+
+_**Illumination.**_ The elemental sheds bright light in a 30-­‐ foot radius and dim light in an additional 30 feet.
 
 _**Water Susceptibility.**_ For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 
-## **Actions** 
+#### **Actions** 
 
-_**Multiattack.**_ The elemental makes two touch attacks. _**Touch.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+_**Multiattack.**_ The elemental makes two touch attacks.
 
-## **Water Elemental**
+_**Touch.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+
+#### **Water Elemental** 
 
 _Large elemental, neutral_
 
 **Armor** Class 14 (natural armor)
 
-**Hit Points** 114 (12d10 + 48) **Speed** 30 ft., swim 90 ft.
+**Hit Points** 114 (12d10 + 48)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    14    (+2)    18    (+4)    5    (−3)    10    (+0)    8    (−1)|
+**Speed** 30 ft., swim 90 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 14 (+2) | 18 (+4) | 5 (−3) | 10 (+0) | 8 (−1) |
 
 
 
 **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious **Senses** darkvision 60 ft., passive Perception 10
+**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
-**Languages** Aquan **Challenge** 5 (1,800 XP)
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Aquan
+
+**Challenge** 5 (1,800 XP)
 
 _**Water Form.**_ The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
 _**Freeze.**_ If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The elemental makes two slam attacks.
 
@@ -19604,15 +20630,29 @@ _**Whelm (Recharge 4–6).**_ Each creature in the elemental’s space must make
 
 The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental’s turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
 
-## **Elf, Drow**
+#### **Elf, Drow** 
 
 _Medium humanoid (elf), neutral evil_
 
-**Armor Class** 15 (chain shirt) **Hit Points** 13 (3d8) **Speed** 30 ft.
+**Armor Class** 15 (chain shirt)
 
-**STR DEX CON INT WIS CHA** 10 (+0) 14 (+2) 10 (+0) 11 (+0) 11 (+0) 12 (+1)
+**Hit Points** 13 (3d8)
 
-**Skills** Perception +2, Stealth +4 **Senses** darkvision 120 ft., passive Perception 12 **Languages** Elvish, Undercommon **Challenge** 1/4 (50 XP)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
+
+
+
+**Skills** Perception +2, Stealth +4
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** Elvish, Undercommon
+
+**Challenge** 1/4 (50 XP)
 
 _**Fey Ancestry.**_ The drow has advantage on saving throws against being charmed, and magic can’t put the drow to sleep.
 
@@ -19622,19 +20662,35 @@ _**Innate Spellcasting.**_ The drow’s spellcasting ability is Charisma (spell 
 
 _**Sunlight Sensitivity.**_ While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
-_**Shortsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage. _**Hand Crossbow.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+_**Shortsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-## **Ettercap** 
+_**Hand Crossbow.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+
+#### **Ettercap** 
 
 _Medium monstrosity, neutral evil_
 
-**Armor Class** 13 (natural armor) **Hit Points** 44 (8d8 + 8) **Speed** 30 ft., climb 30 ft.
+**Armor Class** 13 (natural armor)
 
-**STR DEX CON INT WIS CHA** 14 (+2) 15 (+2) 13 (+1) 7 (−2) 12 (+1) 8 (−1)
+**Hit Points** 44 (8d8 + 8)
 
-**Skills** Perception +3, Stealth +4, Survival +3 **Senses** darkvision 60 ft., passive Perception 13 **Languages** — **Challenge** 2 (450 XP)
+**Speed** 30 ft., climb 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 15 (+2) | 13 (+1) | 7 (−2) | 12 (+1) | 8 (−1) |
+
+
+
+**Skills** Perception +3, Stealth +4, Survival +3
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Spider Climb.**_ The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -19642,29 +20698,41 @@ _**Web Sense.**_ While in contact with a web, the ettercap knows the exact locat
 
 _**Web Walker.**_ The ettercap ignores movement restrictions caused by webbing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The ettercap makes two attacks: one with its bite and one with its claws.
 
 also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
-## **Ettin** 
+#### **Ettin** 
 
 _Large giant, chaotic evil_
 
-**Armor Class** 12 (natural armor) **Hit Points** 85 (10d10 + 30) **Speed** 40 ft.
+**Armor Class** 12 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||21    (+5)    8    (−1)    17    (+3)    6    (−2)    10    (+0)    8    (−1)|
+**Hit Points** 85 (10d10 + 30)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 8 (−1) | 17 (+3) | 6 (−2) | 10 (+0) | 8 (−1) |
 
 
 
-**Skills** Perception +4 **Senses** darkvision 60 ft., passive Perception 14 **Languages** Giant, Orc **Challenge** 4 (1,100 XP)
+**Skills** Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Giant, Orc
+
+**Challenge** 4 (1,100 XP)
 
 _**Two Heads.**_ The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
 
 _**Wakeful.**_ When one of the ettin’s heads is asleep, its other head is awake.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
@@ -19680,41 +20748,65 @@ _**Web (Recharge 5–6).** Ranged Weapon Attack:_ +4 to hit, range 30/60 ft., on
 
 ## **Monsters (F)** 
 
-## **Fun i g** 
+### **Fun i g** 
 
-## **Shrieker** 
+#### **Shrieker** 
 
 _Medium plant, unaligned_
 
-**Armor Class** 5 **Hit Points** 13 (3d8) **Speed** 0 ft.
+**Armor Class** 5
 
-|<br>**STR**|**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| |<br>1    (−5)|1    (−5)    10    (+0)    1    (−5)|3    (−4)|1    (−5)|
+**Hit Points** 13 (3d8)
+
+**Speed** 0 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 1 (−5) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 
 
-**Condition Immunities** blinded, deafened, frightened **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6 **Languages** — **Challenge** 0 (10 XP)
+**Condition Immunities** blinded, deafened, frightened
+
+**Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**False Appearance.**_ While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Shriek.**_ When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker’s turns afterward.
 
-## **Violet Fungus**
+#### **Violet Fungus** 
 
 _Medium plant, unaligned_
 
-**Armor Class** 5 **Hit Points** 18 (4d8) **Speed** 5 ft.
+**Armor Class** 5
 
-|<br>**STR**|**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| |<br>3    (−4)|1    (−5)    10    (+0)    1    (−5)|3    (−4)|1    (−5)|
+**Hit Points** 18 (4d8)
+
+**Speed** 5 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 
 
-**Condition Immunities** blinded, deafened, frightened **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6 **Languages** — **Challenge** 1/4 (50 XP)
+**Condition Immunities** blinded, deafened, frightened
+
+**Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
 
 _**False Appearance.**_ While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The fungus makes 1d4 Rotting Touch attacks.
 
@@ -19722,15 +20814,19 @@ _**Rotting Touch.** Melee Weapon Attack:_ +2 to hit, reach 10 ft., one creature.
 
 ## **Monsters (G)** 
 
-## **Gargoyle** 
+#### **Gargoyle** 
 
 _Medium elemental, chaotic evil_
 
 **Armor Class** 15 (natural armor)
 
-**Hit Points** 52 (7d8 + 21) **Speed** 30 ft., fly 60 ft.
+**Hit Points** 52 (7d8 + 21)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    11    (+0)    16    (+3)    6    (−2)    11    (+0)    7    (−2)|
+**Speed** 30 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |
 
 
 
@@ -19738,11 +20834,17 @@ _Medium elemental, chaotic evil_
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, petrified, poisoned **Senses** darkvision 60 ft., passive Perception 10 **Languages** Terran **Challenge** 2 (450 XP)
+**Condition Immunities** exhaustion, petrified, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Terran
+
+**Challenge** 2 (450 XP)
 
 _**False Appearance.**_ While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The gargoyle makes two attacks: one with its bite and one with its claws.
 
@@ -19750,17 +20852,33 @@ _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1
 
 _**Claws.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
 
-## **Genies** 
+### **Genies** 
 
-## **Djinni** 
+#### **Djinni** 
 
 _Large elemental, chaotic good_
 
-**Armor Class** 17 (natural armor) **Hit Points** 161 (14d10 + 84) **Speed** 30 ft., fly 90 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 21 (+5) 15 (+2) 22 (+6) 15 (+2) 16 (+3) 20 (+5)
+**Hit Points** 161 (14d10 + 84)
 
-**Saving Throws** Dex +6, Wis +7, Cha +9 **Damage Immunities** lightning, thunder **Senses** darkvision 120 ft., passive Perception 13 **Languages** Auran **Challenge** 11 (7,200 XP)
+**Speed** 30 ft., fly 90 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
+
+
+
+**Saving Throws** Dex +6, Wis +7, Cha +9
+
+**Damage Immunities** lightning, thunder
+
+**Senses** darkvision 120 ft., passive Perception 13
+
+**Languages** Auran
+
+**Challenge** 11 (7,200 XP)
 
 _**Elemental Demise.**_ If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 
@@ -19774,7 +20892,7 @@ _thunderwave_
 
 - 1/day each: _conjure elemental_ (air elemental only), _creation_ , _gaseous form_ , _invisibility_ , _major image_ , _plane shift_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The djinni makes three scimitar attacks.
 
@@ -19784,15 +20902,31 @@ _**Create Whirlwind.**_ A 5-­‐foot-­‐radius, 30-­‐foot-­‐tall cylind
 
 A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 
-## **Efreeti** 
+#### **Efreeti** 
 
 _Large elemental, lawful evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 200 (16d10 + 112) **Speed** 40 ft., fly 60 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 22 (+6) 12 (+1) 24 (+7) 16 (+3) 15 (+2) 16 (+3)
+**Hit Points** 200 (16d10 + 112)
 
-**Saving Throws** Int +7, Wis +6, Cha +7 **Damage Immunities** fire **Senses** darkvision 120 ft., passive Perception 12 **Languages** Ignan **Challenge** 11 (7,200 XP)
+**Speed** 40 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
+
+
+
+**Saving Throws** Int +7, Wis +6, Cha +7
+
+**Damage Immunities** fire
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** Ignan
+
+**Challenge** 11 (7,200 XP)
 
 _**Elemental Demise.**_ If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 
@@ -19804,7 +20938,7 @@ At will: _detect magic_
 
 - 1/day each: _conjure elemental_ (fire elemental only), _gaseous form, invisibility_ , _major image_ , _plane shift_ , _wall of fire_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
@@ -19812,7 +20946,7 @@ _**Scimitar.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_
 
 _**Hurl Flame.** Ranged Spell Attack:_ +7 to hit, range 120 ft., one target. _Hit:_ 17 (5d6) fire damage.
 
-## **Ghost** 
+#### **Ghost** 
 
 _Medium undead, any alignment_
 
@@ -19822,23 +20956,33 @@ _Medium undead, any alignment_
 
 **Speed** 0 ft., fly 40 ft. (hover)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>7    (−2)    13    (+1)    10    (+0)    10    (+0)    12    (+1)    17    (+3)| |**Damage    Resistances**acid,    fire,    lightning,    thunder;<br>bludgeoning,    piercing,    and    slashing    from    nonmagical| |attacks|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 7 (−2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
+
+**Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical
+
+attacks
 
 
 
 **Damage Immunities** cold, necrotic, poison
 
-- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+-
+
+**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 **Senses** darkvision 60 ft., passive Perception 11
 
-**Languages** any languages it knew in life **Challenge** 4 (1,100 XP)
+**Languages** any languages it knew in life
+
+**Challenge** 4 (1,100 XP)
 
 _**Ethereal Sight.**_ The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
 
 _**Incorporeal Movement.**_ The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-## **Actions** 
+#### **Actions** 
 
 _**Withering Touch.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 17 (4d6 + 3) necrotic damage.
 
@@ -19850,67 +20994,105 @@ with a _greater restoration_ spell, but only within 24 hours of it occurring.
 
 _**Possession (Recharge 6).**_ One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn’t deprive the target of awareness. The ghost can’t be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target’s statistics, but doesn’t gain access to the target’s knowledge, class features, or proficiencies. The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the _dispel evil and good_ spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost’s Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 
-## **Ghouls** 
+### **Ghouls** 
 
-## **Ghast** 
+#### **Ghast** 
 
 _Medium undead, chaotic evil_
 
-**Armor Class** 13 **Hit Points** 36 (8d8) **Speed** 30 ft.
+**Armor Class** 13
 
-**STR DEX CON INT WIS CHA** 16 (+3) 17 (+3) 10 (+0) 11 (+0) 10 (+0) 8 (−1)
+**Hit Points** 36 (8d8)
 
-**Damage Resistances** necrotic **Damage Immunities** poison
+**Speed** 30 ft.
 
-**Condition Immunities** charmed, exhaustion, poisoned **Senses** darkvision 60 ft., passive Perception 10 **Languages** Common **Challenge** 2 (450 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1) |
+
+
+
+**Damage Resistances** necrotic
+
+**Damage Immunities** poison
+
+**Condition Immunities** charmed, exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Common
+
+**Challenge** 2 (450 XP)
 
 _**Stench.**_ Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast’s Stench for 24 hours.
 
 _**Turning Defiance.**_ The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 12 (2d8 + 3) piercing damage.
 
 _**Claws.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Ghoul** 
+#### **Ghoul** 
 
 _Medium undead, chaotic evil_
 
 **Armor Class** 12
 
-**Hit Points** 22 (5d8) **Speed** 30 ft.
+**Hit Points** 22 (5d8)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||13    (+1)    15    (+2)    10    (+0)    7    (−2)    10    (+0)    6    (−2)|
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2) | 10 (+0) | 6 (−2) |
 
 
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-**Condition Immunities** charmed, exhaustion, poisoned **Senses** darkvision 60 ft., passive Perception 10 **Languages** Common **Challenge** 1 (200 XP)
+**Condition Immunities** charmed, exhaustion, poisoned
 
-## **Actions** 
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Common
+
+**Challenge** 1 (200 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) piercing damage.
 
 _**Claws.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Giants** 
+### **Giants** 
 
-## **Cloud Giant**
+#### **Cloud Giant** 
 
 _Huge giant, neutral good (50%) or neutral evil (50%)_
 
-**Armor Class** 14 (natural armor) **Hit Points** 200 (16d12 + 96)
+**Armor Class** 14 (natural armor)
+
+**Hit Points** 200 (16d12 + 96)
 
 **Speed** 40 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||27    (+8)    10    (+0)    22    (+6)    12    (+1)    16    (+3)    16    (+3)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |
 
 
 
-**Saving Throws** Con +10, Wis +7, Cha +7 **Skills** Insight +7, Perception +7 **Senses** passive Perception 17 **Languages** Common, Giant **Challenge** 9 (5,000 XP)
+**Saving Throws** Con +10, Wis +7, Cha +7
+
+**Skills** Insight +7, Perception +7
+
+**Senses** passive Perception 17
+
+**Languages** Common, Giant
+
+**Challenge** 9 (5,000 XP)
 
 _**Keen Smell.**_ The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -19920,91 +21102,187 @@ At will: _detect magic_ , _fog cloud_ , _light_
 
 3/day each: _feather fall_ , _fly_ , _misty step_ , _telekinesis_ 1/day each: _control weather_ , _gaseous form_
 
-## **Actions** 
+#### **Actions** 
 
-_**Multiattack.**_ The giant makes two morningstar attacks. _**Morningstar.** Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 21 (3d8 + 8) piercing damage. _**Rock.** Ranged Weapon Attack:_ +12 to hit, range 60/240 ft., one target. _Hit:_ 30 (4d10 + 8) bludgeoning damage.
+_**Multiattack.**_ The giant makes two morningstar attacks.
 
-## **Fire Giant**
+_**Morningstar.** Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 21 (3d8 + 8) piercing damage.
+
+_**Rock.** Ranged Weapon Attack:_ +12 to hit, range 60/240 ft., one target. _Hit:_ 30 (4d10 + 8) bludgeoning damage.
+
+#### **Fire Giant** 
 
 _Huge giant, lawful evil_
 
-**Armor Class** 18 (plate) **Hit Points** 162 (13d12 + 78) **Speed** 30 ft.
+**Armor Class** 18 (plate)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||25    (+7)    9    (−1)    23    (+6)    10    (+0)    14    (+2)    13    (+1)|
+**Hit Points** 162 (13d12 + 78)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 25 (+7) | 9 (−1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
 
 
 
-**Saving Throws** Dex +3, Con +10, Cha +5 **Skills** Athletics +11, Perception +6 **Damage Immunities** fire **Senses** passive Perception 16 **Languages** Giant **Challenge** 9 (5,000 XP)
+**Saving Throws** Dex +3, Con +10, Cha +5
 
-## **Actions** 
+**Skills** Athletics +11, Perception +6
+
+**Damage Immunities** fire
+
+**Senses** passive Perception 16
+
+**Languages** Giant
+
+**Challenge** 9 (5,000 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The giant makes two greatsword attacks.
 
-_**Greatsword.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage. _**Rock.** Ranged Weapon Attack:_ +11 to hit, range 60/240 ft., one target. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
+_**Greatsword.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage.
 
-## **Frost Giant**
+_**Rock.** Ranged Weapon Attack:_ +11 to hit, range 60/240 ft., one target. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
+
+#### **Frost Giant** 
 
 _Huge giant, neutral evil_
 
-**Armor Class** 15 (patchwork armor) **Hit Points** 138 (12d12 + 60) **Speed** 40 ft.
+**Armor Class** 15 (patchwork armor)
 
-**STR DEX CON INT WIS CHA** 23 (+6) 9 (−1) 21 (+5) 9 (−1) 10 (+0) 12 (+1)
+**Hit Points** 138 (12d12 + 60)
 
-**Saving Throws** Con +8, Wis +3, Cha +4 **Skills** Athletics +9, Perception +3 **Damage Immunities** cold **Senses** passive Perception 13 **Languages** Giant **Challenge** 8 (3,900 XP)
+**Speed** 40 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 9 (−1) | 21 (+5) | 9 (−1) | 10 (+0) | 12 (+1) |
 
-_**Multiattack.**_ The giant makes two greataxe attacks. _**Greataxe.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 25 (3d12 + 6) slashing damage. _**Rock.** Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.
 
-## **Hill Giant**
+
+**Saving Throws** Con +8, Wis +3, Cha +4
+
+**Skills** Athletics +9, Perception +3
+
+**Damage Immunities** cold
+
+**Senses** passive Perception 13
+
+**Languages** Giant
+
+**Challenge** 8 (3,900 XP)
+
+#### **Actions** 
+
+_**Multiattack.**_ The giant makes two greataxe attacks.
+
+_**Greataxe.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 25 (3d12 + 6) slashing damage.
+
+_**Rock.** Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.
+
+#### **Hill Giant** 
 
 _Huge giant, chaotic evil_
 
-**Armor Class** 13 (natural armor) **Hit Points** 105 (10d12 + 40) **Speed** 40 ft.
+**Armor Class** 13 (natural armor)
 
-**STR DEX CON INT WIS CHA** 21 (+5) 8 (−1) 19 (+4) 5 (−3) 9 (−1) 6 (−2)
+**Hit Points** 105 (10d12 + 40)
 
-**Skills** Perception +2 **Senses** passive Perception 12 **Languages** Giant **Challenge** 5 (1,800 XP)
+**Speed** 40 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 8 (−1) | 19 (+4) | 5 (−3) | 9 (−1) | 6 (−2) |
+
+
+
+**Skills** Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** Giant
+
+**Challenge** 5 (1,800 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The giant makes two greatclub attacks.
 
-_**Greatclub.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage. _**Rock.** Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 21 (3d10 + 5) bludgeoning damage.
+_**Greatclub.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage.
 
-## **Stone Giant**
+_**Rock.** Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 21 (3d10 + 5) bludgeoning damage.
+
+#### **Stone Giant** 
 
 _Huge giant, neutral_
 
-**Armor Class** 17 (natural armor) **Hit Points** 126 (11d12 + 55) **Speed** 40 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 23 (+6) 15 (+2) 20 (+5) 10 (+0) 12 (+1) 9 (−1)
+**Hit Points** 126 (11d12 + 55)
 
-**Saving Throws** Dex +5, Con +8, Wis +4 **Skills** Athletics +12, Perception +4 **Senses** darkvision 60 ft., passive Perception 14 **Languages** Giant **Challenge** 7 (2,900 XP)
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (−1) |
+
+
+
+**Saving Throws** Dex +5, Con +8, Wis +4
+
+**Skills** Athletics +12, Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Giant
+
+**Challenge** 7 (2,900 XP)
 
 _**Stone Camouflage.**_ The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-## **Actions** 
+#### **Actions** 
 
-_**Multiattack.**_ The giant makes two greatclub attacks. _**Greatclub.** Melee Weapon Attack:_ +9 to hit, reach 15 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage. _**Rock.** Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+_**Multiattack.**_ The giant makes two greatclub attacks.
 
-## **Reactions** 
+_**Greatclub.** Melee Weapon Attack:_ +9 to hit, reach 15 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.
+
+_**Rock.** Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+#### **Reactions** 
 
 _**Rock Catching.**_ If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
 
-## **Storm Giant**
+#### **Storm Giant** 
 
 _Huge giant, chaotic good_
 
-**Armor Class** 16 (scale mail) **Hit Points** 230 (20d12 + 100) **Speed** 50 ft., swim 50 ft.
+**Armor Class** 16 (scale mail)
 
-**STR DEX CON INT WIS CHA** 29 (+9) 14 (+2) 20 (+5) 16 (+3) 18 (+4) 18 (+4)
+**Hit Points** 230 (20d12 + 100)
 
-**Saving Throws** Str +14, Con +10, Wis +9, Cha +9 **Skills** Arcana +8, Athletics +14, History +8, Perception +9
+**Speed** 50 ft., swim 50 ft.
 
-## **Damage Resistances** cold
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
 
-**Damage Immunities** lightning, thunder **Senses** passive Perception 19 **Languages** Common, Giant **Challenge** 13 (10,000 XP)
+
+
+**Saving Throws** Str +14, Con +10, Wis +9, Cha +9
+
+**Skills** Arcana +8, Athletics +14, History +8, Perception +9
+
+**Damage Resistances** cold
+
+**Damage Immunities** lightning, thunder
+
+**Senses** passive Perception 19
+
+**Languages** Common, Giant
+
+**Challenge** 13 (10,000 XP)
 
 _**Amphibious.**_ The giant can breathe air and water.
 
@@ -20012,29 +21290,45 @@ _**Innate Spellcasting.**_ The giant’s innate spellcasting ability is Charisma
 
 At will: _detect magic_ , _feather fall_ , _levitate_ , _light_ 3/day each: _control weather_ , _water breathing_
 
-## **Actions** 
+#### **Actions** 
 
-_**Multiattack.**_ The giant makes two greatsword attacks. _**Greatsword.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 30 (6d6 + 9) slashing damage. _**Rock.** Ranged Weapon Attack:_ +14 to hit, range 60/240 ft., one target. _Hit:_ 35 (4d12 + 9) bludgeoning damage.
+_**Multiattack.**_ The giant makes two greatsword attacks.
+
+_**Greatsword.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 30 (6d6 + 9) slashing damage.
+
+_**Rock.** Ranged Weapon Attack:_ +14 to hit, range 60/240 ft., one target. _Hit:_ 35 (4d12 + 9) bludgeoning damage.
 
 _**Lightning Strike (Recharge 5–6).**_ The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
-## **Gibbering Mouther**
+#### **Gibbering Mouther** 
 
 _Medium aberration, neutral_
 
-**Armor Class** 9 **Hit Points** 67 (9d8 + 27) **Speed** 10 ft., swim 10 ft.
+**Armor Class** 9
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    8    (−1)    16    (+3)    3    (−4)    10    (+0)    6    (−2)|
+**Hit Points** 67 (9d8 + 27)
+
+**Speed** 10 ft., swim 10 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 8 (−1) | 16 (+3) | 3 (−4) | 10 (+0) | 6 (−2) |
 
 
 
-**Condition Immunities** prone **Senses** darkvision 60 ft., passive Perception 10 **Languages** — **Challenge** 2 (450 XP)
+**Condition Immunities** prone
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Aberrant Ground.**_ The ground in a 10-­‐foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
 
 _**Gibbering.**_ The mouther babbles incoherently while it can see any creature and isn’t incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can’t take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can’t make such an attack.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.
 
@@ -20042,21 +21336,31 @@ _**Bites.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 1
 
 _**Blinding Spittle (Recharge 5–6).**_ The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther’s next turn.
 
-## **Gnoll** 
+#### **Gnoll** 
 
 _Medium humanoid (gnoll), chaotic evil_
 
-**Armor Class** 15 (hide armor, shield) **Hit Points** 22 (5d8) **Speed** 30 ft.
+**Armor Class** 15 (hide armor, shield)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||14    (+2)    12    (+1)    11    (+0)    6    (−2)    10    (+0)    7    (−2)|
+**Hit Points** 22 (5d8)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 12 (+1) | 11 (+0) | 6 (−2) | 10 (+0) | 7 (−2) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 10 **Languages** Gnoll **Challenge** 1/2 (100 XP)
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Gnoll
+
+**Challenge** 1/2 (100 XP)
 
 _**Rampage.**_ When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage.
 
@@ -20064,19 +21368,29 @@ _**Spear.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/6
 
 _**Longbow.** Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-## **Gnome, Deep (Svirfneblin)**
+#### **Gnome, Deep (Svirfneblin)** 
 
 _Small humanoid (gnome), neutral good_
 
 **Armor Class** 15 (chain shirt)
 
-**Hit Points** 16 (3d6 + 6) **Speed** 20 ft.
+**Hit Points** 16 (3d6 + 6)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    14    (+2)    14    (+2)    12    (+1)    10    (+0)    9    (−1)|
+**Speed** 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (−1) |
 
 
 
-**Skills** Investigation +3, Perception +2, Stealth +4 **Senses** darkvision 120 ft., passive Perception 12 **Languages** Gnomish, Terran, Undercommon **Challenge** 1/2 (100 XP)
+**Skills** Investigation +3, Perception +2, Stealth +4
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** Gnomish, Terran, Undercommon
+
+**Challenge** 1/2 (100 XP)
 
 _**Stone Camouflage.**_ The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
@@ -20088,43 +21402,59 @@ At will: _nondetection_ (self only)
 
 1/day each: _blindness/deafness_ , _blur_ , _disguise self_
 
-## **Actions** 
+#### **Actions** 
 
 _**War Pick.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 _**Poisoned Dart.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Goblin** 
+#### **Goblin** 
 
 _Small humanoid (goblinoid), neutral evil_
 
-**Armor Class** 15 (leather armor, shield) **Hit Points** 7 (2d6) **Speed** 30 ft.
+**Armor Class** 15 (leather armor, shield)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**|**CHA**| |---|---| |<br>8    (−1)    14    (+2)    10    (+0)    10    (+0)    8    (−1)|8    (−1)|
+**Hit Points** 7 (2d6)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 8 (−1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (−1) | 8 (−1) |
 
 
 
 **Skills** Stealth +6
 
-**Senses** darkvision 60 ft., passive Perception 9 **Languages** Common, Goblin **Challenge** 1/4 (50 XP)
+**Senses** darkvision 60 ft., passive Perception 9
+
+**Languages** Common, Goblin
+
+**Challenge** 1/4 (50 XP)
 
 _**Nimble Escape.**_ The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-## **Actions** 
+#### **Actions** 
 
 _**Scimitar.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
 
 _**Shortbow.** Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-## **Golems** 
+### **Golems** 
 
-## **Clay Golem**
+#### **Clay Golem** 
 
 _Large construct, unaligned_
 
-**Armor Class** 14 (natural armor) **Hit Points** 133 (14d10 + 56) **Speed** 20 ft.
+**Armor Class** 14 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||20    (+5)    9    (−1)    18    (+4)    3    (−4)|8    (−1)|1    (−5)|
+**Hit Points** 133 (14d10 + 56)
+
+**Speed** 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 20 (+5) | 9 (−1) | 18 (+4) | 3 (−4) | 8 (−1) | 1 (−5) |
 
 
 
@@ -20148,7 +21478,7 @@ _**Magic Resistance.**_ The golem has advantage on saving throws against spells 
 
 _**Magic Weapons.**_ The golem’s weapon attacks are magical.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The golem makes two slam attacks.
 
@@ -20156,11 +21486,15 @@ _**Slam.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (
 
 _**Haste (Recharge 5–6).**_ Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 
-## **Flesh Golem**
+#### **Flesh Golem** 
 
 _Medium construct, neutral_
 
-**Armor Class** 9 **Hit Points** 93 (11d8 + 44) **Speed** 30 ft.
+**Armor Class** 9
+
+**Hit Points** 93 (11d8 + 44)
+
+**Speed** 30 ft.
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
 
@@ -20184,21 +21518,31 @@ _**Magic Resistance.**_ The golem has advantage on saving throws against spells 
 
 _**Magic Weapons.**_ The golem’s weapon attacks are magical.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The golem makes two slam attacks.
 
 _**Slam.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
 
-**STR DEX CON INT WIS CHA** 19 (+4) 9 (−1) 18 (+4) 6 (−2) 10 (+0) 5 (−3)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 9 (−1) | 18 (+4) | 6 (−2) | 10 (+0) | 5 (−3) |
 
-## **Iron Golem**
+
+
+#### **Iron Golem** 
 
 _Large construct, unaligned_
 
-**Armor Class** 20 (natural armor) **Hit Points** 210 (20d10 + 100) **Speed** 30 ft.
+**Armor Class** 20 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||24    (+7)    9    (−1)    20    (+5)    3    (−4)    11    (+0)    1    (−5)|
+**Hit Points** 210 (20d10 + 100)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 24 (+7) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
 
 
@@ -20208,33 +21552,55 @@ _Large construct, unaligned_
 
 **Senses** darkvision 120 ft., passive Perception 10
 
-- **Languages** understands the languages of its creator but can’t speak
+-
+
+**Languages** understands the languages of its creator but can’t speak
 
 **Challenge** 16 (15,000 XP)
 
-_**Fire Absorption**_ . Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt. _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
+_**Fire Absorption**_ . Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 
-_**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects. _**Magic Weapons.**_ The golem’s weapon attacks are magical.
+_**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
 
-## **Actions** 
+_**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 
-_**Multiattack.**_ The golem makes two melee attacks. _**Slam.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage. _**Sword.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 23 (3d10 + 7) slashing damage. _**Poison Breath (Recharge 6).**_ The golem exhales poisonous gas in a 15-­‐foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+_**Magic Weapons.**_ The golem’s weapon attacks are magical.
 
-## **Stone Golem**
+#### **Actions** 
+
+_**Multiattack.**_ The golem makes two melee attacks.
+
+_**Slam.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.
+
+_**Sword.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 23 (3d10 + 7) slashing damage.
+
+_**Poison Breath (Recharge 6).**_ The golem exhales poisonous gas in a 15-­‐foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+#### **Stone Golem** 
 
 _Large construct, unaligned_
 
-**Armor Class** 17 (natural armor) **Hit Points** 178 (17d10 + 85) **Speed** 30 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||22    (+6)    9    (−1)    20    (+5)    3    (−4)    11    (+0)    1    (−5)|
+**Hit Points** 178 (17d10 + 85)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 22 (+6) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
 
 
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
 
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+-
 
-- **Senses** darkvision 120 ft., passive Perception 10
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+-
+
+**Senses** darkvision 120 ft., passive Perception 10
 
 **Languages** understands the languages of its creator but can’t speak
 
@@ -20246,7 +21612,7 @@ _**Magic Resistance.**_ The golem has advantage on saving throws against spells 
 
 _**Magic Weapons.**_ The golem’s weapon attacks are magical.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The golem makes two slam attacks.
 
@@ -20254,25 +21620,35 @@ _**Slam.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 19 
 
 _**Slow (Recharge 5–6).**_ The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Gorgon** 
+#### **Gorgon** 
 
 _Large monstrosity, unaligned_
 
-**Armor Class** 19 (natural armor) **Hit Points** 114 (12d10 + 48) **Speed** 40 ft.
+**Armor Class** 19 (natural armor)
 
-|<br>**STR**<br>**DEX**|**CON**|**INT**|**WIS**|**CHA**| |---|---|---|---|---| |20    (+5)    11    (+0)    18    (+4)||2    (−4)|12    (+1)|7    (−2)| |**Skills**Perception    +4|||||
+**Hit Points** 114 (12d10 + 48)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 20 (+5) | 11 (+0) | 18 (+4) | 2 (−4) | 12 (+1) | 7 (−2) |
+
+**Skills** Perception +4
 
 
 
-## **Condition Immunities** petrified
+**Condition Immunities** petrified
 
 **Senses** darkvision 60 ft., passive Perception 14
 
-**Languages** — **Challenge** 5 (1,800 XP)
+**Languages** —
+
+**Challenge** 5 (1,800 XP)
 
 _**Trampling Charge.**_ If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Gore.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 18 (2d12 + 5) piercing damage.
 
@@ -20280,7 +21656,7 @@ _**Hooves.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16
 
 _**Petrifying Breath (Recharge 5–6).**_ The gorgon exhales petrifying gas in a 30-­‐foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the _greater restoration_ spell or other magic.
 
-## **Grick** 
+#### **Grick** 
 
 _Medium monstrosity, neutral_
 
@@ -20290,27 +21666,45 @@ _Medium monstrosity, neutral_
 
 **Speed** 30 ft., climb 30 ft.
 
-**STR DEX CON INT WIS CHA** 14 (+2) 14 (+2) 11 (+0) 3 (−4) 14 (+2) 5 (−3)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 14 (+2) | 11 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks **Senses** darkvision 60 ft., passive Perception 12
 
-**Languages** — **Challenge** 2 (450 XP)
+
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Stone Camouflage.**_ The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
 
-_**Tentacles.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage. _**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+_**Tentacles.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage.
 
-## **Griffon** 
+_**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+
+#### **Griffon** 
 
 _Large monstrosity, unaligned_
 
-**Armor Class** 12 **Hit Points** 59 (7d10 + 21) **Speed** 30 ft., fly 80 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 18 (+4) 15 (+2) 16 (+3) 2 (−4) 13 (+1) 8 (−1)
+**Hit Points** 59 (7d10 + 21)
+
+**Speed** 30 ft., fly 80 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 13 (+1) | 8 (−1) |
+
+
 
 **Skills** Perception +5
 
@@ -20322,7 +21716,7 @@ _Large monstrosity, unaligned_
 
 _**Keen Sight.**_ The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The griffon makes two attacks: one with its beak and one with its claws.
 
@@ -20330,15 +21724,21 @@ _**Beak.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1
 
 _**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 
-## **Grimlock** 
+#### **Grimlock** 
 
 _Medium humanoid (grimlock), neutral evil_
 
-## **Armor Class** 11
+**Armor Class** 11
 
-**Hit Points** 11 (2d8 + 2) **Speed** 30 ft.
+**Hit Points** 11 (2d8 + 2)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 12 (+1) 12 (+1) 9 (−1) 8 (−1) 6 (−2)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1) | 8 (−1) | 6 (−2) |
+
+
 
 **Skills** Athletics +5, Perception +3, Stealth +3
 
@@ -20350,7 +21750,7 @@ _Medium humanoid (grimlock), neutral evil_
 
 **Challenge** 1/4 (50 XP)
 
-## **Actions** 
+#### **Actions** 
 
 _**Blind Senses.**_ The grimlock can’t use its blindsight while deafened and unable to smell.
 
@@ -20358,25 +21758,37 @@ _**Keen Hearing and Smell.**_ The grimlock has advantage on Wisdom (Perception) 
 
 _**Stone Camouflage.**_ The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-## **Actions** 
+#### **Actions** 
 
 _**Spiked Bone Club.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
 ## **Monsters (H)** 
 
-## **Hags** 
+### **Hags** 
 
-## **Green Hag**
+#### **Green Hag** 
 
 _Medium fey, neutral evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 82 (11d8 + 33) **Speed** 30 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 12 (+1) 16 (+3) 13 (+1) 14 (+2) 14 (+2)
+**Hit Points** 82 (11d8 + 33)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
+
+
 
 **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
 
-**Senses** darkvision 60 ft., passive Perception 14 **Languages** Common, Draconic, Sylvan **Challenge** 3 (700 XP)
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Common, Draconic, Sylvan
+
+**Challenge** 3 (700 XP)
 
 _**Amphibious.**_ The hag can breathe air and water.
 
@@ -20392,21 +21804,33 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 _**Invisible Passage.**_ The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
 
-## **Night Hag**
+#### **Night Hag** 
 
 _Medium fiend, neutral evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 112 (15d8 + 45) **Speed** 30 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 15 (+2) 16 (+3) 16 (+3) 14 (+2) 16 (+3)
+**Hit Points** 112 (15d8 + 45)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
+
+
 
 **Skills** Deception +7, Insight +6, Perception +6, Stealth +6
 
 **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
-## **Condition Immunities** charmed
+**Condition Immunities** charmed
 
-**Senses** darkvision 120 ft., passive Perception 16 **Languages** Abyssal, Common, Infernal, Primordial **Challenge** 5 (1,800 XP)
+**Senses** darkvision 120 ft., passive Perception 16
+
+**Languages** Abyssal, Common, Infernal, Primordial
+
+**Challenge** 5 (1,800 XP)
 
 _**Innate Spellcasting.**_ The hag’s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
@@ -20416,7 +21840,7 @@ At will: _detect magic_ , _magic missile_
 
 _**Magic Resistance.**_ The hag has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws (Hag Form Only).** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 
@@ -20426,13 +21850,13 @@ _**Etherealness.**_ The hag magically enters the Ethereal Plane from the Materia
 
 _**Nightmare Haunting (1/Day).**_ While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A _protection from evil and good_ spell cast on the target prevents this contact, as does a _magic circle_ . As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target’s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag’s _soul bag_ . The reduction to the target’s hit point maximum lasts until removed by the _greater restoration_ spell or similar magic.
 
-## **Sea Hag**
+### **Sea Hag** 
 
 form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the hag’s Horrific Appearance for the next 24 hours.
 
 Unless the target is surprised or the revelation of the hag’s true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
@@ -20442,47 +21866,81 @@ _**Illusory Appearance.**_ The hag covers herself and anything she is wearing or
 
 _Medium fey, chaotic evil_
 
-**Armor Class** 14 (natural armor) **Hit Points** 52 (7d8 + 21) **Speed** 30 ft., swim 40 ft.
+**Armor Class** 14 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    13    (+1)    16    (+3)    12    (+1)    12    (+1)    13    (+1)|
+**Hit Points** 52 (7d8 + 21)
+
+**Speed** 30 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 11 **Languages** Aquan, Common, Giant **Challenge** 2 (450 XP)
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** Aquan, Common, Giant
+
+**Challenge** 2 (450 XP)
 
 _**Amphibious.**_ The hag can breathe air and water.
 
 _**Horrific Appearance.**_ Any humanoid that starts its turn within 30 feet of the hag and can see the hag’s true
 
-## **Half-Dra on Tem late g p** 
+### **Half-Dra on Tem late g p** 
 
-A beast, humanoid, giant, or monstrosity can become a half-­‐‑dragon. It keeps its statistics, except as follows. _**Challenge.**_ To avoid recalculating the creature’s challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template. _**Senses.**_ The half-­‐‑dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet. _**Resistances.**_ The half-­‐‑dragon gains resistance to a type of damage based on its color.
+A beast, humanoid, giant, or monstrosity can become a half-­‐‑dragon. It keeps its statistics, except as follows.
+
+_**Challenge.**_ To avoid recalculating the creature’s challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template.
+
+_**Senses.**_ The half-­‐‑dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
+
+_**Resistances.**_ The half-­‐‑dragon gains resistance to a type of damage based on its color.
 
 **Color Damage Resistance** Black or copper Acid Blue or bronze Lightning
 
 Brass, gold, or red Fire Green Poison Silver or white Cold
 
-_**Languages.**_ The half-­‐‑dragon speaks Draconic in addition to any other languages it knows. _**New Action: Breath Weapon.**_ The half-­‐‑dragon has the breath weapon of its dragon half. The half-­‐‑ dragon’s size determines how this action functions.
+_**Languages.**_ The half-­‐‑dragon speaks Draconic in addition to any other languages it knows.
 
-|||**Optional**| |---|---|---| |**Size**|**Breath    Weapon**|**Prerequisite**| |Large    or|As    a    wyrmling|Challenge    2    or    higher| |smaller||| |Huge<br>Gargantuan<br>|As    a    young    dragon<br>As    an    adult    dragon|Challenge    7    or    higher<br>Challenge    8    or    higher|
+_**New Action: Breath Weapon.**_ The half-­‐‑dragon has the breath weapon of its dragon half. The half-­‐‑ dragon’s size determines how this action functions.
+
+| **Size** | **Breath Weapon** | **Prerequisite** |
+|---|---|---|
+| Large or smaller | As a wyrmling | Challenge 2 or higher |
+| Huge | As a young dragon | Challenge 7 or higher |
+| Gargantuan | As an adult dragon | Challenge 8 or higher |
 
 
 
-## **Half-­‐Red Dragon Veteran**
+#### **Half-­‐Red Dragon Veteran** 
 
 _Medium humanoid (human), any alignment_
 
-**Armor Class** 18 (plate) **Hit Points** 65 (10d8 + 20) **Speed** 30 ft.
+**Armor Class** 18 (plate)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 13 (+1) 14 (+2) 10 (+0) 11 (+0) 10 (+0)
+**Hit Points** 65 (10d8 + 20)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+
 
 **Skills** Athletics +5, Perception +2
 
-## **Damage Resistances** fire
+**Damage Resistances** fire
 
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12 **Languages** Common, Draconic **Challenge** 5 (1,800 XP)
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
 
-## **Actions** 
+**Languages** Common, Draconic
+
+**Challenge** 5 (1,800 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
@@ -20494,17 +21952,29 @@ _**Heavy Crossbow.** Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one ta
 
 _**Fire Breath (Recharge 5–6).**_ The veteran exhales fire in a 15-­‐foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Harpy** 
+#### **Harpy** 
 
 _Medium monstrosity, chaotic evil_
 
 **Armor Class** 11
 
-**Hit Points** 38 (7d8 + 7) **Speed** 20 ft., fly 40 ft.
+**Hit Points** 38 (7d8 + 7)
 
-**STR DEX CON INT WIS CHA** 12 (+1) 13 (+1) 12 (+1) 7 (−2) 10 (+0) 13 (+1) **Senses** passive Perception 10 **Languages** Common **Challenge** 1 (200 XP)
+**Speed** 20 ft., fly 40 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 13 (+1) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** Common
+
+**Challenge** 1 (200 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The harpy makes two attacks: one with its claws and one with its club.
 
@@ -20520,25 +21990,33 @@ incapacitated and ignores the songs of other harpies. If the charmed target is m
 
 A target that successfully saves is immune to this harpy’s song for the next 24 hours.
 
-## **Hell Hound**
+#### **Hell Hound** 
 
 _Medium fiend, lawful evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 45 (7d8 + 14)
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 45 (7d8 + 14)
 
 **Speed** 50 ft.
 
-## **Actions** 
+#### **Actions** 
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    12    (+1)    14    (+2)    6    (−2)    13    (+1)    6    (−2)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2) | 13 (+1) | 6 (−2) |
 
 
 
 **Skills** Perception +5
 
-## **Damage Immunities** fire
+**Damage Immunities** fire
 
-**Senses** darkvision 60 ft., passive Perception 15 **Languages** understands Infernal but can’t speak it **Challenge** 3 (700 XP)
+**Senses** darkvision 60 ft., passive Perception 15
+
+**Languages** understands Infernal but can’t speak it
+
+**Challenge** 3 (700 XP)
 
 _**Multiattack.**_ The hippogriff makes two attacks: one with its beak and one with its claws.
 
@@ -20546,7 +22024,7 @@ _**Beak.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1
 
 _**Claws.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
-## **Hobgoblin** 
+#### **Hobgoblin** 
 
 _Medium humanoid (goblinoid), lawful evil_
 
@@ -20554,83 +22032,117 @@ _**Keen Hearing and Smell.**_ The hound has advantage on Wisdom (Perception) che
 
 _**Pack Tactics.**_ The hound has advantage on an attack roll against a creature if at least one of the hound’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
 
 _**Fire Breath (Recharge 5–6).**_ The hound exhales fire in a 15-­‐foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Hippogriff** 
+#### **Hippogriff** 
 
 _Large monstrosity, unaligned_
 
 **Armor Class** 11
 
-**Hit Points** 19 (3d10 + 3) **Speed** 40 ft., fly 60 ft.
+**Hit Points** 19 (3d10 + 3)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    13    (+1)    13    (+1)    2    (−4)    12    (+1)    8    (−1)|
+**Speed** 40 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 8 (−1) |
 
 
 
-**Skills** Perception +5 **Senses** passive Perception 15 **Languages** — **Challenge** 1 (200 XP)
+**Skills** Perception +5
+
+**Senses** passive Perception 15
+
+**Languages** —
+
+**Challenge** 1 (200 XP)
 
 _**Keen Sight.**_ The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-**Armor Class** 18 (chain mail, shield) **Hit Points** 11 (2d8 + 2)
+**Armor Class** 18 (chain mail, shield)
+
+**Hit Points** 11 (2d8 + 2)
 
 **Speed** 30 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||13    (+1)    12    (+1)    12    (+1)    10    (+0)    10    (+0)    9    (−1)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 10 **Languages** Common, Goblin **Challenge** 1/2 (100 XP)
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Common, Goblin
+
+**Challenge** 1/2 (100 XP)
 
 _**Martial Advantage.**_ Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Longsword.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
 _**Longbow.** Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-## **Homunculus** 
+#### **Homunculus** 
 
 _Tiny construct, neutral_
 
-**Armor Class** 13 (natural armor) **Hit Points** 5 (2d4)
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 5 (2d4)
 
 **Speed** 20 ft., fly 40 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>4    (−3)    15    (+2)    11    (+0)    10    (+0)    10    (+0)    7    (−2)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 4 (−3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2) |
 
 
 
-**Damage Immunities** poison **Condition Immunities** charmed, poisoned **Senses** darkvision 60 ft., passive Perception 10
+**Damage Immunities** poison
 
-**Languages** understands the languages of its creator but can’t speak **Challenge** 0 (10 XP)
+**Condition Immunities** charmed, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** understands the languages of its creator but can’t speak
+
+**Challenge** 0 (10 XP)
 
 _**Telepathic Bond.**_ While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 
 _**Wakeful.**_ While the hydra sleeps, at least one of its heads is awake.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The hydra makes as many bite attacks as it has heads.
 
 _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
-## **Hydra** 
+#### **Hydra** 
 
 _Huge monstrosity, unaligned_
 
-**Armor Class** 15 (natural armor) **Hit Points** 172 (15d12 + 75) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||20    (+5)    12    (+1)    20    (+5)    2    (−4)    10    (+0)    7    (−2)|
+**Hit Points** 172 (15d12 + 75)
+
+**Speed** 30 ft., swim 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 20 (+5) | 12 (+1) | 20 (+5) | 2 (−4) | 10 (+0) | 7 (−2) |
 
 
 
@@ -20638,7 +22150,7 @@ _Huge monstrosity, unaligned_
 
 **Senses** darkvision 60 ft., passive Perception 16
 
-## **Languages** — 
+**Languages** — 
 
 **Challenge** 8 (3,900 XP)
 
@@ -20652,17 +22164,19 @@ _**Reactive Heads.**_ For each head the hydra has beyond one, it gets an extra r
 
 ## **Monsters (I)** 
 
-## **Invisible Stalker**
+#### **Invisible Stalker** 
 
 _Medium elemental, neutral_
 
-## **Armor Class** 14
+**Armor Class** 14
 
 **Hit Points** 104 (16d8 + 32)
 
 **Speed** 50 ft., fly 50 ft. (hover)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    19    (+4)    14    (+2)    10    (+0)    15    (+2)    11    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0) |
 
 
 
@@ -20670,9 +22184,11 @@ _Medium elemental, neutral_
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious **Senses** darkvision 60 ft., passive Perception 18
+**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+
+**Senses** darkvision 60 ft., passive Perception 18
 
 **Languages** Auran, understands Common but doesn’t speak it
 
@@ -20682,7 +22198,7 @@ _**Invisibility.**_ The stalker is invisible.
 
 _**Faultless Tracker.**_ The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The stalker makes two slam attacks.
 
@@ -20690,43 +22206,65 @@ _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (
 
 ## **Monsters (K)** 
 
-## **Kobold** 
+#### **Kobold** 
 
 _Small humanoid (kobold), lawful evil_
 
-**Armor Class** 12 **Hit Points** 5 (2d6 − 2) **Speed** 30 ft.
+**Armor Class** 12
 
-|**Speed**30    ft.|||| |---|---|---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |<br>7    (−2)    15    (+2)    9    (−1)|8    (−1)|7    (−2)|8    (−1)|
+**Hit Points** 5 (2d6 − 2)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 7 (−2) | 15 (+2) | 9 (−1) | 8 (−1) | 7 (−2) | 8 (−1) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 8 **Languages** Common, Draconic **Challenge** 1/8 (25 XP)
+**Senses** darkvision 60 ft., passive Perception 8
+
+**Languages** Common, Draconic
+
+**Challenge** 1/8 (25 XP)
 
 _**Sunlight Sensitivity.**_ While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 _**Pack Tactics.**_ The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
 _**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
-## **Kraken** 
+#### **Kraken** 
 
 _Gargantuan monstrosity (titan)_ _**,** chaotic evil_
 
 **Armor Class** 18 (natural armor)
 
-**Hit Points** 472 (27d20 + 189) **Speed** 20 ft., swim 60 ft.
+**Hit Points** 472 (27d20 + 189)
 
-**STR DEX CON INT WIS CHA** 30 (+10) 11 (+0) 25 (+7) 22 (+6) 18 (+4) 20 (+5)
+**Speed** 20 ft., swim 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 30 (+10) | 11 (+0) | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
+
+
 
 **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
 
-**Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks **Condition Immunities** frightened, paralyzed **Senses** truesight 120 ft., passive Perception 14
+**Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Languages** understands Abyssal, Celestial, Infernal, and Primordial but can’t speak, telepathy 120 ft. **Challenge** 23 (50,000 XP)
+**Condition Immunities** frightened, paralyzed
+
+**Senses** truesight 120 ft., passive Perception 14
+
+**Languages** understands Abyssal, Celestial, Infernal, and Primordial but can’t speak, telepathy 120 ft.
+
+**Challenge** 23 (50,000 XP)
 
 _**Amphibious.**_ The kraken can breathe air and water.
 
@@ -20734,7 +22272,7 @@ _**Freedom of Movement.**_ The kraken ignores difficult terrain, and magical eff
 
 _**Siege Monster.**_ The kraken deals double damage to objects and structures.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
@@ -20746,7 +22284,7 @@ _**Fling.**_ One Large or smaller object held or creature grappled by the kraken
 
 _**Lightning Storm.**_ The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The kraken regains spent legendary actions at the start of its turn.
 
@@ -20758,15 +22296,29 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 ## **Monsters (L)** 
 
-## **Lamia** 
+#### **Lamia** 
 
 _Large monstrosity, chaotic evil_
 
-**Armor Class** 13 (natural armor) **Hit Points** 97 (13d10 + 26) **Speed** 30 ft.
+**Armor Class** 13 (natural armor)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 13 (+1) 15 (+2) 14 (+2) 15 (+2) 16 (+3)
+**Hit Points** 97 (13d10 + 26)
 
-**Skills** Deception +7, Insight +4, Stealth +3 **Senses** darkvision 60 ft., passive Perception 12 **Languages** Abyssal, Common **Challenge** 4 (1,100 XP)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
+
+
+
+**Skills** Deception +7, Insight +4, Stealth +3
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Abyssal, Common
+
+**Challenge** 4 (1,100 XP)
 
 _**Innate Spellcasting.**_ The lamia’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
@@ -20776,7 +22328,7 @@ At will: _disguise self_ (any humanoid form), _major image_
 
 1/day: _geas_ 
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
@@ -20786,25 +22338,41 @@ _**Dagger.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 
 
 _**Intoxicating Touch.** Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
-## **Lich** 
+#### **Lich** 
 
 _Medium undead, any evil alignment_
 
-**Armor Class** 17 (natural armor) **Hit Points** 135 (18d8 + 54) **Speed** 30 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 11 (+0) 16 (+3) 16 (+3) 20 (+5) 14 (+2) 16 (+3)
+**Hit Points** 135 (18d8 + 54)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |
+
+
 
 **Saving Throws** Con +10, Int +12, Wis +9
 
-**Skills** Arcana +18, History +12, Insight +9, Perception +9 **Damage Resistances** cold, lightning, necrotic
+**Skills** Arcana +18, History +12, Insight +9, Perception +9
 
-- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, lightning, necrotic
 
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+-
+
+**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
+
+-
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 **Senses** truesight 120 ft., passive Perception 19
 
-**Languages** Common plus up to five other languages **Challenge** 21 (33,000 XP)
+**Languages** Common plus up to five other languages
+
+**Challenge** 21 (33,000 XP)
 
 _**Legendary Resistance (3/Day).**_ If the lich fails a saving throw, it can choose to succeed instead.
 
@@ -20834,11 +22402,11 @@ Cantrips (at will): _mage hand_ , _prestidigitation_ , _ray of frost_
 
 _**Turn Resistance.**_ The lich has advantage on saving throws against any effect that turns undead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Paralyzing Touch.** Melee Spell Attack:_ +12 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.
 
@@ -20850,33 +22418,47 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 - **Disrupt Life (Costs 3 Actions).** Each non-­‐undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
-## **Lizardfolk** 
+#### **Lizardfolk** 
 
 _Medium humanoid (lizardfolk), neutral_
 
-**Armor Class** 15 (natural armor, shield) **Hit Points** 22 (4d8 + 4)
+**Armor Class** 15 (natural armor, shield)
+
+**Hit Points** 22 (4d8 + 4)
 
 **Speed** 30 ft., swim 30 ft.
 
-**STR DEX CON INT WIS CHA** 15 (+2) 10 (+0) 13 (+1) 7 (−2) 12 (+1) 7 (−2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2) | 12 (+1) | 7 (−2) |
 
-**Skills** Perception +3, Stealth +4, Survival +5 **Senses** passive Perception 13 **Languages** Draconic **Challenge** 1/2 (100 XP)
+
+
+**Skills** Perception +3, Stealth +4, Survival +5
+
+**Senses** passive Perception 13
+
+**Languages** Draconic
+
+**Challenge** 1/2 (100 XP)
 
 _**Hold Breath.**_ The lizardfolk can hold its breath for 15 minutes.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The lizardfolk makes two melee attacks, each one with a different weapon.
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-_**Heavy Club.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage. _**Javelin.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+_**Heavy Club.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
+
+_**Javelin.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
 _**Spiked Shield.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-## **Lycanthropes** 
+### **Lycanthropes** 
 
-## **Werebear** 
+#### **Werebear** 
 
 _Medium humanoid (human, shapechanger), neutral good_
 
@@ -20886,7 +22468,9 @@ _Medium humanoid (human, shapechanger), neutral good_
 
 **Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    10    (+0)    17    (+3)    11    (+0)    12    (+1)    12    (+1)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
 
 
 
@@ -20896,13 +22480,15 @@ _Medium humanoid (human, shapechanger), neutral good_
 
 **Senses** passive Perception 17
 
-**Languages** Common (can’t speak in bear form) **Challenge** 5 (1,800 XP)
+**Languages** Common (can’t speak in bear form)
+
+**Challenge** 5 (1,800 XP)
 
 _**Shapechanger.**_ The werebear can use its action to polymorph into a Large bear-­‐humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 _**Keen Smell.**_ The werebear has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
@@ -20912,7 +22498,7 @@ _**Claw (Bear or Hybrid Form Only).** Melee Weapon Attack:_ +7 to hit, reach 5 f
 
 _**Greataxe (Humanoid or Hybrid Form Only).** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d12 + 4) slashing damage.
 
-## **Wereboar** 
+#### **Wereboar** 
 
 _Medium humanoid (human, shapechanger), neutral evil_
 
@@ -20922,11 +22508,21 @@ _Medium humanoid (human, shapechanger), neutral evil_
 
 **Speed** 30 ft. (40 ft. in boar form)
 
-**STR DEX CON INT WIS CHA** 17 (+3) 10 (+0) 15 (+2) 10 (+0) 11 (+0) 8 (−1)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (−1) |
+
+
 
 **Skills** Perception +2
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons **Senses** passive Perception 12 **Languages** Common (can’t speak in boar form) **Challenge** 4 (1,100 XP)
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** passive Perception 12
+
+**Languages** Common (can’t speak in boar form)
+
+**Challenge** 4 (1,100 XP)
 
 _**Shapechanger.**_ The wereboar can use its action to polymorph into a boar-­‐humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
@@ -20934,7 +22530,7 @@ _**Charge (Boar or Hybrid Form Only).**_ If the wereboar moves at least 15 feet 
 
 _**Relentless (Recharges after a Short or Long Rest).**_ If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack (Humanoid or Hybrid Form Only).**_ The wereboar makes two attacks, only one of which can be with its tusks.
 
@@ -20942,25 +22538,37 @@ _**Maul (Humanoid or Hybrid Form Only).** Melee Weapon Attack:_ +5 to hit, reach
 
 _**Tusks (Boar or Hybrid Form Only).** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 
-## **Wererat** 
+#### **Wererat** 
 
 _Medium humanoid (human, shapechanger), lawful evil_
 
-**Armor Class** 12 **Hit Points** 33 (6d8 + 6) **Speed** 30 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 10 (+0) 15 (+2) 12 (+1) 11 (+0) 10 (+0) 8 (−1) **Skills** Perception +2, Stealth +4
+**Hit Points** 33 (6d8 + 6)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1) |
+
+
+
+**Skills** Perception +2, Stealth +4
 
 **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 **Senses** darkvision 60 ft. (rat form only), passive Perception 12
 
-**Languages** Common (can’t speak in rat form) **Challenge** 2 (450 XP)
+**Languages** Common (can’t speak in rat form)
+
+**Challenge** 2 (450 XP)
 
 _**Shapechanger.**_ The wererat can use its action to polymorph into a rat-­‐humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 _**Keen Smell.**_ The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack (Humanoid or Hybrid Form Only).**_ The wererat makes two attacks, only one of which can be a bite.
 
@@ -20970,7 +22578,7 @@ _**Shortsword (Humanoid or Hybrid Form Only).** Melee Weapon Attack:_ +4 to hit,
 
 _**Hand Crossbow (Humanoid or Hybrid Form Only).** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-## **Weretiger** 
+#### **Weretiger** 
 
 _Medium humanoid (human, shapechanger), neutral_
 
@@ -20980,7 +22588,9 @@ _Medium humanoid (human, shapechanger), neutral_
 
 **Speed** 30 ft. (40 ft. in tiger form)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    15    (+2)    16    (+3)    10    (+0)    13    (+1)    11    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 
 
@@ -20990,15 +22600,17 @@ _Medium humanoid (human, shapechanger), neutral_
 
 **Senses** darkvision 60 ft., passive Perception 15
 
-**Languages** Common (can’t speak in tiger form) **Challenge** 4 (1,100 XP)
+**Languages** Common (can’t speak in tiger form)
+
+**Challenge** 4 (1,100 XP)
 
 _**Shapechanger.**_ The weretiger can use its action to polymorph into a tiger-­‐humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 _**Keen Hearing and Smell.**_ The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-_**Pounce (Tiger or Hybrid Form Only).**_ If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone _**.**_ If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+_**Pounce (Tiger or Hybrid Form Only).**_ If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack (Humanoid or Hybrid Form Only).**_ In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
@@ -21010,7 +22622,7 @@ _**Scimitar (Humanoid or Hybrid Form Only).** Melee Weapon Attack:_ +5 to hit, r
 
 _**Longbow (Humanoid or Hybrid Form Only).** Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
-## **Werewolf** 
+#### **Werewolf** 
 
 _Medium humanoid (human, shapechanger), chaotic evil_
 
@@ -21020,7 +22632,9 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 
 **Speed** 30 ft. (40 ft. in wolf form)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    13    (+1)    14    (+2)    10    (+0)    11    (+0)    10    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 
 
@@ -21028,13 +22642,17 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 
 **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
-**Senses** passive Perception 14 **Languages** Common (can’t speak in wolf form) **Challenge** 3 (700 XP)
+**Senses** passive Perception 14
+
+**Languages** Common (can’t speak in wolf form)
+
+**Challenge** 3 (700 XP)
 
 _**Shapechanger.**_ The werewolf can use its action to polymorph into a wolf-­‐humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 _**Keen Hearing and Smell.**_ The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack (Humanoid or Hybrid Form Only).**_ The werewolf makes two attacks: one with its bite and one with its claws or spear.
 
@@ -21046,21 +22664,31 @@ _**Spear (Humanoid Form Only).** Melee or Ranged Weapon Attack:_ +4 to hit, reac
 
 ## **Monsters (M)** 
 
-## **Magmin** 
+#### **Magmin** 
 
 _Small elemental, chaotic neutral_
 
-**Armor Class** 14 (natural armor) **Hit Points** 9 (2d6 + 2)
+**Armor Class** 14 (natural armor)
+
+**Hit Points** 9 (2d6 + 2)
 
 **Speed** 30 ft.
 
-|**Speed**30    ft.|| |---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**<br>**CHA**| |<br>7    (−2)    15    (+2)    12    (+1)    8    (−1)|11    (+0)    10    (+0)| |**Damage    Resistances**bludgeoning,    piercing,    and|| |slashing    from    nonmagical    attacks||
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0) |
+
+**Damage Resistances** bludgeoning, piercing, and
+
+slashing from nonmagical attacks
 
 
 
-## **Damage Immunities** fire
+**Damage Immunities** fire
 
-**Senses** darkvision 60 ft., passive Perception 10 **Languages** Ignan
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Ignan
 
 **Challenge** 1/2 (100 XP)
 
@@ -21068,25 +22696,35 @@ _**Death Burst.**_ When the magmin dies, it explodes in a burst of fire and magm
 
 _**Ignited Illumination.**_ As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-­‐foot radius and dim light for an additional 10 feet.
 
-## **Actions** 
+#### **Actions** 
 
 _**Touch.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
 
-## **Manticore** 
+#### **Manticore** 
 
 _Large monstrosity, lawful evil_
 
-**Armor Class** 14 (natural armor) **Hit Points** 68 (8d10 + 24) **Speed** 30 ft., fly 50 ft.
+**Armor Class** 14 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    16    (+3)    17    (+3)    7    (−2)    12    (+1)    8    (−1)|
+**Hit Points** 68 (8d10 + 24)
+
+**Speed** 30 ft., fly 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 16 (+3) | 17 (+3) | 7 (−2) | 12 (+1) | 8 (−1) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 11 **Languages** Common **Challenge** 3 (700 XP)
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** Common
+
+**Challenge** 3 (700 XP)
 
 _**Tail Spike Regrowth.**_ The manticore has twenty-­‐four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
@@ -21096,17 +22734,29 @@ _**Claw.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1
 
 _**Tail Spike.** Ranged Weapon Attack:_ +5 to hit, range 100/200 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
 
-## **Medusa** 
+#### **Medusa** 
 
 _Medium monstrosity, lawful evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 127 (17d8 + 51) **Speed** 30 ft.
+**Armor Class** 15 (natural armor)
 
-|<br>**STR**<br>**DEX**<br>**CON**|**INT**<br>**WIS**<br>**CHA**| |---|---| |10    (+0)    15    (+2)    16    (+3)|12    (+1)    13    (+1)    15    (+2)| |**Skills**Deception    +5,    Insight<br>+5|+4,    Perception    +4,    Stealth|
+**Hit Points** 127 (17d8 + 51)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
+
+**Skills** Deception +5, Insight +5 +4, Perception +4, Stealth
 
 
 
-**Senses** darkvision 60 ft., passive Perception 14 **Languages** Common **Challenge** 6 (2,300 XP)
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Common
+
+**Challenge** 6 (2,300 XP)
 
 _**Petrifying Gaze.**_ When a creature that can see the medusa’s eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn’t incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the _greater restoration_ spell or other magic.
 
@@ -21114,7 +22764,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The medusa makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.
 
@@ -21124,21 +22774,37 @@ _**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:
 
 _**Longbow.** Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
-## **Me hits p** 
+### **Me hits p** 
 
-## **Dust Mephit**
+#### **Dust Mephit** 
 
 _Small elemental, neutral evil_
 
-**Armor Class** 12 **Hit Points** 17 (5d6) **Speed** 30 ft., fly 30 ft.
+**Armor Class** 12
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>5    (−3)    14    (+2)    10    (+0)    9    (−1)    11    (+0)    10    (+0)|
+**Hit Points** 17 (5d6)
+
+**Speed** 30 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 5 (−3) | 14 (+2) | 10 (+0) | 9 (−1) | 11 (+0) | 10 (+0) |
 
 
 
 **Skills** Perception +2, Stealth +4
 
-**Damage Vulnerabilities** fire **Damage Immunities** poison **Condition Immunities** poisoned **Senses** darkvision 60 ft., passive Perception 12 **Languages** Auran, Terran **Challenge** 1/2 (100 XP)
+**Damage Vulnerabilities** fire
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Auran, Terran
+
+**Challenge** 1/2 (100 XP)
 
 _**Death Burst.**_ When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
@@ -21146,53 +22812,73 @@ _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _sleep_ , requir
 
 If the medusa sees itself reflected on a polished
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) slashing damage.
 
 _**Blinding Breath (Recharge 6).**_ The mephit exhales a 15-­‐ foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Ice Mephit**
+#### **Ice Mephit** 
 
 _Small elemental, neutral evil_
 
 **Armor Class** 11
 
-**Hit Points** 21 (6d6) **Speed** 30 ft., fly 30 ft.
+**Hit Points** 21 (6d6)
 
-**STR DEX CON INT WIS CHA** 7 (−2) 13 (+1) 10 (+0) 9 (−1) 11 (+0) 12 (+1) **Skills** Perception +2, Stealth +3
+**Speed** 30 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 7 (−2) | 13 (+1) | 10 (+0) | 9 (−1) | 11 (+0) | 12 (+1) |
+
+
+
+**Skills** Perception +2, Stealth +3
 
 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 
-## **Magma Mephit**
+#### **Magma Mephit** 
 
 _Small elemental, neutral evil_
 
-## **Armor Class** 11
+**Armor Class** 11
 
-**Hit Points** 22 (5d6 + 5) **Speed** 30 ft., fly 30 ft.
+**Hit Points** 22 (5d6 + 5)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>8    (−1)    12    (+1)    12    (+1)    7    (−2)    10    (+0)    10    (+0)|
+**Speed** 30 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 8 (−1) | 12 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 10 (+0) |
 
 
 
 **Skills** Stealth +3
 
-## **Damage Vulnerabilities** cold
+**Damage Vulnerabilities** cold
 
 **Damage Immunities** fire, poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** darkvision 60 ft., passive Perception 10 **Languages** Ignan, Terran **Challenge** 1/2 (100 XP)
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Ignan, Terran
+
+**Challenge** 1/2 (100 XP)
 
 **Damage Vulnerabilities** bludgeoning, fire
 
 **Damage Immunities** cold, poison
 
-## **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
-**Senses** darkvision 60 ft., passive Perception 12 **Languages** Aquan, Auran **Challenge** 1/2 (100 XP)
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Aquan, Auran
+
+**Challenge** 1/2 (100 XP)
 
 _**Death Burst.**_ When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 
@@ -21200,7 +22886,7 @@ _**False Appearance.**_ While the mephit remains motionless, it is indistinguish
 
 _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _fog cloud_ , requiring no material components. Its innate spellcasting ability is Charisma.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
@@ -21212,83 +22898,135 @@ _**False Appearance.**_ While the mephit remains motionless, it is indistinguish
 
 _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _heat metal_ (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 
 _**Fire Breath (Recharge 6).**_ The mephit exhales a 15-­‐foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Steam Mephit**
+#### **Steam Mephit** 
 
 _Small elemental, neutral evil_
 
-**Armor Class** 10 **Hit Points** 21 (6d6) **Speed** 30 ft., fly 30 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 5 (−3) 11 (+0) 10 (+0) 11 (+0) 10 (+0) 12 (+1)
+**Hit Points** 21 (6d6)
+
+**Speed** 30 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 5 (−3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
+
+
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** poisoned **Senses** darkvision 60 ft., passive Perception 10 **Languages** Aquan, Ignan **Challenge** 1/4 (50 XP)
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Aquan, Ignan
+
+**Challenge** 1/4 (50 XP)
 
 _**Death Burst.**_ When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
 
 _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _blur_ , requiring no material components. Its innate spellcasting ability is Charisma.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 _**Steam Breath (Recharge 6).**_ The mephit exhales a 15-­‐ foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 
-## **Merfolk** 
+#### **Merfolk** 
 
 _Medium humanoid (merfolk), neutral_
 
-**Armor Class** 11 **Hit Points** 11 (2d8 + 2) **Speed** 10 ft., swim 40 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 10 (+0) 13 (+1) 12 (+1) 11 (+0) 11 (+0) 12 (+1)
+**Hit Points** 11 (2d8 + 2)
 
-**Skills** Perception +2 **Senses** passive Perception 12 **Languages** Aquan, Common **Challenge** 1/8 (25 XP)
+**Speed** 10 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 13 (+1) | 12 (+1) | 11 (+0) | 11 (+0) | 12 (+1) |
+
+
+
+**Skills** Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** Aquan, Common
+
+**Challenge** 1/8 (25 XP)
 
 _**Amphibious.**_ The merfolk can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Spear.** Melee or Ranged Weapon Attack:_ +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
-## **Merrow** 
+#### **Merrow** 
 
 _Large monstrosity, chaotic evil_
 
-**Armor Class** 13 (natural armor) **Hit Points** 45 (6d10 + 12) **Speed** 10 ft., swim 40 ft.
+**Armor Class** 13 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    10    (+0)    15    (+2)    8    (−1)    10    (+0)    9    (−1)|
+**Hit Points** 45 (6d10 + 12)
+
+**Speed** 10 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 10 (+0) | 15 (+2) | 8 (−1) | 10 (+0) | 9 (−1) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 10 **Languages** Abyssal, Aquan **Challenge** 2 (450 XP)
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Abyssal, Aquan
+
+**Challenge** 2 (450 XP)
 
 _**Amphibious.**_ The merrow can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The merrow makes two attacks: one with its bite and one with its claws or harpoon.
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.
 
-_**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) slashing damage. _**Harpoon.** Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+_**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) slashing damage.
 
-## **Mimic** 
+_**Harpoon.** Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+
+#### **Mimic** 
 
 _Medium monstrosity (shapechanger), neutral_
 
-**Armor Class** 12 (natural armor) **Hit Points** 58 (9d8 + 18) **Speed** 15 ft.
+**Armor Class** 12 (natural armor)
 
-|**Speed**15    ft.|||| |---|---|---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |17    (+3)    12    (+1)    15    (+2)|5    (−3)|13    (+1)|8    (−1)| |**Skills**Stealth    +5|||| |**Damage    Immunities**acid||||
+**Hit Points** 58 (9d8 + 18)
 
-## **Condition Immunities** prone
+**Speed** 15 ft.
 
-**Senses** darkvision 60 ft., passive Perception 11 **Languages** —
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3) | 13 (+1) | 8 (−1) |
+
+**Skills** Stealth +5
+
+**Damage Immunities** acid
+
+**Condition Immunities** prone
+
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** —
 
 **Challenge** 2 (450 XP)
 
@@ -21300,23 +23038,35 @@ _**False Appearance (Object Form Only).**_ While the mimic remains motionless, i
 
 _**Grappler.**_ The mimic has advantage on attack rolls against any creature grappled by it.
 
-## **Actions** 
+#### **Actions** 
 
 _**Pseudopod.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 
-## **Minotaur** 
+#### **Minotaur** 
 
 _Large monstrosity, chaotic evil_
 
-**Armor Class** 14 (natural armor) **Hit Points** 76 (9d10 + 27) **Speed** 40 ft.
+**Armor Class** 14 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    11    (+0)    16    (+3)    6    (−2)    16    (+3)    9    (−1)|
+**Hit Points** 76 (9d10 + 27)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 11 (+0) | 16 (+3) | 6 (−2) | 16 (+3) | 9 (−1) |
 
 
 
-**Skills** Perception +7 **Senses** darkvision 60 ft., passive Perception 17 **Languages** Abyssal **Challenge** 3 (700 XP)
+**Skills** Perception +7
+
+**Senses** darkvision 60 ft., passive Perception 17
+
+**Languages** Abyssal
+
+**Challenge** 3 (700 XP)
 
 _**Charge.**_ If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on
 
@@ -21326,27 +23076,33 @@ _**Labyrinthine Recall.**_ The minotaur can perfectly recall any path it has tra
 
 _**Reckless.**_ At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-## **Actions** 
+#### **Actions** 
 
 _**Greataxe.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage.
 
 _**Gore.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
 
-## **Mummies** 
+### **Mummies** 
 
-## **Mummy** 
+#### **Mummy** 
 
 _Medium undead_ _**,** lawful evil_
 
-**Armor Class** 11 (natural armor) **Hit Points** 58 (9d8 + 18) **Speed** 20 ft.
+**Armor Class** 11 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    8    (−1)    15    (+2)    6    (−2)    10    (+0)    12    (+1)|
+**Hit Points** 58 (9d8 + 18)
+
+**Speed** 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 8 (−1) | 15 (+2) | 6 (−2) | 10 (+0) | 12 (+1) |
 
 
 
 **Saving Throws** Wis +2
 
-## **Damage Vulnerabilities** fire
+**Damage Vulnerabilities** fire
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -21356,9 +23112,11 @@ _Medium undead_ _**,** lawful evil_
 
 **Senses** darkvision 60 ft., passive Perception 10
 
-**Languages** the languages it knew in life **Challenge** 3 (700 XP)
+**Languages** the languages it knew in life
 
-## **Actions** 
+**Challenge** 3 (700 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -21366,17 +23124,27 @@ _**Rotting Fist.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hi
 
 _**Dreadful Glare.**_ The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
-## **Mummy Lord**
+#### **Mummy Lord** 
 
 _Medium undead, lawful evil_
 
-**Armor Class** 17 (natural armor) **Hit Points** 97 (13d8 + 39) **Speed** 20 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 10 (+0) 17 (+3) 11 (+0) 18 (+4) 16 (+3)
+**Hit Points** 97 (13d8 + 39)
 
-**Saving Throws** Con +8, Int +5, Wis +9, Cha +8 **Skills** History +5, Religion +5
+**Speed** 20 ft.
 
-## **Damage Vulnerabilities** fire
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 18 (+4) | 16 (+3) |
+
+
+
+**Saving Throws** Con +8, Int +5, Wis +9, Cha +8
+
+**Skills** History +5, Religion +5
+
+**Damage Vulnerabilities** fire
 
 **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -21384,7 +23152,9 @@ _Medium undead, lawful evil_
 
 **Senses** darkvision 60 ft., passive Perception 14
 
-**Languages** the languages it knew in life **Challenge** 15 (13,000 XP)
+**Languages** the languages it knew in life
+
+**Challenge** 15 (13,000 XP)
 
 _**Magic Resistance.**_ The mummy lord has advantage on saving throws against spells and other magical effects.
 
@@ -21402,7 +23172,7 @@ _**Spellcasting.**_ The mummy lord is a 10th-­‐level spellcaster. Its spellca
 
 - 5th level (2 slots): _contagion_ , _insect plague_ 6th level (1 slot): _harm_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -21410,7 +23180,7 @@ _**Rotting Fist.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hi
 
 _**Dreadful Glare.**_ The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The mummy lord regains spent legendary actions at the start of its turn.
 
@@ -21428,21 +23198,35 @@ Cantrips (at will): _sacred flame_ , _thaumaturgy_
 
 ## **Monsters (N)** 
 
-## **Nagas** 
+### **Nagas** 
 
-## **Guardian Naga**
+#### **Guardian Naga** 
 
 _Large monstrosity, lawful good_
 
 **Armor Class** 18 (natural armor)
 
-**Hit Points** 127 (15d10 + 45) **Speed** 40 ft.
+**Hit Points** 127 (15d10 + 45)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    18    (+4)    16    (+3)    16    (+3)    19    (+4)    18    (+4)|
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 18 (+4) | 16 (+3) | 16 (+3) | 19 (+4) | 18 (+4) |
 
 
 
-**Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8 **Damage Immunities** poison **Condition Immunities** charmed, poisoned **Senses** darkvision 60 ft., passive Perception 14 **Languages** Celestial, Common **Challenge** 10 (5,900 XP)
+**Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** charmed, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Celestial, Common
+
+**Challenge** 10 (5,900 XP)
 
 _**Rejuvenation.**_ If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ spell can prevent this trait from functioning.
 
@@ -21460,25 +23244,39 @@ Cantrips (at will): _mending_ , _sacred flame_ , _thaumaturgy_ 1st level (4 slot
 
 6th level (1 slot): _true seeing_
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one creature. _Hit:_ 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
 _**Spit Poison.** Ranged Weapon Attack:_ +8 to hit, range 15/30 ft., one creature. _Hit:_ The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Spirit Naga**
+#### **Spirit Naga** 
 
 _Large monstrosity, chaotic evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 75 (10d10 + 20) **Speed** 40 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    17    (+3)    14    (+2)    16    (+3)    15    (+2)    16    (+3)|
+**Hit Points** 75 (10d10 + 20)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
 
 
 
-**Saving Throws** Dex +6, Con +5, Wis +5, Cha +6 **Damage Immunities** poison
+**Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
 
-**Condition Immunities** charmed, poisoned **Senses** darkvision 60 ft., passive Perception 12 **Languages** Abyssal, Common **Challenge** 8 (3,900 XP)
+**Damage Immunities** poison
+
+**Condition Immunities** charmed, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Abyssal, Common
+
+**Challenge** 8 (3,900 XP)
 
 _**Rejuvenation.**_ If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ spell can prevent this trait from functioning.
 
@@ -21494,27 +23292,33 @@ Cantrips (at will): _mage hand_ , _minor illusion_ , _ray of frost_
 
 4th level (3 slots): _blight_ , _dimension door_ 5th level (2 slots): _dominate person_
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one creature. _Hit:_ 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Nightmare** 
+#### **Nightmare** 
 
 _Large fiend, neutral evil_
 
 **Armor Class** 13 (natural armor)
 
-**Hit Points** 68 (8d10 + 24) **Speed** 60 ft., fly 90 ft.
+**Hit Points** 68 (8d10 + 24)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    15    (+2)    16    (+3)    10    (+0)    13    (+1)    15    (+2)|
+**Speed** 60 ft., fly 90 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 
 
-## **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** passive Perception 11
 
-**Languages** understands Abyssal, Common, and Infernal but can’t speak **Challenge** 3 (700 XP)
+**Languages** understands Abyssal, Common, and Infernal but can’t speak
+
+**Challenge** 3 (700 XP)
 
 _**Confer Fire Resistance.**_ The nightmare can grant resistance to fire damage to anyone riding it.
 
@@ -21522,37 +23326,61 @@ _**Illumination.**_ The nightmare sheds bright light in a 10-­‐ foot radius a
 
 ## **Monsters (O)** 
 
-## **Ogre** 
+#### **Ogre** 
 
 _Large giant, chaotic evil_
 
-**Armor Class** 11 (hide armor) **Hit Points** 59 (7d10 + 21) **Speed** 40 ft.
+**Armor Class** 11 (hide armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||19    (+4)    8    (−1)    16    (+3)    5    (−3)|7    (−2)|7    (−2)|
+**Hit Points** 59 (7d10 + 21)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 7 (−2) | 7 (−2) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 8 **Languages** Common, Giant **Challenge** 2 (450 XP)
+**Senses** darkvision 60 ft., passive Perception 8
 
-## **Actions** 
+**Languages** Common, Giant
+
+**Challenge** 2 (450 XP)
+
+#### **Actions** 
 
 _**Greatclub.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
 
 _**Javelin.** Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.
 
-## **Oni** 
+#### **Oni** 
 
 _Large giant, lawful evil_
 
-**Armor Class** 16 (chain mail) **Hit Points** 110 (13d10 + 39) **Speed** 30 ft., fly 30 ft.
+**Armor Class** 16 (chain mail)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    11    (+0)    16    (+3)    14    (+2)    12    (+1)    15    (+2)|
+**Hit Points** 110 (13d10 + 39)
+
+**Speed** 30 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
 
 
 
-**Saving Throws** Dex +3, Con +6, Wis +4, Cha +5 **Skills** Arcana +5, Deception +8, Perception +4 **Senses** darkvision 60 ft., passive Perception 14 **Languages** Common, Giant **Challenge** 7 (2,900 XP)
+**Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
 
-## **Actions** 
+**Skills** Arcana +5, Deception +8, Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Common, Giant
+
+**Challenge** 7 (2,900 XP)
+
+#### **Actions** 
 
 _**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
@@ -21566,17 +23394,19 @@ _**Magic Weapons.**_ The oni’s weapon attacks are magical.
 
 _**Regeneration.**_ The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The oni makes two attacks, either with its claws or its glaive.
 
 _**Claw (Oni Form Only).** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage.
 
-_**Glaive.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form. _**Change Shape.**_ The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
+_**Glaive.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
 
-## **Oozes** 
+_**Change Shape.**_ The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 
-## **Black Pudding**
+### **Oozes** 
+
+#### **Black Pudding** 
 
 _Large ooze, unaligned_
 
@@ -21584,37 +23414,49 @@ ammunition made of metal or wood that hits the pudding is destroyed after dealin
 
 _**Spider Climb.**_ The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-## **Actions** 
+#### **Actions** 
 
 _**Pseudopod.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Split.**_ When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding’s, rounded down. New puddings are one size smaller than the original pudding.
 
-## **Armor Class** 7
+**Armor Class** 7
 
-**Hit Points** 85 (10d10 + 30) **Speed** 20 ft., climb 20 ft.
+**Hit Points** 85 (10d10 + 30)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||16    (+3)    5    (−3)    16    (+3)    1    (−5)|6    (−2)|1    (−5)|
+**Speed** 20 ft., climb 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 5 (−3) | 16 (+3) | 1 (−5) | 6 (−2) | 1 (−5) |
 
 
 
-**Damage Immunities** acid, cold, lightning, slashing **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+**Damage Immunities** acid, cold, lightning, slashing
+
+**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 
-## **Languages** — 
+**Languages** — 
 
 **Challenge** 4 (1,100 XP)
 
-## **Gelatinous Cube**
+#### **Gelatinous Cube** 
 
 _Large ooze, unaligned_
 
-**Armor Class** 6 **Hit Points** 84 (8d10 + 40) **Speed** 15 ft.
+**Armor Class** 6
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||14    (+2)    3    (−4)    20    (+5)    1    (−5)|6    (−2)|1    (−5)|
+**Hit Points** 84 (8d10 + 40)
+
+**Speed** 15 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 3 (−4) | 20 (+5) | 1 (−5) | 6 (−2) | 1 (−5) |
 
 
 
@@ -21622,7 +23464,7 @@ _Large ooze, unaligned_
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 
-## **Languages** — 
+**Languages** — 
 
 _**Amorphous.**_ The pudding can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -21638,7 +23480,7 @@ A creature within 5 feet of the cube can take an action to pull a creature or ob
 
 _**Transparent.**_ Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube’s space while unaware of the cube is surprised by the cube.
 
-## **Actions** 
+#### **Actions** 
 
 _**Pseudopod.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) acid damage.
 
@@ -21646,23 +23488,31 @@ _**Engulf.**_ The cube moves up to its speed. While doing so, it can enter Large
 
 An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
 
-## **Gray Ooze**
+#### **Gray Ooze** 
 
 _Medium ooze, unaligned_
 
-## **Armor Class** 8
+**Armor Class** 8
 
-**Hit Points** 22 (3d8 + 9) **Speed** 10 ft., climb 10 ft.
+**Hit Points** 22 (3d8 + 9)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||12    (+1)    6    (−2)    16    (+3)    1    (−5)|6    (−2)|2    (−4)|
+**Speed** 10 ft., climb 10 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 6 (−2) | 16 (+3) | 1 (−5) | 6 (−2) | 2 (−4) |
 
 
 
-**Skills** Stealth +2 **Damage Resistances** acid, cold, fire
+**Skills** Stealth +2
+
+**Damage Resistances** acid, cold, fire
 
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8 **Languages** —
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
+
+**Languages** —
 
 **Challenge** 1/2 (100 XP)
 
@@ -21674,19 +23524,25 @@ The ooze can eat through 2-­‐inch-­‐thick, nonmagical metal in 1 round.
 
 _**False Appearance.**_ While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
-## **Actions** 
+#### **Actions** 
 
 _**Pseudopod.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
-## **Ochre Jelly**
+#### **Ochre Jelly** 
 
 _Large ooze, unaligned_
 
-## **Armor Class** 8
+**Armor Class** 8
 
-**Hit Points** 45 (6d10 + 12) **Speed** 10 ft., climb 10 ft.
+**Hit Points** 45 (6d10 + 12)
 
-**STR DEX CON INT WIS CHA** 15 (+2) 6 (−2) 14 (+2) 2 (−4) 6 (−2) 1 (−5)
+**Speed** 10 ft., climb 10 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 6 (−2) | 14 (+2) | 2 (−4) | 6 (−2) | 1 (−5) |
+
+
 
 **Damage Resistances** acid
 
@@ -21704,53 +23560,73 @@ _**Amorphous.**_ The jelly can move through a space as narrow as 1 inch wide wit
 
 _**Spider Climb.**_ The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-## **Actions** 
+#### **Actions** 
 
 _**Pseudopod.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Split.**_ When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly’s, rounded down. New jellies are one size smaller than the original jelly.
 
-## **Orc** 
+#### **Orc** 
 
 _Medium humanoid (orc), chaotic evil_
 
 **Armor Class** 13 (hide armor)
 
-**Hit Points** 15 (2d8 + 6) **Speed** 30 ft.
+**Hit Points** 15 (2d8 + 6)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    12    (+1)    16    (+3)    7    (−2)    11    (+0)    10    (+0)|
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 12 (+1) | 16 (+3) | 7 (−2) | 11 (+0) | 10 (+0) |
 
 
 
-**Skills** Intimidation +2 **Senses** darkvision 60 ft., passive Perception 10 **Languages** Common, Orc **Challenge** 1/2 (100 XP)
+**Skills** Intimidation +2
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Common, Orc
+
+**Challenge** 1/2 (100 XP)
 
 _**Aggressive.**_ As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-## **Actions** 
+#### **Actions** 
 
 _**Greataxe.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.
 
 _**Javelin.** Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
 
-## **Otyugh** 
+#### **Otyugh** 
 
 _Large aberration, neutral_
 
 **Armor Class** 14 (natural armor)
 
-**Hit Points** 114 (12d10 + 48) **Speed** 30 ft.
+**Hit Points** 114 (12d10 + 48)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    11    (+0)    19    (+4)    6    (−2)    13    (+1)    6    (−2)|
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 11 (+0) | 19 (+4) | 6 (−2) | 13 (+1) | 6 (−2) |
 
 
 
-**Saving Throws** Con +7 **Senses** darkvision 120 ft., passive Perception 11 **Languages** Otyugh **Challenge** 5 (1,800 XP)
+**Saving Throws** Con +7
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Otyugh
+
+**Challenge** 5 (1,800 XP)
 
 _**Limited Telepathy.**_ The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn’t allow the receiving creature to telepathically respond.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The otyugh makes three attacks: one with its bite and two with its tentacles.
 
@@ -21760,21 +23636,33 @@ _**Tentacle.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_
 
 _**Tentacle Slam.**_ The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh’s next turn. On a successful save, the target takes half the bludgeoning damage and isn’t stunned.
 
-## **Owlbear** 
+#### **Owlbear** 
 
 _Large monstrosity, unaligned_
 
 **Armor Class** 13 (natural armor)
 
-**Hit Points** 59 (7d10 + 21) **Speed** 40 ft.
+**Hit Points** 59 (7d10 + 21)
 
-**STR DEX CON INT WIS CHA** 20 (+5) 12 (+1) 17 (+3) 3 (−4) 12 (+1) 7 (−2)
+**Speed** 40 ft.
 
-**Skills** Perception +3 **Senses** darkvision 60 ft., passive Perception 13 **Languages** — **Challenge** 3 (700 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 20 (+5) | 12 (+1) | 17 (+3) | 3 (−4) | 12 (+1) | 7 (−2) |
+
+
+
+**Skills** Perception +3
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** —
+
+**Challenge** 3 (700 XP)
 
 _**Keen Sight and Smell.**_ The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The owlbear makes two attacks: one with its beak and one with its claws.
 
@@ -21784,29 +23672,49 @@ _**Claws.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 
 
 ## **Monsters (P)** 
 
-## **Pegasus** 
+#### **Pegasus** 
 
 _Large celestial, chaotic good_
 
-**Armor Class** 12 **Hit Points** 59 (7d10 + 21) **Speed** 60 ft., fly 90 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 18 (+4) 15 (+2) 16 (+3) 10 (+0) 15 (+2) 13 (+1)
+**Hit Points** 59 (7d10 + 21)
 
-**Saving Throws** Dex +4, Wis +4, Cha +3 **Skills** Perception +6 **Senses** passive Perception 16
+**Speed** 60 ft., fly 90 ft.
 
-**Languages** understands Celestial, Common, Elvish, and Sylvan but can’t speak **Challenge** 2 (450 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
 
-## **Actions** 
+
+
+**Saving Throws** Dex +4, Wis +4, Cha +3
+
+**Skills** Perception +6
+
+**Senses** passive Perception 16
+
+**Languages** understands Celestial, Common, Elvish, and Sylvan but can’t speak
+
+**Challenge** 2 (450 XP)
+
+#### **Actions** 
 
 _**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
 
-## **Pseudodragon** 
+#### **Pseudodragon** 
 
 _Tiny dragon, neutral good_
 
-**Armor Class** 13 (natural armor) **Hit Points** 7 (2d4 + 2) **Speed** 15 ft., fly 60 ft.
+**Armor Class** 13 (natural armor)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>6    (−2)    15    (+2)    13    (+1)    10    (+0)    12    (+1)    10    (+0)|
+**Hit Points** 7 (2d4 + 2)
+
+**Speed** 15 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 
 
@@ -21814,7 +23722,9 @@ _Tiny dragon, neutral good_
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
 
-**Languages** understands Common and Draconic but can’t speak **Challenge** 1/4 (50 XP)
+**Languages** understands Common and Draconic but can’t speak
+
+**Challenge** 1/4 (50 XP)
 
 _**Keen Senses.**_ The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
 
@@ -21822,13 +23732,13 @@ _**Magic Resistance.**_ The pseudodragon has advantage on saving throws against 
 
 _**Limited Telepathy.**_ The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
 _**Sting.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
 
-## **Purple Worm**
+#### **Purple Worm** 
 
 _Gargantuan monstrosity, unaligned_
 
@@ -21838,7 +23748,9 @@ _Gargantuan monstrosity, unaligned_
 
 **Speed** 50 ft., burrow 30 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||28    (+9)    7    (−2)    22    (+6)    1    (−5)|8    (−1)|4    (−3)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 28 (+9) | 7 (−2) | 22 (+6) | 1 (−5) | 8 (−1) | 4 (−3) |
 
 **Saving Throws** Con +11, Wis +4
 
@@ -21850,7 +23762,7 @@ _Gargantuan monstrosity, unaligned_
 
 _**Tunneler**_ . The worm can burrow through solid rock at half its burrow speed and leaves a 10-­‐foot-­‐diameter tunnel in its wake.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The worm makes two attacks: one with its bite and one with its stinger.
 
@@ -21862,19 +23774,31 @@ _**Tail Stinger.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one creature. 
 
 ## **Monsters (R)** 
 
-## **Rakshasa** 
+#### **Rakshasa** 
 
 _Medium fiend, lawful evil_
 
-**Armor Class** 16 (natural armor) **Hit Points** 110 (13d8 + 52) **Speed** 40 ft.
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 110 (13d8 + 52)
+
+**Speed** 40 ft.
 
 **Skills** Deception +10, Insight +8
 
-- **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
+-
 
-- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 
-**Senses** darkvision 60 ft., passive Perception 13 **Languages** Common, Infernal **Challenge** 13 (10,000 XP)
+-
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** Common, Infernal
+
+**Challenge** 13 (10,000 XP)
 
 _**Limited Magic Immunity.**_ The rakshasa can’t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 
@@ -21884,33 +23808,45 @@ _**Innate Spellcasting.**_ The rakshasa’s innate spellcasting ability is Chari
 
 - 1/day each: _dominate person_ , _fly_ , _plane shift_ , _true seeing_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The rakshasa makes two claw attacks.
 
 _**Claw.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target’s thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a _remove curse_ spell or similar magic.
 
-## **Remorhaz** 
+#### **Remorhaz** 
 
 _Huge monstrosity, unaligned_
 
-**Armor Class** 17 (natural armor) **Hit Points** 195 (17d12 + 85) **Speed** 30 ft., burrow 20 ft.
+**Armor Class** 17 (natural armor)
 
-**STR DEX CON INT WIS CHA** 24 (+7) 13 (+1) 21 (+5) 4 (−3) 10 (+0) 5 (−3)
+**Hit Points** 195 (17d12 + 85)
 
-**STR DEX CON INT WIS CHA** 14 (+2) 17 (+3) 18 (+4) 13 (+1) 16 (+3) 20 (+5)
+**Speed** 30 ft., burrow 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 24 (+7) | 13 (+1) | 21 (+5) | 4 (−3) | 10 (+0) | 5 (−3) |
+
+
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
+
+
 
 **Damage Immunities** cold, fire
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 
-## **Languages** — 
+**Languages** — 
 
 **Challenge** 11 (7,200 XP)
 
 _**Heated Body.**_ A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can’t bite another target.
 
@@ -21918,23 +23854,35 @@ _**Swallow.**_ The remorhaz makes one bite attack against a Medium or smaller cr
 
 If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
-## **Roc** 
+#### **Roc** 
 
 _Gargantuan monstrosity, unaligned_
 
-**Armor Class** 15 (natural armor) **Hit Points** 248 (16d20 + 80) **Speed** 20 ft., fly 120 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||28    (+9)    10    (+0)    20    (+5)    3    (−4)    10    (+0)    9    (−1)|
+**Hit Points** 248 (16d20 + 80)
+
+**Speed** 20 ft., fly 120 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (−4) | 10 (+0) | 9 (−1) |
 
 
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +3 **Skills** Perception +4 **Senses** passive Perception 14 **Languages** —
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
+
+**Skills** Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** —
 
 **Challenge** 11 (7,200 XP)
 
 _**Keen Sight.**_ The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The roc makes two attacks: one with its beak and one with its talons.
 
@@ -21942,17 +23890,25 @@ _**Beak.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 27
 
 _**Talons.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can’t use its talons on another target.
 
-## **Roper** 
+#### **Roper** 
 
 _Large monstrosity, neutral evil_
 
-**Armor Class** 20 (natural armor) **Hit Points** 93 (11d10 + 33) **Speed** 10 ft., climb 10 ft.
+**Armor Class** 20 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    8    (−1)    17    (+3)    7    (−2)    16    (+3)    6    (−2)|
+**Hit Points** 93 (11d10 + 33)
+
+**Speed** 10 ft., climb 10 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 8 (−1) | 17 (+3) | 7 (−2) | 16 (+3) | 6 (−2) |
 
 
 
-**Skills** Perception +6, Stealth +5 **Senses** darkvision 60 ft., passive Perception 16
+**Skills** Perception +6, Stealth +5
+
+**Senses** darkvision 60 ft., passive Perception 16
 
 **Languages** — 
 
@@ -21964,29 +23920,43 @@ _**Grasping Tendrils.**_ The roper can have up to six tendrils at a time. Each t
 
 _**Spider Climb.**_ The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-## **Actions** 
+#### **Actions** 
 
-_**Multiattack.**_ The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite. _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 22 (4d8 + 4) piercing damage.
+_**Multiattack.**_ The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
+
+_**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 22 (4d8 + 4) piercing damage.
 
 _**Tendril.** Melee Weapon Attack:_ +7 to hit, reach 50 ft., one creature. _Hit:_ The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can’t use the same tendril on another target.
 
 _**Reel.**_ The roper pulls each creature grappled by it up to 25 feet straight toward it.
 
-## **Rust Monster**
+#### **Rust Monster** 
 
 _Medium monstrosity, unaligned_
 
-**Armor Class** 14 (natural armor) **Hit Points** 27 (5d8 + 5) **Speed** 40 ft.
+**Armor Class** 14 (natural armor)
 
-**STR DEX CON INT WIS CHA** 13 (+1) 12 (+1) 13 (+1) 2 (−4) 13 (+1) 6 (−2)
+**Hit Points** 27 (5d8 + 5)
 
-**Senses** darkvision 60 ft., passive Perception 11 **Languages** — **Challenge** 1/2 (100 XP)
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 12 (+1) | 13 (+1) | 2 (−4) | 13 (+1) | 6 (−2) |
+
+
+
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
 
 _**Iron Scent.**_ The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
 
 _**Rust Metal.**_ Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
@@ -21996,17 +23966,29 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 ## **Monsters (S)** 
 
-## **Sahuagin** 
+#### **Sahuagin** 
 
 _Medium humanoid (sahuagin), lawful evil_
 
-**Armor Class** 12 (natural armor) **Hit Points** 22 (4d8 + 4) **Speed** 30 ft., swim 40 ft.
+**Armor Class** 12 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||13    (+1)    11    (+0)    12    (+1)    12    (+1)    13    (+1)    9    (−1)|
+**Hit Points** 22 (4d8 + 4)
+
+**Speed** 30 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1) |
 
 
 
-**Skills** Perception +5 **Senses** darkvision 120 ft., passive Perception 15 **Languages** Sahuagin **Challenge** 1/2 (100 XP)
+**Skills** Perception +5
+
+**Senses** darkvision 120 ft., passive Perception 15
+
+**Languages** Sahuagin
+
+**Challenge** 1/2 (100 XP)
 
 _**Blood Frenzy.**_ The sahuagin has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
 
@@ -22014,7 +23996,7 @@ _**Limited Amphibiousness.**_ The sahuagin can breathe air and water, but it nee
 
 _**Shark Telepathy.**_ The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
 
@@ -22024,15 +24006,23 @@ _**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (
 
 _**Spear.** Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
-## **Salamander** 
+#### **Salamander** 
 
 _Large elemental, neutral evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 90 (12d10 + 24) **Speed** 30 ft.
+**Armor Class** 15 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 14 (+2) 15 (+2) 11 (+0) 10 (+0) 12 (+1)
+**Hit Points** 90 (12d10 + 24)
 
-## **Damage Vulnerabilities** cold
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
+
+
+
+**Damage Vulnerabilities** cold
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -22040,13 +24030,15 @@ _Large elemental, neutral evil_
 
 **Sense** s darkvision 60 ft., passive Perception 10
 
-**Languages** Ignan **Challenge** 5 (1,800 XP)
+**Languages** Ignan
+
+**Challenge** 5 (1,800 XP)
 
 _**Heated Body.**_ A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
 
 _**Heated Weapons.**_ Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The salamander makes two attacks: one with its spear and one with its tail.
 
@@ -22054,31 +24046,53 @@ _**Spear.** Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. or range 20 f
 
 _**Tail.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can’t make tail attacks against other targets.
 
-## **Satyr** 
+#### **Satyr** 
 
 _Medium fey, chaotic neutral_
 
-**Armor Class** 14 (leather armor) **Hit Points** 31 (7d8) **Speed** 40 ft.
+**Armor Class** 14 (leather armor)
 
-**STR DEX CON INT WIS CHA** 12 (+1) 16 (+3) 11 (+0) 12 (+1) 10 (+0) 14 (+2)
+**Hit Points** 31 (7d8)
 
-**Skills** Perception +2, Performance +6, Stealth +5 **Sense** s passive Perception 12 **Languages** Common, Elvish, Sylvan **Challenge** 1/2 (100 XP)
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
+
+
+
+**Skills** Perception +2, Performance +6, Stealth +5 **Sense** s passive Perception 12
+
+**Languages** Common, Elvish, Sylvan
+
+**Challenge** 1/2 (100 XP)
 
 _**Magic Resistance.**_ The satyr has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+#### **Actions** 
 
 _**Ram.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) bludgeoning damage.
 
-_**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. _**Shortbow.** Ranged Weapon Attack:_ +5 to hit, range 80/320 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+_**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
 
-## **Shadow** 
+_**Shortbow.** Ranged Weapon Attack:_ +5 to hit, range 80/320 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+
+#### **Shadow** 
 
 _Medium undead, chaotic evil_
 
-**Armor Class** 12 **Hit Points** 16 (3d8 + 3) **Speed** 40 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 6 (−2) 14 (+2) 13 (+1) 6 (−2) 10 (+0) 8 (−1)
+**Hit Points** 16 (3d8 + 3)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 14 (+2) | 13 (+1) | 6 (−2) | 10 (+0) | 8 (−1) |
+
+
 
 **Skills** Stealth +4 (+6 in dim light or darkness)
 
@@ -22088,9 +24102,11 @@ _Medium undead, chaotic evil_
 
 **Damage Immunities** necrotic, poison
 
-**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained **Senses** darkvision 60 ft., passive Perception 10
+**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
-## **Languages** — 
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** — 
 
 **Challenge** 1/2 (100 XP)
 
@@ -22100,37 +24116,45 @@ _**Shadow Stealth.**_ While in dim light or darkness, the shadow can take the Hi
 
 _**Sunlight Weakness.**_ While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
-## **Actions** 
+#### **Actions** 
 
 _**Strength Drain.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) necrotic damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 
 If a non-­‐evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
-## **Shambling Mound**
+#### **Shambling Mound** 
 
 _Large plant, unaligned_
 
-**Armor Class** 15 (natural armor) **Hit Points** 136 (16d10 + 48) **Speed** 20 ft., swim 20 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    8    (−1)    16    (+3)    5    (−3)    10    (+0)    5    (−3)|
+**Hit Points** 136 (16d10 + 48)
+
+**Speed** 20 ft., swim 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 10 (+0) | 5 (−3) |
 
 
 
 **Skills** Stealth +2
 
-## **Damage Resistances** cold, fire
+**Damage Resistances** cold, fire
 
-## **Damage Immunities** lightning
+**Damage Immunities** lightning
 
-**Condition Immunities** blinded, deafened, exhaustion **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
+**Condition Immunities** blinded, deafened, exhaustion
 
-## **Languages** — 
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
+
+**Languages** — 
 
 **Challenge** 5 (1,800 XP)
 
 _**Lightning Absorption**_ . Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 
@@ -22140,21 +24164,31 @@ _**Engulf.**_ The shambling mound engulfs a Medium or smaller creature grappled 
 
 succeed on a DC 14 Constitution saving throw at the start of each of the mound’s turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 
-## **Shield Guardian**
+#### **Shield Guardian** 
 
 _Large construct, unaligned_
 
-**Armor Class** 17 (natural armor) **Hit Points** 142 (15d10 + 60) **Speed** 30 ft.
+**Armor Class** 17 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    8    (−1)    18    (+4)    7    (−2)    10    (+0)    3    (−4)|
+**Hit Points** 142 (15d10 + 60)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 8 (−1) | 18 (+4) | 7 (−2) | 10 (+0) | 3 (−4) |
 
 
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned **Languages** understands commands given in any language but can’t speak **Challenge** 7 (2,900 XP)
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+
+**Languages** understands commands given in any language but can’t speak
+
+**Challenge** 7 (2,900 XP)
 
 _**Bound.**_ The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet’s wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet’s wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 
@@ -22162,127 +24196,197 @@ _**Regeneration.**_ The shield guardian regains 10 hit points at the start of it
 
 _**Spell Storing**_ . A spellcaster who wears the shield guardian’s amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The guardian makes two fist attacks.
 
 _**Fist.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Shield.**_ When a creature makes an attack against the wearer of the guardian’s amulet, the guardian grants a +2 bonus to the wearer’s AC if the guardian is within 5 feet of the wearer.
 
-## **Skeletons** 
+### **Skeletons** 
 
-## **Skeleton** 
+#### **Skeleton** 
 
 _Medium undead, lawful evil_
 
-**Armor Class** 13 (armor scraps) **Hit Points** 13 (2d8 + 4) **Speed** 30 ft.
+**Armor Class** 13 (armor scraps)
 
-**STR DEX CON INT WIS CHA** 10 (+0) 14 (+2) 15 (+2) 6 (−2) 8 (−1) 5 (−3)
+**Hit Points** 13 (2d8 + 4)
 
-**Damage Vulnerabilities** bludgeoning **Damage Immunities** poison
+**Speed** 30 ft.
 
-**Condition Immunities** exhaustion, poisoned **Senses** darkvision 60 ft., passive Perception 9
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 14 (+2) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
+
+
+
+**Damage Vulnerabilities** bludgeoning
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 9
 
 **Languages** understands all languages it knew in life but can’t speak
 
 **Challenge** 1/4 (50 XP)
 
-## **Actions** 
+#### **Actions** 
 
-_**Shortsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage. _**Shortbow.** Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+_**Shortsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-## **Minotaur Skeleton**
+_**Shortbow.** Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+
+#### **Minotaur Skeleton** 
 
 _Large undead, lawful evil_
 
-**Senses** darkvision 60 ft., passive Perception 9 **Languages** understands Abyssal but can’t speak **Challenge** 2 (450 XP)
+**Senses** darkvision 60 ft., passive Perception 9
+
+**Languages** understands Abyssal but can’t speak
+
+**Challenge** 2 (450 XP)
 
 _**Charge.**_ If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
-## **Actions** 
+#### **Actions** 
 
 _**Greataxe.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage.
 
 _**Gore.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
 
-## **Warhorse Skeleton**
+#### **Warhorse Skeleton** 
 
 _Large undead, lawful evil_
 
-**Armor Class** 13 (barding scraps) **Hit Points** 22 (3d10 + 6) **Speed** 60 ft.
+**Armor Class** 13 (barding scraps)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 12 (+1) 15 (+2) 2 (−4) 8 (−1) 5 (−3)
+**Hit Points** 22 (3d10 + 6)
 
-**Damage Vulnerabilities** bludgeoning **Damage Immunities** poison
+**Speed** 60 ft.
 
-**Condition Immunities** exhaustion, poisoned **Senses** darkvision 60 ft., passive Perception 9
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 12 (+1) | 15 (+2) | 2 (−4) | 8 (−1) | 5 (−3) |
+
+
+
+**Damage Vulnerabilities** bludgeoning
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 9
 
 **Languages** — 
 
 **Challenge** 1/2 (100 XP)
 
-## **Actions** 
+#### **Actions** 
 
 _**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
 
 **Armor Class** 12 (natural armor)
 
-**Hit Points** 67 (9d10 + 18) **Speed** 40 ft.
+**Hit Points** 67 (9d10 + 18)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 11 (+0) 15 (+2) 6 (−2) 8 (−1) 5 (−3)
+**Speed** 40 ft.
 
-**Damage Vulnerabilities** bludgeoning **Damage Immunities** poison **Condition Immunities** exhaustion, poisoned
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 11 (+0) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
-## **Specter** 
+
+
+**Damage Vulnerabilities** bludgeoning
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+#### **Specter** 
 
 _Medium undead, chaotic evil_
 
 **Armor Class** 12
 
-**Hit Points** 22 (5d8) **Speed** 0 ft., fly 50 ft. (hover)
+**Hit Points** 22 (5d8)
 
-**STR DEX CON INT WIS CHA** 1 (−5) 14 (+2) 11 (+0) 10 (+0) 10 (+0) 11 (+0)
+**Speed** 0 ft., fly 50 ft. (hover)
 
-- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
+
+
+
+-
+
+**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Damage Immunities** necrotic, poison
 
-- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+-
 
-- **Senses** darkvision 60 ft., passive Perception 10
+**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
-- **Languages** understands all languages it knew in life but can’t speak
+-
 
-- **Challenge** 1 (200 XP)
+**Senses** darkvision 60 ft., passive Perception 10
+
+-
+
+**Languages** understands all languages it knew in life but can’t speak
+
+-
+
+**Challenge** 1 (200 XP)
 
 _**Incorporeal Movement.**_ The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
 _**Sunlight Sensitivity.**_ While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Life Drain.** Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-## **S hinxes p** 
+### **S hinxes p** 
 
-## **Androsphinx** 
+#### **Androsphinx** 
 
 _Large monstrosity, lawful neutral_
 
 **Armor Class** 17 (natural armor)
 
-**Hit Points** 199 (19d10 + 95) **Speed** 40 ft., fly 60 ft.
+**Hit Points** 199 (19d10 + 95)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||22    (+6)    10    (+0)    20    (+5)    16    (+3)    18    (+4)    23    (+6)|
+**Speed** 40 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 18 (+4) | 23 (+6) |
 
 
 
-**Saving Throws** Dex +6, Con +11, Int +9, Wis +10 **Skills** Arcana +9, Perception +10, Religion +15 **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks **Condition Immunities** charmed, frightened **Senses** truesight 120 ft., passive Perception 20
+**Saving Throws** Dex +6, Con +11, Int +9, Wis +10
 
-**Languages** Common, Sphinx **Challenge** 17 (18,000 XP)
+**Skills** Arcana +9, Perception +10, Religion +15
+
+**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Condition Immunities** charmed, frightened
+
+**Senses** truesight 120 ft., passive Perception 20
+
+**Languages** Common, Sphinx
+
+**Challenge** 17 (18,000 XP)
 
 _**Inscrutable.**_ The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx’s intentions or sincerity have disadvantage.
 
@@ -22302,11 +24406,13 @@ _**Spellcasting.**_ The sphinx is a 12th-­‐level spellcaster. Its spellcastin
 
 - 5th level (2 slots): _flame strike_ , _greater restoration_ 6th level (1 slot): _heroes’ feast_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The sphinx makes two claw attacks.
 
-_**Claw.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 (2d10 + 6) slashing damage. _**Roar (3/Day).**_ The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
+_**Claw.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 (2d10 + 6) slashing damage.
+
+_**Roar (3/Day).**_ The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
 - **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -22314,7 +24420,7 @@ _**Claw.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 
 
 **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn’t knocked prone.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -22324,15 +24430,19 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 - **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-## **Gynosphinx** 
+#### **Gynosphinx** 
 
 _Large monstrosity, lawful neutral_
 
-**Armor Class** 17 (natural armor) **Hit Points** 136 (16d10 + 48)
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 136 (16d10 + 48)
 
 **Speed** 40 ft., fly 60 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    15    (+2)    16    (+3)    18    (+4)    18    (+4)    18    (+4)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
 
 
 
@@ -22340,9 +24450,15 @@ _Large monstrosity, lawful neutral_
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-## **Damage Immunities** psychic
+**Damage Immunities** psychic
 
-**Condition Immunities** charmed, frightened **Senses** truesight 120 ft., passive Perception 18 **Languages** Common, Sphinx **Challenge** 11 (7,200 XP)
+**Condition Immunities** charmed, frightened
+
+**Senses** truesight 120 ft., passive Perception 18
+
+**Languages** Common, Sphinx
+
+**Challenge** 11 (7,200 XP)
 
 _**Inscrutable.**_ The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx’s intentions or sincerity have disadvantage.
 
@@ -22356,13 +24472,13 @@ _**Spellcasting.**_ The sphinx is a 9th-­‐level spellcaster. Its spellcasting
 
 2nd level (3 slots): _darkness_ , _locate object_ , _suggestion_ 3rd level (3 slots): _dispel magic_ , _remove curse_ , _tongues_ 4th level (3 slots): _banishment_ , _greater invisibility_ 5th level (1 slot): _legend lore_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The sphinx makes two claw attacks.
 
 _**Claw.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -22372,7 +24488,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 - **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-## **Sprite** 
+#### **Sprite** 
 
 _Tiny fey, neutral good_
 
@@ -22382,13 +24498,21 @@ _Tiny fey, neutral good_
 
 **Speed** 10 ft., fly 40 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>3    (−4)    18    (+4)    10    (+0)    14    (+2)    13    (+1)    11    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 3 (−4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
 
 
 
-**Skills** Perception +3, Stealth +8 **Senses** passive Perception 13 **Languages** Common, Elvish, Sylvan **Challenge** 1/4 (50 XP)
+**Skills** Perception +3, Stealth +8
 
-## **Actions** 
+**Senses** passive Perception 13
+
+**Languages** Common, Elvish, Sylvan
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
 
 _**Longsword.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 
@@ -22398,7 +24522,7 @@ _**Heart Sight.**_ The sprite touches a creature and magically knows the creatur
 
 _**Invisibility.**_ The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
 
-## **Stirge** 
+#### **Stirge** 
 
 _Tiny beast, unaligned_
 
@@ -22408,21 +24532,25 @@ _Tiny beast, unaligned_
 
 **Speed** 10 ft., fly 40 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---| |<br>4    (−3)    16    (+3)    11    (+0)    2    (−4)|8    (−1)|6    (−2)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 4 (−3) | 16 (+3) | 11 (+0) | 2 (−4) | 8 (−1) | 6 (−2) |
 
 
 
 **Senses** darkvision 60 ft., passive Perception 9
 
-**Languages** — **Challenge** 1/8 (25 XP)
+**Languages** —
 
-## **Actions** 
+**Challenge** 1/8 (25 XP)
+
+#### **Actions** 
 
 _**Blood Drain.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn’t attack. Instead, at the start of each of the stirge’s turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
 
 The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
 
-## **Succubus/Incubus** 
+#### **Succubus/Incubus** 
 
 _Medium fiend (shapechanger), neutral evil_
 
@@ -22432,23 +24560,29 @@ _Medium fiend (shapechanger), neutral evil_
 
 **Speed** 30 ft., fly 60 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>8    (−1)    17    (+3)    13    (+1)    15    (+2)    12    (+1)    20    (+5)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 8 (−1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
 
 
 **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 
-- **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+-
+
+**Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Senses** darkvision 60 ft., passive Perception 15
 
-**Languages** Abyssal, Common, Infernal, telepathy 60 ft. **Challenge** 4 (1,100 XP)
+**Languages** Abyssal, Common, Infernal, telepathy 60 ft.
+
+**Challenge** 4 (1,100 XP)
 
 _**Telepathic Bond.**_ The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don’t even need to be on the same plane of existence.
 
 _**Shapechanger.**_ The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claw (Fiend Form Only).** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
@@ -22462,15 +24596,19 @@ _**Etherealness.**_ The fiend magically enters the Ethereal Plane from the Mater
 
 ## **Monsters (T)** 
 
-## **Tarrasque** 
+#### **Tarrasque** 
 
 _Gargantuan monstrosity (titan), unaligned_
 
 **Armor Class** 25 (natural armor)
 
-**Hit Points** 676 (33d20 + 330) **Speed** 40 ft.
+**Hit Points** 676 (33d20 + 330)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||30    (+10)    11    (+0)    30    (+10)    3    (−4)    11    (+0)    11    (+0)|
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 30 (+10) | 11 (+0) | 30 (+10) | 3 (−4) | 11 (+0) | 11 (+0) |
 
 
 
@@ -22488,11 +24626,13 @@ _Gargantuan monstrosity (titan), unaligned_
 
 _**Legendary Resistance (3/Day).**_ If the tarrasque fails a saving throw, it can choose to succeed instead.
 
-_**Magic Resistance.**_ The tarrasque has advantage on saving throws against spells and other magical effects. _**Reflective Carapace.**_ Any time the tarrasque is targeted by a _magic missile_ spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+_**Magic Resistance.**_ The tarrasque has advantage on saving throws against spells and other magical effects.
+
+_**Reflective Carapace.**_ Any time the tarrasque is targeted by a _magic missile_ spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
 
 _**Siege Monster.**_ The tarrasque deals double damage to objects and structures.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 
@@ -22510,7 +24650,7 @@ _**Swallow.**_ The tarrasque makes one bite attack against a Large or smaller cr
 
 If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The tarrasque regains spent legendary actions at the start of its turn.
 
@@ -22520,39 +24660,67 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow.
 
-## **Treant** 
+#### **Treant** 
 
 _Huge plant, chaotic good_
 
-**Armor Class** 16 (natural armor) **Hit Points** 138 (12d12 + 60) **Speed** 30 ft.
+**Armor Class** 16 (natural armor)
 
-**STR DEX CON INT WIS CHA** 23 (+6) 8 (−1) 21 (+5) 12 (+1) 16 (+3) 12 (+1)
+**Hit Points** 138 (12d12 + 60)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 8 (−1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
+
+
 
 **Damage Resistances** bludgeoning, piercing
 
-**Damage Vulnerabilities** fire **Senses** passive Perception 13 **Languages** Common, Druidic, Elvish, Sylvan **Challenge** 9 (5,000 XP)
+**Damage Vulnerabilities** fire
 
-_**False Appearance.**_ While the treant remains motionless, it is indistinguishable from a normal tree. _**Siege Monster.**_ The treant deals double damage to objects and structures.
+**Senses** passive Perception 13
 
-## **Actions** 
+**Languages** Common, Druidic, Elvish, Sylvan
 
-## **Troll** 
+**Challenge** 9 (5,000 XP)
+
+_**False Appearance.**_ While the treant remains motionless, it is indistinguishable from a normal tree.
+
+_**Siege Monster.**_ The treant deals double damage to objects and structures.
+
+#### **Actions** 
+
+#### **Troll** 
 
 _Large giant, chaotic evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 84 (8d10 + 40) **Speed** 30 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||18    (+4)    13    (+1)    20    (+5)    7    (−2)|9    (−1)|7    (−2)|
+**Hit Points** 84 (8d10 + 40)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 13 (+1) | 20 (+5) | 7 (−2) | 9 (−1) | 7 (−2) |
 
 
 
-**Skills** Perception +2 **Senses** darkvision 60 ft., passive Perception 12 **Languages** Giant **Challenge** 5 (1,800 XP)
+**Skills** Perception +2
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Giant
+
+**Challenge** 5 (1,800 XP)
 
 _**Keen Smell.**_ The troll has advantage on Wisdom (Perception) checks that rely on smell.
 
 _**Regeneration.**_ The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The troll makes three attacks: one with its bite and two with its claws.
 
@@ -22570,19 +24738,31 @@ _**Animate Trees (1/Day).**_ The treant magically animates one or two trees it c
 
 ## **Monsters (U)** 
 
-## **Unicorn** 
+#### **Unicorn** 
 
 _Large celestial_ _**,** lawful good_
 
-**Armor Class** 12 **Hit Points** 67 (9d10 + 18) **Speed** 50 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 18 (+4) 14 (+2) 15 (+2) 11 (+0) 17 (+3) 16 (+3)
+**Hit Points** 67 (9d10 + 18)
 
-## **Damage Immunities** poison
+**Speed** 50 ft.
 
-**Condition Immunities** charmed, paralyzed, poisoned **Senses** darkvision 60 ft., passive Perception 13
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
 
-**Languages** Celestial, Elvish, Sylvan, telepathy 60 ft. **Challenge** 5 (1,800 XP)
+
+
+**Damage Immunities** poison
+
+**Condition Immunities** charmed, paralyzed, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
+
+**Challenge** 5 (1,800 XP)
 
 _**Charge.**_ If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
@@ -22592,9 +24772,11 @@ At will: _detect evil and good_ , _druidcraft_ , _pass without trace_
 
 - 1/day each: _calm emotions_ , _dispel evil and good_ , _entangle_
 
-_**Magic Resistance.**_ The unicorn has advantage on saving throws against spells and other magical effects. _**Magic Weapons.**_ The unicorn’s weapon attacks are magical.
+_**Magic Resistance.**_ The unicorn has advantage on saving throws against spells and other magical effects.
 
-## **Actions** 
+_**Magic Weapons.**_ The unicorn’s weapon attacks are magical.
+
+#### **Actions** 
 
 _**Multiattack.**_ The unicorn makes two attacks: one with its hooves and one with its horn.
 
@@ -22606,7 +24788,7 @@ _**Healing Touch (3/Day).**_ The unicorn touches another creature with its horn.
 
 _**Teleport (1/Day).**_ The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The unicorn regains spent legendary actions at the start of its turn.
 
@@ -22618,15 +24800,25 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## **Monsters (V)** 
 
-## **Vampires** 
+### **Vampires** 
 
-## **Vampire** 
+#### **Vampire** 
 
 _Medium undead (shapechanger), lawful evil_
 
-**Armor Class** 16 (natural armor) **Hit Points** 144 (17d8 + 68) **Speed** 30 ft.
+**Armor Class** 16 (natural armor)
 
-|**Speed**30    ft.||| |---|---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |18    (+4)    18    (+4)    18    (+4)    17    (+3)    15    (+2)||18    (+4)| |**Saving    Throws**Dex    +9,    Wis    +7,    Cha    +9||| |**Skills**Perception    +7,    Stealth    +9|||
+**Hit Points** 144 (17d8 + 68)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 15 (+2) | 18 (+4) |
+
+**Saving Throws** Dex +9, Wis +7, Cha +9
+
+**Skills** Perception +7, Stealth +9
 
 
 
@@ -22634,13 +24826,17 @@ _Medium undead (shapechanger), lawful evil_
 
 **Senses** darkvision 120 ft., passive Perception 17
 
-**Languages** the languages it knew in life **Challenge** 13 (10,000 XP)
+**Languages** the languages it knew in life
+
+**Challenge** 13 (10,000 XP)
 
 _**Shapechanger.**_ If the vampire isn’t in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 
 While in bat form, the vampire can’t speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
 
-While in mist form, the vampire can’t take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature’s space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight. _**Legendary Resistance (3/Day).**_ If the vampire fails a saving throw, it can choose to succeed instead.
+While in mist form, the vampire can’t take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature’s space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
+
+_**Legendary Resistance (3/Day).**_ If the vampire fails a saving throw, it can choose to succeed instead.
 
 _**Misty Escape.**_ When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn’t in sunlight or running water. If it can’t transform, it is destroyed. While it has 0 hit points in mist form, it can’t revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
 
@@ -22652,7 +24848,7 @@ _**Vampire Weaknesses.**_ The vampire has the following flaws:
 
 _Forbiddance._ The vampire can’t enter a residence without an invitation from one of the occupants. _Harmed by Running Water._ The vampire takes 20 acid damage if it ends its turn in running water. _Stake to the Heart._ If a piercing weapon made of wood is driven into the vampire’s heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed. _Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack (Vampire Form Only).**_ The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -22664,7 +24860,7 @@ _**Charm.**_ The vampire targets one humanoid it can see within 30 feet of it. I
 
 _**Children of the Night (1/Day).**_ The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn’t up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
-## **Legendary Actions**
+#### **Legendary Actions** 
 
 The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The vampire regains spent legendary actions at the start of its turn.
 
@@ -22676,21 +24872,33 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 _**Bite (Bat or Vampire Form Only).** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated,
 
-## **Vampire Spawn**
+#### **Vampire Spawn** 
 
 _Medium undead, neutral evil_
 
-**Armor Class** 15 (natural armor) **Hit Points** 82 (11d8 + 33) **Speed** 30 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    16    (+3)    16    (+3)    11    (+0)    10    (+0)    12    (+1)|
+**Hit Points** 82 (11d8 + 33)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 
 
-**Saving Throws** Dex +6, Wis +3 **Skills** Perception +3, Stealth +6
+**Saving Throws** Dex +6, Wis +3
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks **Senses** darkvision 60 ft., passive Perception 13
+**Skills** Perception +3, Stealth +6
 
-**Languages** the languages it knew in life **Challenge** 5 (1,800 XP)
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** the languages it knew in life
+
+**Challenge** 5 (1,800 XP)
 
 _**Regeneration.**_ The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.
 
@@ -22700,7 +24908,7 @@ _**Vampire Weaknesses.**_ The vampire has the following flaws: _Forbiddance._ Th
 
 _Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -22710,25 +24918,41 @@ _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing creature, o
 
 ## **Monsters (W)** 
 
-## **Wight** 
+#### **Wight** 
 
 _Medium undead, neutral evil_
 
 **Armor Class** 14 (studded leather)
 
-**Hit Points** 45 (6d8 + 18) **Speed** 30 ft.
+**Hit Points** 45 (6d8 + 18)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |15    (+2)    14    (+2)    16    (+3)    10    (+0)    13    (+1)    15    (+2)| |**Skills**Perception    +3,    Stealth    +4| |**Damage    Resistances**necrotic;    bludgeoning,    piercing,<br>and    slashing    from    nonmagical    attacks    that    aren’t| |silvered|
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
+
+**Skills** Perception +3, Stealth +4
+
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t
+
+silvered
 
 
 
-## **Damage Immunities** poison
+**Damage Immunities** poison
 
-**Condition Immunities** exhaustion, poisoned **Senses** darkvision 60 ft., passive Perception 13 **Languages** the languages it knew in life **Challenge** 3 (700 XP)
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** the languages it knew in life
+
+**Challenge** 3 (700 XP)
 
 _**Sunlight Sensitivity.**_ While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 
@@ -22738,7 +24962,7 @@ _**Longsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_
 
 _**Longbow.** Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
-## **Will-­‐o’-­‐Wisp** 
+#### **Will-­‐o’-­‐Wisp** 
 
 _Tiny undead, chaotic evil_
 
@@ -22748,13 +24972,23 @@ _Tiny undead, chaotic evil_
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-**STR DEX CON INT WIS CHA** 1 (−5) 28 (+9) 10 (+0) 13 (+1) 14 (+2) 11 (+0)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 1 (−5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
+
+
 
 **Damage Immunities** lightning, poison
 
 **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious **Senses** darkvision 120 ft., passive Perception 12 **Languages** the languages it knew in life **Challenge** 2 (450 XP)
+**Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** the languages it knew in life
+
+**Challenge** 2 (450 XP)
 
 _**Consume Life.**_ As a bonus action, the will-­‐o’-­‐wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-­‐o’-­‐wisp regains 10 (3d6) hit points.
 
@@ -22766,13 +25000,13 @@ _**Variable Illumination.**_ The will-­‐o’-­‐wisp sheds bright light in 
 
 additional number of feet equal to the chosen radius. The will-­‐o’-­‐wisp can alter the radius as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Shock.** Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d8) lightning damage.
 
 _**Invisibility.**_ The will-­‐o’-­‐wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 
-## **Wraith** 
+#### **Wraith** 
 
 _Medium undead, neutral evil_
 
@@ -22782,33 +25016,47 @@ _Medium undead, neutral evil_
 
 **Speed** 0 ft., fly 60 ft. (hover)
 
-**STR DEX CON INT WIS CHA** 6 (−2) 16 (+3) 16 (+3) 12 (+1) 14 (+2) 15 (+2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
+
+
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 
 **Damage Immunities** necrotic, poison
 
-**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained **Senses** darkvision 60 ft., passive Perception 12
+**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 
-**Languages** the languages it knew in life **Challenge** 5 (1,800 XP)
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** the languages it knew in life
+
+**Challenge** 5 (1,800 XP)
 
 _**Incorporeal Movement.**_ The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
 _**Sunlight Sensitivity.**_ While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Life Drain.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 _**Create Specter.**_ The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target’s spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith’s control. The wraith can have no more than seven specters under its control at one time.
 
-## **Wyvern** 
+#### **Wyvern** 
 
 _Large dragon, unaligned_
 
-**Armor Class** 13 (natural armor) **Hit Points** 110 (13d10 + 39) **Speed** 20 ft., fly 80 ft.
+**Armor Class** 13 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    10    (+0)    16    (+3)    5    (−3)    12    (+1)    6    (−2)|
+**Hit Points** 110 (13d10 + 39)
+
+**Speed** 20 ft., fly 80 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 12 (+1) | 6 (−2) |
 
 
 
@@ -22816,9 +25064,11 @@ _Large dragon, unaligned_
 
 **Senses** darkvision 60 ft., passive Perception 14
 
-**Languages** — **Challenge** 6 (2,300 XP)
+**Languages** —
 
-## **Actions** 
+**Challenge** 6 (2,300 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
@@ -22828,13 +25078,21 @@ _**Claws.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. Hit: 13 (2
 
 _**Stinger.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    10    (+0)    22    (+6)    11    (+0)    10    (+0)    11    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
 
 
 
 **Skills** Perception +6, Stealth +3
 
-**Damage Resistances** piercing and slashing from nonmagical attacks that aren’t adamantine **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16 **Languages** Terran **Challenge** 5 (1,800 XP)
+**Damage Resistances** piercing and slashing from nonmagical attacks that aren’t adamantine
+
+**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
+
+**Languages** Terran
+
+**Challenge** 5 (1,800 XP)
 
 _**Earth Glide.**_ The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn’t disturb the material it moves through.
 
@@ -22842,7 +25100,7 @@ _**Stone Camouflage.**_ The xorn has advantage on Dexterity (Stealth) checks mad
 
 _**Treasure Sense.**_ The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The xorn makes three claw attacks and one bite attack.
 
@@ -22852,19 +25110,23 @@ _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (
 
 ## **Monsters (Z)** 
 
-## **Zombies** 
+### **Zombies** 
 
-## **Zombie** 
+#### **Zombie** 
 
 _Medium undead, neutral evil_
 
 ## **Monsters (X)** 
 
-## **Xorn** 
+#### **Xorn** 
 
 _Medium elemental, neutral_
 
-**Armor Class** 19 (natural armor) **Hit Points** 73 (7d8 + 42) **Speed** 20 ft., burrow 20 ft.
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 73 (7d8 + 42)
+
+**Speed** 20 ft., burrow 20 ft.
 
 **Armor Class** 8
 
@@ -22872,61 +25134,87 @@ _Medium elemental, neutral_
 
 **Speed** 20 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||13    (+1)    6    (−2)    16    (+3)    3    (−4)|6    (−2)|5    (−3)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
 
 
 
 **Saving Throws** Wis +0
 
-**Damage Immunities** poison **Condition Immunities** poisoned **Senses** darkvision 60 ft., passive Perception 8
+**Damage Immunities** poison
 
-**Languages** understands the languages it knew in life but can’t speak **Challenge** 1/4 (50 XP)
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 8
+
+**Languages** understands the languages it knew in life but can’t speak
+
+**Challenge** 1/4 (50 XP)
 
 _**Undead Fortitude.**_ If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Slam.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
 
-## **Ogre Zombie**
+#### **Ogre Zombie** 
 
 _Large undead, neutral evil_
 
-**Armor Class** 8 **Hit Points** 85 (9d10 + 36) **Speed** 30 ft.
+**Armor Class** 8
 
-**STR DEX CON INT WIS CHA** 19 (+4) 6 (−2) 18 (+4) 3 (−4) 6 (−2) 5 (−3)
+**Hit Points** 85 (9d10 + 36)
 
-**Saving Throws** Wis +0 **Damage Immunities** poison **Condition Immunities** poisoned **Senses** darkvision 60 ft., passive Perception 8 **Languages** understands Common and Giant but can’t speak **Challenge** 2 (450 XP)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 6 (−2) | 18 (+4) | 3 (−4) | 6 (−2) | 5 (−3) |
+
+
+
+**Saving Throws** Wis +0
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 8
+
+**Languages** understands Common and Giant but can’t speak
+
+**Challenge** 2 (450 XP)
 
 _**Undead Fortitude.**_ If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Morningstar.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
 
-## **Appendix PH-A: Conditions** 
+### **Appendix PH-A: Conditions** 
 
 Conditions alter a creature’s capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster’s attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous. A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition. If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition’s effects don’t get worse. A creature either has a condition or doesn’t.
 
 The following definitions specify what happens to a creature while it is subjected to a condition.
 
-## **Blinded** 
+### **Blinded** 
 
 - A blinded creature can’t see and automatically fails any ability check that requires sight.
 
 - Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
 
-## **Charmed** 
+### **Charmed** 
 
 - A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
 
 - The charmer has advantage on any ability check to interact socially with the creature.
 
-## **Deafened** 
+### **Deafened** 
 
 - A deafened creature can’t hear and automatically fails any ability check that requires hearing.
 
-## **Exhaustion** 
+### **Exhaustion** 
 
 Some special abilities and environmental hazards, such as starvation and the long-­‐term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
 
@@ -22940,13 +25228,13 @@ An effect that removes exhaustion reduces its level as specified in the effect�
 
 Finishing a long rest reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.
 
-## **Frightened** 
+### **Frightened** 
 
 - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
 
 - The creature can’t willingly move closer to the source of its fear.
 
-## **Grappled** 
+### **Grappled** 
 
 - A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 
@@ -22956,17 +25244,17 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _thunder-­‐‑wave_ spell.
 
-## **Incapacitated** 
+### **Incapacitated** 
 
 - An incapacitated creature can’t take actions or reactions.
 
-## **Invisible** 
+### **Invisible** 
 
 - An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves.
 
 - Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
 
-## **Paralyzed** 
+### **Paralyzed** 
 
 - A paralyzed creature is incapacitated (see the condition) and can’t move or speak.
 
@@ -22976,13 +25264,13 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
-## **Petrified** 
+### **Petrified** 
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 
 - The creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings.
 
-## **Unconscious** 
+### **Unconscious** 
 
 - An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings
 
@@ -23004,11 +25292,11 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
-## **Poisoned** 
+### **Poisoned** 
 
 - A poisoned creature has disadvantage on attack rolls and ability checks.
 
-## **Prone** 
+### **Prone** 
 
 - A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
 
@@ -23016,7 +25304,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 - An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
-## **Restrained** 
+### **Restrained** 
 
 - A restrained creature’s speed becomes 0, and it
 
@@ -23028,7 +25316,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 - The creature has disadvantage on Dexterity saving throws.
 
-## **Stunned** 
+### **Stunned** 
 
 - A stunned creature is incapacitated (see the condition), can’t move, and can speak only falteringly.
 
@@ -23038,71 +25326,71 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 - Attack rolls against the creature have advantage.
 
-## **Appendix PH-B: Fantasy-Historical Pantheons** 
+### **Appendix PH-B: Fantasy-Historical Pantheons** 
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world’s ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
 
-## **The Celtic Pantheon** 
+### **The Celtic Pantheon** 
 
 It’s said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak—and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being.
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-## **The Greek Pantheon** 
+### **The Greek Pantheon** 
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-­‐‑enshrouded peaks. The thick boar-­‐‑infested woods and the sere, olive-­‐‑covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they’ve made a place for themselves inside the human heart, too.
 
-## **The Egyptian Pantheon** 
+### **The Egyptian Pantheon** 
 
 These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma’at—the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
-## **The Norse Pantheon** 
+### **The Norse Pantheon** 
 
 Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring—this is the land of the Vikings, the home of the Norse pantheon. It’s a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven’t been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it’s surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
-## **Celtic Deities**
+### **Celtic Deities** 
 
-|**Celtic    Deities**|||| |---|---|---|---| |**Deity**<br>The    Daghdha,    god    of    weather    and    crops|**Alignment**<br>CG|**Suggested    Domains**<br>Nature,    Trickery|**Symbol**<br>Bubbling    cauldron    or    shield| |Arawn,    god    of    life    and    death|NE|Life,    Death|Black    star    on    gray    background| |Belenus,    god    of    sun,    light,    and    warmth|NG|Light|Solar    disk    and    standing    stones| |Brigantia,    goddess    of    rivers    and    livestock<br>Diancecht,    god    of    medicine    and    healing|NG<br>LG|Life<br>Life|Footbridge<br>Crossed    oak    and    mistletoe    branches| |Dunatis,    god    of    mountains    and    peaks|N|Nature|Red    sun-capped    mountain    peak| |Goibhniu,    god    of    smiths    and    healing|NG|Knowledge,    Life|Giant    mallet    over    sword| |Lugh,    god    of    arts,    travel,    and    commerce<br>Manannan    mac    Lir,    god    of    oceans    and    sea    creatures|CN<br>LN|Knowledge,    Life<br>Nature,    Tempest|Pair    of    long    hands<br>Wave    of    white    water    on    green|
+|**Celtic    Deities**|||| |---|---|---|---| |**Deity** The    Daghdha,    god    of    weather    and    crops|**Alignment** CG|**Suggested    Domains** Nature,    Trickery|**Symbol** Bubbling    cauldron    or    shield| |Arawn,    god    of    life    and    death|NE|Life,    Death|Black    star    on    gray    background| |Belenus,    god    of    sun,    light,    and    warmth|NG|Light|Solar    disk    and    standing    stones| |Brigantia,    goddess    of    rivers    and    livestock Diancecht,    god    of    medicine    and    healing|NG LG|Life Life|Footbridge Crossed    oak    and    mistletoe    branches| |Dunatis,    god    of    mountains    and    peaks|N|Nature|Red    sun-capped    mountain    peak| |Goibhniu,    god    of    smiths    and    healing|NG|Knowledge,    Life|Giant    mallet    over    sword| |Lugh,    god    of    arts,    travel,    and    commerce Manannan    mac    Lir,    god    of    oceans    and    sea    creatures|CN LN|Knowledge,    Life Nature,    Tempest|Pair    of    long    hands Wave    of    white    water    on    green|
 
-|Math    Mathonwy,    god    of    magic|Math    Mathonwy,    god    of    magic||NE||Knowledge||Staff|| |---|---|---|---|---|---|---|---|---| |Morrigan,    goddess    of    battle|||CE||War||Two    crossed    spears|| |Nuada,    god    of    war    and    warriors<br>Oghma,    god    of    speech    and    writing|||N<br>NG||War<br>Knowledge||Silver    hand    on    black    background<br>Unfurled    scroll|| |Silvanus,    god    of    nature    and    forests<br>|||N||Nature||Summer    oak    tree|| |<br>**Greek    Deities**||||||||| |**Deity**||**Alignment**|**Suggested    Domains**|||**Symbol**||| |Zeus,    god    of|the    sky,    ruler    of    the    gods|N|Tempest|||Fist    full    of    lightning    bolts||| |Aphrodite,    goddess    of    love    and    beauty||CG|Light|||Sea    shell||| |Apollo,    god    of    light,    music,    and    healing<br>||CG<br>|Knowledge,    Life,    Light<br>|||Lyre<br>||| |Ares,    god    of|war    and    strife|CE|War|||Spear||| |Artemis,    goddess    of    hunting    and    childbirth||NG|Life,    Nature|||Bow    and    arrow    on    lunar    disk||| |Athena,    goddess    of    wisdom    and    civilization||LG|Knowledge,    War|||Owl||| |Demeter,    goddess    of    agriculture<br>Dionysus,    god    of    mirth    and    wine||NG<br>CN|Life<br>Life|||Mare’s    head<br>Thyrsus    (staff    tipped    with    pine    cone)||| |Hades,    god    of    the    underworld||LE|Death|||Black|ram|| |Hecate,    goddess    of    magic    and    the    moon||CE|Knowledge,    Trickery|||Setting    moon||| |Hephaestus,|god    of    smithing    and    craft|NG|Knowledge|||Hammer    and    anvil||| |Hera,    goddess    of    marriage    and    intrigue<br>Hercules,    god    of    strength    and    adventure||CN<br>CG|Trickery<br>Tempest,    War|||Fan    of    peacock    feathers<br>Lion’s    head||| |Hermes,    god    of    travel    and    commerce||CG|Trickery|||Caduceus    (winged    staff    and    serpents)||| |Hestia,    goddess    of    home    and    family||NG|Life|||Hearth||| |Nike,    goddess    of    victory<br>||LN<br>|War<br>|||Winged    woman<br>||| |Pan,    god    of    nature||CN|Nature|||Syrinx    (pan    pipes)||| |Poseidon,    god    of    the    sea    and    earthquakes||CN|Tempest|||Trident||| |Tyche,    goddess    of    good    fortune||N|Trickery|||Red    pentagram||| ||||||||||
-
-
-
-## **Egyptian Deities**
-
-|**Egyptian**|**Deities**|||| |---|---|---|---|---| |**Deity**||**Alignment**|**Suggested    Domains**|**Symbol**| |Re-Horakhty,    god    of    the    sun,    ruler    of    the    gods||LG|Life,    Light|Solar    disk    encircled    by    serpent| |Anubis,    god    of    judgment    and    death<br>Apep,    god    of    evil,    fire,    and    serpents||LN<br>NE|Death<br>Trickery|Black    jackal<br>Flaming    snake| |Bast,    goddess    of    cats    and    vengeance||CG|War|Cat| |Bes,    god    of    luck    and    music||CN|Trickery|Image    of    the    misshapen    deity| |Hathor,    goddess    of    love,    music,    and    motherhood||NG|Life,    Light|Horned    cow’s    head    with    lunar    disk| |Imhotep,    god    of    crafts    and    medicine<br>Isis,    goddess    of    fertility    and    magic||NG<br>NG|Knowledge<br>Knowledge,    Life|Step    pyramid<br>Ankh    and    star| |Nephthys,    goddess    of    death    and    grief||CG|Death|Horns    around    a    lunar    disk| |Osiris,    god    of    nature    and    the    underworld||LG|Life,    Nature|Crook    and    flail| |Ptah,    god    of    crafts,    knowledge,    and    secrets<br>Set,    god    of    darkness    and    desert    storms||LN<br>CE|Knowledge<br>Death,    Tempest,    Trickery|Bull<br>Coiled    cobra| |Sobek,    god    of    water    and    crocodiles||LE|Nature,    Tempest|Crocodile    head    with    horns    and    plumes| |Thoth,    god    of    knowledge    and    wisdom<br>||N|Knowledge|Ibis|
+|Math    Mathonwy,    god    of    magic|Math    Mathonwy,    god    of    magic||NE||Knowledge||Staff|| |---|---|---|---|---|---|---|---|---| |Morrigan,    goddess    of    battle|||CE||War||Two    crossed    spears|| |Nuada,    god    of    war    and    warriors Oghma,    god    of    speech    and    writing|||N NG||War Knowledge||Silver    hand    on    black    background Unfurled    scroll|| |Silvanus,    god    of    nature    and    forests |||N||Nature||Summer    oak    tree|| | **Greek    Deities**||||||||| |**Deity**||**Alignment**|**Suggested    Domains**|||**Symbol**||| |Zeus,    god    of|the    sky,    ruler    of    the    gods|N|Tempest|||Fist    full    of    lightning    bolts||| |Aphrodite,    goddess    of    love    and    beauty||CG|Light|||Sea    shell||| |Apollo,    god    of    light,    music,    and    healing ||CG |Knowledge,    Life,    Light |||Lyre ||| |Ares,    god    of|war    and    strife|CE|War|||Spear||| |Artemis,    goddess    of    hunting    and    childbirth||NG|Life,    Nature|||Bow    and    arrow    on    lunar    disk||| |Athena,    goddess    of    wisdom    and    civilization||LG|Knowledge,    War|||Owl||| |Demeter,    goddess    of    agriculture Dionysus,    god    of    mirth    and    wine||NG CN|Life Life|||Mare’s    head Thyrsus    (staff    tipped    with    pine    cone)||| |Hades,    god    of    the    underworld||LE|Death|||Black|ram|| |Hecate,    goddess    of    magic    and    the    moon||CE|Knowledge,    Trickery|||Setting    moon||| |Hephaestus,|god    of    smithing    and    craft|NG|Knowledge|||Hammer    and    anvil||| |Hera,    goddess    of    marriage    and    intrigue Hercules,    god    of    strength    and    adventure||CN CG|Trickery Tempest,    War|||Fan    of    peacock    feathers Lion’s    head||| |Hermes,    god    of    travel    and    commerce||CG|Trickery|||Caduceus    (winged    staff    and    serpents)||| |Hestia,    goddess    of    home    and    family||NG|Life|||Hearth||| |Nike,    goddess    of    victory ||LN |War |||Winged    woman ||| |Pan,    god    of    nature||CN|Nature|||Syrinx    (pan    pipes)||| |Poseidon,    god    of    the    sea    and    earthquakes||CN|Tempest|||Trident||| |Tyche,    goddess    of    good    fortune||N|Trickery|||Red    pentagram||| ||||||||||
 
 
 
-## **Norse Deities**
+### **Egyptian Deities** 
 
-|**Deity**||**Alignment**|**Suggested    Domains**|**Symbol**| |---|---|---|---|---| |Odin,    god    of|knowledge    and    war|NG|Knowledge,    War|Watching    blue    eye| |Aegir,    god    of    the    sea    and    storms<br>Balder,    god    of    beauty    and    poetry||NE<br>NG|Tempest<br>Life,    Light|Rough    ocean    waves<br>Gem-encrusted    silver    chalice| |Forseti,    god    of    justice    and    law||N|Light|Head    of    a    bearded    man| |Frey,    god    of    fertility    and    the    sun||NG|Life,    Light|Ice-blue    greatsword| |Freya,    goddess    of    fertility    and    love||NG|Life|Falcon|
+|**Egyptian**|**Deities**|||| |---|---|---|---|---| |**Deity**||**Alignment**|**Suggested    Domains**|**Symbol**| |Re-Horakhty,    god    of    the    sun,    ruler    of    the    gods||LG|Life,    Light|Solar    disk    encircled    by    serpent| |Anubis,    god    of    judgment    and    death Apep,    god    of    evil,    fire,    and    serpents||LN NE|Death Trickery|Black    jackal Flaming    snake| |Bast,    goddess    of    cats    and    vengeance||CG|War|Cat| |Bes,    god    of    luck    and    music||CN|Trickery|Image    of    the    misshapen    deity| |Hathor,    goddess    of    love,    music,    and    motherhood||NG|Life,    Light|Horned    cow’s    head    with    lunar    disk| |Imhotep,    god    of    crafts    and    medicine Isis,    goddess    of    fertility    and    magic||NG NG|Knowledge Knowledge,    Life|Step    pyramid Ankh    and    star| |Nephthys,    goddess    of    death    and    grief||CG|Death|Horns    around    a    lunar    disk| |Osiris,    god    of    nature    and    the    underworld||LG|Life,    Nature|Crook    and    flail| |Ptah,    god    of    crafts,    knowledge,    and    secrets Set,    god    of    darkness    and    desert    storms||LN CE|Knowledge Death,    Tempest,    Trickery|Bull Coiled    cobra| |Sobek,    god    of    water    and    crocodiles||LE|Nature,    Tempest|Crocodile    head    with    horns    and    plumes| |Thoth,    god    of    knowledge    and    wisdom ||N|Knowledge|Ibis|
 
-|Frigga,    goddess    of    birth    and    fertility|Frigga,    goddess    of    birth    and    fertility|N|Life,    Light|Cat| |---|---|---|---|---| |Heimdall,    god    of    watchfulness    and    loyalty||LG|Light,    War|Curling    musical    horn| |Hel,    goddess    of    the    underworld<br>Hermod,    god    of    luck||NE<br>CN|Death<br>Trickery|Woman’s    face,    rotting    on    one    side<br>Winged    scroll| |Loki,    god    of    thieves    and    trickery||CE|Trickery|Flame| |Njord,    god    of    sea    and    wind||NG|Nature,    Tempest|Gold    coin| |Odur,    god    of    light    and    the    sun<br>Sif,    goddess    of    war||CG<br>CG|Light<br>War|Solar    disk<br>Upraised    sword| |Skadi,    god    of    earth    and    mountains||N|Nature|Mountain    peak| |Surtur,    god    of    fire    giants    and    war||LE|War|Flaming    sword| |Thor,    god    of|storms    and    thunder|CG|Tempest,    War|Hammer| |Thrym,    god    of    frost    giants    and    cold<br>Tyr,    god    of    courage    and    strategy||CE<br>LN|War<br>Knowledge,    War|White    double-bladed    axe<br>Sword| |Uller,    god    of<br>|hunting    and    winter|CN|Nature|Longbow|
 
-## **Appendix PH-C: The Planes of** 
 
-## **Existence** 
+### **Norse Deities** 
+
+|**Deity**||**Alignment**|**Suggested    Domains**|**Symbol**| |---|---|---|---|---| |Odin,    god    of|knowledge    and    war|NG|Knowledge,    War|Watching    blue    eye| |Aegir,    god    of    the    sea    and    storms Balder,    god    of    beauty    and    poetry||NE NG|Tempest Life,    Light|Rough    ocean    waves Gem-encrusted    silver    chalice| |Forseti,    god    of    justice    and    law||N|Light|Head    of    a    bearded    man| |Frey,    god    of    fertility    and    the    sun||NG|Life,    Light|Ice-blue    greatsword| |Freya,    goddess    of    fertility    and    love||NG|Life|Falcon|
+
+|Frigga,    goddess    of    birth    and    fertility|Frigga,    goddess    of    birth    and    fertility|N|Life,    Light|Cat| |---|---|---|---|---| |Heimdall,    god    of    watchfulness    and    loyalty||LG|Light,    War|Curling    musical    horn| |Hel,    goddess    of    the    underworld Hermod,    god    of    luck||NE CN|Death Trickery|Woman’s    face,    rotting    on    one    side Winged    scroll| |Loki,    god    of    thieves    and    trickery||CE|Trickery|Flame| |Njord,    god    of    sea    and    wind||NG|Nature,    Tempest|Gold    coin| |Odur,    god    of    light    and    the    sun Sif,    goddess    of    war||CG CG|Light War|Solar    disk Upraised    sword| |Skadi,    god    of    earth    and    mountains||N|Nature|Mountain    peak| |Surtur,    god    of    fire    giants    and    war||LE|War|Flaming    sword| |Thor,    god    of|storms    and    thunder|CG|Tempest,    War|Hammer| |Thrym,    god    of    frost    giants    and    cold Tyr,    god    of    courage    and    strategy||CE LN|War Knowledge,    War|White    double-bladed    axe Sword| |Uller,    god    of |hunting    and    winter|CN|Nature|Longbow|
+
+### **Appendix PH-C: The Planes of** 
+
+### **Existence** 
 
 The cosmos teems with a multitude of worlds as well as myriad alternate dimensions of reality, called the **planes of existence** . It encompasses every world where GMs run their adventures, all within the relatively mundane realm of the Material Plane. Beyond that plane are domains of raw elemental matter and energy, realms of pure thought and ethos, the homes of demons and angels, and the dominions of the gods.
 
 Many spells and magic items can draw energy from these planes, summon the creatures that dwell there, communicate with their denizens, and allow adventurers to travel there. As your character achieves greater power and higher levels, you might walk on streets made of solid fire or test your mettle on a battlefield where the fallen are resurrected with each dawn.
 
-## **The Material Plane** 
+### **The Material Plane** 
 
 The Material Plane is the nexus where the philosophical and elemental forces that define the other planes collide in the jumbled existence of mortal life and mundane matter. All fantasy gaming worlds exist within the Material Plane, making it the starting point for most campaigns and adventures. The rest of the multiverse is defined in relation to the Material Plane.
 
 The worlds of the Material Plane are infinitely diverse, for they reflect the creative imagination of the GMs who set their games there, as well as the players whose heroes adventure there. They include magic-­‐‑wasted desert planets and island-­‐‑dotted water worlds, worlds where magic combines with advanced technology and others trapped in an endless Stone Age, worlds where the gods walk and places they have abandoned.
 
-## **Beyond the Material** 
+### **Beyond the Material** 
 
 Beyond the Material Plane, the various planes of existence are realms of myth and mystery. They’re not simply other worlds, but different qualities of being, formed and governed by spiritual and elemental principles abstracted from the ordinary world.
 
-## **Planar Travel** 
+### **Planar Travel** 
 
 When adventurers travel into other planes of existence, they are undertaking a legendary journey across the thresholds of existence to a mythic destination where they strive to complete their quest. Such a journey is the stuff of legend. Braving the realms of the dead, seeking out the celestial servants of a deity, or bargaining with an efreeti in its home city will be the subject of song and story for years to come.
 
@@ -23112,17 +25400,17 @@ _**Spells.**_ A number of spells allow direct or indirect access to other planes
 
 _**Portals.**_ A portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals are like doorways, a clear window, or a fog-­‐‑ shrouded passage, and simply stepping through it effects the interplanar travel. Others are locations— circles of standing stones, soaring towers, sailing ships, or even whole towns—that exist in multiple planes at once or flicker from one plane to another in turn. Some are vortices, typically joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
 
-## **Transitive Planes** 
+### **Transitive Planes** 
 
 The Ethereal Plane and the Astral Plane are called the Transitive Planes. They are mostly featureless realms that serve primarily as ways to travel from one plane to another. Spells such as _etherealness_ and _astral projection_ allow characters to enter these planes and traverse them to reach the planes beyond. The **Ethereal Plane** is a misty, fog-­‐‑bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the _see invisibility_ and _true seeing_ spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as _forcecage_ and _wall of force._ The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
 
 The **Astral Plane** is the realm of thought and dream, where visitors travel as disembodied souls to reach the planes of the divine and demonic. It is a great, silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light resembling distant stars. Erratic whirlpools of color flicker in midair like spinning coins. Occasional bits of solid matter can be found here, but most of the Astral Plane is an endless, open domain.
 
-## **Inner Planes** 
+### **Inner Planes** 
 
 The Inner Planes surround and enfold the Material Plane and its echoes, providing the raw elemental substance from which all the worlds were made. The four **Elemental Planes** —Air, Earth, Fire, and Water—form a ring around the Material Plane, suspended within the churning **Elemental Chaos** . At their innermost edges, where they are closest to the Material Plane (in a conceptual if not a literal geographical sense), the four Elemental Planes resemble a world in the Material Plane. The four elements mingle together as they do in the Material Plane, forming land, sea, and sky. Farther from the Material Plane, though, the Elemental Planes are both alien and hostile. Here, the elements exist in their purest form—great expanses of solid earth, blazing fire, crystal-­‐‑clear water, and unsullied air. These regions are little-­‐‑known, so when discussing the Plane of Fire, for example, a speaker usually means just the border region. At the farthest extents of the Inner Planes, the pure elements dissolve and bleed together into an unending tumult of clashing energies and colliding substance, the Elemental Chaos.
 
-## **Outer Planes** 
+### **Outer Planes** 
 
 If the Inner Planes are the raw matter and energy that makes up the multiverse, the Outer Planes are the direction, thought and purpose for such construction. Accordingly, many sages refer to the Outer Planes as divine planes, spiritual planes, or godly planes, for the Outer Planes are best known as the homes of deities.
 
@@ -23136,165 +25424,265 @@ Distance is a virtually meaningless concept on the Outer Planes. The perceptible
 
 The most well-­‐‑known Outer Planes are a group of sixteen planes that correspond to the eight alignments (excluding neutrality) and the shades of distinction between them.
 
-## **Outer Planes** 
+### **Outer Planes** 
 
 The planes with some element of good in their nature are called the **Upper Planes** . Celestial creatures such as angels and pegasi dwell in the Upper Planes. Planes with some element of evil are the **Lower Planes** . Fiends such as demons and devils dwell in the Lower Planes. A plane’s alignment is its essence, and a character whose alignment doesn’t match the plane’s experiences a profound sense of dissonance there. When a good creature visits Elysium, for example (a neutral good Upper Plane), it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 
-## **Demiplanes** 
+### **Demiplanes** 
 
 Demiplanes are small extradimensional spaces with their own unique rules. They are pieces of reality that don’t seem to fit anywhere else. Demiplanes come into being by a variety of means. Some are created by spells, such as _demiplane,_ or generated at the desire of a powerful deity or other force. They may exist naturally, as a fold of existing reality that has been pinched off from the rest of the multiverse, or as a baby universe growing in power. A given demiplane can be entered through a single point where it touches another plane. Theoretically, a _plane shift_ spell can also carry travelers to a demiplane, but the proper frequency required for the tuning fork is extremely hard to acquire. The _gate_ spell is more reliable, assuming the caster knows of the demiplane.
 
-## **Appendix MM-A: Miscellaneous** 
+### **Appendix MM-A: Miscellaneous** 
 
-## **Creatures** 
+### **Creatures** 
 
 This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
 
-## **Ape** 
+#### **Ape** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 19 (3d8 + 6) **Speed** 30 ft., climb 30 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 16 (+3) 14 (+2) 14 (+2) 6 (−2) 12 (+1) 7 (−2)
+**Hit Points** 19 (3d8 + 6)
 
-**Skills** Athletics +5, Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 1/2 (100 XP)
+**Speed** 30 ft., climb 30 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 14 (+2) | 14 (+2) | 6 (−2) | 12 (+1) | 7 (−2) |
 
-_**Multiattack.**_ The ape makes two fist attacks. _**Fist.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage. _**Rock.** Ranged Weapon Attack:_ +5 to hit, range 25/50 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
 
-## **Awakened Shrub**
+
+**Skills** Athletics +5, Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
+
+#### **Actions** 
+
+_**Multiattack.**_ The ape makes two fist attacks.
+
+_**Fist.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
+
+_**Rock.** Ranged Weapon Attack:_ +5 to hit, range 25/50 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
+
+#### **Awakened Shrub** 
 
 _Small plant, unaligned_
 
-**Armor Class** 9 **Hit Points** 10 (3d6) **Speed** 20 ft.
+**Armor Class** 9
 
-**STR DEX CON INT WIS CHA** 3 (−4) 8 (−1) 11 (+0) 10 (+0) 10 (+0) 6 (−2)
+**Hit Points** 10 (3d6)
 
-**Damage Vulnerabilities** fire **Damage Resistances** piercing **Senses** passive Perception 10 **Languages** one language known by its creator **Challenge** 0 (10 XP)
+**Speed** 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 3 (−4) | 8 (−1) | 11 (+0) | 10 (+0) | 10 (+0) | 6 (−2) |
+
+
+
+**Damage Vulnerabilities** fire
+
+**Damage Resistances** piercing
+
+**Senses** passive Perception 10
+
+**Languages** one language known by its creator
+
+**Challenge** 0 (10 XP)
 
 _**False Appearance.**_ While the shrub remains motionless, it is indistinguishable from a normal shrub.
 
-## **Actions** 
+#### **Actions** 
 
 _**Rake.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) slashing damage.
 
 An **awakened shrub** is an ordinary shrub given sentience and mobility by the _awaken_ spell or similar magic.
 
-## **Awakened Tree**
+#### **Awakened Tree** 
 
 _Huge plant, unaligned_
 
 **Armor Class** 13 (natural armor)
 
-**Hit Points** 59 (7d12 + 14) **Speed** 20 ft.
+**Hit Points** 59 (7d12 + 14)
 
-**STR DEX CON INT WIS CHA** 19 (+4) 6 (−2) 15 (+2) 10 (+0) 10 (+0) 7 (−2)
+**Speed** 20 ft.
 
-## **Damage Vulnerabilities** fire
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 6 (−2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (−2) |
 
-**Damage Resistances** bludgeoning, piercing **Senses** passive Perception 10 **Languages** one language known by its creator **Challenge** 2 (450 XP)
+
+
+**Damage Vulnerabilities** fire
+
+**Damage Resistances** bludgeoning, piercing
+
+**Senses** passive Perception 10
+
+**Languages** one language known by its creator
+
+**Challenge** 2 (450 XP)
 
 _**False Appearance.**_ While the tree remains motionless, it is indistinguishable from a normal tree.
 
-## **Actions** 
+#### **Actions** 
 
 _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage.
 
 An **awakened tree** is an ordinary tree given sentience and mobility by the _awaken_ spell or similar magic.
 
-## **Axe Beak**
+#### **Axe Beak** 
 
 _Large beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 19 (3d10 + 3) **Speed** 50 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 14 (+2) 12 (+1) 12 (+1) 2 (−4) 10 (+0) 5 (−3)
+**Hit Points** 19 (3d10 + 3)
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 50 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 12 (+1) | 12 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
 
 _**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage.
 
 An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-­‐‑shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
-## **Baboon** 
+#### **Baboon** 
 
 _Small beast, unaligned_
 
 **Armor Class** 12
 
-**Hit Points** 3 (1d6) **Speed** 30 ft., climb 30 ft.
+**Hit Points** 3 (1d6)
 
-**STR DEX CON INT WIS CHA** 8 (−1) 14 (+2) 11 (+0) 4 (−3) 12 (+1) 6 (−2)
+**Speed** 30 ft., climb 30 ft.
 
-**Senses** passive Perception 11 **Languages** — **Challenge** 0 (10 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 8 (−1) | 14 (+2) | 11 (+0) | 4 (−3) | 12 (+1) | 6 (−2) |
+
+
+
+**Senses** passive Perception 11
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Pack Tactics.**_ The baboon has advantage on an attack roll against a creature if at least one of the baboon’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) piercing damage.
 
-## **Badger** 
+#### **Badger** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 3 (1d4 + 1) **Speed** 20 ft., burrow 5 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 4 (−3) 11 (+0) 12 (+1) 2 (−4) 12 (+1) 5 (−3)
+**Hit Points** 3 (1d4 + 1)
 
-**Senses** darkvision 30 ft., passive Perception 11 **Languages** —
+**Speed** 20 ft., burrow 5 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 4 (−3) | 11 (+0) | 12 (+1) | 2 (−4) | 12 (+1) | 5 (−3) |
+
+
+
+**Senses** darkvision 30 ft., passive Perception 11
+
+**Languages** —
 
 **Challenge** 0 (10 XP)
 
 _**Keen Smell.**_ The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-## **Bat** 
+#### **Bat** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 1 (1d4 − 1) **Speed** 5 ft., fly 30 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 2 (−4) 15 (+2) 8 (−1) 2 (−4) 12 (+1) 4 (−3)
+**Hit Points** 1 (1d4 − 1)
 
-**Senses** blindsight 60 ft., passive Perception 11 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 5 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 15 (+2) | 8 (−1) | 2 (−4) | 12 (+1) | 4 (−3) |
+
+
+
+**Senses** blindsight 60 ft., passive Perception 11
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Echolocation.**_ The bat can’t use its blindsight while deafened.
 
 _**Keen Hearing.**_ The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage.
 
-## **Black Bear**
+#### **Black Bear** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 11 (natural armor) **Hit Points** 19 (3d8 + 6)
+**Armor Class** 11 (natural armor)
+
+**Hit Points** 19 (3d8 + 6)
 
 **Speed** 40 ft., climb 30 ft.
 
-**STR DEX CON INT WIS CHA** 15 (+2) 10 (+0) 14 (+2) 2 (−4) 12 (+1) 7 (−2)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 10 (+0) | 14 (+2) | 2 (−4) | 12 (+1) | 7 (−2) |
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** —
+
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
 
 **Challenge** 1/2 (100 XP)
 
-## **Blood Hawk**
+#### **Blood Hawk** 
 
 _Small beast, unaligned_
 
 _**Keen Smell.**_ The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The bear makes two attacks: one with its bite and one with its claws.
 
@@ -23302,25 +25690,33 @@ _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1
 
 _**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage.
 
-## **Blink Dog**
+#### **Blink Dog** 
 
 _Medium fey, lawful good_
 
 **Armor Class** 13
 
-**Hit Points** 22 (4d8 + 4) **Speed** 40 ft.
+**Hit Points** 22 (4d8 + 4)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||12    (+1)    17    (+3)    12    (+1)    10    (+0)    13    (+1)    11    (+0)|
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 
 
-**Skills** Perception +3, Stealth +5 **Senses** passive Perception 13 **Languages** Blink Dog, understands Sylvan but can’t speak it
+**Skills** Perception +3, Stealth +5
+
+**Senses** passive Perception 13
+
+**Languages** Blink Dog, understands Sylvan but can’t speak it
 
 **Challenge** 1/4 (50 XP)
 
 _**Keen Hearing and Smell.**_ The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.
 
@@ -23330,13 +25726,19 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 
 **Armor Class** 12
 
-**Hit Points** 7 (2d6) **Speed** 10 ft., fly 60 ft.
+**Hit Points** 7 (2d6)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>6    (−2)    14    (+2)    10    (+0)    3    (−4)    14    (+2)    5    (−3)|
+**Speed** 10 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 14 (+2) | 10 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
 
 
-**Skills** Perception +4 **Senses** passive Perception 14
+**Skills** Perception +4
+
+**Senses** passive Perception 14
 
 **Languages** — 
 
@@ -23346,25 +25748,33 @@ _**Keen Sight.**_ The hawk has advantage on Wisdom (Perception) checks that rely
 
 _**Pack Tactics.**_ The hawk has advantage on an attack roll against a creature if at least one of the hawk’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
 Taking its name from its crimson feathers and aggressive nature, the **blood hawk** fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
 
-## **Boar** 
+#### **Boar** 
 
 _Medium beast, unaligned_
 
 **Armor Class** 11 (natural armor)
 
-**Hit Points** 11 (2d8 + 2) **Speed** 40 ft.
+**Hit Points** 11 (2d8 + 2)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||13    (+1)    11    (+0)    12    (+1)    2    (−4)|9    (−1)|5    (−3)|
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 11 (+0) | 12 (+1) | 2 (−4) | 9 (−1) | 5 (−3) |
 
 
 
-**Senses** passive Perception 9 **Languages** — **Challenge** 1/4 (50 XP)
+**Senses** passive Perception 9
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
 
 _**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
@@ -23372,47 +25782,75 @@ _**Relentless (Recharges after a Short or Long Rest).**_ If the boar takes 7 dam
 
 **Senses** passive Perception 9
 
-**Languages** — **Challenge** 1/8 (25 XP)
+**Languages** —
 
-## **Actions** 
+**Challenge** 1/8 (25 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
-## **Actions** 
+#### **Actions** 
 
 _**Tusk.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.
 
-## **Brown Bear**
+#### **Brown Bear** 
 
 _Large beast, unaligned_
 
-**Armor Class** 11 (natural armor) **Hit Points** 34 (4d10 + 12) **Speed** 40 ft., climb 30 ft.
+**Armor Class** 11 (natural armor)
 
-**STR DEX CON INT WIS CHA** 19 (+4) 10 (+0) 16 (+3) 2 (−4) 13 (+1) 7 (−2)
+**Hit Points** 34 (4d10 + 12)
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 1 (200 XP)
+**Speed** 40 ft., climb 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 16 (+3) | 2 (−4) | 13 (+1) | 7 (−2) |
+
+
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 1 (200 XP)
 
 _**Keen Smell.**_ The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Cat** 
+#### **Cat** 
 
 _Tiny beast, unaligned_
 
 **Armor Class** 12
 
-**Hit Points** 2 (1d4) **Speed** 40 ft., climb 30 ft.
+**Hit Points** 2 (1d4)
 
-**STR DEX CON INT WIS CHA** 3 (−4) 15 (+2) 10 (+0) 3 (−4) 12 (+1) 7 (−2)
+**Speed** 40 ft., climb 30 ft.
 
-**Skills** Perception +3, Stealth +4 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 3 (−4) | 15 (+2) | 10 (+0) | 3 (−4) | 12 (+1) | 7 (−2) |
+
+
+
+**Skills** Perception +3, Stealth +4
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Keen Smell.**_ The cat has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claws.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The bear makes two attacks: one with its bite and one with its claws.
 
@@ -23420,87 +25858,139 @@ _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1
 
 _**Claws.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 
-## **Camel** 
+#### **Camel** 
 
 _Large beast, unaligned_
 
-**Armor Class** 9 **Hit Points** 15 (2d10 + 4) **Speed** 50 ft.
+**Armor Class** 9
 
-**STR DEX CON INT WIS CHA** 16 (+3) 8 (−1) 14 (+2) 2 (−4) 8 (−1) 5 (−3)
+**Hit Points** 15 (2d10 + 4)
 
-## **Constrictor Snake**
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 8 (−1) | 14 (+2) | 2 (−4) | 8 (−1) | 5 (−3) |
+
+
+
+#### **Constrictor Snake** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 13 (2d10 + 2) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 15 (+2) 14 (+2) 12 (+1) 1 (−5) 10 (+0) 3 (−4)
+**Hit Points** 13 (2d10 + 2)
 
-**Senses** blindsight 10 ft., passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 30 ft., swim 30 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 14 (+2) | 12 (+1) | 1 (−5) | 10 (+0) | 3 (−4) |
+
+
+
+**Senses** blindsight 10 ft., passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage.
 
 _**Constrict.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
 
-## **Crab** 
+#### **Crab** 
 
 _Tiny beast, unaligned_
 
 **Armor Class** 11 (natural armor)
 
-**Hit Points** 2 (1d4) **Speed** 20 ft., swim 20 ft.
+**Hit Points** 2 (1d4)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---| |<br>2    (−4)    11    (+0)    10    (+0)    1    (−5)|8    (−1)|2    (−4)|
+**Speed** 20 ft., swim 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 11 (+0) | 10 (+0) | 1 (−5) | 8 (−1) | 2 (−4) |
 
 
 
-**Skills** Stealth +2 **Senses** blindsight 30 ft., passive Perception 9 **Languages** — **Challenge** 0 (10 XP)
+**Skills** Stealth +2
+
+**Senses** blindsight 30 ft., passive Perception 9
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Amphibious.**_ The crab can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claw.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage.
 
-## **Crocodile** 
+#### **Crocodile** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 (natural armor) **Hit Points** 19 (3d10 + 3) **Speed** 20 ft., swim 30 ft.
+**Armor Class** 12 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    10    (+0)    13    (+1)    2    (−4)    10    (+0)    5    (−3)|
+**Hit Points** 19 (3d10 + 3)
+
+**Speed** 20 ft., swim 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 
 
-**Skills** Stealth +2 **Senses** passive Perception 10 **Languages** — **Challenge** 1/2 (100 XP)
+**Skills** Stealth +2
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
 
 _**Hold Breath.**_ The crocodile can hold its breath for 15 minutes.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the
 
 target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.
 
-## **Death Dog**
+#### **Death Dog** 
 
 _Medium monstrosity, neutral evil_
 
-## **Armor Class** 12
+**Armor Class** 12
 
-**Hit Points** 39 (6d8 + 12) **Speed** 40 ft.
+**Hit Points** 39 (6d8 + 12)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    14    (+2)    14    (+2)    3    (−4)    13    (+1)    6    (−2)|
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 14 (+2) | 14 (+2) | 3 (−4) | 13 (+1) | 6 (−2) |
 
 
 
-**Skills** Perception +5, Stealth +4 **Senses** darkvision 120 ft., passive Perception 15 **Languages** — **Challenge** 1 (200 XP)
+**Skills** Perception +5, Stealth +4
+
+**Senses** darkvision 120 ft., passive Perception 15
+
+**Languages** —
+
+**Challenge** 1 (200 XP)
 
 _**Two-­‐Headed.**_ The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The dog makes two bite attacks.
 
@@ -23508,31 +25998,53 @@ _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1
 
 A **death dog** is an ugly two-­‐‑headed hound that roams plains, and deserts. Hate burns in a death dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone.
 
-## **Deer** 
+#### **Deer** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 4 (1d8)
+**Armor Class** 13
+
+**Hit Points** 4 (1d8)
 
 **Speed** 50 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||11    (+0)    16    (+3)    11    (+0)    2    (−4)    14    (+2)    5    (−3)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 16 (+3) | 11 (+0) | 2 (−4) | 14 (+2) | 5 (−3) |
 
 
 
-**Senses** passive Perception 12 **Languages** — **Challenge** 0 (10 XP)
+**Senses** passive Perception 12
 
-## **Actions** 
+**Languages** —
+
+**Challenge** 0 (10 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage.
 
-## **Dire Wolf**
+#### **Dire Wolf** 
 
 _Large beast, unaligned_
 
-**Armor Class** 14 (natural armor) **Hit Points** 37 (5d10 + 10) **Speed** 50 ft.
+**Armor Class** 14 (natural armor)
 
-|**Speed**50    ft.|||| |---|---|---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |17    (+3)    15    (+2)    15    (+2)    3    (−4)||12    (+1)|7    (−2)| |**Skills**Perception    +3,    Stealth    +4|||| |**Senses**passive    Perception    13|||| |**Languages**—|||| |**Challenge**1    (200    XP)||||
+**Hit Points** 37 (5d10 + 10)
+
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 15 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 7 (−2) |
+
+**Skills** Perception +3, Stealth +4
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 1 (200 XP)
 
 
 
@@ -23540,109 +26052,175 @@ _**Keen Hearing and Smell.**_ The wolf has advantage on Wisdom (Perception) chec
 
 _**Pack Tactics.**_ The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-## **Draft Horse**
-
-_Large beast, unaligned_
-
-**Armor Class** 10 **Hit Points** 19 (3d10 + 3) **Speed** 40 ft.
-
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    10    (+0)    12    (+1)    2    (−4)    11    (+0)    7    (−2)|
-
-
-
-**Senses** passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
-
-## **Actions** 
-
-_**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) bludgeoning damage.
-
-## **Eagle** 
-
-_Small beast, unaligned_
-
-**Armor Class** 12 **Hit Points** 3 (1d6) **Speed** 10 ft., fly 60 ft.
-
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>6    (−2)    15    (+2)    10    (+0)    2    (−4)    14    (+2)    7    (−2)|
-
-
-
-**Skills** Perception +4 **Senses** passive Perception 14 **Languages** — **Challenge** 0 (10 XP)
-
-_**Keen Sight.**_ The eagle has advantage on Wisdom (Perception) checks that rely on sight.
-
-## **Actions** 
-
-_**Talons.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage.
-
-## **Elephant** 
-
-_Huge beast, unaligned_
-
-**Armor Class** 12 (natural armor) **Hit Points** 76 (8d12 + 24) **Speed** 40 ft.
-
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||22    (+6)    9    (−1)    17    (+3)    3    (−4)    11    (+0)    6    (−2)|
-
-
-
-**Senses** passive Perception 10 **Languages** — **Challenge** 4 (1,100 XP)
-
-_**Trampling Charge.**_ If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
-
-**STR DEX CON INT WIS CHA** 4 (−3) 18 (+4) 11 (+0) 2 (−4) 12 (+1) 5 (−3)
-
-**Senses** blindsight 10 ft., passive Perception 11 **Languages** — **Challenge** 1/8 (25 XP)
-
-## **Actions** 
-
-_**Gore.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) piercing damage.
-
-_**Stomp.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
-
-## **Elk** 
+#### **Draft Horse** 
 
 _Large beast, unaligned_
 
 **Armor Class** 10
 
-**Hit Points** 13 (2d10 + 2) **Speed** 50 ft.
+**Hit Points** 19 (3d10 + 3)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 10 (+0) 12 (+1) 2 (−4) 10 (+0) 6 (−2)
+**Speed** 40 ft.
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 10 (+0) | 12 (+1) | 2 (−4) | 11 (+0) | 7 (−2) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
+
+_**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) bludgeoning damage.
+
+#### **Eagle** 
+
+_Small beast, unaligned_
+
+**Armor Class** 12
+
+**Hit Points** 3 (1d6)
+
+**Speed** 10 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 15 (+2) | 10 (+0) | 2 (−4) | 14 (+2) | 7 (−2) |
+
+
+
+**Skills** Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
+
+_**Keen Sight.**_ The eagle has advantage on Wisdom (Perception) checks that rely on sight.
+
+#### **Actions** 
+
+_**Talons.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage.
+
+#### **Elephant** 
+
+_Huge beast, unaligned_
+
+**Armor Class** 12 (natural armor)
+
+**Hit Points** 76 (8d12 + 24)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 22 (+6) | 9 (−1) | 17 (+3) | 3 (−4) | 11 (+0) | 6 (−2) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 4 (1,100 XP)
+
+_**Trampling Charge.**_ If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 4 (−3) | 18 (+4) | 11 (+0) | 2 (−4) | 12 (+1) | 5 (−3) |
+
+
+
+**Senses** blindsight 10 ft., passive Perception 11
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
+
+#### **Actions** 
+
+_**Gore.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) piercing damage.
+
+_**Stomp.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
+
+#### **Elk** 
+
+_Large beast, unaligned_
+
+**Armor Class** 10
+
+**Hit Points** 13 (2d10 + 2)
+
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 10 (+0) | 12 (+1) | 2 (−4) | 10 (+0) | 6 (−2) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
 
 _**Charge.**_ If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-## **Actions** 
+#### **Actions** 
 
-_**Ram.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage. _**Hooves.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one prone creature. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
+_**Ram.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
 
-## **Flying Snake**
+_**Hooves.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one prone creature. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
+
+#### **Flying Snake** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 14 **Hit Points** 5 (2d4) **Speed** 30 ft., fly 60 ft., swim 30 ft.
+**Armor Class** 14
+
+**Hit Points** 5 (2d4)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 _**Flyby.**_ The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage plus 7 (3d4) poison damage.
 
 A **flying snake** is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
 
-## **Frog** 
+#### **Frog** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 1 (1d4 − 1) **Speed** 20 ft., swim 20 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 1 (−5) 13 (+1) 8 (−1) 1 (−5) 8 (−1) 3 (−4)
+**Hit Points** 1 (1d4 − 1)
 
-**Skills** Perception +1, Stealth +3 **Senses** darkvision 30 ft., passive Perception 11
+**Speed** 20 ft., swim 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 1 (−5) | 13 (+1) | 8 (−1) | 1 (−5) | 8 (−1) | 3 (−4) |
+
+
+
+**Skills** Perception +1, Stealth +3
+
+**Senses** darkvision 30 ft., passive Perception 11
 
 **Languages** — 
 
@@ -23654,111 +26232,181 @@ _**Standing Leap.**_ The frog’s long jump is up to 10 feet and its high jump i
 
 A **frog** has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a **toad** .
 
-## **Giant Ape**
+#### **Giant Ape** 
 
 _Huge beast, unaligned_
 
 **Armor Class** 12
 
-**Hit Points** 157 (15d12 + 60) **Speed** 40 ft., climb 40 ft.
+**Hit Points** 157 (15d12 + 60)
 
-**STR DEX CON INT WIS CHA** 23 (+6) 14 (+2) 18 (+4) 7 (−2) 12 (+1) 7 (−2)
+**Speed** 40 ft., climb 40 ft.
 
-**Skills** Athletics +9, Perception +4 **Senses** passive Perception 14 **Languages** — **Challenge** 7 (2,900 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 14 (+2) | 18 (+4) | 7 (−2) | 12 (+1) | 7 (−2) |
 
-## **Actions** 
 
-_**Multiattack.**_ The ape makes two fist attacks. _**Fist.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
+
+**Skills** Athletics +9, Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** —
+
+**Challenge** 7 (2,900 XP)
+
+#### **Actions** 
+
+_**Multiattack.**_ The ape makes two fist attacks.
+
+_**Fist.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
 
 _**Rock.** Ranged Weapon Attack:_ +9 to hit, range 50/100 ft., one target. _Hit:_ 30 (7d6 + 6) bludgeoning damage.
 
-## **Giant Badger**
+#### **Giant Badger** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 13 (2d8 + 4) **Speed** 30 ft., burrow 10 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 13 (+1) 10 (+0) 15 (+2) 2 (−4) 12 (+1) 5 (−3)
+**Hit Points** 13 (2d8 + 4)
 
-**Senses** darkvision 30 ft., passive Perception 11 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 30 ft., burrow 10 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 10 (+0) | 15 (+2) | 2 (−4) | 12 (+1) | 5 (−3) |
+
+
+
+**Senses** darkvision 30 ft., passive Perception 11
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
 
 _**Keen Smell.**_ The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The badger makes two attacks: one with its bite and one with its claws.
 
-_**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage. _**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage.
+_**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.
 
-## **Giant Bat**
+_**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage.
+
+#### **Giant Bat** 
 
 _Large beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 22 (4d10) **Speed** 10 ft., fly 60 ft.
+**Armor Class** 13
 
-**STR DEX CON INT WIS CHA** 15 (+2) 16 (+3) 11 (+0) 2 (−4) 12 (+1) 6 (−2)
+**Hit Points** 22 (4d10)
 
-**Senses** blindsight 60 ft., passive Perception 11 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 10 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 16 (+3) | 11 (+0) | 2 (−4) | 12 (+1) | 6 (−2) |
+
+
+
+**Senses** blindsight 60 ft., passive Perception 11
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
 
 _**Echolocation.**_ The bat can’t use its blindsight while deafened.
 
 _**Keen Hearing.**_ The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-## **Giant Boar**
+#### **Giant Boar** 
 
 _Large beast, unaligned_
 
 **Armor Class** 12 (natural armor)
 
-**Hit Points** 42 (5d10 + 15) **Speed** 40 ft.
+**Hit Points** 42 (5d10 + 15)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||17    (+3)    10    (+0)    16    (+3)    2    (−4)|7    (−2)|5    (−3)|
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 10 (+0) | 16 (+3) | 2 (−4) | 7 (−2) | 5 (−3) |
 
 
 
-**Senses** passive Perception 8 **Languages** — **Challenge** 2 (450 XP)
+**Senses** passive Perception 8
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 _**Relentless (Recharges after a Short or Long Rest).**_ If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-## **Actions** 
+#### **Actions** 
 
 _**Tusk.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
-## **Giant Centipede**
+#### **Giant Centipede** 
 
 _Small beast, unaligned_
 
-**Armor Class** 13 (natural armor) **Hit Points** 4 (1d6 + 1) **Speed** 30 ft., climb 30 ft.
+**Armor Class** 13 (natural armor)
 
-|**Speed**30    ft.,    climb    30    ft.||| |---|---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |<br>5    (−3)    14    (+2)    12    (+1)    1    (−5)|7    (−2)|3    (−4)|
+**Hit Points** 4 (1d6 + 1)
+
+**Speed** 30 ft., climb 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 5 (−3) | 14 (+2) | 12 (+1) | 1 (−5) | 7 (−2) | 3 (−4) |
 
 
 
-**Senses** blindsight 30 ft., passive Perception 8 **Languages** — **Challenge** 1/4 (50 XP)
+**Senses** blindsight 30 ft., passive Perception 8
 
-## **Actions** 
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-## **Giant Constrictor Snake**
+#### **Giant Constrictor Snake** 
 
 _Huge beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 60 (8d12 + 8) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 12
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    14    (+2)    12    (+1)    1    (−5)    10    (+0)    3    (−4)|
+**Hit Points** 60 (8d12 + 8)
+
+**Speed** 30 ft., swim 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 14 (+2) | 12 (+1) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 
 
-**Skills** Perception +2 **Senses** blindsight 10 ft., passive Perception 12 **Languages** — **Challenge** 2 (450 XP)
+**Skills** Perception +2
 
-## **Actions** 
+**Senses** blindsight 10 ft., passive Perception 12
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage.
 
@@ -23766,35 +26414,63 @@ _**Constrict.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit
 
 grapple ends, the creature is restrained, and the snake can’t constrict another target.
 
-## **Giant Crab**
+#### **Giant Crab** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 15 (natural armor) **Hit Points** 13 (3d8) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 15 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |---|---|---|---| ||13    (+1)    15    (+2)    11    (+0)    1    (−5)|9    (−1)|3    (−4)|
+**Hit Points** 13 (3d8)
+
+**Speed** 30 ft., swim 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 9 (−1) | 3 (−4) |
 
 
 
-**Skills** Stealth +4 **Senses** blindsight 30 ft., passive Perception 9 **Languages** — **Challenge** 1/8 (25 XP)
+**Skills** Stealth +4
+
+**Senses** blindsight 30 ft., passive Perception 9
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
 
 _**Amphibious.**_ The crab can breathe air and water.
 
-## **Actions** 
+#### **Actions** 
 
 _**Claw.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 
-## **Giant Crocodile**
+#### **Giant Crocodile** 
 
 _Huge beast, unaligned_
 
-**Armor Class** 14 (natural armor) **Hit Points** 85 (9d12 + 27) **Speed** 30 ft., swim 50 ft.
+**Armor Class** 14 (natural armor)
 
-**STR DEX CON INT WIS CHA** 21 (+5) 9 (−1) 17 (+3) 2 (−4) 10 (+0) 7 (−2) **Skills** Stealth +5 **Senses** passive Perception 10 **Languages** — **Challenge** 5 (1,800 XP)
+**Hit Points** 85 (9d12 + 27)
+
+**Speed** 30 ft., swim 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 9 (−1) | 17 (+3) | 2 (−4) | 10 (+0) | 7 (−2) |
+
+
+
+**Skills** Stealth +5
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 5 (1,800 XP)
 
 _**Hold Breath.**_ The crocodile can hold its breath for 30 minutes.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The crocodile makes two attacks: one with its bite and one with its tail.
 
@@ -23802,45 +26478,63 @@ _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 21 (
 
 _**Tail.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not grappled by the crocodile. _Hit:_ 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
-## **Giant Eagle**
+#### **Giant Eagle** 
 
 _Large beast, neutral good_
 
-**Armor Class** 13 **Hit Points** 26 (4d10 + 4) **Speed** 10 ft., fly 80 ft.
+**Armor Class** 13
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    17    (+3)    13    (+1)    8    (−1)    14    (+2)    10    (+0)|
+**Hit Points** 26 (4d10 + 4)
+
+**Speed** 10 ft., fly 80 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1) | 14 (+2) | 10 (+0) |
 
 
 
-**Skills** Perception +4 **Senses** passive Perception 14
+**Skills** Perception +4
 
-**Languages** Giant Eagle, understands Common and Auran but can’t speak them **Challenge** 1 (200 XP)
+**Senses** passive Perception 14
+
+**Languages** Giant Eagle, understands Common and Auran but can’t speak them
+
+**Challenge** 1 (200 XP)
 
 _**Keen Sight.**_ The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The eagle makes two attacks: one with its beak and one with its talons.
 
-_**Beak.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. _**Talons.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
+_**Beak.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+
+_**Talons.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
 A **giant eagle** is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
 
-## **Giant Elk**
+### **Giant Elk** 
 
 **Speed** 60 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||19    (+4)    16    (+3)    14    (+2)    7    (−2)    14    (+2)    10    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 16 (+3) | 14 (+2) | 7 (−2) | 14 (+2) | 10 (+0) |
 
 
 
-**Skills** Perception +4 **Senses** passive Perception 14
+**Skills** Perception +4
 
-**Languages** Giant Elk, understands Common, Elvish, and Sylvan but can’t speak them **Challenge** 2 (450 XP)
+**Senses** passive Perception 14
+
+**Languages** Giant Elk, understands Common, Elvish, and Sylvan but can’t speak them
+
+**Challenge** 2 (450 XP)
 
 _**Charge.**_ If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-## **Actions** 
+#### **Actions** 
 
 _**Ram.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
 
@@ -23848,7 +26542,7 @@ _**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one prone creature. _
 
 The majestic **giant elk** is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
 
-## **Giant Fire Beetle**
+#### **Giant Fire Beetle** 
 
 _Small beast, unaligned_
 
@@ -23858,37 +26552,61 @@ _Small beast, unaligned_
 
 **Speed** 30 ft.
 
-|**Speed**30    ft.||| |---|---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |<br>8    (−1)    10    (+0)    12    (+1)    1    (−5)|7    (−2)|3    (−4)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 8 (−1) | 10 (+0) | 12 (+1) | 1 (−5) | 7 (−2) | 3 (−4) |
 
 
 
-**Senses** blindsight 30 ft., passive Perception 8 **Languages** — **Challenge** 0 (10 XP)
+**Senses** blindsight 30 ft., passive Perception 8
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _Huge beast, unaligned_
 
-**Armor Class** 14 (natural armor) **Hit Points** 42 (5d12 + 10)
+**Armor Class** 14 (natural armor)
+
+**Hit Points** 42 (5d12 + 10)
 
 _**Illumination.**_ The beetle sheds bright light in a 10-­‐foot radius and dim light for an additional 10 feet.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 2 (1d6 − 1) slashing damage.
 
 A **giant fire beetle** is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
-## **Giant Frog**
+#### **Giant Frog** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 18 (4d8) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 12 (+1) 13 (+1) 11 (+0) 2 (−4) 10 (+0) 3 (−4)
+**Hit Points** 18 (4d8)
 
-**Skills** Perception +2, Stealth +3 **Senses** darkvision 30 ft., passive Perception 12 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 30 ft., swim 30 ft.
 
-_**Amphibious.**_ The frog can breathe air and water. _**Standing Leap.**_ The frog’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 13 (+1) | 11 (+0) | 2 (−4) | 10 (+0) | 3 (−4) |
 
-## **Actions** 
+
+
+**Skills** Perception +2, Stealth +3
+
+**Senses** darkvision 30 ft., passive Perception 12
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+_**Amphibious.**_ The frog can breathe air and water.
+
+_**Standing Leap.**_ The frog’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can’t bite another target.
 
@@ -23898,87 +26616,143 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 feet of movement, exiting prone.
 
-## **Giant Goat**
+#### **Giant Goat** 
 
 _Large beast, unaligned_
 
-**Armor Class** 11 (natural armor) **Hit Points** 19 (3d10 + 3) **Speed** 40 ft.
+**Armor Class** 11 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    11    (+0)    12    (+1)    3    (−4)    12    (+1)    6    (−2)|
+**Hit Points** 19 (3d10 + 3)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 11 (+0) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
 
 
-**Senses** passive Perception 11 **Languages** — **Challenge** 1/2 (100 XP)
+**Senses** passive Perception 11
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
 
 _**Charge.**_ If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 _**Sure-­‐Footed.**_ The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-## **Actions** 
+#### **Actions** 
 
 _**Ram.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
-## **Giant Hyena**
+#### **Giant Hyena** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 45 (6d10 + 12) **Speed** 50 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 16 (+3) 14 (+2) 14 (+2) 2 (−4) 12 (+1) 7 (−2)
+**Hit Points** 45 (6d10 + 12)
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 1 (200 XP)
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 14 (+2) | 14 (+2) | 2 (−4) | 12 (+1) | 7 (−2) |
+
+
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 1 (200 XP)
 
 _**Rampage.**_ When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.
 
-## **Giant Lizard**
+#### **Giant Lizard** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 (natural armor) **Hit Points** 19 (3d10 + 3) **Speed** 30 ft., climb 30 ft.
+**Armor Class** 12 (natural armor)
 
-**STR DEX CON INT WIS CHA** 15 (+2) 12 (+1) 13 (+1) 2 (−4) 10 (+0) 5 (−3)
+**Hit Points** 19 (3d10 + 3)
 
-**Senses** darkvision 30 ft., passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 30 ft., climb 30 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 12 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
+
+
+
+**Senses** darkvision 30 ft., passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others.
 
-## **Giant Octopus**
+#### **Giant Octopus** 
 
 _Large beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 52 (8d10 + 8) **Speed** 10 ft., swim 60 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 17 (+3) 13 (+1) 13 (+1) 4 (−3) 10 (+0) 4 (−3)
+**Hit Points** 52 (8d10 + 8)
 
-**Skills** Perception +4, Stealth +5 **Senses** darkvision 60 ft., passive Perception 14 **Languages** — **Challenge** 1 (200 XP)
+**Speed** 10 ft., swim 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 13 (+1) | 13 (+1) | 4 (−3) | 10 (+0) | 4 (−3) |
+
+
+
+**Skills** Perception +4, Stealth +5
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** —
+
+**Challenge** 1 (200 XP)
 
 _**Hold Breath.**_ While out of water, the octopus can hold its breath for 1 hour.
 
-_**Underwater Camouflage.**_ The octopus has advantage on Dexterity (Stealth) checks made while underwater. _**Water Breathing.**_ The octopus can breathe only underwater.
+_**Underwater Camouflage.**_ The octopus has advantage on Dexterity (Stealth) checks made while underwater.
 
-## **Actions** 
+_**Water Breathing.**_ The octopus can breathe only underwater.
+
+#### **Actions** 
 
 _**Tentacles.** Melee Weapon Attack:_ +5 to hit, reach 15 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can’t use its tentacles on another target.
 
 _**Ink Cloud (Recharges after a Short or Long Rest).**_ A 20-­‐ foot-­‐radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-## **Giant Owl**
+#### **Giant Owl** 
 
 _Large beast, neutral_
 
 **Armor Class** 12
 
-**Hit Points** 19 (3d10 + 3) **Speed** 5 ft., fly 60 ft.
+**Hit Points** 19 (3d10 + 3)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||13    (+1)    15    (+2)    12    (+1)    8    (−1)    13    (+1)    10    (+0)|
+**Speed** 5 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 15 (+2) | 12 (+1) | 8 (−1) | 13 (+1) | 10 (+0) |
 
 
 
@@ -23986,67 +26760,107 @@ _Large beast, neutral_
 
 **Senses** darkvision 120 ft., passive Perception 15
 
-**Languages** Giant Owl, understands Common, Elvish, and Sylvan but can’t speak them **Challenge** 1/4 (50 XP)
+**Languages** Giant Owl, understands Common, Elvish, and Sylvan but can’t speak them
+
+**Challenge** 1/4 (50 XP)
 
 _**Flyby.**_ The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 
 _**Keen Hearing and Sight.**_ The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Talons.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6 + 1) slashing damage.
 
 **Giant owls** often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 
-## **Giant Poisonous Snake**
+#### **Giant Poisonous Snake** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 14 **Hit Points** 11 (2d8 + 2) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 14
 
-**STR DEX CON INT WIS CHA** 10 (+0) 18 (+4) 13 (+1) 2 (−4) 10 (+0) 3 (−4)
+**Hit Points** 11 (2d8 + 2)
 
-**Skills** Perception +2 **Senses** blindsight 10 ft., passive Perception 12 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 30 ft., swim 30 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 18 (+4) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
+
+
+
+**Skills** Perception +2
+
+**Senses** blindsight 10 ft., passive Perception 12
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Giant Rat**
+#### **Giant Rat** 
 
 _Small beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 7 (2d6) **Speed** 30 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 7 (−2) 15 (+2) 11 (+0) 2 (−4) 10 (+0) 4 (−3)
+**Hit Points** 7 (2d6)
 
-**Senses** darkvision 60 ft., passive Perception 10 **Languages** — **Challenge** 1/8 (25 XP)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 7 (−2) | 15 (+2) | 11 (+0) | 2 (−4) | 10 (+0) | 4 (−3) |
+
+
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
 
 _**Keen Smell.**_ The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
 _**Pack Tactics.**_ The rat has advantage on an attack roll against a creature if at least one of the rat’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
-## **Variant: Diseased Giant Rats** 
+### **Variant: Diseased Giant Rats** 
 
-Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack. _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means, and the target’s hit point maximum decreases by 3 (1d6) every 24 hours. If the target’s hit point maximum drops to 0 as a result of this disease, the target dies.
+Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
 
-## **Giant Scorpion**
+_**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means, and the target’s hit point maximum decreases by 3 (1d6) every 24 hours. If the target’s hit point maximum drops to 0 as a result of this disease, the target dies.
+
+#### **Giant Scorpion** 
 
 _Large beast, unaligned_
 
 **Armor Class** 15 (natural armor)
 
-**Hit Points** 52 (7d10 + 14) **Speed** 40 ft.
+**Hit Points** 52 (7d10 + 14)
 
-**STR DEX CON INT WIS CHA** 15 (+2) 13 (+1) 15 (+2) 1 (−5) 9 (−1) 3 (−4)
+**Speed** 40 ft.
 
-**Senses** blindsight 60 ft., passive Perception 9 **Languages** — **Challenge** 3 (700 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5) | 9 (−1) | 3 (−4) |
 
-## **Actions** 
+
+
+**Senses** blindsight 60 ft., passive Perception 9
+
+**Languages** —
+
+**Challenge** 3 (700 XP)
+
+#### **Actions** 
 
 _**Multiattack.**_ The scorpion makes three attacks: two with its claws and one with its sting.
 
@@ -24054,59 +26868,91 @@ _**Claw.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1
 
 _**Sting.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Giant Sea Horse**
+#### **Giant Sea Horse** 
 
 _Large beast, unaligned_
 
 **Armor Class** 13 (natural armor)
 
-**Hit Points** 16 (3d10) **Speed** 0 ft., swim 40 ft.
+**Hit Points** 16 (3d10)
 
-**STR DEX CON INT WIS CHA** 12 (+1) 15 (+2) 11 (+0) 2 (−4) 12 (+1) 5 (−3)
+**Speed** 0 ft., swim 40 ft.
 
-**Senses** passive Perception 11 **Languages** — **Challenge** 1/2 (100 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 15 (+2) | 11 (+0) | 2 (−4) | 12 (+1) | 5 (−3) |
+
+
+
+**Senses** passive Perception 11
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
 
 _**Charge.**_ If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 _**Water Breathing.**_ The sea horse can breathe only underwater.
 
-## **Actions** 
+#### **Actions** 
 
 _**Ram.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
 
 A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
 
-## **Giant Spider**
+#### **Giant Spider** 
 
 _Large beast, unaligned_
 
-**Armor Class** 14 (natural armor) **Hit Points** 26 (4d10 + 4) **Speed** 30 ft., climb 30 ft.
+**Armor Class** 14 (natural armor)
 
-**STR DEX CON INT WIS CHA** 14 (+2) 16 (+3) 12 (+1) 2 (−4) 11 (+0) 4 (−3)
+**Hit Points** 26 (4d10 + 4)
+
+**Speed** 30 ft., climb 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 16 (+3) | 12 (+1) | 2 (−4) | 11 (+0) | 4 (−3) |
+
+
 
 **Skills** Stealth +7
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 
-## **Languages** — 
+**Languages** — 
 
 Like their smaller kin, **giant sea horses** are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
 
-## **Giant Shark**
+#### **Giant Shark** 
 
 _Huge beast, unaligned_
 
-**Armor Class** 13 (natural armor) **Hit Points** 126 (11d12 + 55) **Speed** 0 ft., swim 50 ft.
+**Armor Class** 13 (natural armor)
 
-**STR DEX CON INT WIS CHA** 23 (+6) 11 (+0) 21 (+5) 1 (−5) 10 (+0) 5 (−3)
+**Hit Points** 126 (11d12 + 55)
+
+**Speed** 0 ft., swim 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 23 (+6) | 11 (+0) | 21 (+5) | 1 (−5) | 10 (+0) | 5 (−3) |
+
+
 
 **Skills** Perception +3
 
-**Senses** blindsight 60 ft., passive Perception 13 **Languages** — **Challenge** 5 (1,800 XP)
+**Senses** blindsight 60 ft., passive Perception 13
 
-_**Blood Frenzy.**_ The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points. _**Water Breathing.**_ The shark can breathe only underwater.
+**Languages** —
 
-## **Actions** 
+**Challenge** 5 (1,800 XP)
+
+_**Blood Frenzy.**_ The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+
+_**Water Breathing.**_ The shark can breathe only underwater.
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 22 (3d10 + 6) piercing damage.
 
@@ -24118,7 +26964,7 @@ _**Web Sense.**_ While in contact with a web, the spider knows the exact locatio
 
 _**Web Walker.**_ The spider ignores movement restrictions caused by webbing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -24126,21 +26972,33 @@ _**Web (Recharge 5–6).** Ranged Weapon Attack:_ +5 to hit, range 30/60 ft., on
 
 To snare its prey, a **giant spider** spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-­‐‑filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
-## **Giant Toad**
+#### **Giant Toad** 
 
 _Large beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 39 (6d10 + 6) **Speed** 20 ft., swim 40 ft.
+**Armor Class** 11
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    13    (+1)    13    (+1)    2    (−4)    10    (+0)    3    (−4)|
+**Hit Points** 39 (6d10 + 6)
+
+**Speed** 20 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 13 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
 
 
-**Senses** darkvision 30 ft., passive Perception 10 **Languages** — **Challenge** 1 (200 XP)
+**Senses** darkvision 30 ft., passive Perception 10
 
-_**Amphibious.**_ The toad can breathe air and water. _**Standing Leap.**_ The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+**Languages** —
 
-## **Actions** 
+**Challenge** 1 (200 XP)
+
+_**Amphibious.**_ The toad can breathe air and water.
+
+_**Standing Leap.**_ The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can’t bite another target.
 
@@ -24148,7 +27006,7 @@ _**Swallow.**_ The toad makes one bite attack against a Medium or smaller target
 
 If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
-## **Giant Vulture**
+#### **Giant Vulture** 
 
 _Large beast, neutral evil_
 
@@ -24158,7 +27016,17 @@ _Large beast, neutral evil_
 
 **Speed** 10 ft., fly 60 ft.
 
-|**Speed**10    ft.,    fly    60    ft.|||| |---|---|---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |15    (+2)    10    (+0)    15    (+2)    6    (−2)||12    (+1)|7    (−2)| |**Skills**Perception    +3|||| |**Senses**passive    Perception    13|||| |**Languages**understands    Common    but    can’t    speak|||| |**Challenge**1    (200    XP)||||
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 10 (+0) | 15 (+2) | 6 (−2) | 12 (+1) | 7 (−2) |
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** understands Common but can’t speak
+
+**Challenge** 1 (200 XP)
 
 
 
@@ -24166,7 +27034,7 @@ _**Keen Sight and Smell.**_ The vulture has advantage on Wisdom (Perception) che
 
 _**Pack Tactics.**_ The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The vulture makes two attacks: one with its beak and one with its talons.
 
@@ -24176,47 +27044,85 @@ _**Talons.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 
 
 A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
 
-## **Giant Wasp**
+#### **Giant Wasp** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 13 (3d8) **Speed** 10 ft., fly 50 ft.
+**Armor Class** 12
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    14    (+2)    10    (+0)    1    (−5)    10    (+0)    3    (−4)|
+**Hit Points** 13 (3d8)
+
+**Speed** 10 ft., fly 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 14 (+2) | 10 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 1/2 (100 XP)
+**Senses** passive Perception 10
 
-## **Actions** 
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
+
+#### **Actions** 
 
 _**Sting.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-## **Giant Weasel**
+#### **Giant Weasel** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 9 (2d8) **Speed** 40 ft.
+**Armor Class** 13
 
-**STR DEX CON INT WIS CHA** 11 (+0) 16 (+3) 10 (+0) 4 (−3) 12 (+1) 5 (−3)
+**Hit Points** 9 (2d8)
 
-**Skills** Perception +3, Stealth +5 **Senses** darkvision 60 ft., passive Perception 13 **Languages** — **Challenge** 1/8 (25 XP)
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 16 (+3) | 10 (+0) | 4 (−3) | 12 (+1) | 5 (−3) |
+
+
+
+**Skills** Perception +3, Stealth +5
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
 
 _**Keen Hearing and Smell.**_ The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
-## **Giant Wolf Spider**
+#### **Giant Wolf Spider** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 11 (2d8 + 2) **Speed** 40 ft., climb 40 ft.
+**Armor Class** 13
 
-**STR DEX CON INT WIS CHA** 12 (+1) 16 (+3) 13 (+1) 3 (−4) 12 (+1) 4 (−3)
+**Hit Points** 11 (2d8 + 2)
 
-**Skills** Perception +3, Stealth +7 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 40 ft., climb 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 16 (+3) | 13 (+1) | 3 (−4) | 12 (+1) | 4 (−3) |
+
+
+
+**Skills** Perception +3, Stealth +7
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
 
 _**Spider Climb.**_ The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -24224,113 +27130,197 @@ _**Web Sense.**_ While in contact with a web, the spider knows the exact locatio
 
 _**Web Walker.**_ The spider ignores movement restrictions caused by webbing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 Smaller than a giant spider, a **giant wolf spider** hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
-## **Goat** 
+#### **Goat** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 4 (1d8) **Speed** 40 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 12 (+1) 10 (+0) 11 (+0) 2 (−4) 10 (+0) 5 (−3)
+**Hit Points** 4 (1d8)
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 10 (+0) | 11 (+0) | 2 (−4) | 10 (+0) | 5 (−3) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Charge.**_ If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
 
 _**Sure-­‐Footed.**_ The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-## **Actions** 
+#### **Actions** 
 
 _**Ram.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
 
-## **Hawk** 
+#### **Hawk** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 1 (1d4 − 1) **Speed** 10 ft., fly 60 ft.
+**Armor Class** 13
 
-**STR DEX CON INT WIS CHA** 5 (−3) 16 (+3) 8 (−1) 2 (−4) 14 (+2) 6 (−2)
+**Hit Points** 1 (1d4 − 1)
 
-**Skills** Perception +4 **Senses** passive Perception 14 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 10 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 5 (−3) | 16 (+3) | 8 (−1) | 2 (−4) | 14 (+2) | 6 (−2) |
+
+
+
+**Skills** Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Keen Sight.**_ The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Talons.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 
-## **Hunter Shark**
+#### **Hunter Shark** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 (natural armor) **Hit Points** 45 (6d10 + 12) **Speed** 0 ft., swim 40 ft.
+**Armor Class** 12 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 13 (+1) 15 (+2) 1 (−5) 10 (+0) 4 (−3)
+**Hit Points** 45 (6d10 + 12)
 
-**Skills** Perception +2 **Senses** blindsight 30 ft., passive Perception 12 **Languages** — **Challenge** 2 (450 XP)
+**Speed** 0 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 13 (+1) | 15 (+2) | 1 (−5) | 10 (+0) | 4 (−3) |
+
+
+
+**Skills** Perception +2
+
+**Senses** blindsight 30 ft., passive Perception 12
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Blood Frenzy.**_ The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
 
 _**Water Breathing.**_ The shark can breathe only underwater.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter shark** haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
-## **Hyena** 
+#### **Hyena** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 5 (1d8 + 1) **Speed** 50 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 11 (+0) 13 (+1) 12 (+1) 2 (−4) 12 (+1) 5 (−3)
+**Hit Points** 5 (1d8 + 1)
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 13 (+1) | 12 (+1) | 2 (−4) | 12 (+1) | 5 (−3) |
+
+
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Pack Tactics.**_ The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.
 
-## **Jackal** 
+#### **Jackal** 
 
 _Small beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 3 (1d6) **Speed** 40 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 8 (−1) 15 (+2) 11 (+0) 3 (−4) 12 (+1) 6 (−2)
+**Hit Points** 3 (1d6)
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 8 (−1) | 15 (+2) | 11 (+0) | 3 (−4) | 12 (+1) | 6 (−2) |
+
+
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Keen Hearing and Smell.**_ The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 _**Pack Tactics.**_ The jackal has advantage on an attack roll against a creature if at least one of the jackal’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 – 1) piercing damage.
 
-## **Killer Whale**
+#### **Killer Whale** 
 
 _Huge beast, unaligned_
 
 **Armor Class** 12 (natural armor)
 
-**Hit Points** 90 (12d12 + 12) **Speed** 0 ft., swim 60 ft.
+**Hit Points** 90 (12d12 + 12)
 
-**STR DEX CON INT WIS CHA** 19 (+4) 10 (+0) 13 (+1) 3 (−4) 12 (+1) 7 (−2)
+**Speed** 0 ft., swim 60 ft.
 
-**Skills** Perception +3 **Senses** blindsight 120 ft., passive Perception 13 **Languages** — **Challenge** 3 (700 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 19 (+4) | 10 (+0) | 13 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
-**Skills** Perception +3, Stealth +6 **Senses** passive Perception 13 **Languages** —
+
+
+**Skills** Perception +3
+
+**Senses** blindsight 120 ft., passive Perception 13
+
+**Languages** —
+
+**Challenge** 3 (700 XP)
+
+**Skills** Perception +3, Stealth +6
+
+**Senses** passive Perception 13
+
+**Languages** —
 
 **Challenge** 1 (200 XP)
 
@@ -24342,55 +27332,89 @@ _**Pounce.**_ If the lion moves at least 20 feet straight toward a creature and 
 
 _**Running Leap.**_ With a 10-­‐foot running start, the lion can long jump up to 25 feet.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
 
 _**Claw.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
-## **Lizard** 
+### **Lizard** 
 
-_**Echolocation.**_ The whale can’t use its blindsight while deafened. _**Hold Breath.**_ The whale can hold its breath for 30 minutes. _**Keen Hearing.**_ The whale has advantage on Wisdom (Perception) checks that rely on hearing.
+_**Echolocation.**_ The whale can’t use its blindsight while deafened.
 
-## **Actions** 
+_**Hold Breath.**_ The whale can hold its breath for 30 minutes.
+
+_**Keen Hearing.**_ The whale has advantage on Wisdom (Perception) checks that rely on hearing.
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 21 (5d6 + 4) piercing damage.
 
-## **Lion** 
+#### **Lion** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 26 (4d10 + 4) **Speed** 50 ft.
+**Armor Class** 12
+
+**Hit Points** 26 (4d10 + 4)
+
+**Speed** 50 ft.
 
 _Tiny beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 2 (1d4) **Speed** 20 ft., climb 20 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 2 (−4) 11 (+0) 10 (+0) 1 (−5) 8 (−1) 3 (−4)
+**Hit Points** 2 (1d4)
 
-**Senses** darkvision 30 ft., passive Perception 9 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 20 ft., climb 20 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 11 (+0) | 10 (+0) | 1 (−5) | 8 (−1) | 3 (−4) |
+
+
+
+**Senses** darkvision 30 ft., passive Perception 9
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-**STR DEX CON INT WIS CHA** 17 (+3) 15 (+2) 13 (+1) 3 (−4) 12 (+1) 8 (−1)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 15 (+2) | 13 (+1) | 3 (−4) | 12 (+1) | 8 (−1) |
 
-## **Mammoth** 
+
+
+#### **Mammoth** 
 
 _Huge beast, unaligned_
 
-**Armor Class** 13 (natural armor) **Hit Points** 126 (11d12 + 55) **Speed** 40 ft.
+**Armor Class** 13 (natural armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||24    (+7)    9    (−1)    21    (+5)    3    (−4)    11    (+0)    6    (−2)|
+**Hit Points** 126 (11d12 + 55)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 24 (+7) | 9 (−1) | 21 (+5) | 3 (−4) | 11 (+0) | 6 (−2) |
 
 
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 6 (2,300 XP)
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 6 (2,300 XP)
 
 _**Trampling Charge.**_ If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Gore.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 25 (4d8 + 7) piercing damage.
 
@@ -24398,59 +27422,91 @@ _**Stomp.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one prone creature. _
 
 A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
 
-## **Mastiff** 
+#### **Mastiff** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 5 (1d8 + 1) **Speed** 40 ft.
+**Armor Class** 12
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||13    (+1)    14    (+2)    12    (+1)    3    (−4)    12    (+1)    7    (−2)|
+**Hit Points** 5 (1d8 + 1)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 14 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
 
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 1/8 (25 XP)
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
 
 _**Keen Hearing and Smell.**_ The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 **Mastiffs** are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 
-## **Mule** 
+#### **Mule** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 11 (2d8 + 2) **Speed** 40 ft.
+**Armor Class** 10
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||14    (+2)    10    (+0)    13    (+1)    2    (−4)    10    (+0)    5    (−3)|
+**Hit Points** 11 (2d8 + 2)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 1/8 (25 XP)
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
 
 _**Beast of Burden.**_ The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
 
 _**Sure-­‐Footed.**_ The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-## **Actions** 
+#### **Actions** 
 
 _**Hooves.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
-## **Octopus** 
+#### **Octopus** 
 
 _Small beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 3 (1d6) **Speed** 5 ft., swim 30 ft.
+**Armor Class** 12
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>4    (−3)    15    (+2)    11    (+0)    3    (−4)    10    (+0)    4    (−3)|
+**Hit Points** 3 (1d6)
+
+**Speed** 5 ft., swim 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 4 (−3) | 15 (+2) | 11 (+0) | 3 (−4) | 10 (+0) | 4 (−3) |
 
 
 
 **Skills** Perception +2, Stealth +4
 
-**Senses** darkvision 30 ft., passive Perception 12 **Languages** — **Challenge** 0 (10 XP)
+**Senses** darkvision 30 ft., passive Perception 12
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Hold Breath.**_ While out of water, the octopus can hold its breath for 30 minutes.
 
@@ -24458,69 +27514,103 @@ _**Underwater Camouflage.**_ The octopus has advantage on Dexterity (Stealth) ch
 
 _**Water Breathing.**_ The octopus can breathe only underwater.
 
-## **Actions** 
+#### **Actions** 
 
 _**Tentacles.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can’t use its tentacles on another target.
 
 _**Ink Cloud (Recharges after a Short or Long Rest).**_ A 5-­‐ foot-­‐radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-## **Owl** 
+#### **Owl** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 1 (1d4 − 1) **Speed** 5 ft., fly 60 ft.
+**Armor Class** 11
 
-|**Speed**5    ft.,    fly    60    ft.|| |---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**<br>**WIS**<br>**CHA**| |<br>3    (−4)    13    (+1)    8    (−1)|2    (−4)    12    (+1)    7    (−2)|
+**Hit Points** 1 (1d4 − 1)
+
+**Speed** 5 ft., fly 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 3 (−4) | 13 (+1) | 8 (−1) | 2 (−4) | 12 (+1) | 7 (−2) |
 
 
 
-**Skills** Perception +3, Stealth +3 **Senses** darkvision 120 ft., passive Perception 13
+**Skills** Perception +3, Stealth +3
 
-**Languages** — **Challenge** 0 (10 XP)
+**Senses** darkvision 120 ft., passive Perception 13
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Flyby.**_ The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 
 _**Keen Hearing and Sight.**_ The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Talons.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 
-## **Panther** 
+#### **Panther** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 13 (3d8) **Speed** 50 ft., climb 40 ft.
+**Armor Class** 12
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||14    (+2)    15    (+2)    10    (+0)    3    (−4)    14    (+2)    7    (−2)|
+**Hit Points** 13 (3d8)
+
+**Speed** 50 ft., climb 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 15 (+2) | 10 (+0) | 3 (−4) | 14 (+2) | 7 (−2) |
 
 
 
-**Skills** Perception +4, Stealth +6 **Senses** passive Perception 14 **Languages** — **Challenge** 1/4 (50 XP)
+**Skills** Perception +4, Stealth +6
+
+**Senses** passive Perception 14
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
 
 _**Keen Smell.**_ The panther has advantage on Wisdom (Perception) checks that rely on smell.
 
 _**Pounce.**_ If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
 _**Claw.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage.
 
-## **Phase Spider**
+#### **Phase Spider** 
 
 _Large monstrosity, unaligned_
 
 **Armor Class** 13 (natural armor)
 
-**Hit Points** 32 (5d10 + 5) **Speed** 30 ft., climb 30 ft.
+**Hit Points** 32 (5d10 + 5)
 
-**STR DEX CON INT WIS CHA** 15 (+2) 15 (+2) 12 (+1) 6 (−2) 10 (+0) 6 (−2) **Skills** Stealth +6 **Senses** darkvision 60 ft., passive Perception 10 **Languages** —
+**Speed** 30 ft., climb 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 15 (+2) | 12 (+1) | 6 (−2) | 10 (+0) | 6 (−2) |
+
+
+
+**Skills** Stealth +6
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** —
 
 **Challenge** 3 (700 XP)
 
-## **Polar Bear**
+### **Polar Bear** 
 
 _**Ethereal Jaunt.**_ As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
 
@@ -24528,37 +27618,63 @@ _**Spider Climb.**_ The spider can climb difficult surfaces, including upside do
 
 _**Web Walker.**_ The spider ignores movement restrictions caused by webbing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 A **phase spider** possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 
-## **Poisonous Snake**
+#### **Poisonous Snake** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 2 (1d4) **Speed** 30 ft., swim 30 ft.
+**Armor Class** 13
 
-**STR DEX CON INT WIS CHA** 2 (−4) 16 (+3) 11 (+0) 1 (−5) 10 (+0) 3 (−4)
+**Hit Points** 2 (1d4)
 
-**Senses** blindsight 10 ft., passive Perception 10 **Languages** — **Challenge** 1/8 (25 XP)
+**Speed** 30 ft., swim 30 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 16 (+3) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
+
+
+
+**Senses** blindsight 10 ft., passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
+
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
 _Large beast, unaligned_
 
-**Armor Class** 12 (natural armor) **Hit Points** 42 (5d10 + 15) **Speed** 40 ft., swim 30 ft.
+**Armor Class** 12 (natural armor)
 
-**STR DEX CON INT WIS CHA** 20 (+5) 10 (+0) 16 (+3) 2 (−4) 13 (+1) 7 (−2)
+**Hit Points** 42 (5d10 + 15)
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 2 (450 XP)
+**Speed** 40 ft., swim 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 20 (+5) | 10 (+0) | 16 (+3) | 2 (−4) | 13 (+1) | 7 (−2) |
+
+
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Keen Smell.**_ The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The bear makes two attacks: one with its bite and one with its claws.
 
@@ -24566,189 +27682,317 @@ _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (1
 
 _**Claws.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.
 
-## **Pony** 
+#### **Pony** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 11 (2d8 + 2) **Speed** 40 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 15 (+2) 10 (+0) 13 (+1) 2 (−4) 11 (+0) 7 (−2) **Senses** passive Perception 10 **Languages** — **Challenge** 1/8 (25 XP)
+**Hit Points** 11 (2d8 + 2)
 
-## **Actions** 
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 11 (+0) | 7 (−2) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/8 (25 XP)
+
+#### **Actions** 
 
 _**Hooves.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) bludgeoning damage.
 
-## **Quipper** 
+#### **Quipper** 
 
 _Tiny beast, unaligned_
 
 **Armor Class** 13
 
-**Hit Points** 1 (1d4 − 1) **Speed** 0 ft., swim 40 ft.
+**Hit Points** 1 (1d4 − 1)
 
-|<br>**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |---|---|---|---| |<br>2    (−4)    16    (+3)    9    (−1)|1    (−5)|7    (−2)|2    (−4)|
+**Speed** 0 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
 
 
-**Senses** darkvision 60 ft., passive Perception 8 **Languages** — **Challenge** 0 (10 XP)
+**Senses** darkvision 60 ft., passive Perception 8
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Blood Frenzy.**_ The quipper has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
 
 _**Water Breathing.**_ The quipper can breathe only underwater.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
 A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix.
 
-## **Rat** 
+#### **Rat** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 1 (1d4 − 1) **Speed** 20 ft.
+**Armor Class** 10
 
-|<br>**STR**<br>**DEX**<br>**CON**|**INT**<br>**WIS**<br>**CHA**| |---|---| |<br>2    (−4)    11    (+0)    9    (−1)|2    (−4)    10    (+0)    4    (−3)|
+**Hit Points** 1 (1d4 − 1)
+
+**Speed** 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 11 (+0) | 9 (−1) | 2 (−4) | 10 (+0) | 4 (−3) |
 
 
 
-**Senses** darkvision 30 ft., passive Perception 10 **Languages** — **Challenge** 0 (10 XP)
+**Senses** darkvision 30 ft., passive Perception 10
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Keen Smell.**_ The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-## **Raven** 
+#### **Raven** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 1 (1d4 − 1) **Speed** 10 ft., fly 50 ft.
+**Armor Class** 12
 
-|**Speed**10    ft.,    fly    50    ft.|| |---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**<br>**WIS**<br>**CHA**| |<br>2    (−4)    14    (+2)    8    (−1)|2    (−4)    12    (+1)    6    (−2)|
+**Hit Points** 1 (1d4 − 1)
+
+**Speed** 10 ft., fly 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 14 (+2) | 8 (−1) | 2 (−4) | 12 (+1) | 6 (−2) |
 
 
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Mimicry.**_ The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-## **Actions** 
+#### **Actions** 
 
 _**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-## **Reef Shark**
+#### **Reef Shark** 
 
 _Medium beast, unaligned_
 
 **Armor Class** 12 (natural armor)
 
-**Hit Points** 22 (4d8 + 4) **Speed** 0 ft., swim 40 ft.
+**Hit Points** 22 (4d8 + 4)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||14    (+2)    13    (+1)    13    (+1)    1    (−5)    10    (+0)    4    (−3)|
+**Speed** 0 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 14 (+2) | 13 (+1) | 13 (+1) | 1 (−5) | 10 (+0) | 4 (−3) |
 
 
 
-**Skills** Perception +2 **Senses** blindsight 30 ft., passive Perception 12 **Languages** — **Challenge** 1/2 (100 XP)
+**Skills** Perception +2
+
+**Senses** blindsight 30 ft., passive Perception 12
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
 
 _**Pack Tactics.**_ The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
 _**Water Breathing.**_ The shark can breathe only underwater.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-­‐‑grown specimen measures 6 to 10 feet long.
 
-## **Rhinoceros** 
+#### **Rhinoceros** 
 
 _Large beast, unaligned_
 
 **Armor Class** 11 (natural armor)
 
-**Hit Points** 45 (6d10 + 12) **Speed** 40 ft.
+**Hit Points** 45 (6d10 + 12)
 
-**STR DEX CON INT WIS CHA** 21 (+5) 8 (−1) 15 (+2) 2 (−4) 12 (+1) 6 (−2)
+**Speed** 40 ft.
 
-**Senses** passive Perception 11 **Languages** — **Challenge** 2 (450 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 21 (+5) | 8 (−1) | 15 (+2) | 2 (−4) | 12 (+1) | 6 (−2) |
+
+
+
+**Senses** passive Perception 11
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Charge.**_ If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-## **Actions** 
+#### **Actions** 
 
 _**Gore.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.
 
-## **Riding Horse**
+#### **Riding Horse** 
 
 _Large beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 13 (2d10 + 2) **Speed** 60 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 16 (+3) 10 (+0) 12 (+1) 2 (−4) 11 (+0) 7 (−2)
+**Hit Points** 13 (2d10 + 2)
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
+**Speed** 60 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 10 (+0) | 12 (+1) | 2 (−4) | 11 (+0) | 7 (−2) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 1/4 (50 XP)
+
+#### **Actions** 
 
 _**Hooves.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
-## **Saber-­‐Toothed Tiger**
+#### **Saber-­‐Toothed Tiger** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 52 (7d10 + 14) **Speed** 40 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 18 (+4) 14 (+2) 15 (+2) 3 (−4) 12 (+1) 8 (−1)
+**Hit Points** 52 (7d10 + 14)
 
-**Skills** Perception +3, Stealth +6 **Senses** passive Perception 13 **Languages** — **Challenge** 2 (450 XP)
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 14 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 8 (−1) |
+
+
+
+**Skills** Perception +3, Stealth +6
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 2 (450 XP)
 
 _**Keen Smell.**_ The tiger has advantage on Wisdom (Perception) checks that rely on smell.
 
 _**Pounce.**_ If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage.
 
 _**Claw.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.
 
-## **Scorpion** 
+#### **Scorpion** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 11 (natural armor) **Hit Points** 1 (1d4 − 1) **Speed** 10 ft.
+**Armor Class** 11 (natural armor)
 
-**STR DEX CON INT WIS CHA** 2 (−4) 11 (+0) 8 (−1) 1 (−5) 8 (−1) 2 (−4)
+**Hit Points** 1 (1d4 − 1)
 
-**Senses** blindsight 10 ft., passive Perception 9 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 10 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 11 (+0) | 8 (−1) | 1 (−5) | 8 (−1) | 2 (−4) |
+
+
+
+**Senses** blindsight 10 ft., passive Perception 9
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
+
+#### **Actions** 
 
 _**Sting.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Sea Horse**
+#### **Sea Horse** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 1 (1d4 − 1) **Speed** 0 ft., swim 20 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 1 (−5) 12 (+1) 8 (−1) 1 (−5) 10 (+0) 2 (−4)
+**Hit Points** 1 (1d4 − 1)
 
-**Senses** passive Perception 10 **Languages** — **Challenge** 0 (0 XP)
+**Speed** 0 ft., swim 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 1 (−5) | 12 (+1) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** —
+
+**Challenge** 0 (0 XP)
 
 _**Water Breathing.**_ The sea horse can breathe only underwater.
 
-## **Spider** 
+#### **Spider** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 1 (1d4 − 1) **Speed** 20 ft., climb 20 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 2 (−4) 14 (+2) 8 (−1) 1 (−5) 10 (+0) 2 (−4)
+**Hit Points** 1 (1d4 − 1)
 
-**Skills** Stealth +4 **Senses** darkvision 30 ft., passive Perception 10 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 20 ft., climb 20 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 2 (−4) | 14 (+2) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
+
+
+
+**Skills** Stealth +4
+
+**Senses** darkvision 30 ft., passive Perception 10
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Spider Climb.**_ The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -24756,19 +28000,31 @@ _**Web Sense.**_ While in contact with a web, the spider knows the exact locatio
 
 _**Web Walker.**_ The spider ignores movement restrictions caused by webbing.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
-## **Swarm of Bats**
+#### **Swarm of Bats** 
 
 _Medium swarm of Tiny beasts, unaligned_
 
-**Armor Class** 12 **Hit Points** 22 (5d8) **Speed** 0 ft., fly 30 ft.
+**Armor Class** 12
 
-**STR DEX CON INT WIS CHA** 5 (−3) 15 (+2) 10 (+0) 2 (−4) 12 (+1) 4 (−3)
+**Hit Points** 22 (5d8)
 
-**Damage Resistances** bludgeoning, piercing, slashing **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned **Senses** blindsight 60 ft., passive Perception 11
+**Speed** 0 ft., fly 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 5 (−3) | 15 (+2) | 10 (+0) | 2 (−4) | 12 (+1) | 4 (−3) |
+
+
+
+**Damage Resistances** bludgeoning, piercing, slashing
+
+**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
+**Senses** blindsight 60 ft., passive Perception 11
 
 **Languages** — 
 
@@ -24780,11 +28036,11 @@ _**Keen Hearing.**_ The swarm has advantage on Wisdom (Perception) checks that r
 
 _**Swarm.**_ The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can’t regain hit points or gain temporary hit points.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bites.** Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
-## **Swarm of Insects**
+#### **Swarm of Insects** 
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -24794,21 +28050,29 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Speed** 20 ft., climb 20 ft.
 
-|**Speed**20    ft.,    climb    20    ft.||| |---|---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |<br>3    (−4)    13    (+1)    10    (+0)    1    (−5)|7    (−2)|1    (−5)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 3 (−4) | 13 (+1) | 10 (+0) | 1 (−5) | 7 (−2) | 1 (−5) |
 
 
 
-**Damage Resistances** bludgeoning, piercing, slashing **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned **Senses** blindsight 10 ft., passive Perception 8
+**Damage Resistances** bludgeoning, piercing, slashing
 
-**Languages** — **Challenge** 1/2 (100 XP)
+**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
+**Senses** blindsight 10 ft., passive Perception 8
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
 
 _**Swarm.**_ The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bites.** Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the swarm’s space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-## **Swarm of Poisonous Snakes**
+#### **Swarm of Poisonous Snakes** 
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -24818,33 +28082,47 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Speed** 30 ft., swim 30 ft.
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>8    (−1)    18    (+4)    11    (+0)    1    (−5)    10    (+0)    3    (−4)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 8 (−1) | 18 (+4) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 
 
-**Damage Resistances** bludgeoning, piercing, slashing **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned **Senses** blindsight 10 ft., passive Perception 10 **Languages** —
+**Damage Resistances** bludgeoning, piercing, slashing
+
+**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
+**Senses** blindsight 10 ft., passive Perception 10
+
+**Languages** —
 
 **Challenge** 2 (450 XP)
 
 _**Swarm.**_ The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can’t regain hit points or gain temporary hit points.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bites.** Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Swarm of Quippers**
+#### **Swarm of Quippers** 
 
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 13
 
-**Hit Points** 28 (8d8 − 8) **Speed** 0 ft., swim 40 ft.
+**Hit Points** 28 (8d8 − 8)
 
-||**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |---|---|---|---|---| ||13    (+1)    16    (+3)    9    (−1)|1    (−5)|7    (−2)|2    (−4)|
+**Speed** 0 ft., swim 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
 
 
-**Damage Resistances** bludgeoning, piercing, slashing **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+**Damage Resistances** bludgeoning, piercing, slashing
+
+**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -24858,11 +28136,11 @@ _**Swarm.**_ The swarm can occupy another creature’s space and vice versa, and
 
 _**Water Breathing.**_ The swarm can breathe only underwater.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bites.** Melee Weapon Attack:_ +5 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-## **Swarm of Rats**
+#### **Swarm of Rats** 
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -24872,13 +28150,19 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Speed** 30 ft.
 
-|**Speed**30    ft.|| |---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**<br>**WIS**<br>**CHA**| |<br>9    (−1)    11    (+0)    9    (−1)|2    (−4)    10    (+0)    3    (−4)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 9 (−1) | 11 (+0) | 9 (−1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
 
 
-**Damage Resistances** bludgeoning, piercing, slashing **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned **Senses** darkvision 30 ft., passive Perception 10
+**Damage Resistances** bludgeoning, piercing, slashing
 
-## **Languages** — 
+**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
+**Senses** darkvision 30 ft., passive Perception 10
+
+**Languages** — 
 
 **Challenge** 1/4 (50 XP)
 
@@ -24886,31 +28170,39 @@ _**Keen Smell.**_ The swarm has advantage on Wisdom (Perception) checks that rel
 
 _**Swarm.**_ The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can’t regain hit points or gain temporary hit points.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bites.** Melee Weapon Attack:_ +2 to hit, reach 0 ft., one target in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-## **Swarm of Ravens**
+#### **Swarm of Ravens** 
 
 _Medium swarm of Tiny beasts, unaligned_
 
-## **Armor Class** 12
+**Armor Class** 12
 
-**Hit Points** 24 (7d8 − 7) **Speed** 10 ft., fly 50 ft.
+**Hit Points** 24 (7d8 − 7)
 
-|**Speed**10    ft.,    fly    50    ft.|| |---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**<br>**WIS**<br>**CHA**| |<br>6    (−2)    14    (+2)    8    (−1)|3    (−4)    12    (+1)    6    (−2)|
+**Speed** 10 ft., fly 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 6 (−2) | 14 (+2) | 8 (−1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
 
 
 **Skills** Perception +5
 
-**Damage Resistances** bludgeoning, piercing, slashing **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned **Senses** passive Perception 15
+**Damage Resistances** bludgeoning, piercing, slashing
 
-## **Actions** 
+**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
+**Senses** passive Perception 15
+
+#### **Actions** 
 
 _**Beaks.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-## **Variant: Insect Swarms** 
+### **Variant: Insect Swarms** 
 
 - Different kinds of insects can gather in swarms, and each swarm has the special characteristics described below.
 
@@ -24942,21 +28234,31 @@ _**Beaks.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target in the swar
 
 - of 5 feet, a flying speed of 30 feet, and no climbing speed.
 
-## **Tiger** 
+#### **Tiger** 
 
 _Large beast, unaligned_
 
-**Armor Class** 12 **Hit Points** 37 (5d10 + 10) **Speed** 40 ft.
+**Armor Class** 12
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||17    (+3)    15    (+2)    14    (+2)    3    (−4)    12    (+1)    8    (−1)|
+**Hit Points** 37 (5d10 + 10)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 17 (+3) | 15 (+2) | 14 (+2) | 3 (−4) | 12 (+1) | 8 (−1) |
 
 
 
-**Skills** Perception +3, Stealth +6 **Senses** darkvision 60 ft., passive Perception 13 **Languages** —
+**Skills** Perception +3, Stealth +6
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** —
 
 **Challenge** 1 (200 XP)
 
-## **Languages** — 
+**Languages** — 
 
 **Challenge** 1/4 (50 XP)
 
@@ -24966,69 +28268,127 @@ _**Keen Smell.**_ The tiger has advantage on Wisdom (Perception) checks that rel
 
 _**Pounce.**_ If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.
 
 _**Claw.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage.
 
-## **Vulture** 
+#### **Vulture** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 10 **Hit Points** 5 (1d8 + 1) **Speed** 10 ft., fly 50 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 7 (−2) 10 (+0) 13 (+1) 2 (−4) 12 (+1) 4 (−3)
+**Hit Points** 5 (1d8 + 1)
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 10 ft., fly 50 ft.
 
-_**Keen Sight and Smell.**_ The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell. _**Pack Tactics.**_ The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 7 (−2) | 10 (+0) | 13 (+1) | 2 (−4) | 12 (+1) | 4 (−3) |
 
-## **Actions** 
+
+
+**Skills** Perception +3
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
+
+_**Keen Sight and Smell.**_ The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
+
+_**Pack Tactics.**_ The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+#### **Actions** 
 
 _**Beak.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage.
 
-## **Warhorse** 
+#### **Warhorse** 
 
 _Large beast, unaligned_
 
-**Armor Class** 11 **Hit Points** 19 (3d10 + 3) **Speed** 60 ft.
+**Armor Class** 11
 
-**STR DEX CON INT WIS CHA** 18 (+4) 12 (+1) 13 (+1) 2 (−4) 12 (+1) 7 (−2)
+**Hit Points** 19 (3d10 + 3)
 
-**Senses** passive Perception 11 **Languages** — **Challenge** 1/2 (100 XP)
+**Speed** 60 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 12 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 7 (−2) |
+
+
+
+**Senses** passive Perception 11
+
+**Languages** —
+
+**Challenge** 1/2 (100 XP)
 
 _**Trampling Charge.**_ If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 
-## **Actions** 
+#### **Actions** 
 
 _**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
 
-## **Weasel** 
+#### **Weasel** 
 
 _Tiny beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 1 (1d4 − 1) **Speed** 30 ft.
+**Armor Class** 13
 
-**STR DEX CON INT WIS CHA** 3 (−4) 16 (+3) 8 (−1) 2 (−4) 12 (+1) 3 (−4)
+**Hit Points** 1 (1d4 − 1)
 
-**Skills** Perception +3, Stealth +5 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 3 (−4) | 16 (+3) | 8 (−1) | 2 (−4) | 12 (+1) | 3 (−4) |
+
+
+
+**Skills** Perception +3, Stealth +5
+
+**Senses** passive Perception 13
+
+**Languages** —
+
+**Challenge** 0 (10 XP)
 
 _**Keen Hearing and Smell.**_ The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-## **Winter Wolf**
+#### **Winter Wolf** 
 
 _Large monstrosity, neutral evil_
 
-**Armor Class** 13 (natural armor) **Hit Points** 75 (10d10 + 20) **Speed** 50 ft.
+**Armor Class** 13 (natural armor)
 
-**STR DEX CON INT WIS CHA** 18 (+4) 13 (+1) 14 (+2) 7 (−2) 12 (+1) 8 (−1) **Skills** Perception +5, Stealth +3 **Damage Immunities** cold
+**Hit Points** 75 (10d10 + 20)
 
-**Senses** passive Perception 15 **Languages** Common, Giant, Winter Wolf **Challenge** 3 (700 XP)
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 13 (+1) | 14 (+2) | 7 (−2) | 12 (+1) | 8 (−1) |
+
+
+
+**Skills** Perception +5, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** passive Perception 15
+
+**Languages** Common, Giant, Winter Wolf
+
+**Challenge** 3 (700 XP)
 
 _**Keen Hearing and Smell.**_ The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
@@ -25036,7 +28396,7 @@ _**Pack Tactics.**_ The wolf has advantage on an attack roll against a creature 
 
 _**Snow Camouflage.**_ The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
@@ -25044,13 +28404,25 @@ _**Cold Breath (Recharge 5–6).**_ The wolf exhales a blast of freezing wind in
 
 The arctic-­‐‑dwelling **winter wolf** is as large as a dire wolf but has snow-­‐‑white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves’ deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
 
-## **Wolf** 
+#### **Wolf** 
 
 _Medium beast, unaligned_
 
-**Armor Class** 13 (natural armor) **Hit Points** 11 (2d8 + 2) **Speed** 40 ft.
+**Armor Class** 13 (natural armor)
 
-|**Speed**40    ft.||| |---|---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |12    (+1)    15    (+2)    12    (+1)    3    (−4)|12    (+1)|6    (−2)| |**Skills**Perception    +3,    Stealth    +4||| |**Senses**passive    Perception    13||| |**Languages**—|||
+**Hit Points** 11 (2d8 + 2)
+
+**Speed** 40 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
+
+**Skills** Perception +3, Stealth +4
+
+**Senses** passive Perception 13
+
+**Languages** —
 
 
 
@@ -25060,33 +28432,47 @@ _**Keen Hearing and Smell.**_ The wolf has advantage on Wisdom (Perception) chec
 
 _**Pack Tactics.**_ The wolf has advantage on attack rolls against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
-## **Worg** 
+#### **Worg** 
 
 _Large monstrosity, neutral evil_
 
-**Armor Class** 13 (natural armor) **Hit Points** 26 (4d10 + 4) **Speed** 50 ft.
+**Armor Class** 13 (natural armor)
 
-|<br>**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |---|---|---|---| |16    (+3)    13    (+1)    13    (+1)|7    (−2)|11    (+0)    8    (−1)|| |**Skills**Perception    +4|||| |**Senses**darkvision    60    ft.,    passive    Perception    14|||| |**Languages**Goblin,    Worg|||| |**Challenge**1/2    (100    XP)||||
+**Hit Points** 26 (4d10 + 4)
+
+**Speed** 50 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 13 (+1) | 13 (+1) | 7 (−2) | 11 (+0) | 8 (−1) |
+
+**Skills** Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Goblin, Worg
+
+**Challenge** 1/2 (100 XP)
 
 
 
 _**Keen Hearing and Smell.**_ The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-## **Actions** 
+#### **Actions** 
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 A **worg** is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 
-## **Appendix MM-B: Nonplayer Characters** 
+### **Appendix MM-B: Nonplayer Characters** 
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
 
-## **Customizin NPCs g** 
+### **Customizin NPCs g** 
 
 There are many easy ways to customize the NPCs in this appendix for your home campaign.
 
@@ -25098,47 +28484,71 @@ _**Armor and Weapon Swaps.**_ You can upgrade or downgrade an NPC’s armor, or 
 
 _**Magic Items.**_ The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-­‐‑dealing magic item could alter its challenge rating.
 
-## **Acolyte** 
+#### **Acolyte** 
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 10 **Hit Points** 9 (2d8) **Speed** 30 ft.
+**Armor Class** 10
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    10    (+0)    10    (+0)    10    (+0)    14    (+2)    11    (+0)|
+**Hit Points** 9 (2d8)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
 
 
-**Skills** Medicine +4, Religion +2 **Senses** passive Perception 12
+**Skills** Medicine +4, Religion +2
 
-**Languages** any one language (usually Common) **Challenge** 1/4 (50 XP)
+**Senses** passive Perception 12
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/4 (50 XP)
 
 _**Spellcasting.**_ The acolyte is a 1st-­‐level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
 Cantrips (at will): _light_ , _sacred flame_ , _thaumaturgy_ 1st level (3 slots): _bless_ , _cure wounds_ , _sanctuary_
 
-## **Actions** 
+#### **Actions** 
 
 _**Club.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
 **Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 
-## **Archmage** 
+#### **Archmage** 
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 12 (15 with _mage armor_ ) **Hit Points** 99 (18d8 + 18) **Speed** 30 ft.
+**Armor Class** 12 (15 with _mage armor_ )
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    14    (+2)    12    (+1)    20    (+5)    15    (+2)    16    (+3)|
+**Hit Points** 99 (18d8 + 18)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
 
 
-**Saving Throws** Int +9, Wis +6 **Skills** Arcana +13, History +13
+**Saving Throws** Int +9, Wis +6
 
-**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from _stoneskin_ ) **Senses** passive Perception 12
+**Skills** Arcana +13, History +13
 
-**Languages** any six languages **Challenge** 12 (8,400 XP)
+**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from _stoneskin_ )
 
-_**Magic Resistance.**_ The archmage has advantage on saving throws against spells and other magical effects. _**Spellcasting.**_ The archmage is an 18th-­‐level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following wizard spells prepared:
+**Senses** passive Perception 12
+
+**Languages** any six languages
+
+**Challenge** 12 (8,400 XP)
+
+_**Magic Resistance.**_ The archmage has advantage on saving throws against spells and other magical effects.
+
+_**Spellcasting.**_ The archmage is an 18th-­‐level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following wizard spells prepared:
 
 Cantrips (at will): _fire bolt_ , _light_ , _mage hand_ , _prestidigitation_ , _shocking grasp_
 
@@ -25162,7 +28572,7 @@ Cantrips (at will): _fire bolt_ , _light_ , _mage hand_ , _prestidigitation_ , _
 
 * _The archmage casts these spells on itself before combat._
 
-## **Actions** 
+#### **Actions** 
 
 _**Dagger.** Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
@@ -25178,7 +28588,7 @@ _**Evasion.**_ If the assassin is subjected to an effect that allows it to make 
 
 _**Sneak Attack.**_ Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn’t incapacitated and the assassin doesn’t have disadvantage on the attack roll.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The assassin makes two shortsword attacks.
 
@@ -25186,39 +28596,61 @@ _**Shortsword.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:
 
 _**Light Crossbow.** Ranged Weapon Attack:_ +6 to hit, range 80/320 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## **Assassin** 
+#### **Assassin** 
 
 _Medium humanoid (any race), any non-­‐good alignment_
 
-**Armor Class** 15 (studded leather) **Hit Points** 78 (12d8 + 24) **Speed** 30 ft.
+**Armor Class** 15 (studded leather)
 
-**STR DEX CON INT WIS CHA** 11 (+0) 16 (+3) 14 (+2) 13 (+1) 11 (+0) 10 (+0)
+**Hit Points** 78 (12d8 + 24)
 
-**Saving Throws** Dex +6, Int +4 **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
+**Speed** 30 ft.
 
-**Damage Resistances** poison **Senses** passive Perception 13 **Languages** Thieves’ cant plus any two languages
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
+
+
+
+**Saving Throws** Dex +6, Int +4
+
+**Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
+
+**Damage Resistances** poison
+
+**Senses** passive Perception 13
+
+**Languages** Thieves’ cant plus any two languages
 
 Trained in the use of poison, **assassins** are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
-## **Bandit** 
+#### **Bandit** 
 
 _Medium humanoid (any race), any non-­‐lawful alignment_
 
 **Armor Class** 12 (leather armor)
 
-**Hit Points** 11 (2d8 + 2) **Speed** 30 ft.
+**Hit Points** 11 (2d8 + 2)
 
-**STR DEX CON INT WIS CHA** 11 (+0) 12 (+1) 12 (+1) 10 (+0) 10 (+0) 10 (+0)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
+
+
 
 **Senses** passive Perception 10
 
-**Languages** any one language (usually Common) **Challenge** 1/8 (25 XP)
+**Languages** any one language (usually Common)
 
-## **Reactions** 
+**Challenge** 1/8 (25 XP)
+
+#### **Reactions** 
 
 _**Parry.**_ The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
-## **Actions** 
+#### **Actions** 
 
 _**Scimitar.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.
 
@@ -25226,87 +28658,155 @@ _**Light Crossbow.** Ranged Weapon Attack:_ +3 to hit, range 80 ft./320 ft., one
 
 **Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry. **Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation’s vessels.
 
-## **Bandit Captain**
+#### **Bandit Captain** 
 
 _Medium humanoid (any race), any non-­‐lawful alignment_
 
 **Armor Class** 15 (studded leather)
 
-**Hit Points** 65 (10d8 + 20) **Speed** 30 ft.
+**Hit Points** 65 (10d8 + 20)
 
-**STR DEX CON INT WIS CHA** 15 (+2) 16 (+3) 14 (+2) 14 (+2) 11 (+0) 14 (+2)
+**Speed** 30 ft.
 
-**Saving Throws** Str +4, Dex +5, Wis +2 **Skills** Athletics +4, Deception +4 **Senses** passive Perception 10 **Languages** any two languages **Challenge** 2 (450 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
-## **Actions** 
 
-_**Multiattack.**_ The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers. _**Scimitar.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
+
+**Saving Throws** Str +4, Dex +5, Wis +2
+
+**Skills** Athletics +4, Deception +4
+
+**Senses** passive Perception 10
+
+**Languages** any two languages
+
+**Challenge** 2 (450 XP)
+
+#### **Actions** 
+
+_**Multiattack.**_ The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
+
+_**Scimitar.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
 _**Dagger.** Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The **bandit captain** has these qualities in spades. In addition to managing a crew of selfish malcontents, the **pirate captain** is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis. More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain’s colorful reputation.
 
-## **Berserker** 
+#### **Berserker** 
 
 _Medium humanoid (any race), any chaotic alignment_
 
-**Armor Class** 13 (hide armor) **Hit Points** 67 (9d8 + 27) **Speed** 30 ft.
+**Armor Class** 13 (hide armor)
 
-**STR DEX CON INT WIS CHA** 16 (+3) 12 (+1) 17 (+3) 9 (−1) 11 (+0) 9 (−1)
+**Hit Points** 67 (9d8 + 27)
 
-**Senses** passive Perception 10 **Languages** any one language (usually Common) **Challenge** 2 (450 XP)
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1) | 11 (+0) | 9 (−1) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 2 (450 XP)
 
 _**Reckless.**_ At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-## **Actions** 
+#### **Actions** 
 
 _**Greataxe.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.
 
 Hailing from uncivilized lands, unpredictable **berserkers** come together in war parties and seek conflict wherever they can find it.
 
-## **Commoner** 
+#### **Commoner** 
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 10 **Hit Points** 4 (1d8) **Speed** 30 ft.
+**Armor Class** 10
 
-**STR DEX CON INT WIS CHA** 10 (+0) 10 (+0) 10 (+0) 10 (+0) 10 (+0) 10 (+0)
+**Hit Points** 4 (1d8)
 
-**Senses** passive Perception 10 **Languages** any one language (usually Common) **Challenge** 0 (10 XP)
+**Speed** 30 ft.
 
-## **Actions** 
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+
+
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 0 (10 XP)
+
+#### **Actions** 
 
 _**Club.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
 **Commoners** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
-## **Cultist** 
+#### **Cultist** 
 
 _Medium humanoid (any race), any non-­‐good alignment_
 
-**Armor Class** 12 (leather armor) **Hit Points** 9 (2d8) **Speed** 30 ft.
+**Armor Class** 12 (leather armor)
 
-**STR DEX CON INT WIS CHA** 11 (+0) 12 (+1) 10 (+0) 10 (+0) 11 (+0) 10 (+0) **Skills** Deception +2, Religion +2 **Senses** passive Perception 10 **Languages** any one language (usually Common) **Challenge** 1/8 (25 XP)
+**Hit Points** 9 (2d8)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+
+
+**Skills** Deception +2, Religion +2
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/8 (25 XP)
 
 _**Dark Devotion.**_ The cultist has advantage on saving throws against being charmed or frightened.
 
-## **Actions** 
+#### **Actions** 
 
 _**Scimitar.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) slashing damage.
 
 acolytes, cultists often show signs of insanity in their beliefs and practices.
 
-## **Cult Fanatic**
+#### **Cult Fanatic** 
 
 _Medium humanoid (any race), any non-­‐good alignment_
 
-**Armor Class** 13 (leather armor) **Hit Points** 33 (6d8 + 6) **Speed** 30 ft.
+**Armor Class** 13 (leather armor)
 
-**STR DEX CON INT WIS CHA** 11 (+0) 14 (+2) 12 (+1) 10 (+0) 13 (+1) 14 (+2)
+**Hit Points** 33 (6d8 + 6)
 
-**Skills** Deception +4, Persuasion +4, Religion +2 **Senses** passive Perception 11
+**Speed** 30 ft.
 
-**Languages** any one language (usually Common) **Challenge** 2 (450 XP)
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+
+
+**Skills** Deception +4, Persuasion +4, Religion +2
+
+**Senses** passive Perception 11
+
+**Languages** any one language (usually Common)
+
+**Challenge** 2 (450 XP)
 
 _**Dark Devotion.**_ The fanatic has advantage on saving throws against being charmed or frightened.
 
@@ -25318,7 +28818,7 @@ Cantrips (at will): _light_ , _sacred flame_ , _thaumaturgy_
 
 2nd level (3 slots): _hold person_ , _spiritual weapon_
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The fanatic makes two melee attacks.
 
@@ -25326,7 +28826,7 @@ _**Dagger.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/
 
 **Fanatics** are often part of a cult’s leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
-## **Druid** 
+#### **Druid** 
 
 _Medium humanoid (any race), any alignment_
 
@@ -25338,11 +28838,19 @@ _Medium humanoid (any race), any alignment_
 
 **Speed** 30 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    12    (+1)    13    (+1)    12    (+1)    15    (+2)    11    (+0)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
 
 
-**Skills** Medicine +4, Nature +3, Perception +4 **Senses** passive Perception 14 **Languages** Druidic plus any two languages **Challenge** 2 (450 XP)
+**Skills** Medicine +4, Nature +3, Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** Druidic plus any two languages
+
+**Challenge** 2 (450 XP)
 
 _**Spellcasting.**_ The druid is a 4th-­‐level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
@@ -25350,29 +28858,43 @@ Cantrips (at will): _druidcraft_ , _produce flame_ , _shillelagh_ 1st level (4 s
 
 2nd level (3 slots): _animal messenger_ , _barkskin_
 
-## **Actions** 
+#### **Actions** 
 
 _**Quarterstaff.** Melee Weapon Attack:_ +2 to hit (+4 to hit with _shillelagh_ ), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _shillelagh_ .
 
 **Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
-## **Gladiator** 
+#### **Gladiator** 
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 16 (studded leather, shield) **Hit Points** 112 (15d8 + 45) **Speed** 30 ft.
+**Armor Class** 16 (studded leather, shield)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||18    (+4)    15    (+2)    16    (+3)    10    (+0)    12    (+1)    15    (+2)|
+**Hit Points** 112 (15d8 + 45)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 
 
-**Saving Throws** Str +7, Dex +5, Con +6 **Skills** Athletics +10, Intimidation +5 **Senses** passive Perception 11 **Languages** any one language (usually Common) **Challenge** 5 (1,800 XP)
+**Saving Throws** Str +7, Dex +5, Con +6
+
+**Skills** Athletics +10, Intimidation +5
+
+**Senses** passive Perception 11
+
+**Languages** any one language (usually Common)
+
+**Challenge** 5 (1,800 XP)
 
 _**Brave.**_ The gladiator has advantage on saving throws against being frightened.
 
 _**Brute.**_ A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The gladiator makes three melee attacks or two ranged attacks.
 
@@ -25380,25 +28902,37 @@ _**Spear.** Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. and range 20/
 
 _**Shield Bash.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Parry.**_ The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
 **Gladiators** battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-­‐‑or-­‐‑death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
 
-## **Guard** 
+#### **Guard** 
 
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 16 (chain shirt, shield)
 
-**Hit Points** 11 (2d8 + 2) **Speed** 30 ft.
+**Hit Points** 11 (2d8 + 2)
 
-|**Speed**30    ft.|||| |---|---|---|---| |<br>**STR**<br>**DEX**<br>**CON**|**INT**|**WIS**|**CHA**| |13    (+1)    12    (+1)    12    (+1)    10    (+0)||11    (+0)|10    (+0)| |**Skills**Perception    +2|||| |**Senses**passive    Perception    12|||| |**Languages**any    one    language    (usually    Common)|||| |**Challenge**1/8    (25    XP)||||
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/8 (25 XP)
 
 
 
-## **Actions** 
+#### **Actions** 
 
 _**Spear.** Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
@@ -25406,41 +28940,71 @@ _**Spear.** Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/6
 
 alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
 
-## **Mage** 
+### **Mage** 
 
-## **Knight** 
+#### **Knight** 
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 18 (plate) **Hit Points** 52 (8d8 + 16) **Speed** 30 ft.
+**Armor Class** 18 (plate)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||16    (+3)    11    (+0)    14    (+2)    11    (+0)    11    (+0)    15    (+2)|
+**Hit Points** 52 (8d8 + 16)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
 
 
-**Saving Throws** Con +4, Wis +2 **Senses** passive Perception 10 **Languages** any one language (usually Common) **Challenge** 3 (700 XP)
+**Saving Throws** Con +4, Wis +2
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 3 (700 XP)
 
 _**Brave.**_ The knight has advantage on saving throws against being frightened.
 
-## **Actions** 
+#### **Actions** 
 
-_**Multiattack.**_ The knight makes two melee attacks. _**Greatsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. _**Heavy Crossbow.** Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
+_**Multiattack.**_ The knight makes two melee attacks.
+
+_**Greatsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
+
+_**Heavy Crossbow.** Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
 
 _**Leadership (Recharges after a Short or Long Rest).**_ For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Parry.**_ The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 12 (15 with _mage armor_ ) **Hit Points** 40 (9d8) **Speed** 30 ft.
+**Armor Class** 12 (15 with _mage armor_ )
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |<br>9    (−1)    14    (+2)    11    (+0)    17    (+3)    12    (+1)    11    (+0)|
+**Hit Points** 40 (9d8)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 9 (−1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 
 
-**Saving Throws** Int +6, Wis +4 **Skills** Arcana +6, History +6 **Senses** passive Perception 11 **Languages** any four languages **Challenge** 6 (2,300 XP)
+**Saving Throws** Int +6, Wis +4
+
+**Skills** Arcana +6, History +6
+
+**Senses** passive Perception 11
+
+**Languages** any four languages
+
+**Challenge** 6 (2,300 XP)
 
 _**Spellcasting.**_ The mage is a 9th-­‐level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
@@ -25456,7 +29020,7 @@ _**Spellcasting.**_ The mage is a 9th-­‐level spellcaster. Its spellcasting a
 
 5th level (1 slot): _cone of cold_
 
-## **Actions** 
+#### **Actions** 
 
 _**Dagger.** Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
@@ -25464,25 +29028,35 @@ _**Dagger.** Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/
 
 **Knights** are warriors who pledge service to rulers, religious orders, and noble causes. A knight’s
 
-## **Noble**
+#### **Noble** 
 
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 15 (breastplate)
 
-**Hit Points** 9 (2d8) **Speed** 30 ft.
+**Hit Points** 9 (2d8)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||11    (+0)    12    (+1)    11    (+0)    12    (+1)    14    (+2)    16    (+3)|
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 
 
-**Skills** Deception +5, Insight +4, Persuasion +5 **Senses** passive Perception 12 **Languages** any two languages **Challenge** 1/8 (25 XP)
+**Skills** Deception +5, Insight +4, Persuasion +5
 
-## **Actions** 
+**Senses** passive Perception 12
+
+**Languages** any two languages
+
+**Challenge** 1/8 (25 XP)
+
+#### **Actions** 
 
 _**Rapier.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-## **Reactions** 
+#### **Reactions** 
 
 _**Parry.**_ The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
@@ -25496,7 +29070,7 @@ _**Spellcasting.**_ The priest is a 5th-­‐level spellcaster. Its spellcasting
 
 Cantrips (at will): _light_ , _sacred flame_ , _thaumaturgy_ 1st level (4 slots): _cure wounds_ , _guiding bolt_ , _sanctuary_ 2nd level (3 slots): _lesser restoration_ , _spiritual weapon_ 3rd level (2 slots): _dispel magic_ , _spirit guardians_
 
-## **Actions** 
+#### **Actions** 
 
 _**Mace.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage.
 
@@ -25504,83 +29078,129 @@ _**Mace.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1
 
 A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
 
-## **Scout** 
+#### **Scout** 
 
 _Medium humanoid (any race), any alignment_
 
-## **Priest** 
+#### **Priest** 
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 13 (chain shirt) **Hit Points** 27 (5d8 + 5) **Speed** 25 ft.
+**Armor Class** 13 (chain shirt)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||10    (+0)    10    (+0)    12    (+1)    13    (+1)    16    (+3)    13    (+1)|
+**Hit Points** 27 (5d8 + 5)
+
+**Speed** 25 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
 
 
-**Skills** Medicine +7, Persuasion +3, Religion +4 **Senses** passive Perception 13 **Languages** any two languages **Challenge** 2 (450 XP)
+**Skills** Medicine +7, Persuasion +3, Religion +4
 
-**Armor Class** 13 (leather armor) **Hit Points** 16 (3d8 + 3) **Speed** 30 ft.
+**Senses** passive Perception 13
 
-**STR DEX CON INT WIS CHA** 11 (+0) 14 (+2) 12 (+1) 11 (+0) 13 (+1) 11 (+0)
+**Languages** any two languages
 
-**Skills** Nature +4, Perception +5, Stealth +6, Survival +5 **Senses** passive Perception 15
+**Challenge** 2 (450 XP)
 
-**Languages** any one language (usually Common) **Challenge** 1/2 (100 XP)
+**Armor Class** 13 (leather armor)
+
+**Hit Points** 16 (3d8 + 3)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
+
+
+
+**Skills** Nature +4, Perception +5, Stealth +6, Survival +5
+
+**Senses** passive Perception 15
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/2 (100 XP)
 
 _**Keen Hearing and Sight.**_ The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The scout makes two melee attacks or two ranged attacks.
 
-_**Shortsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage. _**Longbow.** Ranged Weapon Attack:_ +4 to hit, ranged 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+_**Shortsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+
+_**Longbow.** Ranged Weapon Attack:_ +4 to hit, ranged 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 **Scouts** are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 
-## **Spy** 
+#### **Spy** 
 
 _Medium humanoid (any race), any alignment_
 
-## **Armor Class** 12
+**Armor Class** 12
 
-**Hit Point** s 27 (6d8) **Speed** 30 ft.
+**Hit Point** s 27 (6d8)
 
-|<br>**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---| |10    (+0)    15    (+2)    10    (+0)    12    (+1)    14    (+2)    16    (+3)| |**Skills**Deception    +5,    Insight    +4,    Investigation    +5,<br>Perception    +6,    Persuasion    +5,    Sleight    of    Hand    +4,| |Stealth    +4|
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
+
+**Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4,
+
+Stealth +4
 
 
 
 **Senses** passive Perception 16
 
-**Languages** any two languages **Challenge** 1 (200 XP)
+**Languages** any two languages
+
+**Challenge** 1 (200 XP)
 
 _**Hand Crossbow.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spies** to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
 
-## **Thug** 
+#### **Thug** 
 
 _Medium humanoid (any race), any non-­‐good alignment_
 
-**Armor Class** 11 (leather armor) **Hit Points** 32 (5d8 + 10) **Speed** 30 ft.
+**Armor Class** 11 (leather armor)
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||15    (+2)    11    (+0)    14    (+2)    10    (+0)    10    (+0)    11    (+0)|
+**Hit Points** 32 (5d8 + 10)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 
 
-**Skills** Intimidation +2 **Senses** passive Perception 10
+**Skills** Intimidation +2
 
-**Languages** any one language (usually Common) **Challenge** 1/2 (100 XP)
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/2 (100 XP)
 
 _**Pack Tactics.**_ The thug has advantage on an attack roll against a creature if at least one of the thug’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-## **Actions** 
+#### **Actions** 
 
 _**Cunning Action.**_ On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
 
 _**Sneak Attack (1/Turn).**_ The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn’t incapacitated and the spy doesn’t have disadvantage on the attack roll.
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The spy makes two melee attacks.
 
@@ -25594,7 +29214,7 @@ _**Heavy Crossbow.** Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one ta
 
 **Thugs** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
-## **Tribal Warrior**
+#### **Tribal Warrior** 
 
 _Medium humanoid (any race), any alignment_
 
@@ -25604,35 +29224,57 @@ _Medium humanoid (any race), any alignment_
 
 **Speed** 30 ft.
 
-||**STR**<br>**DEX**<br>**CON**<br>**INT**<br>**WIS**<br>**CHA**| |---|---| ||13    (+1)    11    (+0)    12    (+1)    8    (−1)    11    (+0)    8    (−1)|
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 13 (+1) | 11 (+0) | 12 (+1) | 8 (−1) | 11 (+0) | 8 (−1) |
 
 
 
-**Senses** passive Perception 10 **Languages** any one language **Challenge** 1/8 (25 XP)
+**Senses** passive Perception 10
+
+**Languages** any one language
+
+**Challenge** 1/8 (25 XP)
 
 _**Pack Tactics.**_ The warrior has advantage on an attack roll against a creature if at least one of the warrior’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
-_**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. _**Heavy Crossbow.** Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.
+_**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+
+_**Heavy Crossbow.** Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.
 
 **Veterans** are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
 
-## **Actions** 
+#### **Actions** 
 
 _**Spear.** Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 **Tribal warriors** live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
-## **Veteran** 
+#### **Veteran** 
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 17 (splint) **Hit Points** 58 (9d8 + 18) **Speed** 30 ft.
+**Armor Class** 17 (splint)
 
-|**Speed**30    ft.||| |---|---|---| |<br>**STR**<br>**DEX**<br>**CON**<br>**INT**|**WIS**|**CHA**| |16    (+3)    13    (+1)    14    (+2)    10    (+0)|11    (+0)|10    (+0)| |**Skills**Athletics    +5,    Perception    +2||| |**Senses**passive    Perception    12||| |**Languages**any    one    language    (usually    Common)||| |**Challenge**3    (700    XP)|||
+**Hit Points** 58 (9d8 + 18)
+
+**Speed** 30 ft.
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---|---|---|---|---|---|
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Athletics +5, Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** any one language (usually Common)
+
+**Challenge** 3 (700 XP)
 
 
 
-## **Actions** 
+#### **Actions** 
 
 _**Multiattack.**_ The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
