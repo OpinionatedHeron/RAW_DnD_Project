@@ -2951,63 +2951,95 @@ You gain the hit points from your new class as described for levels after 1st. Y
 
 You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
-## **Proficienc Bonus y** 
+### **Proficiency Bonus**
 
 Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th-­‐‑level character, which is +3.
 
-## **Proficiencies** 
+### **Proficiencies** 
 
 When you gain your first level in a class other than your initial class, you gain only some of new class’s starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-## **Multiclassing Proficiencies**
+#### **Multiclassing Proficiencies**
 
-|**Class**<br>Barbarian|**Proficiencies    Gained**<br>Shields,    simple    weapons,|martial    weapons| |---|---|---| |Bard|Light    armor,    one    skill    of    your    choice,    one    musical|| ||instrument    of    your    choice|| |Cleric|Light    armor,    medium    armor,    shields|| |Druid|Light    armor,    medium    armor,    shields    (druids    will<br>not    wear    armor    or    use    shields    made    of    metal)|| |Fighter|Light    armor,    medium    armor,    shields,    simple|| ||weapons,    martial    weapons|| |Monk|Simple    weapons,    shortswords||
+| Class | Proficiencies Gained |
+| ----- | -------------------- |
+| Barbarian | Shields, simple weapons, martial weapons |
+| Bard | Light armor, one skill of your choice, one musical instrument of your choice |
+| Cleric | Light armor, medium armor, shields |
+| Druid | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
+| Fighter | Light armor, medium armor, shields, simple weapons, martial weapons |
+| Monk | Simple weapons, shortswords |
+| Paladin | Light armor, medium armor, shields, simple weapons, martial weapons |
+| Ranger | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list |
+| Rogue | Light armor, one skill from the class’s skill list, thieves’ tools |
+| Sorcerer | — |
+| Warlock | Light armor, simple weapons |
+| Wizard | — |
 
-
-
-Paladin Light armor, medium armor, shields, simple weapons, martial weapons Ranger Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list Rogue Light armor, one skill from the class’s skill list, thieves’ tools Sorcerer — Warlock Light armor, simple weapons Wizard —
-
-## **Class Features** 
+### **Class Features**
 
 When you gain a new level in a class, you get its features for that level. You don’t, however, receive the class’s starting equipment, and a few features have additional rules when you’re multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
-## **Channel Divinity** 
+#### **Channel Divinity**
 
 If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn’t give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a cleric 6/paladin 4, you can use Channel Divinity twice between rests because you are high enough level in the cleric class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
 
-## **Extra Attack** 
+#### **Extra Attack**
 
 If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the fighter’s version of Extra Attack does). Similarly, the warlock’s eldritch invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
 
-## **Unarmored Defense** 
+#### **Unarmored Defense**
 
 If you already have the Unarmored Defense feature, you can’t gain it again from another class.
 
-## **Spellcasting** 
+## **Spellcasting**
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.
 
-_**Spells Known and Prepared.**_ You determine what spells you know and can prepare for each class individually, as if you were a single-­‐‑classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-­‐‑level ranger spells based on your levels in the ranger class. As 3rd-­‐‑level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-­‐‑level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.
+_**Spells Known and Prepared.**_ You determine what spells you know and can prepare for each class individually, as if you were a single-­classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-­‐‑level ranger spells based on your levels in the ranger class. As 3rd-­level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-­level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.
 
 Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
 
 _**Spell Slots.**_ You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table. If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-­‐‑level spells. If a lower-­‐‑level spell that you cast, like _burning hands_ , has an enhanced effect when cast using a higher-­‐‑level slot, you can use the enhanced effect, even though you don’t have any spells of that higher level.
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-­‐‑level character when determining your spell slots: you have four 1st-­‐‑level slots, three 2nd-­‐‑level slots, and two 3rd-­‐‑level slots. However, you don’t know any 3rd-­‐‑level spells, nor do you know any 2nd-­‐‑level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects. _**Pact Magic.**_ If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
+For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-­level slots, three 2nd-­level slots, and two 3rd-­level slots. However, you don’t know any 3rd-­level spells, nor do you know any 2nd-­level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects. 
 
-## **Multiclass Spellcaster: Spell Slots per Spell Level**
+_**Pact Magic.**_ If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-|**Lvl.**<br>1st|**1st**<br>2|**2nd**<br>—|**3rd**<br>—|**4th**<br>—|**5th**<br>—|**6th**<br>—|**7th**<br>—|**8th**<br>—|**9th**<br>—| |---|---|---|---|---|---|---|---|---|---| |2nd|3|—|—|—|—|—|—|—|—| |3rd|4|2|—|—|—|—|—|—|—| |4th<br>5th|4<br>4|3<br>3|—<br>2|—<br>—|—<br>—|—<br>—|—<br>—|—<br>—|—<br>—| |6th|4|3|3|—|—|—|—|—|—| |7th|4|3|3|1|—|—|—|—|—| |8th|4|3|3|2|—|—|—|—|—| |9th<br>10th|4<br>4|3<br>3|3<br>3|3<br>3|1<br>2|—<br>—|—<br>—|—<br>—|—<br>—| |11th|4|3|3|3|2|1|—|—|—| |12th|4|3|3|3|2|1|—|—|—| |13th<br>14th|4<br>4|3<br>3|3<br>3|3<br>3|2<br>2|1<br>1|1<br>1|—<br>—|—<br>—| |15th|4|3|3|3|2|1|1|1|—| |16th|4|3|3|3|2|1|1|1|—| |17th|4|3|3|3|2|1|1|1|1| |18th<br>19th|4<br>4|3<br>3|3<br>3|3<br>3|3<br>3|1<br>2|1<br>1|1<br>1|1<br>1| |20th<br>|4|3|3|3|3|2|2|1|1|
+#### **Multiclass Spellcaster: Spell Slots per Spell Level**
 
+| Lvl. | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | 2 | — | — | — | — | — | — | — | — |
+| 2nd | 3 | — | — | — | — | — | — | — | — |
+| 3rd | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-
-## **Alignment** 
+## **Alignment**
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
 These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
 
-**Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good. **Neutral good** (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
+**Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good. 
+
+**Neutral good** (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
 
 **Chaotic good** (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
 
@@ -3023,13 +3055,13 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
 
-## **Alignment in the Multiverse** 
+### **Alignment in the Multiverse**
 
-For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-­‐‑ aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
+For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-­aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
 
-The evil deities who created other races, though, made those races to serve them. Those races have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even half-­‐‑orcs feel the lingering pull of the orc god’s influence.) Alignment is an essential part of the nature of celestials and fiends. A devil does not choose to be lawful evil, and it doesn’t tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a devil. Most creatures that lack the capacity for rational thought do not have alignments—they are **unaligned** . Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
+The evil deities who created other races, though, made those races to serve them. Those races have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even half-­orcs feel the lingering pull of the orc god’s influence.) Alignment is an essential part of the nature of celestials and fiends. A devil does not choose to be lawful evil, and it doesn’t tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a devil. Most creatures that lack the capacity for rational thought do not have alignments—they are **unaligned** . Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
-## **Languages** 
+## **Languages**
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 
@@ -3037,39 +3069,53 @@ Choose your languages from the Standard Languages table, or choose one that is c
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-## **Standard Languages**
+#### **Standard Languages**
 
-|**Language**|**Typical    Speakers**|**Script**| |---|---|---| |Common|Humans|Common| |Dwarvish|Dwarves|Dwarvish| |Elvish<br>Giant|Elves<br>Ogres,    giants|Elvish<br>Dwarvish| |Gnomish|Gnomes|Dwarvish| |Goblin|Goblinoids|Dwarvish| |Halfling<br>Orc|Halflings<br>Orcs|Common<br>Dwarvish|
+| Language | Typical Speakers | Script |
+| -------- | ---------------- | ------ |
+| Common | Humans | Common |
+| Dwarvish | Dwarves | Dwarvish |
+| Elvish | Elves | Elvish |
+| Giant | Ogres, giants | Dwarvish |
+| Gnomish | Gnomes | Dwarvish |
+| Goblin | Goblinoids | Dwarvish |
+| Halfling | Halflings | Common |
+| Orc | Orcs | Dwarvish |
 
+#### **Exotic Languages**
 
+| Language | Typical Speakers | Script |
+| -------- | ---------------- | ------ |
+| Abyssal | Demons | Infernal |
+| Celestial | Celestials | Celestial |
+| Draconic | Dragons, dragonborn | Draconic |
+| Deep Speech | Aboleths, cloakers | — |
+| Infernal | Devils | Infernal |
+| Primordial | Elementals | Dwarvish |
+| Sylvan | Fey creatures | Elvish |
+| Undercommon | Underworld traders | Elvish |
 
-## **Exotic Languages**
-
-|**Language**<br>Abyssal|**Typical    Speakers**<br>Demons|**Script**<br>Infernal| |---|---|---| |Celestial|Celestials|Celestial| |Draconic|Dragons,    dragonborn|Draconic| |Deep    Speech<br>Infernal|Aboleths,    cloakers<br>Devils|—<br>Infernal| |Primordial|Elementals|Dwarvish| |Sylvan|Fey    creatures|Elvish| |Undercommon|Underworld    traders|Elvish|
-
-
-
-## **Inspiration** 
+## **Inspiration**
 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
 
-## **Gaining Inspiration** 
+### **Gaining Inspiration**
 
 Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game. You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
-## **Using Inspiration** 
+### **Using Inspiration**
 
 If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-## **Backgrounds** 
+## **Backgrounds**
 
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester. Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is _what changed_ ? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have _more_ money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
 The sample background presented here provides both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-## **Proficiencies** 
+#### **Proficiencies**
 
 Each background gives a character proficiency in two skills (described in “Using Ability Scores”).
 
@@ -3077,97 +3123,83 @@ In addition, most backgrounds give a character proficiency with one or more tool
 
 If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
 
-## **Languages** 
+#### **Languages**
 
 Some backgrounds also allow characters to learn additional languages beyond those given by race. See “Languages.”
 
-## **Equipment** 
+#### **Equipment**
 
 Each background provides a package of starting equipment. If you use the optional rule to spend coin on gear, you do not receive the starting equipment from your background.
 
-## **Suggested Characteristics** 
+#### **Suggested Characteristics**
 
 A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
 
-## **Customizing a Background** 
+#### **Customizing a Background**
 
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
 
-## **Acolyte** 
+### **Acolyte**
 
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
 
-Choose a god, a pantheon of gods, or some other quasi-­‐‑divine being from among those listed in "Fantasy-­‐‑Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
+Choose a god, a pantheon of gods, or some other quasi-­divine being from among those listed in "Fantasy-­Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
-**Skill Proficiencies:** Insight, Religion **Languages:** Two of your choice **Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp
+**Skill Proficiencies:** Insight, Religion
 
-## **Feature: Shelter of the Faithful** 
+**Languages:** Two of your choice
+
+**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp
+
+#### **Feature: Shelter of the Faithful**
 
 As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
 
 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 
-## **Suggested Characteristics** 
+#### **Suggested Characteristics**
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-## **d8 Personality Trait**
+| d8 | Personality Trait |
+| -- | ----------------- |
+| 1 | I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example. |
+| 2 | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace. |
+| 3 | I see omens in every event and action. The gods try to speak to us, we just need to listen. |
+| 4 | Nothing can shake my optimistic attitude. |
+| 5 | I quote (or misquote) sacred texts and proverbs in almost every situation. |
+| 6 | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods. |
+| 7 | I’ve enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me. |
+| 8 | I’ve spent so long in the temple that I have little practical experience dealing with people in the outside world. |
 
-- 1 I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example.
+| d6 | Ideal |
+| -- | ----- |
+| 1 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful) |
+| 2 | Charity. I always try to help those in need, no matter what the personal cost. (Good) |
+| 3 | Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic) |
+| 4 | Power. I hope to one day rise to the top of my faith’s religious hierarchy. (Lawful) |
+| 5 | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful) |
+| 6 | Aspiration. I seek to prove myself worthy of my god’s favor by matching my actions against his or her teachings. (Any) |
 
-- 2 I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
+| d6 | Bond |
+| -- | ---- |
+| 1 | I would die to recover an ancient relic of my faith that was lost long ago. |
+| 2 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic. |
+| 3 | I owe my life to the priest who took me in when my parents died. |
+| 4 | Everything I do is for the common people. |
+| 5 | I will do anything to protect the temple where I served. |
+| 6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 
-- 3 I see omens in every event and action. The gods try to speak to us, we just need to listen
+| d6 | Flaw |
+| -- | ---- |
+| 1 | I judge others harshly, and myself even more severely. |
+| 2 | I put too much trust in those who wield power within my temple’s hierarchy. |
+| 3 | My piety sometimes leads me to blindly trust those that profess faith in my god. |
+| 4 | I am inflexible in my thinking. |
+| 5 | I am suspicious of strangers and expect the worst of them. |
+| 6 | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |
 
-- 4 Nothing can shake my optimistic attitude. 5 I quote (or misquote) sacred texts and proverbs in almost every situation.
-
-- 6 I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.
-
-- 7 I’ve enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me.
-
-- 8 I’ve spent so long in the temple that I have little practical experience dealing with people in the outside world.
-
-## **d6 Ideal** 
-
-- 1 Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)
-
-- 2 Charity. I always try to help those in need, no matter what the personal cost. (Good)
-
-- 3 Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)
-
-- 4 Power. I hope to one day rise to the top of my faith’s religious hierarchy. (Lawful)
-
-- 5 Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)
-
-- 6 Aspiration. I seek to prove myself worthy of my god’s favor by matching my actions against his or her teachings. (Any)
-
-- **d6 Bond** 
-
-- 1 I would die to recover an ancient relic of my faith that was lost long ago.
-
-- 2 I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.
-
-- 3 I owe my life to the priest who took me in when my parents died.
-
-- 4 Everything I do is for the common people. 5 I will do anything to protect the temple where I served.
-
-- 6 I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.
-
-- **d6 Flaw** 
-
-- 1 I judge others harshly, and myself even more severely.
-
-- 2 I put too much trust in those who wield power within my temple’s hierarchy.
-
-- 3 My piety sometimes leads me to blindly trust those that profess faith in my god.
-
-- 4 I am inflexible in my thinking.
-
-- 5 I am suspicious of strangers and expect the worst of them.
-
-- 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
-
-## **Equipment** 
+## **Equipment**
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp). With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods. One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer’s work for half a day, a flask of lamp oil, or a night’s rest in a poor inn.
 
@@ -3175,21 +3207,29 @@ One silver piece is worth ten copper pieces, which are common among laborers and
 
 In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces. A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-## **Standard Exchange Rates**
+#### **Standard Exchange Rates**
 
-|**Coin**<br>Copper    (cp)||**CP**<br>1|**SP**<br>1/10|**EP**<br>1/50|**GP**<br>1/100|**PP**<br>1/1,000| |---|---|---|---|---|---|---| |Silver    (sp)||10|1|1/5|1/10|1/100| |Electrum    (ep)||50|5|1|1/2|1/20| |Gold    (gp)<br>Platinum    (pp)||100<br>1,000|10<br>100|2<br>20|1<br>10|1/10<br>1|
+| Coin | CP | SP | EP | GP | PP |
+| ---- | -- | -- | -- | -- | -- |
+| Copper (cp) | 1 | 1/10 | 1/50 | 1/100 | 1/1,000 |
+| Silver (sp) | 10 | 1 | 1/5 | 1/10 | 1/100 |
+| Electrum (ep) | 50 | 5 | 1 | 1/2 | 1/20 |
+| Gold (gp) | 100 | 10 | 2 | 1 | 1/10 |
+| Platinum (pp) | 1,000 | 100 | 20 | 10 | 1 |
 
-
-
-## **Selling Treasure** 
+## **Selling Treasure**
 
 Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
 
-_**Arms, Armor, and Other Equipment.**_ As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell. _**Magic Items.**_ Selling magic items is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won’t normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such.
+_**Arms, Armor, and Other Equipment.**_ As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell.
 
-_**Gems, Jewelry, and Art Objects.**_ These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large town or larger community first. _**Trade Goods.**_ On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+_**Magic Items.**_ Selling magic items is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won’t normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such.
 
-## **Armor** 
+_**Gems, Jewelry, and Art Objects.**_ These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large town or larger community first.
+
+_**Trade Goods.**_ On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+
+## **Armor**
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
 
@@ -3201,31 +3241,41 @@ _**Armor Class (AC).**_ Armor protects its wearer from attacks. The armor (and s
 
 _**Heavy Armor.**_ Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
-_**Stealth.**_ If the Armor table shows “Disadvantage” in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks. _**Shields.**_ A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
+_**Stealth.**_ If the Armor table shows “Disadvantage” in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
 
-## **Li ht Armor g** 
+_**Shields.**_ A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
-Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class. _**Padded.**_ Padded armor consists of quilted layers of cloth and batting.
+### **Light Armor**
 
-_**Leather.**_ The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. _**Studded Leather.**_ Made from tough but flexible leather, studded leather is reinforced with close-­‐‑set rivets or spikes.
+Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
-## **Medium Armor** 
+_**Padded.**_ Padded armor consists of quilted layers of cloth and batting.
+
+_**Leather.**_ The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. 
+
+_**Studded Leather.**_ Made from tough but flexible leather, studded leather is reinforced with close-­set rivets or spikes.
+
+### **Medium Armor**
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
-_**Hide.**_ This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. _**Chain Shirt.**_ Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the
+_**Hide.**_ This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. 
 
-rings rubbing against one another to be muffled by outer layers.
+_**Chain Shirt.**_ Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
-_**Scale Mail.**_ This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. _**Breastplate.**_ This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
+_**Scale Mail.**_ This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. 
+
+_**Breastplate.**_ This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
 
 _**Half Plate.**_ Half plate consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
-## **Heav Armor y** 
+### **Heavy Armor**
 
 Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
 
-Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative. _**Ring Mail.**_ This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor.
+Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative. 
+
+_**Ring Mail.**_ This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor.
 
 _**Chain Mail.**_ Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
 
@@ -3235,41 +3285,64 @@ _**Plate.**_ Plate consists of shaped, interlocking metal plates to cover the en
 
 ## **Armor** 
 
-|**Armor**||||||| |---|---|---|---|---|---|---| |**Armor**|**Cost**||**Armor    Class    (AC)**|**Strength**|**Stealth**|**Weight**| |_Light    Armor_<br>Padded|<br>5    gp|<br>|<br>11    +    Dex    modifier|<br>—|<br>Disadvantage|<br>8    lb.| |Leather||10    gp||11    +    Dex    modifier|—|—|10    lb.| |---|---|---|---|---|---|---|---| |Studded    leather||45    gp||12    +    Dex    modifier|—|—|13    lb.| |_Medium    Armor_|||||||| |Hide||10    gp||12    +    Dex    modifier    (max    2)|—|—|12    lb.| |Chain    shirt||50    gp||13    +    Dex    modifier    (max    2)|—|—|20    lb.| |Scale    mail<br>Breastplate||50    gp<br>400    gp|<br>|14    +    Dex    modifier    (max    2)<br>14    +    Dex    modifier    (max    2)|—<br>—|Disadvantage<br>—|45    lb.<br>20    lb.| |Half    plate||750    gp||15    +    Dex    modifier    (max    2)|—|Disadvantage|40    lb.| |_Heavy    Armor_|||||||| |Ring    mail||30    gp||14|—|Disadvantage|40    lb.| |Chain    mail<br>Splint||75    gp<br>200    gp|<br>|16<br>17|Str    13<br>Str    15|Disadvantage<br>Disadvantage|55    lb.<br>60    lb.| |Plate||1,500    gp||18|Str    15|Disadvantage|65    lb.| |_Shield_|||||||| |Shield<br>||10    gp||+2|—|—|6    lb.|
+| Armor | Cost | Armor Class (AC) | Strength | Stealth | Weight |
+| ----- | ---- | ---------------- | -------- | ------- | ------ |
+| *Light Armor* | | | | | |
+| Padded | 5 gp | 11 + Dex modifier | — | Disadvantage | 8 lb. |
+| Leather | 10 gp | 11 + Dex modifier | — | — | 10 lb. |
+| Studded leather | 45 gp | 12 + Dex modifier | — | — | 13 lb. |
+| *Medium Armor* | | | | | |
+| Hide | 10 gp | 12 + Dex modifier (max 2) | — | — | 12 lb. |
+| Chain shirt | 50 gp | 13 + Dex modifier (max 2) | — | — | 20 lb. |
+| Scale mail | 50 gp | 14 + Dex modifier (max 2) | — | Disadvantage | 45 lb. |
+| Breastplate | 400 gp | 14 + Dex modifier (max 2) | — | — | 20 lb. |
+| Half plate | 750 gp | 15 + Dex modifier (max 2) | — | Disadvantage | 40 lb. |
+| *Heavy Armor* | | | | | |
+| Ring mail | 30 gp | 14 | — | Disadvantage | 40 lb. |
+| Chain mail | 75 gp | 16 | Str 13 | Disadvantage | 55 lb. |
+| Splint | 200 gp | 17 | Str 15 | Disadvantage | 60 lb. |
+| Plate | 1,500 gp | 18 | Str 15 | Disadvantage | 65 lb. |
+| *Shield* | | | | | |
+| Shield | 10 gp | +2 | — | — | 6 lb. |
 
+### **Getting Into and Out of Armor**
 
+The time it takes to don or doff armor depends on the armor’s category. 
 
-## **Gettin Into and Out of Armor g** 
-
-The time it takes to don or doff armor depends on the armor’s category. _**Don.**_ This is the time it takes to put on armor. You benefit from the armor’s AC only if you take the full time to don the suit of armor.
+_**Don.**_ This is the time it takes to put on armor. You benefit from the armor’s AC only if you take the full time to don the suit of armor.
 
 _**Doff.**_ This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-## **Donning and Doffing Armor**
+#### **Donning and Doffing Armor**
 
-|**Category**<br>Light    Armor<br>Medium    Armor<br>Heavy    Armor<br>Shield|**Don**<br>1    minute<br>5    minutes<br>10    minutes<br>1    action|**Doff**<br>1    minute<br>1    minute<br>5    minutes<br>1    action| |---|---|---|
+| Category | Don | Doff |
+| -------- | --- | ---- |
+| Light Armor | 1 minute | 1 minute |
+| Medium Armor | 5 minutes | 1 minute |
+| Heavy Armor | 10 minutes | 5 minutes |
+| Shield | 1 action | 1 action |
 
-
-
-## **Weapons** 
+## **Weapons**
 
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
 The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
-## **Wea on Proficienc p y** 
+### **Weapon Proficiency**
 
-Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial** . Most people
-
-can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial** . Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
 
 Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
 
-## **Weapon Properties** 
+### **Weapon Properties**
 
-Many weapons have special properties related to their use, as shown in the Weapons table. _**Ammunition.**_ You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­‐‑handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+Many weapons have special properties related to their use, as shown in the Weapons table. 
 
-If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way. _**Finesse.**_ When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+_**Ammunition.**_ You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
+If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way. 
+
+_**Finesse.**_ When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 _**Heavy.**_ Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
@@ -3283,49 +3356,91 @@ _**Reach.**_ This weapon adds 5 feet to your reach when you attack with it, as w
 
 _**Special.**_ A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
 
-_**Thrown.**_ If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. _**Two-­‐‑Handed.**_ This weapon requires two hands when you attack with it.
+_**Thrown.**_ If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+
+_**Two-­Handed.**_ This weapon requires two hands when you attack with it.
 
 _**Versatile.**_ This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
-## **Improvised Weapons** 
+#### **Improvised Weapons**
 
-Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can
-
-wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
 Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
-## **Silvered Weapons** 
+#### **Silvered Weapons**
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
-## **Special Weapons** 
+#### **Special Weapons**
 
-Weapons with special rules are described here. _**Lance.**_ You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
+Weapons with special rules are described here. 
+
+_**Lance.**_ You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
 
 _**Net.**_ A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-## **Weapons** 
+#### **Weapons** 
 
-**Name Cost Damage Weight Properties** _Simple Melee Weapons_ |Club<br>||1    sp<br>|1d4    bludgeoning<br>|2    lb.<br>|Light<br>| |---|---|---|---|---|---| |Dagger||2    gp|1d4    piercing|1    lb.|Finesse,    light,    thrown    (range    20/60)| |Greatclub<br>||2    sp<br>|1d8    bludgeoning<br>|10    lb.<br>|Two-handed<br>| |Handaxe<br>||5    gp<br>|1d6    slashing<br>|2    lb.<br>|Light,    thrown    (range    20/60)<br>| |Javelin||5    sp|1d6    piercing|2    lb.|Thrown    (range    30/120)| |Light    hammer||2    gp|1d4    bludgeoning|2    lb.|Light,    thrown    (range    20/60)| |Mace<br>Quarterstaff||5    gp<br>2    sp|1d6    bludgeoning<br>1d6    bludgeoning|4    lb.<br>4    lb.|—<br>Versatile    (1d8)| |Sickle<br>||1    gp<br>|1d4    slashing<br>|2    lb.<br>|Light<br>| |Spear||1    gp|1d6    piercing|3    lb.|Thrown    (range    20/60),    versatile    (1d8)| |_Simple    Ranged    Weapons_|||||| |Crossbow,    light<br>||25    gp<br>|1d8    piercing<br>|5    lb.<br>|Ammunition    (range    80/320),    loading,    two-handed<br>| |Dart||5    cp|1d4    piercing|1/4    lb.|Finesse,    thrown    (range    20/60)| |Shortbow||25    gp|1d6    piercing|2    lb.|Ammunition    (range    80/320),    two-handed| |Sling||1    sp|1d4    bludgeoning|—|Ammunition    (range    30/120)| |_Martial    Melee    Weapons_ <br>||<br>|<br>|<br>|<br>| |Battleaxe||10    gp|1d8    slashing|4    lb.|Versatile    (1d10)| |Flail||10    gp|1d8    bludgeoning|2    lb.|—| |Glaive||20    gp|1d10    slashing|6    lb.|Heavy,    reach,    two-handed| |Greataxe||30    gp|1d12    slashing|7    lb.|Heavy,    two-handed| |Greatsword<br>Halberd<br>||50    gp<br>20    gp<br>|2d6    slashing<br>1d10    slashing<br>|6    lb.<br>6    lb.<br>|Heavy,    two-handed<br>Heavy,    reach,    two-handed<br>| |Lance||10    gp|1d12    piercing|6    lb.|Reach,    special| |Longsword||15    gp|1d8    slashing|3    lb.|Versatile    (1d10)| |Maul<br>Morningstar||10    gp<br>15    gp|2d6    bludgeoning<br>1d8    piercing|10    lb.<br>4    lb.|Heavy,    two-handed<br>—| |Pike||5    gp|1d10    piercing|18    lb.|Heavy,    reach,    two-handed| |Rapier<br>||25    gp<br>|1d8    piercing<br>|2    lb.<br>|Finesse<br>| |Scimitar||25    gp|1d6    slashing|3    lb.|Finesse,    light| |Shortsword<br>||10    gp<br>|1d6    piercing<br>|2    lb.<br>|Finesse,    light<br>| |Trident||5    gp|1d6    piercing|4    lb.|Thrown    (range    20/60),    versatile    (1d8)| |War    pick||5    gp|1d8    piercing|2    lb.|—| |Warhammer<br>||15    gp<br>|1d8    bludgeoning<br>|2    lb.<br>|Versatile    (1d10)<br>| |Whip<br>_Martial    Ranged    Weapons_ <br>||2    gp<br> <br>|1d4    slashing<br> <br>|3    lb.<br> <br>|Finesse,    reach<br> <br>| |Blowgun||10    gp|1    piercing|1    lb.|Ammunition    (range    25/100),    loading| |Crossbow,    hand||75    gp|1d6    piercing|3    lb.|Ammunition    (range    30/120),    light,    loading| |Crossbow,    heavy||50    gp|1d10    piercing|18    lb.|Ammunition    (range    100/400),    heavy,    loading,    two-handed| |Longbow||50    gp|1d8    piercing|2    lb.|Ammunition    (range    150/600),    heavy,    two-handed| |Net||1    gp|—|3    lb.|Special,    thrown    (range    5/15)| |||||||
+| Name | Cost | Damage | Weight | Properties |
+|------|------|--------|--------|-----------|
+| _Simple Melee Weapons_ | | | | |
+| Club | 1 sp | 1d4 bludgeoning | 2 lb. | Light |
+| Dagger | 2 gp | 1d4 piercing | 1 lb. | Finesse, light, thrown (range 20/60) |
+| Greatclub | 2 sp | 1d8 bludgeoning | 10 lb. | Two-handed |
+| Handaxe | 5 gp | 1d6 slashing | 2 lb. | Light, thrown (range 20/60) |
+| Javelin | 5 sp | 1d6 piercing | 2 lb. | Thrown (range 30/120) |
+| Light hammer | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (range 20/60) |
+| Mace | 5 gp | 1d6 bludgeoning | 4 lb. | — |
+| Quarterstaff | 2 sp | 1d6 bludgeoning | 4 lb. | Versatile (1d8) |
+| Sickle | 1 gp | 1d4 slashing | 2 lb. | Light |
+| Spear | 1 gp | 1d6 piercing | 3 lb. | Thrown (range 20/60), versatile (1d8) |
+| _Simple Ranged Weapons_ | | | | |
+| Crossbow, light | 25 gp | 1d8 piercing | 5 lb. | Ammunition (range 80/320), loading, two-handed |
+| Dart | 5 cp | 1d4 piercing | 1/4 lb. | Finesse, thrown (range 20/60) |
+| Shortbow | 25 gp | 1d6 piercing | 2 lb. | Ammunition (range 80/320), two-handed |
+| Sling | 1 sp | 1d4 bludgeoning | — | Ammunition (range 30/120) |
+| _Martial Melee Weapons_ | | | | |
+| Battleaxe | 10 gp | 1d8 slashing | 4 lb. | Versatile (1d10) |
+| Flail | 10 gp | 1d8 bludgeoning | 2 lb. | — |
+| Glaive | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
+| Greataxe | 30 gp | 1d12 slashing | 7 lb. | Heavy, two-handed |
+| Greatsword | 50 gp | 2d6 slashing | 6 lb. | Heavy, two-handed |
+| Halberd | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
+| Lance | 10 gp | 1d12 piercing | 6 lb. | Reach, special |
+| Longsword | 15 gp | 1d8 slashing | 3 lb. | Versatile (1d10) |
+| Maul | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed |
+| Morningstar | 15 gp | 1d8 piercing | 4 lb. | — |
+| Pike | 5 gp | 1d10 piercing | 18 lb. | Heavy, reach, two-handed |
+| Rapier | 25 gp | 1d8 piercing | 2 lb. | Finesse |
+| Scimitar | 25 gp | 1d6 slashing | 3 lb. | Finesse, light |
+| Shortsword | 10 gp | 1d6 piercing | 2 lb. | Finesse, light |
+| Trident | 5 gp | 1d6 piercing | 4 lb. | Thrown (range 20/60), versatile (1d8) |
+| War pick | 5 gp | 1d8 piercing | 2 lb. | — |
+| Warhammer | 15 gp | 1d8 bludgeoning | 2 lb. | Versatile (1d10) |
+| Whip | 2 gp | 1d4 slashing | 3 lb. | Finesse, reach |
+| _Martial Ranged Weapons_ | | | | |
+| Blowgun | 10 gp | 1 piercing | 1 lb. | Ammunition (range 25/100), loading |
+| Crossbow, hand | 75 gp | 1d6 piercing | 3 lb. | Ammunition (range 30/120), light, loading |
+| Crossbow, heavy | 50 gp | 1d10 piercing | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
+| Longbow | 50 gp | 1d8 piercing | 2 lb. | Ammunition (range 150/600), heavy, two-handed |
+| Net | 1 gp | — | 3 lb. | Special, thrown (range 5/15) |
 
-
-
-## **Adventuring Gear** 
+## **Adventuring Gear**
 
 This section describes items that have special rules or require further explanation.
 
 _**Acid.**_ As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 
-_**Alchemist’s Fire.**_ This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a
+_**Alchemist’s Fire.**_ This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
-ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+_**Antitoxin.**_ A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs. 
 
-_**Antitoxin.**_ A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs. _**Arcane Focus.**_ An arcane focus is a special item— an orb, a crystal, a rod, a specially constructed staff, a wand-­‐‑like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+_**Arcane Focus.**_ An arcane focus is a special item— an orb, a crystal, a rod, a specially constructed staff, a wand-­like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
 _**Ball Bearings.**_ As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
 
@@ -3335,25 +3450,39 @@ _**Book.**_ A book might contain poetry, historical accounts, information pertai
 
 _**Caltrops.**_ As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
 
-_**Candle.**_ For 1 hour, a candle sheds bright light in a 5-­‐‑foot radius and dim light for an additional 5 feet. _**Case, Crossbow Bolt.**_ This wooden case can hold up to twenty crossbow bolts.
+_**Candle.**_ For 1 hour, a candle sheds bright light in a 5-­foot radius and dim light for an additional 5 feet.
 
-_**Case, Map or Scroll.**_ This cylindrical leather case can hold up to ten rolled-­‐‑up sheets of paper or five rolled-­‐‑up sheets of parchment.
+_**Case, Crossbow Bolt.**_ This wooden case can hold up to twenty crossbow bolts.
 
-_**Chain.**_ A chain has 10 hit points. It can be burst with a successful DC 20 Strength check. _**Climber’s Kit.**_ A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 25 feet from the point where you anchored yourself, and you can’t climb more than 25 feet away from that point without undoing the anchor. _**Component Pouch.**_ A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description). _**Crowbar.**_ Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
+_**Case, Map or Scroll.**_ This cylindrical leather case can hold up to ten rolled-­up sheets of paper or five rolled-­up sheets of parchment.
+
+_**Chain.**_ A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+
+_**Climber’s Kit.**_ A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 25 feet from the point where you anchored yourself, and you can’t climb more than 25 feet away from that point without undoing the anchor.
+
+_**Component Pouch.**_ A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+
+_**Crowbar.**_ Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
 
 _**Druidic Focus.**_ A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.
 
 _**Fishing Tackle.**_ This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
 
-_**Healer’s Kit.**_ This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check. _**Holy Symbol.**_ A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-­‐‑B "Fantasy-­‐‑Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield. _**Holy Water.**_ As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
+_**Healer’s Kit.**_ This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
 
-A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-­‐‑level spell slot. _**Hunting Trap.**_ When you use your action to set it, this trap forms a saw-­‐‑toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+_**Holy Symbol.**_ A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-­B "Fantasy-­Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 
-_**Lamp.**_ A lamp casts bright light in a 15-­‐‑foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+_**Holy Water.**_ As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
 
-_**Lantern, Bullseye.**_ A bullseye lantern casts bright light in a 60-­‐‑foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-­level spell slot.
 
-_**Lantern, Hooded.**_ A hooded lantern casts bright light in a 30-­‐‑foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-­‐‑foot radius.
+_**Hunting Trap.**_ When you use your action to set it, this trap forms a saw-­toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+
+_**Lamp.**_ A lamp casts bright light in a 15-­foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+
+_**Lantern, Bullseye.**_ A bullseye lantern casts bright light in a 60-­foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+
+_**Lantern, Hooded.**_ A hooded lantern casts bright light in a 30-­foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-­foot radius.
 
 _**Lock.**_ A key is provided with the lock. Without the key, a creature proficient with thieves’ tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
 
@@ -3363,7 +3492,7 @@ _**Manacles.**_ These metal restraints can bind a Small or Medium creature. Esca
 
 _**Mess Kit.**_ This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
-_**Oil.**_ Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-­‐‑foot-­‐‑square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
+_**Oil.**_ Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-­foot-­square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
 
 _**Poison, Basic.**_ You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 
@@ -3381,7 +3510,7 @@ _**Rope.**_ Rope, whether made of hemp or silk, has 2 hit points and can be burs
 
 _**Scale, Merchant’s.**_ A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
 
-_**Spellbook.**_ Essential for wizards, a spellbook is a leather-­‐‑bound tome with 100 blank vellum pages suitable for recording spells.
+_**Spellbook.**_ Essential for wizards, a spellbook is a leather-­bound tome with 100 blank vellum pages suitable for recording spells.
 
 _**Spyglass.**_ Objects viewed through a spyglass are magnified to twice their size.
 
@@ -3389,17 +3518,136 @@ _**Tent.**_ A simple and portable canvas shelter, a tent sleeps two.
 
 _**Tinderbox.**_ This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
 
-_**Torch.**_ A torch burns for 1 hour, providing bright light in a 20-­‐‑foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+_**Torch.**_ A torch burns for 1 hour, providing bright light in a 20-­foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
-## **Adventuring Gear**  
+#### **Adventuring Gear**
 
-|**Item**||**Cost**|**Weight**|Hourglass<br>25    gp<br>1    lb.|| |---|---|---|---|---|---| |Abacus||2    gp|2    lb.|Hunting    trap<br>5    gp<br>25    lb.|| |Acid    (vial)<br>Alchemist’s    fire    (flask)<br>_Ammunition_<br>Arrows    (20)<br>Blowgun    needles    (50)<br>Crossbow    bolts    (20)<br>Sling    bullets    (20)<br>Antitoxin    (vial)<br>_Arcane    focus_<br>Crystal<br>Orb<br>Rod<br>Staff<br>Wand<br>Backpack<br>Ball    bearings    (bag    of    1,000)<br>Barrel<br>Basket<br>Bedroll<br>Bell<br>Blanket<br>Block    and    tackle<br>Book<br>Bottle,    glass<br>Bucket<br>Caltrops    (bag    of    20)<br>Candle<br>Case,    crossbow    bolt<br>Case,    map    or    scroll<br>Chain    (10    feet)<br>Chalk    (1    piece)<br>Chest<br>Climber’s    kit<br>Clothes,    common<br>Clothes,    costume<br>Clothes,    fine<br>Clothes,    traveler’s<br>Component    pouch<br>Crowbar<br>_Druidic    focus_<br>Sprig    of    mistletoe<br>Totem<br>Wooden    staff<br>Yew    wand<br>Fishing    tackle<br>Flask    or    tankard<br>Grappling    hook<br>Hammer<br>Hammer,    sledge<br>Healer’s    kit<br>_Holy    symbol_<br>Amulet<br>Emblem<br>Reliquary<br>Holy    water    (flask)||25    gp<br>50    gp<br> <br>1    gp<br>1    gp<br>1    gp<br>4    cp<br>50    gp<br> <br>10    gp<br>20    gp<br>10    gp<br>5    gp<br>10    gp<br>2    gp<br>1    gp<br>2    gp<br>4    sp<br>1    gp<br>1    gp<br>5    sp<br>1    gp<br>25    gp<br>2    gp<br>5    cp<br>1    gp<br>1    cp<br>1    gp<br>1    gp<br>5    gp<br>1    cp<br>5    gp<br>25    gp<br>5    sp<br>5    gp<br>15    gp<br>2    gp<br>25    gp<br>2    gp<br> <br>1    gp<br>1    gp<br>5    gp<br>10    gp<br>1    gp<br>2    cp<br>2    gp<br>1    gp<br>2    gp<br>5    gp<br> <br>5    gp<br>5    gp<br>5    gp<br>25    gp|1    lb.<br>1    lb.<br> <br>1    lb.<br>1    lb.<br>1½    lb.<br>1½    lb.<br>—<br> <br>1    lb.<br>3    lb.<br>2    lb.<br>4    lb.<br>1    lb.<br>5    lb.<br>2    lb.<br>70    lb.<br>2    lb.<br>7    lb.<br>—<br>3    lb.<br>5    lb.<br>5    lb.<br>2    lb.<br>2    lb.<br>2    lb.<br>—<br>1    lb.<br>1    lb.<br>10    lb.<br>—<br>25    lb.<br>12    lb.<br>3    lb.<br>4    lb.<br>6    lb.<br>4    lb.<br>2    lb.<br>5    lb.<br> <br>—<br>—<br>4    lb.<br>1    lb.<br>4    lb.<br>1    lb.<br>4    lb.<br>3    lb.<br>10    lb.<br>3    lb.<br> <br>1    lb.<br>—<br>2    lb.<br>1    lb.|Ink    (1    ounce    bottle)<br>10    gp<br>—<br>Ink    pen<br>2    cp<br>—<br>Jug    or    pitcher<br>2    cp<br>4    lb.<br>Ladder    (10-foot)<br>1    sp<br>25    lb.<br>Lamp<br>5    sp<br>1    lb.<br>Lantern,    bullseye<br>10    gp<br>2    lb.<br>Lantern,    hooded<br>5    gp<br>2    lb.<br>Lock<br>10    gp<br>1    lb.<br>Magnifying    glass<br>100    gp<br>—<br>Manacles<br>2    gp<br>6    lb.<br>Mess    kit<br>2    sp<br>1    lb.<br>Mirror,    steel<br>5    gp<br>1/2    lb.<br>Oil    (flask)<br>1    sp<br>1    lb.<br>Paper    (one    sheet)<br>2    sp<br>—<br>Parchment    (one    sheet)<br>1    sp<br>—<br>Perfume    (vial)<br>5    gp<br>—<br>Pick,    miner’s<br>2    gp<br>10    lb.<br>Piton<br>5    cp<br>1/4    lb.<br>Poison,    basic    (vial)<br>100    gp<br>—<br>Pole    (10-foot)<br>5    cp<br>7    lb.<br>Pot,    iron<br>2    gp<br>10    lb.<br>Potion    of    healing<br>50    gp<br>1/2    lb.<br>Pouch<br>5    sp<br>1    lb.<br>Quiver<br>1    gp<br>1    lb.<br>Ram,    portable<br>4    gp<br>35    lb.<br>Rations    (1    day)<br>5    sp<br>2    lb.<br>Robes<br>1    gp<br>4    lb.<br>Rope,    hempen    (50    feet)<br>1    gp<br>10    lb.<br>Rope,    silk    (50    feet)<br>10    gp<br>5    lb.<br>Sack<br>1    cp<br>1/2    lb.<br>Scale,    merchant’s<br>5    gp<br>3    lb.<br>Sealing    wax<br>5    sp<br>—<br>Shovel<br>2    gp<br>5    lb.<br>Signal    whistle<br>5    cp<br>—<br>Signet    ring<br>5    gp<br>—<br>Soap<br>2    cp<br>—<br>Spellbook<br>50    gp<br>3    lb.<br>Spikes,    iron    (10)<br>1    gp<br>5    lb.<br>Spyglass<br>1,000    gp<br>1    lb.<br>Tent,    two-person<br>2    gp<br>20    lb.<br>Tinderbox<br>5    sp<br>1    lb.<br>Torch<br>1    cp<br>1    lb.<br>Vial<br>1    gp<br>—<br>Waterskin<br>2    sp<br>5    lb.    (full)<br>Whetstone<br>1    cp<br>1    lb.<br> <br>**Container    Capacity**<br>**Container**<br>**Capacity**<br>Backpack*<br>1    cubic    foot/30    pounds    of    gear<br>Barrel<br>40    gallons    liquid,    4    cubic    feet    solid<br>Basket<br>2    cubic    feet/40    pounds    of    gear<br>Bottle<br>1½    pints    liquid<br>Bucket<br>3    gallons    liquid,    1/2    cubic    foot    solid<br>Chest<br>12    cubic    feet/300    pounds    of    gear||
+| Item | Cost | Weight |
+|------|------|--------|
+| Abacus | 2 gp | 2 lb. |
+| Acid (vial) | 25 gp | 1 lb. |
+| Alchemist's fire (flask) | 50 gp | 1 lb. |
+| _Ammunition_ | | |
+| Arrows (20) | 1 gp | 1 lb. |
+| Blowgun needles (50) | 1 gp | 1 lb. |
+| Crossbow bolts (20) | 1 gp | 1½ lb. |
+| Sling bullets (20) | 4 cp | 1½ lb. |
+| Antitoxin (vial) | 50 gp | — |
+| _Arcane focus_ | | |
+| Crystal | 10 gp | 1 lb. |
+| Orb | 20 gp | 3 lb. |
+| Rod | 10 gp | 2 lb. |
+| Staff | 5 gp | 4 lb. |
+| Wand | 10 gp | 1 lb. |
+| Backpack | 2 gp | 5 lb. |
+| Ball bearings (bag of 1,000) | 1 gp | 2 lb. |
+| Barrel | 2 gp | 70 lb. |
+| Basket | 4 sp | 2 lb. |
+| Bedroll | 1 gp | 7 lb. |
+| Bell | 1 gp | — |
+| Blanket | 5 sp | 3 lb. |
+| Block and tackle | 1 gp | 5 lb. |
+| Book | 25 gp | 5 lb. |
+| Bottle, glass | 2 gp | 2 lb. |
+| Bucket | 5 cp | 2 lb. |
+| Caltrops (bag of 20) | 1 gp | — |
+| Candle | 1 cp | 1 lb. |
+| Case, crossbow bolt | 1 gp | 1 lb. |
+| Case, map or scroll | 1 gp | 10 lb. |
+| Chain (10 feet) | 5 gp | — |
+| Chalk (1 piece) | 1 cp | 25 lb. |
+| Chest | 5 gp | 12 lb. |
+| Climber's kit | 25 gp | 3 lb. |
+| Clothes, common | 5 sp | 4 lb. |
+| Clothes, costume | 5 gp | 6 lb. |
+| Clothes, fine | 15 gp | 4 lb. |
+| Clothes, traveler's | 2 gp | 5 lb. |
+| Component pouch | 25 gp | — |
+| Crowbar | 2 gp | 1 lb. |
+| _Druidic focus_ | | |
+| Sprig of mistletoe | 1 gp | — |
+| Totem | 1 gp | — |
+| Wooden staff | 5 gp | 4 lb. |
+| Yew wand | 10 gp | 1 lb. |
+| Fishing tackle | 1 gp | 4 lb. |
+| Flask or tankard | 2 cp | 1 lb. |
+| Grappling hook | 2 gp | 4 lb. |
+| Hammer | 1 gp | 3 lb. |
+| Hammer, sledge | 2 gp | 10 lb. |
+| Healer's kit | 5 gp | 3 lb. |
+| _Holy symbol_ | | |
+| Amulet | 5 gp | 1 lb. |
+| Emblem | 5 gp | — |
+| Reliquary | 5 gp | 2 lb. |
+| Holy water (flask) | 25 gp | 1 lb. |
+| Hourglass | 25 gp | 1 lb. |
+| Hunting trap | 5 gp | 25 lb. |
+| Ink (1 ounce bottle) | 10 gp | — |
+| Ink pen | 2 cp | — |
+| Jug or pitcher | 2 cp | 4 lb. |
+| Ladder (10-foot) | 1 sp | 25 lb. |
+| Lamp | 5 sp | 1 lb. |
+| Lantern, bullseye | 10 gp | 2 lb. |
+| Lantern, hooded | 5 gp | 2 lb. |
+| Lock | 10 gp | 1 lb. |
+| Magnifying glass | 100 gp | — |
+| Manacles | 2 gp | 6 lb. |
+| Mess kit | 2 sp | 1 lb. |
+| Mirror, steel | 5 gp | 1/2 lb. |
+| Oil (flask) | 1 sp | 1 lb. |
+| Paper (one sheet) | 2 sp | — |
+| Parchment (one sheet) | 1 sp | — |
+| Perfume (vial) | 5 gp | — |
+| Pick, miner's | 2 gp | 10 lb. |
+| Piton | 5 cp | 1/4 lb. |
+| Poison, basic (vial) | 100 gp | — |
+| Pole (10-foot) | 5 cp | 7 lb. |
+| Pot, iron | 2 gp | 10 lb. |
+| Potion of healing | 50 gp | 1/2 lb. |
+| Pouch | 5 sp | 1 lb. |
+| Quiver | 1 gp | 1 lb. |
+| Ram, portable | 4 gp | 35 lb. |
+| Rations (1 day) | 5 sp | 2 lb. |
+| Robes | 1 gp | 4 lb. |
+| Rope, hempen (50 feet) | 1 gp | 10 lb. |
+| Rope, silk (50 feet) | 10 gp | 5 lb. |
+| Sack | 1 cp | 1/2 lb. |
+| Scale, merchant's | 5 gp | 3 lb. |
+| Sealing wax | 5 sp | — |
+| Shovel | 2 gp | 5 lb. |
+| Signal whistle | 5 cp | — |
+| Signet ring | 5 gp | — |
+| Soap | 2 cp | — |
+| Spellbook | 50 gp | 3 lb. |
+| Spikes, iron (10) | 1 gp | 5 lb. |
+| Spyglass | 1,000 gp | 1 lb. |
+| Tent, two-person | 2 gp | 20 lb. |
+| Tinderbox | 5 sp | 1 lb. |
+| Torch | 1 cp | 1 lb. |
+| Vial | 1 gp | — |
+| Waterskin | 2 sp | 5 lb. |
+| Whetstone | 1 cp | 1 lb. |
 
+#### **Container Capacity**
 
+| Container | Capacity |
+|-----------|----------|
+| Backpack* | 1 cubic foot/30 pounds of gear |
+| Barrel | 40 gallons liquid, 4 cubic feet solid |
+| Basket | 2 cubic feet/40 pounds of gear |
+| Bottle | 1½ pints liquid |
+| Bucket | 3 gallons liquid, 1/2 cubic foot solid |
+| Chest | 12 cubic feet/300 pounds of gear |
+| Flask or tankard | 1 pint liquid |
+| Jug or pitcher | 1 gallon liquid |
+| Pot, iron | 1 gallon liquid |
+| Pouch | 1/5 cubic foot/6 pounds of gear |
+| Sack | 1 cubic foot/30 pounds of gear |
+| Vial | 4 ounces liquid |
+| Waterskin | 4 pints liquid |
+_*You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack._
 
-Flask or tankard 1 pint liquid Jug or pitcher 1 gallon liquid Pot, iron 1 gallon liquid Pouch 1/5 cubic foot/6 pounds of gear Sack 1 cubic foot/30 pounds of gear Vial 4 ounces liquid Waterskin 4 pints liquid * You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
-
-## **Equipment Packs** 
+#### **Equipment Packs**
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 
@@ -3413,165 +3661,279 @@ _**Entertainer’s Pack (40 gp).**_ Includes a backpack, a bedroll, 2 costumes, 
 
 _**Explorer’s Pack (10 gp).**_ Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
-_**Priest’s Pack (19 gp).**_ Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin. _**Scholar’s Pack (40 gp).**_ Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+_**Priest’s Pack (19 gp).**_ Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin. 
 
-## **Tools** 
+_**Scholar’s Pack (40 gp).**_ Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM
+## **Tools**
 
-might ask you to make a Dexterity check to carve a fine detail with your woodcarver’s tools, or a Strength check to make something out of particularly hard wood.
+A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver’s tools, or a Strength check to make something out of particularly hard wood.
 
-## **Tools** 
+#### **Tools**
 
-|**Tools**|||| |---|---|---|---| |**Item**|**Cost**|**Weight**|| |_Artisan’s    tools_|||| |Alchemist’s    supplies|50    gp|8    lb.|| |Brewer’s    supplies|20    gp|9    lb.|| |Calligrapher's    supplies|10    gp|5    lb.|| |Carpenter’s    tools<br>Cartographer’s    tools|8    gp<br>15    gp|6    lb.<br>6    lb.|<br>| |Cobbler’s    tools|5    gp|5    lb.|| |Cook’s    utensils|1    gp|8    lb.|| |Glassblower’s    tools<br>Jeweler’s    tools|30    gp<br>25    gp|5    lb.<br>2    lb.|<br>| |Leatherworker’s    tools|5    gp|5    lb.|| |Mason’s    tools|10    gp|8    lb.|| |Painter’s    supplies|10    gp|5    lb.|| |Potter’s    tools<br>Smith’s    tools|10    gp<br>20    gp|3    lb.<br>8    lb.|<br>| |Tinker’s    tools|50    gp|10    lb.|| |Weaver’s    tools|1    gp|5    lb.|| |Woodcarver’s    tools<br>Disguise    kit|1    gp<br>25    gp|5    lb.<br>3    lb.|<br>| |Forgery    kit|15    gp|5    lb.|| |_Gaming    set_|||| |Dice    set|1    sp|—|| |Playing    card    set<br>Herbalism    kit|5    sp<br>5    gp|—<br>3    lb.|<br>| |_Musical    instrument_|||| |Bagpipes|30    gp|6    lb.|| |Drum<br>Dulcimer|6    gp<br>25    gp|3    lb.<br>10    lb.|<br>| |Flute|2    gp|1    lb.|| |Lute|35    gp|2    lb.|| |Lyre|30    gp|2    lb.|| |Horn<br>Pan    flute|3    gp<br>12    gp|2    lb.<br>2    lb.|<br>| |Shawm|2    gp|1    lb.|| |Viol|30    gp|1    lb.|| |Navigator’s    tools<br>Poisoner’s    kit|25    gp<br>50    gp|2    lb.<br>2    lb.|<br>| |Thieves’    tools|25    gp|1    lb.|| |Vehicles    (land    or    water)<br>|*<br>|*<br>||
-
-
-
-* See the “Mounts and Vehicles” section.
+| Item | Cost | Weight |
+|------|------|--------|
+| _Artisan’s tools_ | | |
+| Alchemist’s supplies | 50 gp | 8 lb. |
+| Brewer’s supplies | 20 gp | 9 lb. |
+| Calligrapher’s supplies | 10 gp | 5 lb. |
+| Carpenter’s tools | 8 gp | 6 lb. |
+| Cartographer’s tools | 15 gp | 6 lb. |
+| Cobbler’s tools | 5 gp | 5 lb. |
+| Cook’s utensils | 1 gp | 8 lb. |
+| Glassblower’s tools | 30 gp | 5 lb. |
+| Jeweler’s tools | 25 gp | 2 lb. |
+| Leatherworker’s tools | 5 gp | 5 lb. |
+| Mason’s tools | 10 gp | 8 lb. |
+| Painter’s supplies | 10 gp | 5 lb. |
+| Potter’s tools | 10 gp | 3 lb. |
+| Smith’s tools | 20 gp | 8 lb. |
+| Tinker’s tools | 50 gp | 10 lb. |
+| Weaver’s tools | 1 gp | 5 lb. |
+| Woodcarver’s tools | 1 gp | 5 lb. |
+| Disguise kit | 25 gp | 3 lb. |
+| Forgery kit | 15 gp | 5 lb. |
+| _Gaming set_ | | |
+| Dice set | 1 sp | — |
+| Playing card set | 5 sp | — |
+| Herbalism kit | 5 gp | 3 lb. |
+| _Musical instrument_ | | |
+| Bagpipes | 30 gp | 6 lb. |
+| Drum | 6 gp | 3 lb. |
+| Dulcimer | 25 gp | 10 lb. |
+| Flute | 2 gp | 1 lb. |
+| Lute | 35 gp | 2 lb. |
+| Lyre | 30 gp | 2 lb. |
+| Horn | 3 gp | 2 lb. |
+| Pan flute | 12 gp | 2 lb. |
+| Shawm | 2 gp | 1 lb. |
+| Viol | 30 gp | 1 lb. |
+| Navigator’s tools | 25 gp | 2 lb. |
+| Poisoner’s kit | 50 gp | 2 lb. |
+| Thieves’ tools | 25 gp | 1 lb. |
+| Vehicles (land or water) | * | * |
+_* See the “Mounts and Vehicles” section._
 
 _**Artisan’s Tools.**_ These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.
 
 _**Disguise Kit.**_ This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
 
-_**Forgery Kit.**_ This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document. _**Gaming Set.**_ This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-­‐‑Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+_**Forgery Kit.**_ This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
+
+_**Gaming Set.**_ This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-­Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
 
 _**Herbalism Kit.**_ This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and _potions of healing._
 
-_**Musical Instrument.**_ Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. _**Navigator’s Tools.**_ This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+_**Musical Instrument.**_ Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. 
+
+_**Navigator’s Tools.**_ This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
 
 _**Poisoner’s Kit.**_ A poisoner’s kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
-_**Thieves’ Tools.**_ This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-­‐‑bladed scissors, and a pair of pliers. Proficiency with these tools lets you
+_**Thieves’ Tools.**_ This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-­‐‑bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 
-add your proficiency bonus to any ability checks you make to disarm traps or open locks.
-
-## **Mounts and Vehicles** 
+## **Mounts and Vehicles**
 
 A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity. An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
 
 Mounts other than those listed here are available in fantasy gaming worlds, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
 
-_**Barding.**_ Barding is armor designed to protect an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much. _**Saddles.**_ A military saddle braces the rider,
+_**Barding.**_ Barding is armor designed to protect an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
 
-helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
+_**Saddles.**_ A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
 
-_**Vehicle Proficiency.**_ If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances. _**Rowed Vessels.**_ Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+_**Vehicle Proficiency.**_ If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances. 
 
-## **Mounts and Other Animals**
+_**Rowed Vessels.**_ Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-||||**Carrying**| |---|---|---|---| |**Item**|**Cost**|**Speed**|**Capacity**| |Camel<br>|50    gp<br>|50    ft.<br>|480    lb.<br>| |Donkey    or    mule<br>Elephant|8    gp<br>200    gp|40    ft.<br>40    ft.|420    lb.<br>1,320    lb.| |Horse,    draft||50    gp|40    ft.|540    lb.| |---|---|---|---|---| |Horse,    riding||75    gp|60    ft.|480    lb.| |Mastiff<br>Pony||25    gp<br>30    gp|40    ft.<br>40    ft.|195    lb.<br>225    lb.| |Warhorse<br>||400    gp|60    ft.|540    lb.|
+#### **Mounts and Other Animals**
 
+| Item | Cost | Speed | Carrying Capacity |
+|------|------|-------|-------------------|
+| Camel | 50 gp | 50 ft. | 480 lb. |
+| Donkey or mule | 8 gp | 40 ft. | 420 lb. |
+| Elephant | 200 gp | 40 ft. | 1,320 lb. |
+| Horse, draft | 50 gp | 40 ft. | 540 lb. |
+| Horse, riding | 75 gp | 60 ft. | 480 lb. |
+| Mastiff | 25 gp | 40 ft. | 195 lb. |
+| Pony | 30 gp | 40 ft. | 225 lb. |
+| Warhorse | 400 gp | 60 ft. | 540 lb. |
 
+#### **Tack, Harness, and Drawn Vehicles**
 
-## **Tack, Harness, and Drawn Vehicles**
+| Item | Cost | Weight |
+|------|------|--------|
+| Barding | ×4 | ×2 |
+| Bit and bridle | 2 gp | 1 lb. |
+| Carriage | 100 gp | 600 lb. |
+| Cart | 15 gp | 200 lb. |
+| Chariot | 250 gp | 100 lb. |
+| Feed (per day) | 5 cp | 10 lb. |
+| _Saddle_ | | |
+| Exotic | 60 gp | 40 lb. |
+| Military | 20 gp | 30 lb. |
+| Pack | 5 gp | 15 lb. |
+| Riding | 10 gp | 25 lb. |
+| Saddlebags | 4 gp | 8 lb. |
+| Sled | 20 gp | 300 lb. |
+| Stabling (per day) | 5 sp | — |
+| Wagon | 35 gp | 400 lb. |
 
-|**Item**||**Cost**|**Weight**| |---|---|---|---| |Barding||×4|×2| |Bit    and    bridle||2    gp|1    lb.| |Carriage||100    gp|600    lb.| |Cart||15    gp|200    lb.| |Chariot||250    gp|100    lb.| |Feed    (per    day)||5    cp|10    lb.| |_Saddle_<br>Exotic||<br>60    gp|<br>40    lb.| |Military||20    gp|30    lb.| |Pack||5    gp|15    lb.| |Riding<br>Saddlebags||10    gp<br>4    gp|25    lb.<br>8    lb.| |Sled||20    gp|300    lb.| |Stabling    (per    day)||5    sp|—| |Wagon||35    gp|400    lb.| |||||
+#### **Waterborne Vehicles**
 
+| Item | Cost | Speed |
+|------|------|-------|
+| Galley | 30,000 gp | 4 mph |
+| Keelboat | 3,000 gp | 1 mph |
+| Longship | 10,000 gp | 3 mph |
+| Rowboat | 50 gp | 1½ mph |
+| Sailing ship | 10,000 gp | 2 mph |
+| Warship | 25,000 gp | 2½ mph |
 
-
-## **Waterborne Vehicles**
-
-|**Waterborne    Vehicles**|**Waterborne    Vehicles**| |---|---| |**Item**<br>**Cost**<br>**Speed**|| |<br>Galley<br>|<br> <br>30,000    gp<br>4    mph<br> <br>| |Keelboat<br>3,000    gp<br>1    mph|| |<br>Longship<br>|<br> <br>10,000    gp<br>3    mph<br> <br>| |Rowboat<br>50    gp<br>1½    mph|| |<br>Sailing    ship<br>|<br> <br>10,000    gp<br>2    mph<br> <br>| |Warship<br>25,000    gp<br>2½    mph||
-
-
-
-## **Trade Goods** 
+## **Trade Goods**
 
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-## **Trade Goods**
+#### **Trade Goods**
 
-|**Trade**|**Goods**| |---|---| |**Cost**<br>|**Goods**<br>| |1    cp<br>|1    lb.    of    wheat<br>| |2    cp<br>|1    lb.    of    flour    or    one    chicken<br>| |5    cp<br>|1    lb.    of    salt<br>| |1    sp<br>|1    lb.    of    iron    or    1    sq.    yd.    of    canvas<br>| |5    sp<br>|1    lb.    of    copper    or    1    sq.    yd.    of    cotton    cloth<br>| |1    gp<br>|1    lb.    of    ginger    or    one    goat<br>| |2    gp<br>|1    lb.    of    cinnamon    or    pepper,    or    one    sheep<br>| |3    gp<br>|1    lb.    of    cloves    or    one    pig<br>| |5    gp<br>|1    lb.    of    silver    or    1    sq.    yd.    of    linen<br>| |10    gp<br>|1    sq.    yd.    of    silk    or    one    cow<br>| |15    gp<br>|1    lb.    of    saffron    or    one    ox<br>| |50    gp<br>|1    lb.    of    gold<br>| |500    gp|1    lb.    of    platinum|
+| Cost | Goods |
+|------|-------|
+| 1 cp | 1 lb. of wheat |
+| 2 cp | 1 lb. of flour or one chicken |
+| 5 cp | 1 lb. of salt |
+| 1 sp | 1 lb. of iron or 1 sq. yd. of canvas |
+| 5 sp | 1 lb. of copper or 1 sq. yd. of cotton cloth |
+| 1 gp | 1 lb. of ginger or one goat |
+| 2 gp | 1 lb. of cinnamon or pepper, or one sheep |
+| 3 gp | 1 lb. of cloves or one pig |
+| 5 gp | 1 lb. of silver or 1 sq. yd. of linen |
+| 10 gp | 1 sq. yd. of silk or one cow |
+| 15 gp | 1 lb. of saffron or one ox |
+| 50 gp | 1 lb. of gold |
+| 500 gp | 1 lb. of platinum |
 
-
-
-## **Expenses** 
+## **Expenses**
 
 When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
 
-## **Lifestyle Expenses** 
+### **Lifestyle Expenses**
 
-Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls. At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-­‐‑day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career.
+Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls. At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-­day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career.
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
-## **Lifestyle Expenses**
+#### **Lifestyle Expenses**
 
-|**Lifestyle**<br>Wretched|**Price/Day**<br>—| |---|---| |Squalid|1    sp| |Poor|2    sp| |---|---| |Modest|1    gp| |Comfortable<br>Wealthy|2    gp<br>4    gp| |Aristocratic<br>|10    gp    minimum|
+| Lifestyle | Price/Day |
+|-----------|-----------|
+| Wretched | — |
+| Squalid | 1 sp |
+| Poor | 2 sp |
+| Modest | 1 gp |
+| Comfortable | 2 gp |
+| Wealthy | 4 gp |
+| Aristocratic | 10 gp minimum |
 
 
 
 _**Wretched.**_ You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
 
-_**Squalid.**_ You live in a leaky stable, a mud-­‐‑floored hut just outside town, or a vermin-­‐‑infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed, marked as exiles, or suffer from disease.
+_**Squalid.**_ You live in a leaky stable, a mud-­floored hut just outside town, or a vermin-­infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed, marked as exiles, or suffer from disease.
 
 _**Poor.**_ A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
 
 _**Modest.**_ A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like.
 
-_**Comfortable.**_ Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-­‐‑class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
+_**Comfortable.**_ Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-­class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
 
 _**Wealthy.**_ Choosing a wealthy lifestyle means living a life of luxury, though you might not have achieved the social status associated with the old money of nobility or royalty. You live a lifestyle comparable to that of a highly successful merchant, a favored servant of the royalty, or the owner of a few small businesses. You have respectable lodgings, usually a spacious home in a good part of town or a comfortable suite at a fine inn. You likely have a small staff of servants.
 
 _**Aristocratic.**_ You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.
 
-## **Self-Sufficiency** 
+#### **Self-Sufficiency**
 
 The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 
-Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-­‐consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
+Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-­consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
 
-## **Food, Drink, and Lodging** 
+### **Food, Drink, and Lodging**
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night’s lodging. These prices are included in your total lifestyle expenses.
 
-## **Food, Drink, and Lodging**
+#### **Food, Drink, and Lodging**
 
-|**Food,    Drink,    and**|**Lodgin**| |---|---| |**Item**|**Cost**| |_Ale_<br>|<br>| |Gallon<br>|2    sp<br>| |Mug|4    cp|
+| Item | Cost |
+|------|------|
+| _Ale_ | |
+| Gallon | 2 sp |
+| Mug | 4 cp |
+| Banquet (per person) | 10 gp |
+| Bread, loaf | 2 cp |
+| Cheese, hunk | 1 sp |
+| _Inn stay (per day)_ | |
+| Squalid | 7 cp |
+| Poor | 1 sp |
+| Modest | 5 sp |
+| Comfortable | 8 sp |
+| Wealthy | 2 gp |
+| Aristocratic | 4 gp |
+| _Meals (per day)_ | |
+| Squalid | 3 cp |
+| Poor | 6 cp |
+| Modest | 3 sp |
+| Comfortable | 5 sp |
+| Wealthy | 8 sp |
+| Aristocratic | 2 gp |
+| Meat, chunk | 3 sp |
+| _Wine_ | |
+| Common (pitcher) | 2 sp |
+| Fine (bottle) | 10 gp |
 
-|Banquet    (per    person)<br>|Banquet    (per    person)<br>|10    gp<br>| |---|---|---| |Bread,    loaf||2    cp| |Cheese,    hunk<br>_Inn    stay    (per    day)_<br>||1    sp<br> <br>| |Squalid<br>||7    cp<br>| |Poor<br>||1    sp<br>| |Modest<br>Comfortable<br>||5    sp<br>8    sp<br>| |Wealthy||2    gp| |Aristocratic||4    gp| |_Meals    (per    day)_<br>||<br>| |Squalid<br>||3    cp<br>| |Poor<br>||6    cp<br>| |Modest||3    sp| |Comfortable<br>||5    sp<br>| |Wealthy<br>Aristocratic||8    sp<br>2    gp| |Meat,    chunk||3    sp| |_Wine_||| |Common    (pitcher)||2    sp| |Fine    (bottle)<br>||10    gp|
-
-
-
-## **Services** 
+### **Services**
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the _secret chest_ spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke. Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-­‐‑level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-­‐‑term contract that includes a place to live within the stronghold as part of the offered compensation.
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the _secret chest_ spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke. Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-­level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-­term contract that includes a place to live within the stronghold as part of the offered compensation.
 
-## **Services** 
+#### **Services**
 
-|**Services**|| |---|---| |**Service**<br>_Coach    cab_<br>|**Pay**<br> <br>| |Between    towns<br>|3    cp    per    mile<br>| |Within    a    city|1    cp| |_Hireling_<br>|<br>| |Skilled<br>|2    gp    per    day<br>| |Untrained|2    sp    per    day| |Messenger<br>|2    cp    per    mile<br>| |Road    or    gate    toll<br>|1    cp<br>| |Ship’s    passage<br>|1    sp    per    mile|
-
-
+| Service | Pay |
+|---------|-----|
+| _Coach cab_ | |
+| Between towns | 3 cp per mile |
+| Within a city | 1 cp |
+| _Hireling_ | |
+| Skilled | 2 gp per day |
+| Untrained | 2 sp per day |
+| Messenger | 2 cp per mile |
+| Road or gate toll | 1 cp |
+| Ship's passage | 1 sp per mile |
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
-## **S ellcastin Services p g** 
+### **Spellcasting Services**
 
-People who are able to cast spells don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs. Hiring someone to cast a relatively common spell of 1st or 2nd level, such as _cure wounds_ or _identify_ , is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-­‐‑level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-­‐‑infested wilderness to deliver something important to a distant settlement.
+People who are able to cast spells don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs. Hiring someone to cast a relatively common spell of 1st or 2nd level, such as _cure wounds_ or _identify_ , is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-­level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-­infested wilderness to deliver something important to a distant settlement.
 
-## **Feats** 
+## **Feats**
 
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat’s description says otherwise. You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your Strength is restored.
 
-## **Gra ler pp** 
+### **Grappler**
 
 _Prerequisite: Strength 13 or higher_
 
-You’ve developed the skills necessary to hold your own in close-­‐‑quarters grappling. You gain the following benefits:
+You’ve developed the skills necessary to hold your own in close-­quarters grappling. You gain the following benefits:
 
-- You have advantage on attack rolls against a
-
-- creature you are grappling.
+- You have advantage on attack rolls against a creature you are grappling.
 
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-## **Using Ability Scores** 
+## **Using Ability Scores**
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
@@ -3587,11 +3949,11 @@ Six abilities provide a quick description of every creature’s physical and men
 
 - **Charisma** , measuring force of personality
 
-Is a character muscle-­‐‑bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
+Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
 
 The three main rolls of the game—the ability check, the saving throw, and the attack roll—rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
-## **Ability Scores and Modifiers** 
+## **Ability Scores and Modifiers**
 
 Each of a creature’s abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature’s training and competence in activities related to that ability.
 
@@ -3601,19 +3963,28 @@ Each ability also has a modifier, derived from the score and ranging from −5 (
 
 ## **Ability Scores and Modifiers**
 
-|**Score**<br>1|**Modifier**<br>−5| |---|---| |2–3|−4| |4–5|−3| |6–7<br>8–9|−2<br>−1| |10–11|+0|
-
-
-
-|12–13|+1| |---|---| |14–15|+2| |16–17<br>18–19|+3<br>+4| |20–21|+5| |22–23|+6| |24–25<br>26–27|+7<br>+8| |28–29|+9| |30|+10|
-
-
+| Score | Modifier |
+|-------|----------|
+| 1 | -5 |
+| 2-3 | -4 |
+| 4-5 | -3 |
+| 6-7 | -2 |
+| 8-9 | -1 |
+| 10-11 | +0 |
+| 12-13 | +1 |
+| 14-15 | +2 |
+| 16-17 | +3 |
+| 18-19 | +4 |
+| 20-21 | +5 |
+| 22-23 | +6 |
+| 24-25 | +7 |
+| 26-27 | +8 |
+| 28-29 | +9 |
+| 30 | +10 |
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down). Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
-## **Advantage and** 
-
-## **Disadvantage** 
+## **Advantage and Disadvantage**
 
 Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
@@ -3623,7 +3994,7 @@ When you have advantage or disadvantage and something in the game, such as the h
 
 You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
-## **Proficiency Bonus** 
+## **Proficiency Bonus**
 
 Characters have a proficiency bonus determined by level. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
 
@@ -3635,87 +4006,90 @@ By the same token, if a feature or effect allows you to multiply your proficienc
 
 In general, you don’t multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
 
-## **Ability Checks** 
+## **Ability Checks**
 
 An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results. For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-## **Typical Difficulty Classes**
+#### **Typical Difficulty Classes**
 
-|**Task    Difficulty**<br>Very    easy|**DC**<br>5| |---|---| |Easy|10| |Medium|15| |Hard<br>Very    hard|20<br>25| |Nearly    impossible|30|
-
-
+| Task Difficulty | DC |
+| --------------- | :---: |
+| Very Easy | 5 |
+| Easy | 10 |
+| Medium | 15 |
+| Hard | 20 |
+| Very Hard | 25 |
+| Nearly Impossible | 30 |
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
-## **Contests** 
+### **Contests**
 
 Sometimes one character’s or monster’s efforts are directly opposed to another’s. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal— for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest. Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
 
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
 
-## **Skills** 
+### **Skills**
 
 Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block.) For example, a Dexterity check might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability’s description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-## **Strength** 
+#### **Strength**
 
-- Athletics 
+- Athletics
 
-## **Dexterity** 
+#### **Dexterity**
 
-- Acrobatics 
+- Acrobatics
 
 - Sleight of Hand
 
-- Stealth 
+- Stealth
 
-## **Intelligence** 
+#### **Intelligence**
 
-- Arcana 
+- Arcana
 
-- History 
+- History
 
-- Investigation 
+- Investigation
 
-- Nature 
+- Nature
 
-- Religion 
+- Religion
 
-## **Wisdom** 
+#### **Wisdom**
 
 - Animal Handling
 
-- Insight 
+- Insight
 
-- Medicine 
+- Medicine
 
-- Perception 
+- Perception
 
-- Survival 
+- Survival
 
-## **Charisma** 
+#### **Charisma**
 
-- Deception 
+- Deception
 
-- Intimidation 
+- Intimidation
 
-- Performance 
+- Performance
 
-- Persuasion 
+- Persuasion
 
-Sometimes, the GM might ask for an ability check using a specific skill—for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means
-
-an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+Sometimes, the GM might ask for an ability check using a specific skill—for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character’s proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
 
-## **Variant: Skills with Different Abilities** 
+#### **Variant: Skills with Different Abilities**
 
 Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in Athletics, for example, usually applies to Strength checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your GM might call for a Constitution check to see if you have the stamina to make it that far. In this case, your GM might allow you to apply your proficiency in Athletics and ask for a Constitution (Athletics) check. So if you’re proficient in Athletics, you apply your proficiency bonus to the Constitution check just as you would normally do for a Strength (Athletics) check. Similarly, when your half-­‐‑orc barbarian uses a display of raw strength to intimidate an enemy, your GM might ask for a Strength (Intimidation) check, even though Intimidation is normally associated with Charisma.
 
-## **Passive Checks** 
+### **Passive Checks**
 
 A passive check is a special kind of ability check that doesn’t involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
 
@@ -3725,15 +4099,15 @@ Here’s how to determine a character’s total for a passive check:
 
 If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score** .
 
-For example, if a 1st-­‐‑level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+For example, if a 1st-­level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
 The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules.
 
-## **Workin To ether g g** 
+### **Working Together**
 
 Sometimes two or more characters team up to attempt a task. The character who’s leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action. A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves’ tools, so a character who lacks that proficiency can’t help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
 
-## **Group Checks** 
+#### **Group Checks**
 
 When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren’t.
 
@@ -3741,11 +4115,15 @@ To make a group ability check, everyone in the group makes the ability check. If
 
 Group checks don’t come up very often, and they’re most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
 
-## **Stren th g** 
+## **Using Each Ability** 
+
+Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+
+### **Strength**
 
 Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
 
-## **Strength Checks** 
+### **Strength Checks**
 
 A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
 
@@ -3755,7 +4133,7 @@ _**Athletics.**_ Your Strength (Athletics) check covers difficult situations you
 
 - You try to jump an unusually long distance or pull off a stunt midjump.
 
-- You struggle to swim or stay afloat in treacherous currents, storm-­‐‑tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+- You struggle to swim or stay afloat in treacherous currents, storm-­tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
 
 _**Other Strength Checks.**_ The GM might also call for a Strength check when you try to accomplish tasks like the following:
 
@@ -3771,15 +4149,11 @@ _**Other Strength Checks.**_ The GM might also call for a Strength check when yo
 
 - Keep a boulder from rolling
 
-## **Attack Rolls and Damage** 
+#### **Attack Rolls and Damage**
 
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-­‐‑ to-­‐‑hand combat, and some of them can be thrown to make a ranged attack.
+You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-­to-­hand combat, and some of them can be thrown to make a ranged attack.
 
-## **Lifting and Carrying** 
-
-## **Using Each Ability** 
-
-Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+#### **Lifting and Carrying**
 
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
@@ -3789,7 +4163,7 @@ _**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds up to 
 
 _**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
 
-## **Variant: Encumbrance** 
+#### **Variant: Encumbrance**
 
 The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table.
 
@@ -3797,17 +4171,21 @@ If you carry weight in excess of 5 times your Strength score, you are **encumber
 
 If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered** , which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
-## **Dexterit y** 
+### **Dexterity**
 
 Dexterity measures agility, reflexes, and balance.
 
-## **Dexterity Checks** 
+#### **Dexterity Checks**
 
-A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks. _**Acrobatics.**_ Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
 
-_**Sleight of Hand.**_ Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand)
+_**Acrobatics.**_ Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
 
-check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket. _**Stealth.**_ Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard. _**Other Dexterity Checks.**_ The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+_**Sleight of Hand.**_ Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
+
+_**Stealth.**_ Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+
+_**Other Dexterity Checks.**_ The GM might call for a Dexterity check when you try to accomplish tasks like the following:
 
 - Control a heavily laden cart on a steep descent
 
@@ -3825,33 +4203,35 @@ check. The GM might also call for a Dexterity (Sleight of Hand) check to determi
 
 - Craft a small or detailed object
 
-## **Attack Rolls and Damage** 
+#### **Attack Rolls and Damage**
 
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
-## **Armor Class** 
+#### **Armor Class**
 
 Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
 
-## **Initiative** 
+#### **Initiative**
 
 At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures’ turns in combat.
 
-## **Hiding** 
+#### **Hiding**
 
 The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
 
 You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
 
-An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet. In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen. _**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-­‐level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet. In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen. 
+
+_**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-­level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
 
 _**What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured** , as explained in "The Environment.”
 
-## **Constitution** 
+### **Constitution**
 
 Constitution measures health, stamina, and vital force.
 
-## **Constitution Checks** 
+#### **Constitution Checks**
 
 Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however. The GM might call for a Constitution check when you try to accomplish tasks like the following:
 
@@ -3865,11 +4245,9 @@ Constitution checks are uncommon, and no skills apply to Constitution checks, be
 
 - Quaff an entire stein of ale in one go
 
-## **Hit Points** 
+#### **Hit Points**
 
-Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points. If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll
-
-your hit points for 4th level using your new modifier. Or if you’re 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.
+Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points. If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll your hit points for 4th level using your new modifier. Or if you’re 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.
 
 ## **Intelligence** 
 
