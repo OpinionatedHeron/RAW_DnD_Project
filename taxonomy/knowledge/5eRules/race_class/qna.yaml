@@ -1,5 +1,5 @@
 version: 3
-domain: dnd5e
+domain: dnd5e_race_class
 created_by: opinionatedheron
 seed_examples:
 
@@ -124,4 +124,46 @@ seed_examples:
         answer: At 2nd level, you start with the ki features Flurry of Blows, Patient Defense, and Step of the Wind.
 
   - context: |
-      
+      Multiclassing
+
+      Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options. With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you’re a 5th-­level character.
+
+      As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-­class character of the same level, you’ll sacrifice some focus in exchange for versatility.
+
+      Prerequisites
+
+      To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-­than-­average ability scores.
+
+      Multiclassing Prerequisites
+
+      | Class | Ability Score Minimum |
+      | ----- | --------------------- |
+      | Barbarian | Strength 13 |
+      | Bard | Charisma 13 |
+      | Cleric | Wisdom 13 |
+      | Druid | Wisdom 13 |
+      | Fighter | Strength 13 or Dexterity 13 |
+      | Monk | Dexterity 13 and Wisdom 13 |
+      | Paladin | Strength 13 and Charisma 13 |
+      | Ranger | Dexterity 13 and Wisdom 13 |
+      | Rogue | Dexterity 13 |
+      | Sorcerer | Charisma 13 |
+      | Warlock | Charisma 13 |
+      | Wizard | Intelligence 13 |
+    questions_and_answers:
+      - question: If I have am a Cleric with a Wisdom score of 16 and all my other ability scores are 12 and under, what classes can I multiclass into?
+        answer: You can multiclass in a Druid as you have a Wisdom of 16. All other classes require additional ability scores of 13 or higher that you do not have.
+      - question: If I want to multiclass as a Barbarian, Bard, and Paladin, what prerequisites do I need to meet?
+        answer: To multiclass as a Barbarian, Bard, and Paladin, you must have at least a Strength score of 13 (for Barbarian and Paladin) and a Charisma score of 13 (for Bard and Paladin).
+      - question: How is your character level determined when multiclassing?
+        answer: Your character level is determined by adding together your levels in all your classes. For example, if you have three levels in wizard and two in fighter, you’re a 5th-level character.
+
+document_outline: |
+  Questions based on rules from the D&D 5 OGL, specifically related to race and class features and rules.
+
+document:
+  repo: https://github.com/OpinionatedHeron/RAW_DnD_Project.git
+  commit: e6155065077f9d5d95f637f69cda7b1f988c68a5
+  patterns:
+    - "data/D&D_5e_OGL_1.md"
+    - "D&D_5e_OGL.pdf"

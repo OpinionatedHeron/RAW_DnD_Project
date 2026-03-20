@@ -1,0 +1,4 @@
+Title: System Reference Document 5.1 ("SRD5")
+Source Wizards of the Coast
+License: Open Gaming License, Version 1.0a
+Link: https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf 
