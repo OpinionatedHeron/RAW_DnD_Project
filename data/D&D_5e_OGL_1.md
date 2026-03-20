@@ -16,11 +16,11 @@ OPEN GAME LICENSE Version 1.0a
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 
-1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; 
+1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content;
 
-    (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; 
+    (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted;
 
-    (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; 
+    (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute;
 
     (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity.
 
@@ -552,7 +552,7 @@ As a bard, you gain the following class features.
 
 **Skills:** Choose any three
 
-#### **Equipment** 
+#### **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
 

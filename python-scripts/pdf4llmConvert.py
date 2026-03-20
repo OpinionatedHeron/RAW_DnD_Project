@@ -1,5 +1,5 @@
 # Another script to convert PDF to Markdown, using the pymupdf4llm library which is designed for better formatting and structure in the output Markdown.
-# Doesn't have a GPU requirement, but should give better results than the fitz-based approach, as it is specifically built for converting PDFs to structured Markdown.
+# Doesn't have a GPU requirement, and should give better results than the fitz-based approach, as it is specifically built for converting PDFs to structured Markdown.
 # Source: https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html
 
 import pathlib
