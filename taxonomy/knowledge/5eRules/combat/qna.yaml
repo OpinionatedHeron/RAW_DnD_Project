@@ -1,0 +1,17 @@
+version: 3
+domain: dnd5e_combat
+created_by: opinionatedheron
+seed_examples:
+
+  - context: |
+      
+
+document_outline: |
+  Questions based on rules from the D&D 5 OGL, specifically related to combat.
+
+document:
+  repo: https://github.com/OpinionatedHeron/RAW_DnD_Project.git
+  commit: e6155065077f9d5d95f637f69cda7b1f988c68a5
+  patterns:
+    - "data/D&D_5e_OGL_1.md"
+    - "D&D_5e_OGL.pdf"
