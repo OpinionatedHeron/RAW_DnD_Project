@@ -4,7 +4,126 @@ created_by: opinionatedheron
 seed_examples:
 
   - context: |
-      
+      Advantage and Disadvantage
+
+      Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+
+      If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don’t roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20. If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+
+      When you have advantage or disadvantage and something in the game, such as the halfling’s Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+
+      You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+    questions_and_answers:
+      - question: If I have advantage from stealth and disadvantage from making a ranged attack on a prone creature, what do I actually roll?
+        answer: If you have both advantage and disadvantage on the same roll, they cancel each other out, and you would roll just one d20 as normal.
+      - question: What happens if I have advantage from multiple sources? Do I get double advantage? Can I roll three d20s and take the highest?
+        answer: No, you do not get double advantage. If you have advantage from multiple sources, you still only roll one additional d20 and take the higher of the two rolls. You do not roll three d20s.
+      - question: My character is a halfling with the Lucky trait, and they have disadvantage on an ability check. If they roll a 1 and a 13, can they use their Lucky trait to reroll the 1?
+        answer: Yes, the halfling can use their Lucky trait to reroll one of the dice. In this case, they would choose to reroll the 1, giving them another chance to get a better result.
+
+  - context: |
+     Ability Checks
+
+      An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results. For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
+
+      Typical Difficulty Classes
+
+      | Task Difficulty | DC |
+      | --------------- | :---: |
+      | Very Easy | 5 |
+      | Easy | 10 |
+      | Medium | 15 |
+      | Hard | 20 |
+      | Very Hard | 25 |
+      | Nearly Impossible | 30 |
+
+      To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
+
+      Contests
+
+      Sometimes one character’s or monster’s efforts are directly opposed to another’s. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal— for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest. Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+
+      If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
+    questions_and_answers:
+      - question: When I make an ability check, who decides the relevant ability and the DC?
+        answer: The GM (Game Master) decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class (DC).
+      - question: If I am making a roll against another creature in a contest, how is a winner determined?
+        answer: In a contest, both participants make ability checks appropriate to their efforts, apply all appropriate bonuses and penalties, and compare the totals of their two checks. The participant with the higher check total wins the contest.
+      - question: If a barbarian is trying to break down a door, and a paladin is trying to hold it closed, and they both roll a 15 on their respective checks, what happens?
+        answer: If both the barbarian and the paladin tie in their contest to break down or hold the door closed, the situation remains the same as it was before the contest. In this case, the door remains shut.
+
+  - context: |
+      Working Together
+
+      Sometimes two or more characters team up to attempt a task. The character who’s leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action. A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves’ tools, so a character who lacks that proficiency can’t help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+
+      Group Checks
+
+      When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren’t.
+
+      To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
+
+      Group checks don’t come up very often, and they’re most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+    questions_and_answers:
+      - question: A party wizard is trying to decipher an ancient text, the rogue is trying to help but they are not proficient in the relevant skill. How can they help?
+        answer: The rogue cannot provide help to the wizard in deciphering the ancient text because they are not proficient in the relevant skill. To provide help, a character must be able to attempt the task alone, which means they need to have proficiency in the relevant skill.
+      - question: If a party is trying to sneak through a dungeon. There are 5 members in the party and only 2 of them succeed on the DC 15 stealth check, does the group pass?
+        answer: No, the group does not pass. For a group ability check, at least half the group must succeed for the whole group to succeed. In this case, with 5 members in the party, at least 3 members would need to succeed on the DC 15 stealth check for the group to pass.
+      - question: A character is carfully trying to pour a dangerous liquid from one container to another. They have a friend who is trying to help, but the task is very delicate and requires a steady hand. Can the friend provide help in this situation?
+        answer: No, the friend cannot provide help in this situation because the task is very delicate and requires a steady hand. Some tasks are no easier with help, and in this case, providing help would not be productive.
+
+  - context: |
+      Dexterity Checks
+
+      A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+
+      Acrobatics. Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+
+      Sleight of Hand. Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
+
+      Stealth. Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+
+      Other Dexterity Checks. The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+
+      - Control a heavily laden cart on a steep descent
+      - Steer a chariot around a tight turn
+      - Pick a lock
+      - Disable a trap
+      - Securely tie up a prisoner
+      - Wriggle free of bonds
+      - Play a stringed instrument
+      - Craft a small or detailed object
+    questions_and_answers:
+      - question: I'm a DM and I am trying to determine what a player should roll if they are trying to pick pocket someone? What roll should I ask for?
+        answer: You should ask for a Dexterity (Sleight of Hand) check when a player is trying to pick pocket someone, as this action falls under the category of manual trickery and legerdemain.
+      - question: Is there ever a scenario where someone would have to make a general Dexterity check instead of a specific skill check like Acrobatics, Sleight of Hand, or Stealth?
+        answer: Yes, there are scenarios where a general Dexterity check might be called for instead of a specific skill check. For example, if a character is trying to control a heavily laden cart on a steep descent or steer a chariot around a tight turn.
+      - question: The party are trying to move stealthily over a frozen lake, is there one specifc check they should make or should they make multiple checks?
+        answer: The party should make a Dexterity (Stealth) check to determine if they can move stealthily over the frozen lake. If the GM determines that the situation is particularly challenging, they might call for multiple checks or apply disadvantage to reflect the difficulty of moving stealthily in such an environment.
+
+  - context: |
+      Attack Rolls and Damage
+      You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+
+      Armor Class
+      Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
+
+      Initiative
+      At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures’ turns in combat.
+
+      Hiding
+      The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+      You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
+      An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet. In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen. 
+
+      Passive Perception. When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-­level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+    questions_and_answers:
+      - question: Is an initiative roll considered to be an ability check?
+        answer: Yes, an initiative roll is considered to be a Dexterity check, which is a type of ability check. You roll a d20 and add your Dexterity modifier to determine your initiative order in combat.
+      - question: Can my dexterity modifier be added when making attack rolls with a martial weapon that does not have the finesse property?
+        answer: No, you cannot add your Dexterity modifier to attack rolls with a martial weapon that does not have the finesse property. You would typically add your Strength modifier for melee weapons without the finesse property and your Dexterity modifier for ranged weapons or melee weapons with the finesse property.
+      - question: A guard has a passive perception of 12, and a thief rolls a 13 on their stealth check. Does the guard notice the thief?
+        answer: No, the guard would not notice the thief because the thief's Dexterity (Stealth) check exceeds the guard's passive Wisdom (Perception) score of 12.
 
 document_outline: |
   Questions based on rules from the D&D 5 OGL, specifically related to ability scores and checks.
