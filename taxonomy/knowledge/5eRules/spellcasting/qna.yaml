@@ -1,0 +1,139 @@
+version: 3
+domain: dnd5e_spellcasting
+created_by: opinionatedheron
+seed_examples:
+
+  - context: |
+      Spell Slots
+      Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-­level spells are even more so. Thus, each spellcasting class’s description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-­level wizard Umara has four 1st-­level spell slots and two 2nd-­level slots.
+
+      When a character casts a spell, he or she expends a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-­level slot, larger for a spell of higher level. A 1st-­level spell fits into a slot of any size, but a 9th-­level spell fits only in a 9th-­level slot. So when Umara casts _magic missile,_ a 1st-­level spell, she spends one of her four 1st-­level slots and has three remaining.
+
+      Finishing a long rest restores any expended spell slots.
+
+      Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
+
+      Casting a Spell at a Higher Level
+      When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts _magic missile_ using one of her 2nd-­level slots, that _magic missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+
+      Some spells, such as magic missile and cure wounds, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
+    questions_and_answers:
+      - question: I'm playing a spellcaster and I have already used all my spell slots for the day. We are taking a short rest, can I regain any of my spell slots?
+        answer: No, you cannot regain spell slots during a short rest. Spell slots are only regained after a long rest.
+      - question: A character needs to upcast a spell to a higher level, how can they find out if it is more effective when cast at a higher level?
+        answer: The character can check the spell's description in the rulebook or on a spell card, which will indicate if there are additional effects or increased damage when the spell is cast using a higher-level spell slot.
+      - question: Our party was fighting an enemy and they seemed to be able to cast spells without using spell slots. How is that possible?
+        answer: Some characters and monsters have special abilities that allow them to cast spells without using spell slots. For example, a pit fiend from the Nine Hells can all cast spells in such a way.
+
+  - context: |
+      Casting a Spell
+      When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
+
+      Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
+
+      Casting Time
+      Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast.
+
+      Bonus Action
+      A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven’t already taken a bonus action this turn. You can’t cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
+
+      Reactions
+      Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so.
+    questions_and_answers:
+      - question: Can I cast a spell as a bonus action and then cast a cantrip with a casting time of 1 action in the same turn?
+        answer: Yes, you can cast a spell as a bonus action and then cast a cantrip with a casting time of 1 action in the same turn, as long as you haven't already taken a bonus action that turn.
+      - question: If I have already taken a bonus action on my turn, can I still cast a spell that requires a bonus action?
+        answer: No, you cannot cast a spell that requires a bonus action if you have already taken a bonus action on your turn.
+      - question: Can I cast two spells in the same turn if one is a reaction and the other is an action?
+        answer: Yes, you can cast one spell as an action and another spell as a reaction in the same turn, as long as the conditions for casting each spell are met.
+
+  - context: |
+      Duration
+      A spell’s duration is the length of time the spell persists. A duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spells are dispelled or destroyed.
+
+      Instantaneous
+      Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
+
+      Concentration
+      Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+
+      If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+
+      Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
+
+      Casting another spell that requires concentration. You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+
+      Taking damage. Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+
+      Being incapacitated or killed. You lose concentration on a spell if you are incapacitated or if you die.
+
+      The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
+    questions_and_answers:
+      - question: If I am concentrating on a spell and I take damage from multiple sources, how do I determine the DC for my Constitution saving throws?
+        answer: You would make a separate Constitution saving throw for each source of damage, and the DC for each saving throw would be 10 or half the damage you take from that source, whichever number is higher.
+      - question: Can I end concentration on a spell at any time, even if it's not my turn?
+        answer: Yes, you can end concentration on a spell at any time, and it does not require an action to do so.
+      - question: A cleric is currently concentrating on the spell Spirit Guardians and they cast Banishment, which also requires concentration. What happens in this situation?
+        answer: The cleric would lose concentration on Spirit Guardians when they cast Banishment, as you cannot concentrate on two spells at once. Banishment would then become the active spell.
+
+  - context: |
+      Components
+      A spell’s components are the physical requirements you must meet in order to cast it. Each spell’s description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can’t provide one or more of a spell’s components, you are unable to cast the spell.
+
+      Verbal (V)
+      Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can’t cast a spell with a verbal component.
+
+      Somatic (S)
+      Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+
+      Material (M)
+      Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+
+      If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
+
+      A spellcaster must have a hand free to access a spell’s material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.
+    questions_and_answers:
+      - question: A bard walks into an area under the effect of a silence spell, they go to cast Vicious Mockery, which has a verbal component. Can they cast the spell?
+        answer: No, the bard cannot cast Vicious Mockery while in an area affected by the silence spell, as it requires a verbal component and the silence spell prevents any sound from being made.
+      - question: If a druid is wielding both a staff and a shield, can they still perform the somatic components of a spell?
+        answer: They will be unable to cast a spell that requires somatic components if both of their hands are occupied with a staff and a shield, as they need at least one free hand to perform the necessary gestures.
+      - question: My character doesn't have a component pouch, but they do have a wand marked as a spellcasting focus. Do I still need to get the material components for my spells?
+        answer: If your wand is a spellcasting focus that can be used for the spells you want to cast, you can use it in place of the material components specified for those spells, as long as there is no cost indicated for the components. If a spell requires a material component with a specific cost, you would still need to acquire that component separately.
+
+  - context: |
+      Targets
+      A typical spell requires you to pick one or more targets to be affected by the spell’s magic. A spell’s description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).
+
+      Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature’s thoughts, typically goes unnoticed, unless a spell says otherwise.
+
+      A Clear Path to the Target
+      To target something, you must have a clear path to it, so it can’t be behind total cover.
+
+      If you place an area of effect at a point that you can’t see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.
+
+      Targeting Yourself
+      If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
+
+      Areas of Effect
+      Spells such as burning hands and cone of cold cover an area, allowing them to affect multiple creatures at once.
+
+      A spell’s description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a **point of origin** , a location from which the spell’s energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
+
+      A spell’s effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn’t included in the spell’s area. To block one of these imaginary lines, an obstruction must provide total cover.
+    questions_and_answers:
+      - question: Can I target myself with a spell that requires a creature of my choice as a target?
+        answer: Yes, you can target yourself with a spell that requires a creature of your choice as a target, unless the spell specifically states that the creature must be hostile or must be a creature other than you.
+      - question: If I cast an area of effect spell and there is an obstruction between me and the point of origin, where does the spell's effect occur?
+        answer: If there is an obstruction between you and the point of origin when you cast an area of effect spell, the point of origin comes into being on the near side of that obstruction.
+      - question: The spell Friends states that the creature realizes you used magic on it after the spell ends and becomes hostile to you. Is there a way to avoid this so they don't know I used magic on them?
+        answer: No, there is no way to avoid the creature realizing you used magic on it when casting the Friends spell, as the spell's description explicitly states that the creature becomes hostile to you after the spell ends.
+
+document_outline: |
+  Questions based on rules from the D&D 5 OGL, specifically related to spellcasting.
+
+document:
+  repo: https://github.com/OpinionatedHeron/RAW_DnD_Project.git
+  commit: e6155065077f9d5d95f637f69cda7b1f988c68a5
+  patterns:
+    - "data/D&D_5e_OGL_1.md"
+    - "D&D_5e_OGL.pdf"
