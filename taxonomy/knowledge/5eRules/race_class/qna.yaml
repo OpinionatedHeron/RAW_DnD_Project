@@ -120,7 +120,7 @@ seed_examples:
         answer: You regain ki points by finishing a short or long rest, during which you must spend at least 30 minutes meditating.
       - question: What is the saving throw DC for ki features that require a saving throw?
         answer: The saving throw DC for ki features is calculated as 8 + your proficiency bonus + your Wisdom modifier.
-      - question: What are the three ki features you start with at 2nd level? 
+      - question: What are the three ki features you start with at 2nd level?
         answer: At 2nd level, you start with the ki features Flurry of Blows, Patient Defense, and Step of the Wind.
 
   - context: |

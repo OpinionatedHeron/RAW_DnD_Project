@@ -79,7 +79,7 @@ seed_examples:
       Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike : a punch, kick, head‑butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
 
       Opportunity Attacks
-      In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack. 
+      In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack.
 
       You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
 
@@ -130,3 +130,4 @@ document:
   patterns:
     - "data/D&D_5e_OGL_1.md"
     - "D&D_5e_OGL.pdf"
+
