@@ -32,7 +32,7 @@ seed_examples:
         answer: You can use your breath weapon once per short or long rest.
       - question: What is the saving throw DC for a breath weapon?
         answer: The DC for the saving throw equals 8 + your Constitution modifier + your proficiency bonus.
-  
+
   - context: |
       Bardic Inspiration
 

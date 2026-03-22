@@ -4,7 +4,122 @@ created_by: opinionatedheron
 seed_examples:
 
   - context: |
-      
+      Surprise
+      A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+
+      The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
+
+      If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
+
+      Initiative
+      Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order. The GM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
+
+      The GM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.
+
+      If a tie occurs, the GM decides the order among tied GM-­controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
+    questions_and_answers:
+      - question: If a druid with a passive perception of 15 is the only one who notices a hidden goblin waiting to ambush the party, will the rest of the party be surprised when combat starts?
+        answer: Yes, the rest of the party will be surprised when combat starts because they did not notice the hidden goblin. The druid, however, would not be surprised since they have a passive perception of 15, which allows them to notice the goblin.
+      - question: How do I know what to roll for initiative in combat?
+        answer: To determine your initiative in combat, you roll a d20 and add your Dexterity modifier to the result. This total determines your place in the initiative order, which is ranked from highest to lowest.
+      - question: A character has a plan for a combat round, but they want to change their order in initiative. Can they do that?
+        answer: No, once initiative is rolled and the order is determined, it remains the same for the duration of the combat. A character cannot change their place in the initiative order after it has been established.
+
+  - context: |
+      Ready
+
+      Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
+
+      First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
+
+      When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
+
+      When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and ready _magic missile_ , your _web_ spell ends, and if you take damage before you release magic missile with your reaction, your concentration might be broken.
+    questions_and_answers:
+      - question: I prepared a readied action to pull a lever on a trapdoor, I then used my reaction to make an opportunity attack on another creature. Can I still pull the lever?
+        answer: No, you cannot pull the lever because you have already used your reaction to make the opportunity attack. You can only take one reaction per round, so once you have used it, you cannot use it again until the start of your next turn.
+      - question: A wizard wants to ready a ritual spell that takes 1 minute to cast. Can they do that?
+        answer: No, a wizard cannot ready a ritual spell that takes 1 minute to cast because the rules for readying a spell require that the spell has a casting time of 1 action.
+      - question: There is a character concentrating on a spell as part of their readied action. What happens if they are attacked by an enemy before their readied action triggers?
+        answer: If a character is concentrating on a spell as part of their readied action and they are attacked by an enemy before their readied action triggers, they must make a concentration saving throw. If they fail the saving throw, their concentration is broken, and the spell dissipates without taking effect.
+
+  - context: |
+      Attack Rolls
+      When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
+
+      Modifiers to the Roll
+      When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character’s proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
+
+      Ability Modifier. The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
+
+      Some spells also require an attack roll. The ability modifier used for a spell attack depends on the spellcasting ability of the spellcaster.
+
+      Proficiency Bonus. You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
+
+      Rolling 1 or 20
+      Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
+
+      If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit.
+
+      If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s AC.
+    questions_and_answers:
+      - question: If I roll a 1 on a d20 for an attack, the attacker has an AC of 9 and I have a +9 to hit, does the attack still miss?
+        answer: Yes, if you roll a 1 on a d20 for an attack, it is considered a critical failure, and the attack misses regardless of any modifiers or the target's AC.
+      - question: A character wields a finesse rapier and they have a +3 Strength modifier, is that added to their attack roll?
+        answer: Yes, if they wish to use their Strength to attack. Finesse weapons allow the wielder to choose either Strength or Dexterity when attacking, but they need to choose the same modifer for both the attack and damage rolls.
+      - question: What is a critical hit and how does it work in combat?
+        answer: A critical hit occurs when you roll a 20 on a d20 for an attack roll. When this happens, the attack hits regardless of any modifiers or the target's AC.
+
+  - context: |
+      Melee Attacks
+      Used in hand-­to-­hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
+
+      Most creatures have a 5-­foot reach and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
+
+      Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike : a punch, kick, head‑butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
+
+      Opportunity Attacks
+      In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack. 
+
+      You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
+
+      You can avoid provoking an opportunity attack by taking the Disengage action. You also don’t provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don’t provoke an opportunity attack if an explosion hurls you out of a foe’s reach or if gravity causes you to fall past an enemy.
+    questions_and_answers:
+      - question: Does firing a bow count as a melee attack?
+        answer: No, firing a bow does not count as a melee attack. It is considered a ranged weapon attack. Melee attacks are made with handheld weapons or unarmed strikes against targets within your reach.
+      - question: A fighter weilding a pole arm has a reach of 10 feet. If an enemy moves from 5 feet away to 10 feet away, does that provoke an opportunity attack?
+        answer: No, moving from 5 feet away to 10 feet away does not provoke an opportunity attack because the enemy is still within the fighter's reach of 10 feet. Opportunity attacks are only provoked when a hostile creature moves out of your reach.
+      - question: In the middle of combat, an explosion goes off and hurls a character out of an enemy's reach. Does that provoke an opportunity attack?
+        answer: No, the explosion does not provoke an opportunity attack because it is not considered movement that you control. Opportunity attacks are only provoked when you move out of an enemy's reach using your movement, action, or reaction.
+
+  - context: |
+      Dropping to 0 Hit Points
+      When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
+
+      Instant Death
+      Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
+
+      For example, a cleric with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point maximum, the cleric dies.
+
+      Falling Unconscious
+
+      If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix PH-­A). This unconsciousness ends if you regain any hit points.
+
+      Death Saving Throws
+      Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on a saving throw.
+
+      Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
+
+      Rolling 1 or 20. When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
+
+      Damage at 0 Hit Points. If you take any damage while you have 0 hit points, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point maximum, you suffer instant death.
+    questions_and_answers:
+      - question: If I take damage that reduces me to 0 hit points, but the remaining damage does not equal or exceed my hit point maximum, do I die or fall unconscious?
+        answer: You would fall unconscious. You only die if the remaining damage equals or exceeds your hit point maximum. If it does not, you fall unconscious instead.
+      - question: If I am unconscious at 0 hit points and I take damage from a critical hit, how many death saving throw failures do I suffer?
+        answer: If you take damage from a critical hit while unconscious at 0 hit points, you suffer two death saving throw failures.
+      - question: A sorcerer has 12 hit points total, and takes damage from a spell that deals 28 point of damage. What happens to the sorcerer?
+        answer: The sorcerer would be killed instantly because the remaining damage (28 - 12 = 16) equals or exceeds their hit point maximum of 12.
 
 document_outline: |
   Questions based on rules from the D&D 5 OGL, specifically related to combat.
