@@ -7,3 +7,5 @@ env/
 __pycache__/
 *.py[cod]
 
+# Ignore large data files - instructlab crashed, data not usable
+synthetic-datasets/**/test_*.jsonl
