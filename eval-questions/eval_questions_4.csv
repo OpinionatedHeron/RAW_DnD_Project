@@ -1,0 +1,48 @@
+q_id,gold_question,gold_answer,origin
+67,Can a Monk use Flurry of Blows if they took the Attack action but didn't make any unarmed strikes with it?,"Yes, they only need to take the attack action to use flurry of blows, they do not need to specifically make an unarmed strike",claude_gen
+130,How does the Underwater Combat rule affect a ranged weapon attack made with a Longbow against a target within the weapon's normal range?,Any attack from a longbow made underwater within its normal range will have disadvantage on the attack,gemini_gen
+17,How many skills should a rogue have expertise in at 6th level?,4 skills with expertise - 2 gained at 1st level and 2 more at 6th level,human_gen
+127,"When casting a spell with a Material component that has a specific gold cost, can a Spellcasting Focus be used in its place?","No, if a material component has a specific gold cost, then that cost is needed to cast the spell even with a spellcasting focus",gemini_gen
+116,"If a creature has Resistance to all damage and is hit by an attack that deals 11 damage, what is the final amount of damage recorded?",The final damage would be 5 damage as you would round down for uneven damage,gemini_gen
+61,Can you use the Help action to give advantage on a skill check that will be made outside of combat?,"Yes, the help action can be used outside of combat to help give another player advantage on an ability check",claude_gen
+14,"At level 16, what is a paladin's Lay on Hands Pool?",80 (5 times paladin level),human_gen
+96,"If a Barbarian is Raging and has the Mindless Rage feature (Path of the Berserker), what happens to the Frightened condition if it was already affecting them before they entered their Rage?","If they enter Mindless Rage with the Frightened condition already affecting them, then the condition is suspended (not active) while they are raging. The condition returns if their rage ends, unless it has be ended in some other way while raging",gemini_gen
+99,"If a character is Grappled by a creature, can they still use their Reaction to make an Opportunity Attack against a different creature moving out of their reach?","Yes, they can still use their reaction to make an Opportunity Attack. Grappled just reduces their speed to 0",gemini_gen
+112,"If a character is Mounted and their mount is forced to move by a Thunderwave spell, what specific saving throw must the rider make to avoid falling off?",They must succeed on a DC 10 Dexterity Saving Throw to avoid falling off the mount,gemini_gen
+128,"If a character is wearing Heavy Armor but does not meet the Strength requirement, how is their movement speed affected if they are also moving through Difficult Terrain?","If a character does not have the necessary strength to wear heavy armor, their speed is reduced by 10 feet. If areas of difficult terrain, their lowered speed would then be reduced to half while navigating through the difficult terrain",gemini_gen
+16,"What is favored terrain? What are the options for it? What are the benefits, if any?","Favored Terrain is a part of the Ranger Class feature Natural Explorer. Options for favored terrain include arctic, coast, desert, forest, grassland, mountain, swamp.
+
+Benefits:
+Intelligence or Wisdom Check related to terrain - proficiency bonus is doubled if you are proficient in skill
+
+While travelling in favored terrain for an hour of more:
+Difficult terrain doesn't slow group
+Group doesn't get lost, except by magic
+Remain alert to danger
+Can move stealthy at normal pace alone
+Find twice as much food when foraging
+Learn extra information when tracking creatures",human_gen
+89,A 5th-level Barbarian / 5th-level Fighter has the Extra Attack feature from both classes. How many total attacks can they make when they take the Attack action?,"They would only be able to attack twice, they do not get the extra attack benefit from both classes",gemini_gen
+39,"If a concentration spell has a duration of ""up to 1 minute"" and the caster stops concentrating after 30 seconds, do they get the spell slot back?","No, once the spell is cast, the spell slot is gone, even if they drop concentration early",claude_gen
+11,What class feature allows a character to land a critical hit on a 19 or 20 on the die?,"Fighter with Champion subclass - class feature is Improved Critical
+
+Later feature, Superior Critical allows a critical hit on an 18 - 20",human_gen
+81,"If a magical weapon has both a +1 bonus and an additional property, does it count as one or two attuned items?","The weapon only counts as attuned if it is an attuned weapon. It is not automatically an atuned weapon just because it has specific magical properties. Also attunement is based on the item, not the number of magical abilities the item has",claude_gen
+119,"If a spell has a duration of ""Concentration, up to 1 minute,"" and the caster is knocked Unconscious, when exactly does the spell end?",The spell ends as soon as they are knocked unconscious because they can no longer concentrate on the spell,gemini_gen
+105,"If a creature is Squeezing into a smaller space and attempts to make an attack, how does its state affect the attack roll?","If they are squeezing into a smaller space, they have disadvantage on any attack rolls, while in the small space",gemini_gen
+26,Please list all weapons that have the versatile property,"Quarterstaff, Spear, Battleaxe, Longsword, Warhammer, Trident",human_gen
+13,"My paladin has a 17 in Constitution, what are their hit points at first level?",13 : 10 + 3 (Constitution modifier - a 17 in Constitution is equal to a +3 bonus),human_gen
+53,Can a blinded creature make opportunity attacks against creatures it can hear?,"No, the rule as written is that when a creature you can see moves out of range. A blinded creature cannot see someone move out of range, even if it can hear",claude_gen
+124,"If a spell’s range is Touch, can a Sorcerer use Distant Spell to make the range 30 feet?","Yes, they can make the range 30 feet with distant spell",gemini_gen
+94,"If a Rogue uses the Uncanny Dodge reaction against an attack, but is also wearing armor they are not proficient in, how does the disadvantage from the armor interact with the damage reduction?",The armor disadvantage should not affect the damage reduction,gemini_gen
+50,"When an attack roll is made with a ranged weapon against a prone target, does the attack have advantage if you're within 5 feet and disadvantage because they're prone?","If a character has advantage and disadvantage, they cancel out and it is a straight attack roll",claude_gen
+29,How much would a basic greataxe cost?,30 gold pieces,human_gen
+75,"If a Wizard uses Arcane Recovery during a short rest, can they then cast ritual spells without expending spell slots during the remainder of that short rest?","No, a wizard cannot use their Arcane Recovery if they cast a ritual spell as a ritual spell it is too strenuous an activity to be considered a short rest.",claude_gen
+31,"If a wizard casts Hold Person (concentration) and then on their next turn uses Action Surge from a multiclass fighter level to cast another concentration spell, which spell remains active?",The second spell remains active and Hold Person drops,claude_gen
+32,Can a sorcerer use Subtle Spell metamagic to cast a spell while under the effect of Silence?,"Yes they can, Subtle Spell allows a spell to be cast without any somatic or verbal components",claude_gen
+1,What playable races have darkvision out to 60ft?,"Dwarf, Elf, Gnome, Half-Elf, Half-Orc, Tiefling",human_gen
+21,"If I play a 7th level wizard and I was to use Arcane Recovery on a short rest, how many spell slots can I recover?",The spells slots that you can recover can have a combined level of 4 (half wizard level rounded up).,human_gen
+73,"If a character takes a short rest but is interrupted with 1 minute remaining, do they gain the benefits of the short rest?","Technically, if they are interrupted even a minute before they complete the full one hour short rest, they do not gain the benefits of a short rest at all",claude_gen
+66,Does a Paladin's Aura of Protection add to their own saving throws if they're making a save?,"Yes, whenever you or a friendly creature within 10 feet makes a saving throw they get to add the aura bonus",claude_gen
+35,"If a Cleric casts Spiritual Weapon (bonus action) and has already cast a leveled spell using their action this turn via some means, is this legal under spellcasting rules?","No, this is not legal under spellcasting rules. You can only cast a level spell and a cantrip on your turn.",claude_gen
+115,Can a Wizard cast a spell as a Ritual if that spell is in their spellbook but is not one of their currently prepared spells?,"Yes, wizards can cast ritual spells (only as a ritual) even if the spell in not one of their prepared spells for the day",gemini_gen
