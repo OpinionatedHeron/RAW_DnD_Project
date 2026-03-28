@@ -4,7 +4,13 @@ load_dotenv()  # Load environment variables from .env file
 
 import time
 import os
-import openai, anthropic, google.generativeai as genai
+# Importing Antrhopic - will be using Clade Opus 4.6 for evaluation
+import anthropic
+# Importing OpenAI - will be using GPT-5.4 for evaluation
+from openai import OpenAI
+# Importing Google GenAI - will be using Gemini 3.1 Pro Preview for evaluation
+from google import genai
+from google.genai import types
 
 # Cost Per 1 Million Tokens in USD according to model pricing site as of March 2026
 PRICING = {
@@ -14,7 +20,7 @@ PRICING = {
 }
 
 def call_gpt(prompt: str, system: str = "") -> dict:
-    client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
     start = time.time()
     response = client.chat.completions.create(
         model = "gpt-5.4",
@@ -62,15 +68,15 @@ def call_claude(prompt: str, system: str = "") -> dict:
     }
 
 def call_gemini(prompt: str, system: str = "") -> dict:
-    genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
-    model = genai.GenerativeModel(
-        model_name="gemini-3.1-pro-preview",
-        system_instruction=system
-    )
+    client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
     start = time.time()
-    response = model.generate_content(
-        prompt,
-        generation_config=genai.GenerationConfig(max_output_tokens=500, temperature=0.3)
+    response = client.models.generate_content(
+        model="gemini-3.1-pro-preview",
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            system_instructions=system,
+            max_output_tokens=500, # Adjust as needed
+            temperature=0.3, # Adjust as needed
     )
     latency = (time.time() - start) * 1000
     meta = response.usage_metadata
