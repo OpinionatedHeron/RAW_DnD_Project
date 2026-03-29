@@ -4,8 +4,8 @@ import json
 import pathlib
 import pandas as pd
 
-INPUT = pathlib.Path("eval-results/context_stuffing_results.jsonl")
-OUTPUT = pathlib.Path("eval-results/context_stuffing_results.xlsx")
+INPUT = pathlib.Path("eval-results/rag_results.jsonl")
+OUTPUT = pathlib.Path("eval-results/rag_results.xlsx")
 
 # Can adjust the file paths as needed
 with open(INPUT) as file:
