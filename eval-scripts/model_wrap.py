@@ -12,11 +12,11 @@ import anthropic
 # Importing OpenAI - will be using GPT-5.4 for evaluation
 from openai import OpenAI
 
-'''
+"""
 # Importing Google GenAI - will be using Gemini 3.1 Pro Preview for evaluation
 from google import genai
 from google.genai import types
-'''
+"""
 
 # Cost Per 1 Million Tokens in USD according to model pricing site as of March 2026
 PRICING = {
@@ -79,7 +79,8 @@ def call_claude(prompt: str, system: str = "") -> dict:
         "cost": round(cost, 6),
     }
 
-'''
+
+"""
 Commenting out due to rate limit issues with Gemini Pro Preview - would not be able to set rate limit high enough to run all evaluations
 
 def call_gemini(prompt: str, system: str = "") -> dict:
@@ -109,5 +110,4 @@ def call_gemini(prompt: str, system: str = "") -> dict:
         "latency_ms": round(latency, 1),
         "cost": round(cost, 6),
     }
-'''
-
+"""
