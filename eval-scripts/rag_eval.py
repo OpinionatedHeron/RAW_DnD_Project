@@ -6,7 +6,8 @@ import pathlib
 from model_wrap import (
     call_gpt,
     call_claude,
-)  # , call_gemini - commenting out due to rate limit issues with Gemini Pro Preview
+    call_gemini, 
+)
 from rag_pipeline import retrieve
 
 RAG_SYSTEM_PROMPT = """You are a Dungeons & Dragons 5th edition rules expert, with specific knowledge and focus on the System Reference Document v5.1.
@@ -25,7 +26,7 @@ Question: {question}"""
 
 # Very similar to context stuffing, but with the retrieved chunks as context instead of the entire document
 questions = []
-with open("eval-questions/eval_questions_1.jsonl", "r", encoding="utf-8") as f:
+with open("eval-questions/eval_questions_2.jsonl", "r", encoding="utf-8") as f:
     for line in f:
         questions.append(json.loads(line))
 
@@ -33,7 +34,7 @@ results = []
 MODELS = {
     "gpt-5.4": call_gpt,
     "claude-opus-4-6": call_claude,
-    # "gemini-3.1-pro-preview": call_gemini,  # commenting out due to rate limit issues with Gemini Pro Preview
+    "gemini-3.1-pro-preview": call_gemini,
 }
 
 for model_name, call_fn in MODELS.items():
@@ -73,10 +74,10 @@ for model_name, call_fn in MODELS.items():
             )
 
 pathlib.Path("eval-results").mkdir(exist_ok=True)
-with open("eval-results/rag_results.jsonl", "a", encoding="utf-8") as f:
+with open("eval-results/rag_results_2.jsonl", "a", encoding="utf-8") as f:
     for result in results:
         f.write(json.dumps(result) + "\n")
 
 print(
-    f"Completed evaluation of {len(questions)} questions across {len(MODELS)} models. Results saved to eval-results/rag_results.jsonl"
+    f"Completed evaluation of {len(questions)} questions across {len(MODELS)} models. Results saved to eval-results/rag_results_2.jsonl"
 )

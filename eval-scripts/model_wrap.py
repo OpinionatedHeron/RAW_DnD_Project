@@ -12,15 +12,19 @@ import anthropic
 # Importing OpenAI - will be using GPT-5.4 for evaluation
 from openai import OpenAI
 
-"""
-# Importing Google GenAI - will be using Gemini 3.1 Pro Preview for evaluation
+
 from google import genai
 from google.genai import types
-"""
+
 
 # Cost Per 1 Million Tokens in USD according to model pricing site as of March 2026
 PRICING = {
-    "claude-opus-4-6": {"input": 5.00, "output": 25.00},
+    "claude-opus-4-6": {
+        "input": 5.00,
+        "output": 25.00,
+        "cache_write": 6.25,
+        "cache_read": 0.50,
+    },
     "gpt-5.4": {"input": 2.50, "output": 15.00},
     "gemini-3.1-pro-preview": {"input": 4.00, "output": 18.00},
 }
@@ -80,8 +84,36 @@ def call_claude(prompt: str, system: str = "") -> dict:
     }
 
 
-"""
-Commenting out due to rate limit issues with Gemini Pro Preview - would not be able to set rate limit high enough to run all evaluations
+def call_claude_cache(prompt: str, system: str = "") -> dict:
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    start = time.time()
+    response = client.messages.create(
+        model="claude-opus-4-6",
+        max_tokens=500,  # Adjust as needed
+        temperature=0.3,  # Adjust as needed
+        system=[
+            {"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}
+        ],  # Cache system prompt for this call only
+        messages=[{"role": "user", "content": prompt}],
+    )
+    latency = (time.time() - start) * 1000
+    usage = response.usage
+    price = PRICING["claude-opus-4-6"]
+    cost = (
+        usage.input_tokens * price["input"]
+        + usage.output_tokens * price["output"]
+        + getattr(usage, "cache_creation_input_tokens", 0) * price["cache_write"]
+        + getattr(usage, "cache_read_input_tokens", 0) * price["cache_read"]
+    ) / 1_000_000
+    return {
+        "answer": response.content[0].text,
+        "finish_reason": response.stop_reason,
+        "input_tokens": usage.input_tokens,
+        "output_tokens": usage.output_tokens,
+        "latency_ms": round(latency, 1),
+        "cost": round(cost, 6),
+    }
+
 
 def call_gemini(prompt: str, system: str = "") -> dict:
     client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
@@ -110,4 +142,3 @@ def call_gemini(prompt: str, system: str = "") -> dict:
         "latency_ms": round(latency, 1),
         "cost": round(cost, 6),
     }
-"""

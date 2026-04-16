@@ -54,8 +54,8 @@ def all_scores():
 
     all_results = []
     for path in [
-        "eval-results/context_stuffing_results.jsonl",
-        "eval-results/rag_results.jsonl",
+        "eval-results/context_stuffing_results_2.jsonl",
+        "eval-results/rag_results_2.jsonl",
     ]:
         with open(path, encoding="utf-8") as f:
             all_results.extend([json.loads(line) for line in f if line.strip()])
@@ -84,11 +84,11 @@ def all_scores():
         r.update(judge_result)
 
     # Save all results with scores to a new JSONL file
-    with open("eval-results/all_results_with_scores.jsonl", "a", encoding="utf-8") as f:
+    with open("eval-results/all_results_with_scores_2.jsonl", "a", encoding="utf-8") as f:
         for r in all_results:
             f.write(json.dumps(r) + "\n")
     print(
-        f"\nCompleted scoring of {len(valid)} results. All results with scores saved to eval-results/all_results_with_scores.jsonl"
+        f"\nCompleted scoring of {len(valid)} results. All results with scores saved to eval-results/all_results_with_scores_2.jsonl"
     )
 
 all_scores()

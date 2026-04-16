@@ -3,11 +3,13 @@
 
 import json
 import pathlib
+import time
 
 from model_wrap import (
     call_gpt,
-    call_claude,
-)  # call_gemini - commented out for now since Gemini API is currently broken and causing errors
+    call_claude_cache,
+    call_gemini,
+)
 
 # Load the source document as context for the models
 SOURCE_DOC = pathlib.Path("data/D&D_5e_OGL_1.md").read_text(encoding="utf-8")
@@ -24,16 +26,18 @@ Here is the context:
 
 # Load the evaluation questions
 questions = []
-with open("eval-questions/eval_questions_1.jsonl", "r", encoding="utf-8") as f:
+with open("eval-questions/eval_questions_2.jsonl", "r", encoding="utf-8") as f:
     for line in f:
         questions.append(json.loads(line))
 
 results = []
 MODELS = {
     "gpt-5.4": call_gpt,
-    "claude-opus-4-6": call_claude,
-    # "gemini-3.1-pro-preview": call_gemini, # commenting out due to rate limit issues with Gemini Pro Preview
+    "claude-opus-4-6": call_claude_cache,
+    "gemini-3.1-pro-preview": call_gemini, # commenting out due to rate limit issues with Gemini Pro Preview
 }
+
+GEMINI_DELAY = 15 # Adding a 15 second delay between Gemini calls to try to avoid hitting rate limits
 
 for model_name, call_fn in MODELS.items():
     print(f"Evaluating model: {model_name}")
@@ -68,12 +72,14 @@ for model_name, call_fn in MODELS.items():
                     "error": str(e),
                 }
             )
+        if model_name == "gemini-3.1-pro-preview":
+            time.sleep(GEMINI_DELAY)  # Delay between Gemini calls to avoid rate limits
 
 pathlib.Path("eval-results").mkdir(exist_ok=True)
-with open("eval-results/context_stuffing_results.jsonl", "a", encoding="utf-8") as f:
+with open("eval-results/context_stuffing_results_2.jsonl", "a", encoding="utf-8") as f:
     for result in results:
         f.write(json.dumps(result) + "\n")
 
 print(
-    f"Completed evaluation of {len(questions)} questions across {len(MODELS)} models. Results saved to eval-results/context_stuffing_results.jsonl"
+    f"Completed evaluation of {len(questions)} questions across {len(MODELS)} models. Results saved to eval-results/context_stuffing_results_2.jsonl"
 )
