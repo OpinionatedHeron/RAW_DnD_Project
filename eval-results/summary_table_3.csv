@@ -1,0 +1,7 @@
+model,test,avg_latency_ms,avg_bert_score,avg_judge_score,total_cost,count
+claude-opus-4-6,context-stuffing,9422.42,0.84,1.82,10.13,34
+claude-opus-4-6,rag,8007.73,0.83,1.79,0.4,34
+gemini-3.1-pro-preview,context-stuffing,13739.64,0.85,1.03,54.36,34
+gemini-3.1-pro-preview,rag,4972.08,0.85,0.74,0.11,34
+gpt-5.4,context-stuffing,57362.34,0.85,1.82,32.77,34
+gpt-5.4,rag,2725.87,0.85,1.56,0.12,34

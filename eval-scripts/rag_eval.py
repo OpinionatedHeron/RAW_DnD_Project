@@ -26,7 +26,7 @@ Question: {question}"""
 
 # Very similar to context stuffing, but with the retrieved chunks as context instead of the entire document
 questions = []
-with open("eval-questions/eval_questions_2.jsonl", "r", encoding="utf-8") as f:
+with open("eval-questions/eval_questions_3.jsonl", "r", encoding="utf-8") as f:
     for line in f:
         questions.append(json.loads(line))
 
@@ -74,10 +74,10 @@ for model_name, call_fn in MODELS.items():
             )
 
 pathlib.Path("eval-results").mkdir(exist_ok=True)
-with open("eval-results/rag_results_2.jsonl", "a", encoding="utf-8") as f:
+with open("eval-results/rag_results_3.jsonl", "a", encoding="utf-8") as f:
     for result in results:
         f.write(json.dumps(result) + "\n")
 
 print(
-    f"Completed evaluation of {len(questions)} questions across {len(MODELS)} models. Results saved to eval-results/rag_results_2.jsonl"
+    f"Completed evaluation of {len(questions)} questions across {len(MODELS)} models. Results saved to eval-results/rag_results_3.jsonl"
 )

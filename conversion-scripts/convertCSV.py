@@ -4,8 +4,8 @@ import pathlib
 import sys
 
 # Can change name to whatever csv file you want to convert, make sure to change the output path as well
-CSV_PATH = "eval-questions/eval_questions_2.csv"
-OUTPUT_PATH = "eval-questions/eval_questions_2.jsonl"
+CSV_PATH = "eval-questions/eval_questions_3.csv"
+OUTPUT_PATH = "eval-questions/eval_questions_3.jsonl"
 
 REQUIRED_FIELDS = {"q_id", "gold_question", "gold_answer", "origin"}
 

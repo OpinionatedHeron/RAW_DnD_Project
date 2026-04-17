@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 records = []
-with open("eval-results/all_results_with_scores_2.jsonl", "r", encoding="utf-8") as f:
+with open("eval-results/all_results_with_scores_3.jsonl", "r", encoding="utf-8") as f:
     for line in f:
         records.append(json.loads(line))
   
@@ -22,7 +22,7 @@ summary = table.groupby(["model", "test"]).agg(
 ).round(2)
 
 print(summary.to_string())
-summary.to_csv("eval-results/summary_table_2.csv")
+summary.to_csv("eval-results/summary_table_3.csv")
 
 # Graphing the average LLM judge score, average BERTScore, and average latency for each model and test type in a bar chart for easier comparison
 fig, axes = plt.subplots(1, 3, figsize=(14, 6))
@@ -36,8 +36,8 @@ for ax, metric, label in zip(axes, ["avg_judge_score", "avg_bert_score", "avg_la
     ax.legend()
     
 plt.tight_layout()
-plt.savefig("eval-results/comparison_chart_2.png", dpi=150)
-print("Chart saved to eval-results/comparison_chart_2.png")
+plt.savefig("eval-results/comparison_chart_3.png", dpi=150)
+print("Chart saved to eval-results/comparison_chart_3.png")
 
 # Scatter graph of cost vs accuracy
 fig2, ax2 = plt.subplots(figsize=(14, 6))
@@ -55,5 +55,5 @@ ax2.set_ylabel("Average LLM Judge Score")
 ax2.legend()
 
 plt.tight_layout()
-plt.savefig("eval-results/cost_vs_accuracy_2.png", dpi=150)
-print("Cost vs Accuracy chart saved to eval-results/cost_vs_accuracy_2.png")
+plt.savefig("eval-results/cost_vs_accuracy_3.png", dpi=150)
+print("Cost vs Accuracy chart saved to eval-results/cost_vs_accuracy_3.png")
