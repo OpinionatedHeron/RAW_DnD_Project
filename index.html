@@ -5,54 +5,214 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Final Project - Rules as Written</title>
     <style>
-      .main-container {
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: system-ui, -apple-system, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        min-height: 100vh;
+        padding: 40px 20px;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+      }
+
+      .header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 40px;
+        text-align: center;
+      }
+
+      .header h1 {
+        font-size: 2.5em;
+        margin-bottom: 10px;
+        font-weight: 600;
+      }
+
+      .header .subtitle {
+        font-size: 1.2em;
+        opacity: 0.9;
+        font-weight: 300;
+      }
+
+      .main-content {
         display: flex;
+        align-items: flex-start;
+        gap: 40px;
+        padding: 40px;
+      }
+
+      .profile-section {
+        flex-shrink: 0;
+        text-align: center;
+      }
+
+      .profile-img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 4px solid #667eea;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+      }
+
+      .author-name {
+        margin-top: 15px;
+        font-size: 1.1em;
+        font-weight: 600;
+        color: #555;
+      }
+
+      .content-section {
+        flex: 1;
+      }
+
+      .description {
+        font-size: 1.1em;
+        line-height: 1.7;
+        margin-bottom: 30px;
+        color: #555;
+      }
+
+      .description p {
+        margin-bottom: 20px;
+      }
+
+      .button-container {
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+      }
+
+      .btn {
+        display: inline-flex;
         align-items: center;
-        gap: 20px;
-      }
-
-      .github-link {
-        color: #0969da;
+        gap: 10px;
+        padding: 12px 24px;
         text-decoration: none;
-        margin-top: 20px;
+        border-radius: 8px;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        cursor: pointer;
+        border: none;
+        font-size: 1em;
       }
 
-      .github-link:hover {
-        text-decoration: underline;
+      .btn-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+      }
+
+      .btn-primary:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+      }
+
+      .btn-secondary {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        color: white;
+      }
+
+      .btn-secondary:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(245, 87, 108, 0.3);
+      }
+
+      .icon {
+        font-size: 1.2em;
+      }
+
+      @media (max-width: 768px) {
+        .main-content {
+          flex-direction: column;
+          text-align: center;
+          gap: 30px;
+        }
+
+        .header h1 {
+          font-size: 2em;
+        }
+
+        .button-container {
+          justify-content: center;
+        }
+
+        body {
+          padding: 20px 10px;
+        }
+      }
+
+      /* Subtle animations */
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .container {
+        animation: fadeInUp 0.8s ease-out;
       }
     </style>
   </head>
   <body>
-    <div class="main-container">
-      <img src="images/LeannePicture.jpg" alt="Leanne Ahern" width="200" />
-      <div>
+    <div class="container">
+      <header class="header">
         <h1>RAW: Rules As Written</h1>
-        <h2>
-          Evaluating LLM & RAG Based TTRPG Rule Assistants with a Focus on D&D
-          5e
-        </h2>
-        <h3>Created by: Leanne Ahern - 20108905</h3>
+        <p class="subtitle">Evaluating LLM & RAG Based TTRPG Rule Assistants with a Focus on D&D 5e</p>
+      </header>
 
-        <p>
-          The goal of this project is to investigate the use of Large Language
-          Models and Retrieval-Augmented Generation frameworks as a
-          rule-assistance tool for Tabletop Role-Playing Games (TTRPGs) with a
-          specific focus on Dungeons and Dragons 5th Edition.
-        </p>
+      <div class="main-content">
+        <div class="profile-section">
+          <img src="images/LeannePicture.jpg" alt="Leanne Ahern" class="profile-img" />
+          <div class="author-name">Leanne Ahern - 20108905</div>
+        </div>
 
-        <p>
-          It compares the accuracy, operational cost, and latency of a number of
-          AI models when answering a series of rules related queries regarding
-          the D&D 5e rules with gold standard responses as a source of truth.
-        </p>
+        <div class="content-section">
+          <div class="description">
+            <p>
+              The goal of this project is to investigate the use of Large Language
+              Models and Retrieval-Augmented Generation frameworks as a
+              rule-assistance tool for Tabletop Role-Playing Games (TTRPGs) with a
+              specific focus on Dungeons and Dragons 5th Edition.
+            </p>
 
-        <a href="https://github.com/your-username/your-repo-name" class="github-link" target="_blank">
-          📂 View Rules As Written Githun Repo
-        </a>
+            <p>
+              It compares the accuracy, operational cost, and latency of a number of
+              AI models when answering a series of rules related queries regarding
+              the D&D 5e rules with gold standard responses as a source of truth.
+            </p>
+          </div>
 
-        <a href="https://drive.google.com/file/d/12KTv_jzFi3SjRgAE_rCbkZWkJHSuerzr/view?usp=sharing class="github-link" target="_blank">
-          📄 View Rules As Written Final Report (PDF)
-        </a>
+          <div class="button-container">
+            <a href="https://github.com/OpinionatedHeron/RAW_DnD_Project" class="btn btn-primary" target="_blank">
+              <span class="icon">📂</span>
+              View on GitHub
+            </a>
+
+            <a href="https://drive.google.com/file/d/12KTv_jzFi3SjRgAE_rCbkZWkJHSuerzr/view?usp=sharing" class="btn btn-secondary" target="_blank">
+              <span class="icon">📄</span>
+              View Report (PDF)
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   </body>
